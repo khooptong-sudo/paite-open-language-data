@@ -2,6 +2,8 @@
 
 A working, owner-curated corpus for the Paite language (Tibeto-Burman, spoken in Manipur and Chin State). This is the neutral source of truth used by Levia, Claude, Codex, Kimi, and any future AI you point at it.
 
+Repo: https://github.com/khooptong-sudo/paite-corpus
+
 ## What lives here
 
 | File / folder | Contents |
