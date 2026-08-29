@@ -31,7 +31,8 @@
     "Do you love me?": "N'on it hia?",
     "Please check my email.": "Ka email hon en dih.",
     "This is a test.": "Tes tes lah ahi.",
-    "Good night for now.": "Mangpha phot le."
+    "Good night for now.": "Mangpha phot le.",
+    "I don't understand yet. Please teach me.": "Ka theisiam kei. Hon hilh ve."
   },
   "verified_words": {
     "new": "Thak",
@@ -23965,6 +23966,7 @@
     "Ka email hon en mah.": "Please check my email.",
     "Ka email hon en dih.": "Please check my email.",
     "Tes tes lah ahi.": "This is a test.",
-    "Mangpha phot le.": "Good night for now."
+    "Mangpha phot le.": "Good night for now.",
+    "Ka theisiam kei. Hon hilh ve.": "I don't understand yet. Please teach me."
   }
 }

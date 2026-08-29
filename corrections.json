@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_at": "2026-08-30T03:53:38+0530",
-    "updated_at": "2026-08-30T04:15:13+0530"
+    "updated_at": "2026-08-30T04:17:48+0530"
   },
   "corrections": [
     {
@@ -83,6 +83,14 @@
       "status": "verified",
       "added_at": "2026-08-30T04:15:13+0530",
       "updated_at": "2026-08-30T04:15:13+0530"
+    },
+    {
+      "paite": "Ka theisiam kei. Hon hilh ve.",
+      "english": "I don't understand yet. Please teach me.",
+      "notes": "Owner correction: 'kei' = don't (usual form); 'Hon hilh ve' = please teach me. Alternatives: Ka theisiam naikei / Hih hilh mah / Hon hilh chian ve/mah.",
+      "status": "verified",
+      "added_at": "2026-08-30T04:17:48+0530",
+      "updated_at": "2026-08-30T04:17:48+0530"
     }
   ]
 }
