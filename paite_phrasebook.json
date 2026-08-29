@@ -1,0 +1,65 @@
+{
+  "_note": "User-editable phrasebook for Paite replies. Fill in Paite translations. Verified examples from Wikipedia are included; greetings/courtesy phrases are placeholders until the owner confirms them.",
+  "greetings": {
+    "hello": "[Paite: hello -- please confirm]",
+    "good morning": "[Paite: good morning -- please confirm]",
+    "good evening": "[Paite: good evening -- please confirm]",
+    "how are you": "[Paite: how are you -- please confirm]"
+  },
+  "courtesy": {
+    "thank you": "[Paite: thank you -- please confirm]",
+    "please": "[Paite: please -- please confirm]",
+    "sorry": "[Paite: sorry -- please confirm]",
+    "goodbye": "[Paite: goodbye -- please confirm]"
+  },
+  "common": {
+    "yes": "[Paite: yes -- please confirm]",
+    "no": "[Paite: no -- please confirm]",
+    "ok": "[Paite: ok -- please confirm]",
+    "i will check": "[Paite: i will check -- please confirm]",
+    "i will reply soon": "[Paite: i will reply soon -- please confirm]",
+    "i do not understand": "[Paite: i do not understand -- please confirm]"
+  },
+  "verified_examples": {
+    "All human beings are born free and equal in dignity and rights.": "Mi tengteng zalen a piang ihi ua, zah-omna leh dikna tanvou ah kibangvek ihi.",
+    "They are endowed with reason and conscience.": "Sia leh pha theihna pilna nei a siam I hih ziak un.",
+    "Therefore, they should act towards one another in a spirit of brotherhood.": "I mihinpihte tungah unauna lungsim feltak I put ngai ahi.",
+    "What are we supposed to do with these?": "Hiai te bang chih didan a le?",
+    "Do you know me?": "Na hon thei hia?",
+    "I am well.": "Ka dam e.",
+    "What is the matter?": "Bang chi e?",
+    "Do you love me?": "N'on it hia?",
+    "Please check my email.": "Ka email hon en dih.",
+    "This is a test.": "Tes tes lah ahi."
+  },
+  "verified_words": {
+    "new": "Thak",
+    "spicy": "Thak",
+    "servant": "Sikha",
+    "ghost": "Sikha",
+    "love": "Ngaih",
+    "loud": "Ngaih",
+    "pot": "Bel",
+    "early": "Bel",
+    "pray": "Thum",
+    "three": "Thum",
+    "you (object)": "Na hon / N'on",
+    "love (verb)": "it",
+    "see / check": "en",
+    "I": "Ka",
+    "well / alive": "dam",
+    "what (matter)": "chi / chim",
+    "me (object)": "hon"
+  },
+  "verified_corrections": {
+    "Hiai te bang chih didan a le?": "What are we supposed to do with these?",
+    "Na hon thei hia?": "Do you know me?",
+    "Ka dam e.": "I am well.",
+    "Bang chi?": "What is the matter?",
+    "Bang chi e?": "What is the matter?",
+    "N'on it hia?": "Do you love me?",
+    "Ka email hon en mah.": "Please check my email.",
+    "Ka email hon en dih.": "Please check my email.",
+    "Tes tes lah ahi.": "This is a test."
+  }
+}
