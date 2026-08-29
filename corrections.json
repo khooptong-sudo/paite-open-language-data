@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "created_at": "2026-08-30T03:53:38+0530",
+    "updated_at": "2026-08-30T03:59:52+0530"
+  },
+  "corrections": [
+    {
+      "paite": "Hiai te bang chih didan a le?",
+      "english": "What are we supposed to do with these?",
+      "notes": "Conversational; owner corrected",
+      "status": "verified",
+      "added_at": "2026-08-30T03:53:38+0530",
+      "updated_at": "2026-08-30T03:53:38+0530"
+    },
+    {
+      "paite": "Na hon thei hia?",
+      "english": "Do you know me?",
+      "notes": "Object pronoun 'hon' = me",
+      "status": "verified",
+      "added_at": "2026-08-30T03:53:38+0530",
+      "updated_at": "2026-08-30T03:53:38+0530"
+    },
+    {
+      "paite": "Ka dam e.",
+      "english": "I am well.",
+      "notes": "Response to 'how are you'",
+      "status": "verified",
+      "added_at": "2026-08-30T03:53:38+0530",
+      "updated_at": "2026-08-30T03:53:38+0530"
+    },
+    {
+      "paite": "Bang chi?",
+      "english": "What is the matter?",
+      "notes": "Short form",
+      "status": "verified",
+      "added_at": "2026-08-30T03:53:38+0530",
+      "updated_at": "2026-08-30T03:53:38+0530"
+    },
+    {
+      "paite": "Bang chi e?",
+      "english": "What is the matter?",
+      "notes": "Longer form",
+      "status": "verified",
+      "added_at": "2026-08-30T03:53:38+0530",
+      "updated_at": "2026-08-30T03:53:38+0530"
+    },
+    {
+      "paite": "N'on it hia?",
+      "english": "Do you love me?",
+      "notes": "N'on / Na hon = you (object); it = love",
+      "status": "verified",
+      "added_at": "2026-08-30T03:53:39+0530",
+      "updated_at": "2026-08-30T03:53:39+0530"
+    },
+    {
+      "paite": "Ka email hon en mah.",
+      "english": "Please check my email.",
+      "notes": "Owner-preferred phrasing",
+      "status": "verified",
+      "added_at": "2026-08-30T03:53:39+0530",
+      "updated_at": "2026-08-30T03:53:39+0530"
+    },
+    {
+      "paite": "Ka email hon en dih.",
+      "english": "Please check my email.",
+      "notes": "Alternative phrasing",
+      "status": "verified",
+      "added_at": "2026-08-30T03:53:39+0530",
+      "updated_at": "2026-08-30T03:53:39+0530"
+    },
+    {
+      "paite": "Tes tes lah ahi.",
+      "english": "This is a test.",
+      "notes": "unit test",
+      "status": "verified",
+      "added_at": "2026-08-30T03:58:18+0530",
+      "updated_at": "2026-08-30T03:59:52+0530"
+    }
+  ]
+}
