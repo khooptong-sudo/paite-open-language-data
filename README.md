@@ -50,7 +50,7 @@ It is free. Students, researchers, developers, and anyone curious can download i
 <details>
 <summary><b>Can I help? I do not know about computers.</b></summary>
 
-Yes. If you speak Paite well, you can help more than any programmer. When you see a Paite sentence that is wrong, send the correct one. **[Fill in the Paite Correction form](https://forms.gle/dbAEPanWhszH8vK28)** with the wrong sentence, the correct sentence, and its meaning in English. It takes one minute on a phone, and you do not need an account. If you use GitHub, you can also use the [GitHub correction form](https://github.com/khooptong-sudo/paite-open-language-data/issues/new?template=correction.yml).
+Yes. If you speak Paite well, you can help more than any programmer. When you see a Paite sentence that is wrong, send the correct one. **Play [Paite Daily](https://khooptong-sudo.github.io/paite-open-language-data/daily/)**: translate one simple sentence a day, on your phone, with no account. To fix a wrong sentence you have seen, use the **[Paite Correction form](https://forms.gle/dbAEPanWhszH8vK28)** with the wrong sentence, the correct sentence, and its meaning in English. It takes one minute on a phone, and you do not need an account. If you use GitHub, you can also use the [GitHub correction form](https://github.com/khooptong-sudo/paite-open-language-data/issues/new?template=correction.yml).
 
 </details>
 
@@ -75,6 +75,7 @@ Everything is moving to phones and AI. A language with no digital text gets left
 | `grammar_notes.md` | Working notes on pronouns, verbs, and particles | Hypotheses, not a formal grammar |
 | `paite_phrasebook.json` | Combined lookup file that the Levia assistant uses | 21,324 dictionary entries, 573 hymns |
 | `eval/` | A small test of how well AI models know everyday Paite, with sentences checked by a native speaker | 16 sentences, growing |
+| `prompts/everyday_en.txt` | Simple everyday English sentences for speakers to translate (public domain). Used by Paite Daily and Levia's practice | 200+ sentences |
 | `scripts/` | The scripts that build `bible/laisiangthou/` and `training/` | |
 
 ## Training a model

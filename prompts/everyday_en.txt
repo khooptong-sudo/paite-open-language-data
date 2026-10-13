@@ -1,0 +1,199 @@
+# Simple everyday English sentences to translate into Paite.
+# One sentence per line. Lines starting with # are ignored.
+# Written for this project and released into the public domain (CC0).
+Good morning.
+How are you?
+I am fine, thank you.
+What is your name?
+My name is Lalmuan.
+Where are you going?
+I am going to the market.
+Have you eaten?
+I have already eaten.
+Come and eat with us.
+The rice is ready.
+Please give me some water.
+The tea is too hot.
+I want a cup of tea.
+This food is very tasty.
+I am hungry.
+I am not hungry yet.
+Who cooked this?
+My mother cooked it.
+We eat rice every day.
+It is raining today.
+The rain stopped this morning.
+It is very cold tonight.
+The sun is hot today.
+Bring your umbrella.
+The road is muddy after the rain.
+Wind is blowing from the hills.
+The sky is clear tonight.
+I can see the stars.
+It will rain tomorrow.
+Where do you live?
+I live in Lamka.
+My house is near the church.
+Our village is far from here.
+How far is the town?
+It takes one hour by bus.
+I came on my motorbike.
+The bus is late again.
+Wait for me here.
+I will come back soon.
+Let us go together.
+Do you have brothers and sisters?
+I have two brothers and one sister.
+My father is a farmer.
+My mother is a teacher.
+My grandmother tells good stories.
+The children are playing outside.
+The baby is sleeping.
+Please be quiet.
+My son goes to school.
+My daughter is studying in Imphal.
+Our family is big.
+Greet your parents for me.
+I miss my family.
+What time is it?
+It is eight o'clock.
+I wake up early every day.
+I go to bed late.
+See you tomorrow.
+See you on Sunday.
+I am busy today.
+I am free this evening.
+Come to my house this evening.
+The meeting starts at ten.
+We are late.
+Hurry up.
+Slow down.
+Sit down, please.
+Stand up.
+Open the door.
+Close the window.
+Turn off the light.
+I cannot find my phone.
+Call me tonight.
+My phone battery is dead.
+Send me a message.
+I did not hear you.
+Please say it again.
+Speak slowly, please.
+I understand a little.
+I do not understand.
+What does this word mean?
+How do you say this in Paite?
+I am learning Paite.
+Teach me one new word.
+That is correct.
+That is not correct.
+I think so.
+I do not know.
+Maybe tomorrow.
+Of course.
+No problem.
+Thank you very much.
+You are welcome.
+I am sorry.
+Excuse me.
+Forgive me.
+It does not matter.
+How much does this cost?
+It is too expensive.
+Give me a lower price.
+I will buy two.
+Do you have change?
+The shop is closed today.
+The market is crowded.
+I bought fish and vegetables.
+These oranges are sweet.
+I need some salt.
+Where is the hospital?
+I have a headache.
+My stomach hurts.
+I have a fever.
+Go and see the doctor.
+Take this medicine twice a day.
+Get well soon.
+I feel better now.
+Drink more water.
+Rest at home today.
+We go to church on Sunday.
+Let us pray.
+The choir sang beautifully.
+God bless you.
+Merry Christmas.
+Happy New Year.
+Happy birthday.
+Congratulations on your wedding.
+I am very happy today.
+I am tired.
+I am sad.
+Do not be afraid.
+Do not worry.
+Be careful.
+I love you.
+I am proud of you.
+You did very well.
+Try again.
+Help me, please.
+Can you help me?
+I will help you.
+Wait a moment.
+Who is that man?
+That is my friend.
+Whose bag is this?
+This bag is mine.
+Where did you put the key?
+The key is on the table.
+The dog is barking.
+The chickens are in the yard.
+The cat is sleeping on the chair.
+Water the plants.
+The flowers are blooming.
+We planted rice in the field.
+The harvest is good this year.
+The river is full after the rain.
+Let us walk to the river.
+Do not swim in the deep water.
+The children are going to school.
+Did you finish your homework?
+Read this book.
+Write your name here.
+Count from one to ten.
+The teacher is kind.
+School is closed tomorrow.
+I passed the exam.
+I failed the exam.
+Study hard.
+What are you doing?
+I am cooking.
+I am washing clothes.
+I am reading.
+I am working.
+I am resting.
+I am waiting for the bus.
+I am going home.
+Where are you now?
+I am at home.
+I am at the office.
+I will be there in ten minutes.
+Do not forget.
+I forgot.
+I remember now.
+Tell me the truth.
+I believe you.
+Keep it safe.
+Share it with your brother.
+Clean your room.
+Wash your hands before eating.
+The water is cold.
+Boil the water first.
+Light the fire.
+The fire went out.
+The electricity is off again.
+Charge your phone.
+The internet is slow today.
+Good night.
+Sleep well.
