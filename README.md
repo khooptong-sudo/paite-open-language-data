@@ -2,7 +2,9 @@
 
 Open text data for the Paite language, for research, language learning, and language technology.
 
-Paite (ISO 639-3: `pck`) is a Kuki-Chin language of the Tibeto-Burman family. Its speakers live mainly in Manipur and Mizoram (India) and in Chin State (Myanmar). Paite has very little digital text. This repository puts the text that we have in one place, in plain JSON and text files, so that any person can use it without a scraper.
+Paite (ISO 639-3: `pck`) is a Zomi language of the Tibeto-Burman branch of the Sino-Tibetan family. The Paite are a distinct tribe within the Zomi people, who live in Manipur and Mizoram (India), Myanmar, and the Chittagong Hill Tracts (Bangladesh). Paite is mutually intelligible with Tedim (Zopau) and the other Zomi languages. Some linguistic catalogues file this language group under a technical subgroup label. That label is linguistic, not ethnic. Paite has very little digital text.
+
+References: [Paite people](https://en.wikipedia.org/wiki/Paite_people), [Tedim language](https://en.wikipedia.org/wiki/Tedim_language), [Zomi identity among the Paite of Manipur (NEHU thesis)](https://dspace.nehu.ac.in/bitstreams/c81ef78a-e800-434a-8661-53b6b96006b5/download). This repository puts the text that we have in one place, in plain JSON and text files, so that any person can use it without a scraper.
 
 ## Contents
 
