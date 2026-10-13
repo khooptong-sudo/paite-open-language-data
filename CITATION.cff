@@ -6,9 +6,6 @@ abstract: "Paite-English dictionary, Bible verse pairs, hymn lyrics, and native-
 authors:
   - name: Lamka Labs
     alias: khooptong-sudo
-contributors:
-  - family-names: Samte
-    given-names: John
 repository-code: "https://github.com/khooptong-sudo/paite-open-language-data"
 license: CC-BY-4.0
 keywords:
@@ -19,4 +16,5 @@ keywords:
   - low-resource language
   - parallel corpus
   - dictionary
-date-released: 2026-10-13
+date-released: 2026-10-14
+version: 1.0.0
