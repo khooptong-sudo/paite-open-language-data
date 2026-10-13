@@ -6,7 +6,7 @@ Corrections from native Paite speakers make this data more useful than anything 
 
 | You have | Do this |
 |----------|---------|
-| A wrong or missing translation | Open an issue with the Paite text, the correct English, and a short note |
+| A wrong or missing translation | Fill in the [correction form](https://github.com/khooptong-sudo/paite-open-language-data/issues/new?template=correction.yml) |
 | Several corrections | Send a pull request that edits `corrections.json` |
 | A grammar observation | Send a pull request that edits `grammar_notes.md` |
 | A source of Paite text that you have the right to share | Open an issue that names the source and its licence |
