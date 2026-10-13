@@ -1,5 +1,7 @@
 # Paite Open Language Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23349155.svg)](https://doi.org/10.5281/zenodo.23349155)
+
 Open text data for the Paite language, ready for research, language learning, and training language models.
 
 Paite (ISO 639-3: `pck`) is a Zomi language of the Tibeto-Burman branch of the Sino-Tibetan family. The Paite are a distinct tribe within the Zomi people, who live in Manipur and Mizoram (India), Myanmar, and the Chittagong Hill Tracts (Bangladesh). Paite is mutually intelligible with Tedim (Zopau) and the other Zomi languages. Tedim, also called Tedim-Chin, is the form used mostly in Myanmar. Modern Paite is the common form in Manipur, Mizoram, and Bangladesh. The two differ in accent and in spoken and written forms, and this repository targets modern Paite. Some linguistic catalogues file this language group under a technical subgroup label. That label is linguistic, not ethnic.
@@ -174,4 +176,4 @@ Native speakers can help the most. See [CONTRIBUTING.md](CONTRIBUTING.md) to sen
 
 ## Citation
 
-If you use this data in a paper, cite it with the details in [CITATION.cff](CITATION.cff). GitHub shows a "Cite this repository" button for it.
+If you use this data in a paper, cite DOI [10.5281/zenodo.23349155](https://doi.org/10.5281/zenodo.23349155). It always points to the latest version. The details are also in [CITATION.cff](CITATION.cff). GitHub shows a "Cite this repository" button for it.

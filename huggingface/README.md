@@ -28,6 +28,8 @@ configs:
 
 # Paite Open Language Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23349155.svg)](https://doi.org/10.5281/zenodo.23349155)
+
 Training data for Paite (ISO 639-3: `pck`), a Zomi language of Manipur and Mizoram (India), Myanmar, and Bangladesh. This is the target language: modern Paite, not the Tedim (Tedim-Chin) style of older Bible text.
 
 Source data, scripts, and documentation: https://github.com/khooptong-sudo/paite-open-language-data
