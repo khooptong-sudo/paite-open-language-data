@@ -1,0 +1,44 @@
+name: Check data
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Every JSON file parses
+        run: |
+          python - <<'EOF'
+          import json, pathlib, sys
+          bad = []
+          for p in pathlib.Path(".").rglob("*.json"):
+              try: json.loads(p.read_text(encoding="utf-8"))
+              except Exception as e: bad.append(f"{p}: {e}")
+          for p in pathlib.Path(".").rglob("*.jsonl"):
+              for n, line in enumerate(p.read_text(encoding="utf-8").splitlines(), 1):
+                  if line.strip():
+                      try: json.loads(line)
+                      except Exception as e: bad.append(f"{p}:{n}: {e}")
+          print("\n".join(bad) or "all JSON valid")
+          sys.exit(1 if bad else 0)
+          EOF
+
+      - name: Script self-checks
+        run: |
+          python scripts/run_eval.py --self-check
+          python scripts/import_form_responses.py --self-check
+
+      - name: Training files are up to date
+        run: |
+          python scripts/build_training.py
+          git diff --exit-code --stat training/ || {
+            echo "::error::training/ is out of date. Run: python scripts/build_training.py and commit the result."
+            exit 1
+          }
