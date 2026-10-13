@@ -6,12 +6,12 @@ Corrections from native Paite speakers make this data more useful than anything 
 
 | You have | Do this |
 |----------|---------|
-| A wrong or missing translation | Fill in the [correction form](https://github.com/khooptong-sudo/paite-open-language-data/issues/new?template=correction.yml) |
+| A wrong or missing translation | Fill in the [Paite Correction form](https://forms.gle/dbAEPanWhszH8vK28) (no account needed) or the [GitHub correction form](https://github.com/khooptong-sudo/paite-open-language-data/issues/new?template=correction.yml) |
 | Several corrections | Send a pull request that edits `corrections.json` |
 | A grammar observation | Send a pull request that edits `grammar_notes.md` |
 | A source of Paite text that you have the right to share | Open an issue that names the source and its licence |
 
-You do not need to know git. An issue is enough.
+You do not need to know git. The Google Form is enough.
 
 ## Correction format
 
