@@ -3,7 +3,7 @@
   "upload_type": "dataset",
   "description": "<p>Open training data for Paite (ISO 639-3: pck), a Zomi language of Manipur and Mizoram (India), Myanmar, and Bangladesh: a complete Paite Bible aligned with the World English Bible, an English-Paite dictionary, hymn lyrics, native-speaker corrections, ready-to-train JSONL files with fixed splits, and an everyday-Paite benchmark for AI models.</p><p>Rights differ by part; see LICENSE in the repository.</p>",
   "creators": [
-    {"name": "khooptong-sudo"}
+    {"name": "Lamka Labs"}
   ],
   "contributors": [
     {"name": "Samte, John", "type": "DataCollector", "affiliation": "Laisiangthou Paite Bible app"}
