@@ -6,6 +6,7 @@ abstract: "Paite-English dictionary, Bible verse pairs, hymn lyrics, and native-
 authors:
   - name: Lamka Labs
     alias: khooptong-sudo
+doi: 10.5281/zenodo.23349155
 repository-code: "https://github.com/khooptong-sudo/paite-open-language-data"
 license: CC-BY-4.0
 keywords:
