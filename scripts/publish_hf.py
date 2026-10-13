@@ -13,7 +13,7 @@ from pathlib import Path
 from huggingface_hub import HfApi
 
 ROOT = Path(__file__).resolve().parents[1]
-REPO = sys.argv[1] if len(sys.argv) > 1 else "khooptong-sudo/paite-open-language-data"
+REPO = sys.argv[1] if len(sys.argv) > 1 else "LamkaLabs/paite-open-language-data"
 
 api = HfApi()
 api.create_repo(REPO, repo_type="dataset", exist_ok=True)

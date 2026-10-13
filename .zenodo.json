@@ -12,6 +12,6 @@
   "license": "cc-by-4.0",
   "language": "pck",
   "related_identifiers": [
-    {"identifier": "https://huggingface.co/datasets/khooptong-sudo/paite-open-language-data", "relation": "isIdenticalTo", "resource_type": "dataset"}
+    {"identifier": "https://huggingface.co/datasets/LamkaLabs/paite-open-language-data", "relation": "isIdenticalTo", "resource_type": "dataset"}
   ]
 }
