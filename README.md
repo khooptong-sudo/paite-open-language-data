@@ -77,7 +77,7 @@ print(len(pairs))  # 10471
 - Machine translation between Paite and English (the Bible pairs are sentence-aligned).
 - Dictionary lookup, spell checking, and keyboard word lists.
 - Language learning material and flash cards.
-- Linguistic research on Kuki-Chin morphology and particles.
+- Linguistic research on Zomi morphology and particles.
 - Evaluation sets for large language models on a low-resource language.
 
 ## Known limitations
