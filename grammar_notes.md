@@ -90,6 +90,7 @@ Older Bible text and AI models often write in the Tedim (Tedim-Chin) style. Mode
 
 - `mangpha` = good night, sweet dreams. `Mangpha phot le.` = Good night for now.
 - `mang` = dream; also lost.
+- `hon` vs `hong`: one letter changes the meaning. `Na hon thei hia?` = Do you know me? (`hon` = me, object). `Na hong thei hia?` = Can you open it? (`hong` = open). AI models confuse the two.
 - `pha` = good, in set greetings: `mangpha` (good night), `zingpha` (good morning). It is not the everyday word for "good" in other uses.
 
 ## Open questions
