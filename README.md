@@ -8,6 +8,57 @@ References: [Paite people](https://en.wikipedia.org/wiki/Paite_people), [Tedim l
 
 Paite has very little digital text. This repository puts the text that we have in one place, in plain JSON, so that any person can use it without a scraper.
 
+## New here? Start with these questions
+
+<details>
+<summary><b>What is this, in simple words?</b></summary>
+
+It is a free collection of Paite writing, kept in one place online. Computers learn a language by reading a very large amount of it. Paite has almost no text online, so apps like Google Translate and ChatGPT get it wrong. This collection gives computers Paite to learn from.
+
+</details>
+
+<details>
+<summary><b>Is this an app?</b></summary>
+
+No. It is the material that apps are built from. A developer can use it to make a Paite keyboard, a translator, a spell checker, or a grammar checker.
+
+</details>
+
+<details>
+<summary><b>What is inside?</b></summary>
+
+The complete Paite Bible, matched verse by verse with English. Also a dictionary of about 23,000 words, 573 hymns, and everyday sentences that native speakers checked.
+
+</details>
+
+<details>
+<summary><b>Why the Bible?</b></summary>
+
+It is the largest text that exists in both Paite and English, one verse at a time. Matched sentences in two languages are the best material to teach a computer to translate. The Paite text is the Laisiangthou translation by John Samte, used with his permission.
+
+</details>
+
+<details>
+<summary><b>Who owns it? Does it cost money?</b></summary>
+
+It is free. Students, researchers, developers, and anyone curious can download it. Some parts come from other people, and [LICENSE](LICENSE) gives the details.
+
+</details>
+
+<details>
+<summary><b>Can I help? I do not know about computers.</b></summary>
+
+Yes. If you speak Paite well, you can help more than any programmer. When you see a Paite sentence that is wrong, send the correct one. [Open an issue](https://github.com/khooptong-sudo/paite-open-language-data/issues/new) and write the wrong sentence, the correct sentence, and its meaning in English. You do not need to know anything else. To open an issue, you need a free GitHub account.
+
+</details>
+
+<details>
+<summary><b>Why does this matter?</b></summary>
+
+Everything is moving to phones and AI. A language with no digital text gets left behind, and the next generation types in another language. This work helps Paite keep up.
+
+</details>
+
 ## Contents
 
 | Path | Contents | Size |
