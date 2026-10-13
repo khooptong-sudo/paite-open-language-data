@@ -1,0 +1,42 @@
+name: Paite correction
+description: Send a wrong Paite sentence and the correct one.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Fill in what you know. Only the correct sentence and its meaning are required.
+  - type: input
+    id: incorrect
+    attributes:
+      label: Wrong sentence
+      description: The Paite sentence that is wrong, exactly as you saw or heard it. Leave empty if you only add a new sentence.
+      placeholder: Ka dam.
+  - type: input
+    id: paite
+    attributes:
+      label: Correct Paite sentence
+      placeholder: Ka dam e.
+    validations:
+      required: true
+  - type: input
+    id: english
+    attributes:
+      label: Meaning in English
+      placeholder: I am well.
+    validations:
+      required: true
+  - type: dropdown
+    id: register
+    attributes:
+      label: Spoken or written?
+      options:
+        - Both
+        - Spoken
+        - Written
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Context, dialect, politeness level, or anything else that helps.
