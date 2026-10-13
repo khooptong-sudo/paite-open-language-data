@@ -18,15 +18,25 @@ own terms.
    (github.com/khooptong-sudo/paite-open-language-data)" and state your changes.
    Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
 
+   This also covers the files in scripts/.
+
 2. Public domain
 
    - The English Bible text (World English Bible).
 
-3. Third-party text: NOT licensed by this repository
+3. Used with permission
 
-   - Paite Bible text (collected from etabetapi.com). Copyright of the
-     original Paite Bible publisher.
-   - Dictionary data in songs/Paite+English+Dictionary_1_1_4_apkcombo_com.json
+   - The Paite Bible text in bible/laisiangthou/ and the Bible rows in
+     training/. Source: the Laisiangthou app (v5.0.2) by John Samte
+     (https://github.com/johnsamte), who gave permission for its use in this
+     repository. Credit John Samte when you use this text. Ask him before any
+     commercial use.
+
+4. Third-party text: NOT licensed by this repository
+
+   - Paite Bible text in bible/legacy-etabetapi/ (collected from
+     etabetapi.com). Copyright of the original Paite Bible publisher.
+   - Dictionary data in dictionary/Paite+English+Dictionary_1_1_4_apkcombo_com.json
      and the "dictionary" key of paite_phrasebook.json. Copyright of the
      author of the "Paite English Dictionary" Android app.
    - Hymn lyrics and snippets in songs/Kristian+Labu_1_4_53_apkcombo_com.json,

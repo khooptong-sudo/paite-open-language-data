@@ -21,6 +21,8 @@ Add one object to the `corrections` list in `corrections.json`:
 {
   "paite": "Ka dam e.",
   "english": "I am well.",
+  "incorrect": "Ka dam.",
+  "register": "spoken",
   "notes": "Reply to 'how are you'",
   "status": "verified",
   "added_at": "2026-10-13T12:00:00+0530",
@@ -30,6 +32,9 @@ Add one object to the `corrections` list in `corrections.json`:
 
 - Set `status` to `verified` only if you are a fluent speaker and you are sure.
 - Set `status` to `unverified` if you are not sure. A second speaker can then confirm it.
+- `paite` is always the correct sentence.
+- Add `incorrect` when you correct a wrong sentence (from a person, an app, or an AI). Each such entry becomes one row in `training/grammar.jsonl`. These rows teach a model to correct grammar, so they are the most valuable contribution.
+- Set `register` to `spoken` or `written`. Leave it out if both are correct.
 - Use `notes` for dialect differences, politeness level, or context.
 - Use ISO 8601 timestamps with your time zone.
 
