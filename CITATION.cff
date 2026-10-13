@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Paite Open Language Data"
+abstract: "Paite-English dictionary, Bible verse pairs, hymn lyrics, and native-speaker corrections for the Paite language (ISO 639-3: pck)."
+authors:
+  - alias: khooptong-sudo
+repository-code: "https://github.com/khooptong-sudo/paite-open-language-data"
+license: CC-BY-4.0
+keywords:
+  - Paite
+  - pck
+  - Kuki-Chin
+  - Tibeto-Burman
+  - low-resource language
+  - parallel corpus
+  - dictionary
+date-released: 2026-10-13

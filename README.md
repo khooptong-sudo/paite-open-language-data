@@ -1,62 +1,110 @@
-# Paite Language Corpus
+# Paite Open Language Data
 
-A working, owner-curated corpus for the Paite language (Tibeto-Burman, spoken in Manipur and Chin State). This is the neutral source of truth used by Levia, Claude, Codex, Kimi, and any future AI you point at it.
+Open text data for the Paite language, for research, language learning, and language technology.
 
-Repo: https://github.com/khooptong-sudo/paite-corpus
+Paite (ISO 639-3: `pck`) is a Kuki-Chin language of the Tibeto-Burman family. Its speakers live mainly in Manipur and Mizoram (India) and in Chin State (Myanmar). Paite has very little digital text. This repository puts the text that we have in one place, in plain JSON and text files, so that any person can use it without a scraper.
 
-## What lives here
+## Contents
 
-| File / folder | Contents |
-|---------------|----------|
-| `paite_phrasebook.json` | Master lookup: dictionary (21k+ entries), verified examples, owner corrections, songs, corpus examples |
-| `parallel.txt` | Full English↔Paite Bible parallel text (66 books, 408 chapters, 10,471 verses) |
-| `songs/` | Extracted Paite hymn/song lyrics |
-| `[book]/` | One folder per Bible book (e.g. `Gen`, `Psa`, `Mat`) with tab-separated verse files |
-| `corrections.json` | Audit trail of every owner correction, with timestamps and notes |
+| Path | Contents | Size |
+|------|----------|------|
+| `paite_phrasebook.json` | Combined lookup file: dictionary, verified words and phrases, owner corrections, Bible examples, and hymn lyrics | 21,324 dictionary entries, 2,000 Bible examples, 573 hymns |
+| `parallel.txt` | Paite and English Bible verse pairs, one pair for each block | 10,471 verse pairs |
+| `<Book>/<chapter>.json` | The same Bible verses, one file for each chapter (for example `Gen/1.json`) | 22 books, 408 chapters |
+| `songs/Kristian+Labu_*.json` | Paite hymn lyrics with English titles and authors | 573 hymns |
+| `songs/Biakna+Labupi_*.json` | Text snippets from a Paite hymn app | 846 snippets |
+| `songs/Paite+English+Dictionary_*.json` | English to Paite dictionary with part of speech | 23,006 entries |
+| `corrections.json` | Audit trail of sentences that a native speaker checked and corrected | Grows over time |
+| `grammar_notes.md` | Working notes on pronouns, verbs, and particles | Hypotheses, not a formal grammar |
 
-## How to use it
+### Bible coverage
 
-### From Levia
+The Bible text covers 22 books: Genesis, Leviticus, Numbers, Nehemiah, Job, Isaiah, Jeremiah, Lamentations, Daniel, Hosea, Micah, Nahum, Habakkuk, Haggai, Malachi, Romans, Galatians, Ephesians, Colossians, Hebrews, James, and Revelation. The other books are not in this release.
 
-```powershell
-# Store a correction you just learned
-python -m levia --learn-paite "Na hon thei hia?" "Do you know me?"
+## File formats
 
-# Or through chat / Telegram
-"Levia, learn Paite: 'Ka dam e.' means 'I am well.'"
+**`parallel.txt`**: UTF-8 text. Each verse pair is two lines, then one blank line.
+
+```text
+PAITE: A tungin Pathianin lei leh van a siam.
+ENGLISH: In the beginning God ... created the heavens and the earth.
 ```
 
-### From Python
+**`<Book>/<chapter>.json`**: a list of verses.
+
+```json
+[{ "verse": 1, "paite": "A tungin Pathianin lei leh van a siam.", "english": "In the beginning God ..." }]
+```
+
+**`paite_phrasebook.json`**: one object. Each key holds a map of entries.
+
+| Key | Map from | Map to |
+|-----|----------|--------|
+| `dictionary` | English word or Paite word | Translation or definition |
+| `verified_words` | English word | Paite word, checked by a native speaker |
+| `verified_examples` | English sentence | Paite sentence, checked |
+| `verified_corrections` | Paite sentence | English meaning, checked |
+| `corpus_examples` | English Bible verse | Paite Bible verse |
+| `song_titles` | Hymn title | Paite lyrics |
+| `greetings`, `courtesy`, `common` | English phrase | Placeholder text. These entries are not filled in yet. |
+
+**`corrections.json`**: `{ "meta": {...}, "corrections": [ { "paite", "english", "notes", "status", "added_at", "updated_at" } ] }`. Only entries with `"status": "verified"` are checked.
+
+## Quick start
 
 ```python
-from levia.i18n.paite_feedback import add_correction, apply_corrections
+import json
 
-add_correction("Hiai te bang chih didan a le?", "What are you doing?")
-apply_corrections()
+with open("paite_phrasebook.json", encoding="utf-8") as f:
+    book = json.load(f)
+
+print(book["dictionary"]["language"])        # Pau, Ham, Kampau
+print(book["verified_corrections"]["Ka dam e."])  # I am well.
+
+pairs = []
+with open("parallel.txt", encoding="utf-8") as f:
+    for block in f.read().split("\n\n"):
+        lines = block.strip().splitlines()
+        if len(lines) == 2:
+            pairs.append((lines[0].removeprefix("PAITE: "), lines[1].removeprefix("ENGLISH: ")))
+print(len(pairs))  # 10471
 ```
 
-### From any AI assistant
+## Possible uses
 
-Paste the context block from `F:/Vault the Brain/The Brain/wiki/Paite Language Resources.md` into the chat. The assistant will then reference these files instead of guessing.
+- Machine translation between Paite and English (the Bible pairs are sentence-aligned).
+- Dictionary lookup, spell checking, and keyboard word lists.
+- Language learning material and flash cards.
+- Linguistic research on Kuki-Chin morphology and particles.
+- Evaluation sets for large language models on a low-resource language.
 
-## How corrections flow
+## Known limitations
 
-1. You give Levia a correction (CLI, chat, or Telegram).
-2. It is appended to `corrections.json` as an audit trail.
-3. Verified corrections are merged into `paite_phrasebook.json` under `verified_corrections`.
-4. Levia's translator checks `verified_corrections` first, before falling back to dictionary / corpus / LLM.
-5. The corrected phrasebook is immediately available to all AIs reading `F:/Resources/paite_corpus/`.
+- **Register.** Most sentences come from the Bible and hymns. Formal and religious language is over-represented. Everyday speech is rare.
+- **Footnotes in English verses.** Some English verses contain translator footnotes inside the sentence (for example, a note on the Hebrew word "Elohim"). Remove them before you train a model.
+- **Dictionary quality.** The dictionary comes from an app. Some entries contain typing errors or several meanings in one string.
+- **Two empty verses.** Two Bible verses have no English text.
+- **Grammar notes are hypotheses.** Each note marked with `?` is not confirmed.
 
-## Contributing rules
+## Sources and rights
 
-- Only add corrections you are sure about.
-- Use notes to mark uncertainty or dialect variation.
-- Keep `paite_phrasebook.json` as the runtime source and `corrections.json` as the audit trail.
-- If you turn this folder into a git repo, commit `corrections.json` and `paite_phrasebook.json` together.
+This repository mixes original work and third-party text. The licence is different for each part. Read [LICENSE](LICENSE) before you redistribute the data.
 
-## Sources
+| Part | Source | Rights |
+|------|--------|--------|
+| `corrections.json`, `grammar_notes.md`, `verified_*` entries, documentation | Maintainer and native-speaker contributors | CC BY 4.0 |
+| English Bible text | World English Bible | Public domain |
+| Paite Bible text | Collected from etabetapi.com | Copyright of the original Paite Bible publisher |
+| Dictionary | Extracted from the "Paite English Dictionary" Android app (v1.1.4) | Copyright of the app author |
+| Hymn lyrics | Extracted from the "Kristian Labu" (v1.4.53) and "Biakna Labupi" (v1.0.0) Android apps | Copyright of the hymn authors, translators, and app publishers |
+| UDHR example sentences | Universal Declaration of Human Rights, Paite translation | Public use permitted by the United Nations |
 
-- Paite + English Dictionary APK (23k entries)
-- Kristian Labu / Biakna Labupi song apps (1,400+ text snippets)
-- World English Bible ↔ Paite parallel text from etabetapi.com
-- Owner corrections and conversational examples
+The third-party text is included for non-commercial research and language preservation. We do not claim ownership of it. If you own any of this text and want it removed or credited differently, open an issue. We will respond quickly.
+
+## Contributing
+
+Native speakers can help the most. See [CONTRIBUTING.md](CONTRIBUTING.md) to send a correction, a new phrase, or a grammar note.
+
+## Citation
+
+If you use this data in a paper, cite it with the details in [CITATION.cff](CITATION.cff). GitHub shows a "Cite this repository" button for it.

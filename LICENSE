@@ -1,0 +1,45 @@
+Paite Open Language Data: licence and rights
+
+This repository contains original work and third-party text. Each part has its
+own terms.
+
+1. Original work: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+   Applies to:
+   - corrections.json
+   - grammar_notes.md
+   - the "verified_words", "verified_examples", and "verified_corrections"
+     entries in paite_phrasebook.json
+   - README.md, CONTRIBUTING.md, CITATION.cff, and this file
+   - the selection, arrangement, and file formats of the collection
+
+   You can copy, share, and adapt this work for any purpose, including
+   commercial use, if you give credit to "Paite Open Language Data
+   (github.com/khooptong-sudo/paite-open-language-data)" and state your changes.
+   Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+2. Public domain
+
+   - The English Bible text (World English Bible).
+
+3. Third-party text: NOT licensed by this repository
+
+   - Paite Bible text (collected from etabetapi.com). Copyright of the
+     original Paite Bible publisher.
+   - Dictionary data in songs/Paite+English+Dictionary_1_1_4_apkcombo_com.json
+     and the "dictionary" key of paite_phrasebook.json. Copyright of the
+     author of the "Paite English Dictionary" Android app.
+   - Hymn lyrics and snippets in songs/Kristian+Labu_1_4_53_apkcombo_com.json,
+     songs/Biakna+Labupi_1_0_0_apkcombo_com.json, and the "song_titles" key of
+     paite_phrasebook.json. Copyright of the hymn authors, translators, and
+     app publishers.
+
+   This text is included for non-commercial research, education, and language
+   preservation. The maintainer does not claim ownership of it and grants no
+   rights to it. You are responsible for your own use of it.
+
+   Rights holders: to request removal or a change of credit, open an issue at
+   https://github.com/khooptong-sudo/paite-open-language-data/issues
+
+THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING THE WARRANTIES OF ACCURACY AND FITNESS FOR A PARTICULAR PURPOSE.
