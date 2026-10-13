@@ -4,7 +4,11 @@ type: dataset
 title: "Paite Open Language Data"
 abstract: "Paite-English dictionary, Bible verse pairs, hymn lyrics, and native-speaker corrections for the Paite language (ISO 639-3: pck)."
 authors:
-  - alias: khooptong-sudo
+  - name: Lamka Labs
+    alias: khooptong-sudo
+contributors:
+  - family-names: Samte
+    given-names: John
 repository-code: "https://github.com/khooptong-sudo/paite-open-language-data"
 license: CC-BY-4.0
 keywords:
