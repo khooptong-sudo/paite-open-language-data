@@ -9,8 +9,8 @@
 {"id": "everyday-009", "paite": ["Mangpha phot le."], "english": ["Good night for now."]}
 {"id": "everyday-010", "paite": ["Ka theisiam kei. Hon hilh ve."], "english": ["I don't understand yet. Please teach me."]}
 {"id": "everyday-011", "paite": ["Paite pau na siam hia?"], "english": ["Do you know how to speak Paite?", "Can you speak Paite?"]}
-{"id": "everyday-012", "paite": ["Suang khat leilak ah ka mu."], "english": ["I see one rock on the ground.", "I see 1 rock on the ground."]}
-{"id": "everyday-013", "paite": ["Suang sawm leilak ah ka mu."], "english": ["I see ten rocks on the ground.", "I see 10 rocks on the ground."]}
-{"id": "everyday-014", "paite": ["Suang leilak ah ka mu."], "english": ["I see rocks on the ground."]}
-{"id": "everyday-015", "paite": ["Leilak ah suang ka mukei."], "english": ["I don't see any rocks on the ground."]}
-{"id": "everyday-016", "paite": ["Suang khat le ka mukei."], "english": ["I don't see even one rock."]}
+{"id": "everyday-012", "paite": ["Suang khat leilak ah ka mu.", "Suang khat lei-ah ka mu hi."], "english": ["I see one rock on the ground.", "I see 1 rock on the ground.", "I see one stone on the ground.", "I see 1 stone on the ground."]}
+{"id": "everyday-013", "paite": ["Suang sawm leilak ah ka mu."], "english": ["I see ten rocks on the ground.", "I see 10 rocks on the ground.", "I see ten stones on the ground.", "I see 10 stones on the ground."]}
+{"id": "everyday-014", "paite": ["Suang leilak ah ka mu."], "english": ["I see rocks on the ground.", "I see stones on the ground."]}
+{"id": "everyday-015", "paite": ["Leilak ah suang ka mukei."], "english": ["I don't see any rocks on the ground.", "I don't see any stones on the ground."]}
+{"id": "everyday-016", "paite": ["Suang khat le ka mukei."], "english": ["I don't see even one rock.", "I don't see even one stone."]}
