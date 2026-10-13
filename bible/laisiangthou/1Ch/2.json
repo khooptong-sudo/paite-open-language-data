@@ -2,226 +2,281 @@
   {
     "verse": 1,
     "paite": "Hiaite Israel tapate ahi uh: Reuben, Simeon, Levi, Judah, Issakar, Zebulun;",
-    "heading": "Israel Suante"
+    "heading": "Israel Suante",
+    "english": "These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,"
   },
   {
     "verse": 2,
-    "paite": "Dan, Joseph, Benjamin, Naphtali, Gad leh Asher."
+    "paite": "Dan, Joseph, Benjamin, Naphtali, Gad leh Asher.",
+    "english": "Dan, Joseph, Benjamin, Naphtali, Gad, and Asher."
   },
   {
     "verse": 3,
-    "paite": "Judah tapate: Er, Onan leh Shelah; huaite Shuah tanu Kanaan nu a kipan amah lak a piang thumte ahi uh. Huan TOUPA mitmuh in Judah ta masapen Er agi kei a; amah athat hi."
+    "paite": "Judah tapate: Er, Onan leh Shelah; huaite Shuah tanu Kanaan nu a kipan amah lak a piang thumte ahi uh. Huan TOUPA mitmuh in Judah ta masapen Er agi kei a; amah athat hi.",
+    "english": "The sons of Judah: Er, Onan, and Shelah, which three were born to him of Shua’s daughter the Canaanitess. Er, Judah’s firstborn, was wicked in Yahweh’s sight; and he killed him."
   },
   {
     "verse": 4,
-    "paite": "Huchi in Tamar atapa zi in Perez leh Zerah asuansak hi. Judah tapate tengteng nga ahi uh."
+    "paite": "Huchi in Tamar atapa zi in Perez leh Zerah asuansak hi. Judah tapate tengteng nga ahi uh.",
+    "english": "Tamar his daughter-in-law bore him Perez and Zerah. All the sons of Judah were five."
   },
   {
     "verse": 5,
-    "paite": "Perez tapate: Hezron leh Hamul ahi uh."
+    "paite": "Perez tapate: Hezron leh Hamul ahi uh.",
+    "english": "The sons of Perez: Hezron and Hamul."
   },
   {
     "verse": 6,
-    "paite": "Huan Zerah tapate: Zimri, Ethan, Heman, Kalkol leh Dara: avek un nga ahi uh."
+    "paite": "Huan Zerah tapate: Zimri, Ethan, Heman, Kalkol leh Dara: avek un nga ahi uh.",
+    "english": "The sons of Zerah: Zimri, Ethan, Heman, Calcol, and Dara—five of them in all."
   },
   {
     "verse": 7,
-    "paite": "Huan Karmi tapate: Akar, thil siangthou a talekpa, Israel hihbuaipa."
+    "paite": "Huan Karmi tapate: Akar, thil siangthou a talekpa, Israel hihbuaipa.",
+    "english": "The son of Carmi: Achar, the troubler of Israel, who committed a trespass in the devoted thing."
   },
   {
     "verse": 8,
-    "paite": "Huan Ethan tapa Azariah ahi."
+    "paite": "Huan Ethan tapa Azariah ahi.",
+    "english": "The son of Ethan: Azariah."
   },
   {
     "verse": 9,
     "paite": "Hezron, amah lak a piangte leng; Jerahmeel, Ram leh Kelubai.",
-    "heading": "Kumpipa David Khanggui"
+    "heading": "Kumpipa David Khanggui",
+    "english": "The sons also of Hezron, who were born to him: Jerahmeel, Ram, and Chelubai."
   },
   {
     "verse": 10,
-    "paite": "Huan Ram in Amminadab asuang a; Amminadab in Nahson, Judah suante lal asuang hi."
+    "paite": "Huan Ram in Amminadab asuang a; Amminadab in Nahson, Judah suante lal asuang hi.",
+    "english": "Ram became the father of Amminadab, and Amminadab became the father of Nahshon, prince of the children of Judah;"
   },
   {
     "verse": 11,
-    "paite": "Nahson in Salma asuang a, Salma in Boaz asuang;"
+    "paite": "Nahson in Salma asuang a, Salma in Boaz asuang;",
+    "english": "and Nahshon became the father of Salma, and Salma became the father of Boaz,"
   },
   {
     "verse": 12,
-    "paite": "Boaz in Obed asuang a, Obed in Jesse asuang hi."
+    "paite": "Boaz in Obed asuang a, Obed in Jesse asuang hi.",
+    "english": "and Boaz became the father of Obed, and Obed became the father of Jesse;"
   },
   {
     "verse": 13,
-    "paite": "Jesse in ata masapen Eliab, anihna Abinadab leh athumna Shimea asuang;"
+    "paite": "Jesse in ata masapen Eliab, anihna Abinadab leh athumna Shimea asuang;",
+    "english": "and Jesse became the father of his firstborn Eliab, Abinadab the second, Shimea the third,"
   },
   {
     "verse": 14,
-    "paite": "alina Nethaneel, angana Raddai;"
+    "paite": "alina Nethaneel, angana Raddai;",
+    "english": "Nethanel the fourth, Raddai the fifth,"
   },
   {
     "verse": 15,
-    "paite": "agukna Ozem, asagihna David."
+    "paite": "agukna Ozem, asagihna David.",
+    "english": "Ozem the sixth, and David the seventh;"
   },
   {
     "verse": 16,
-    "paite": "Huan asanggamnute uh Zeruiah leh Abigail ahi uh. Huchi in Zeruiah tapate: Abishai, Joab leh Asahel, thum ahi uh."
+    "paite": "Huan asanggamnute uh Zeruiah leh Abigail ahi uh. Huchi in Zeruiah tapate: Abishai, Joab leh Asahel, thum ahi uh.",
+    "english": "and their sisters were Zeruiah and Abigail. The sons of Zeruiah: Abishai, Joab, and Asahel, three."
   },
   {
     "verse": 17,
-    "paite": "Abigail in Amasa asuang a, huan Amasa pa Ishmael mi Jether ahi."
+    "paite": "Abigail in Amasa asuang a, huan Amasa pa Ishmael mi Jether ahi.",
+    "english": "Abigail bore Amasa; and the father of Amasa was Jether the Ishmaelite."
   },
   {
     "verse": 18,
     "paite": "Huan Jezron tapa Kaleb in Azubah azi leh Jerioth lak ah tate asuang a; hiaite atapate ahi: Jesher leh Shobab leh Ardon.",
-    "heading": "Hezron Suante"
+    "heading": "Hezron Suante",
+    "english": "Caleb the son of Hezron became the father of children by Azubah his wife, and by Jerioth; and these were her sons: Jesher, Shobab, and Ardon."
   },
   {
     "verse": 19,
-    "paite": "Azubah asi a, Kaleb in amah a ding in Ephrath api a, huai in Hur aneihsak hi."
+    "paite": "Azubah asi a, Kaleb in amah a ding in Ephrath api a, huai in Hur aneihsak hi.",
+    "english": "Azubah died, and Caleb married Ephrath, who bore him Hur."
   },
   {
     "verse": 20,
-    "paite": "Hur in Uri asuang a, Uri in Bezaleel asuang hi."
+    "paite": "Hur in Uri asuang a, Uri in Bezaleel asuang hi.",
+    "english": "Hur became the father of Uri, and Uri became the father of Bezalel."
   },
   {
     "verse": 21,
-    "paite": "Huai nung in Gilead pa Makir tanu kiang ah Hezron alut a; huai zi dia api lai in kum sawmguk a upa ahi; ama'n Segub asuansak hi."
+    "paite": "Huai nung in Gilead pa Makir tanu kiang ah Hezron alut a; huai zi dia api lai in kum sawmguk a upa ahi; ama'n Segub asuansak hi.",
+    "english": "Afterward Hezron went in to the daughter of Machir the father of Gilead, whom he took as wife when he was sixty years old; and she bore him Segub."
   },
   {
     "verse": 22,
-    "paite": "Segub in, Gilead gam a khopi sawmnih-le-thum nei Jair, asuansak hi."
+    "paite": "Segub in, Gilead gam a khopi sawmnih-le-thum nei Jair, asuansak hi.",
+    "english": "Segub became the father of Jair, who had twenty-three cities in the land of Gilead."
   },
   {
     "verse": 23,
-    "paite": "Ama'n amau a kipan Kenath leh huai a khoneite, khopi sawmguk toh Geshur, Aramin leh Jair khuate ala hi. Hiaite tengteng Gilead pa Makir tapate a ahi uh."
+    "paite": "Ama'n amau a kipan Kenath leh huai a khoneite, khopi sawmguk toh Geshur, Aramin leh Jair khuate ala hi. Hiaite tengteng Gilead pa Makir tapate a ahi uh.",
+    "english": "Geshur and Aram took the towns of Jair from them, with Kenath, and its villages, even sixty cities. All these were the sons of Machir the father of Gilead."
   },
   {
     "verse": 24,
-    "paite": "Huai nung in Kaleb-ephrathah ah Hezron asi a, huchi in Hezron zi Abia in Tekoa pa Ashur asuansak hi."
+    "paite": "Huai nung in Kaleb-ephrathah ah Hezron asi a, huchi in Hezron zi Abia in Tekoa pa Ashur asuansak hi.",
+    "english": "After Hezron died in Caleb Ephrathah, Abijah, Hezron’s wife, bore him Ashhur the father of Tekoa."
   },
   {
     "verse": 25,
     "paite": "Huan Hezron ta masapen Jerahmeel tapate: ata masapen Ram, Bunah, Oren, Ozem leh Ahijah ahi uh.",
-    "heading": "Jerahmeel Suante"
+    "heading": "Jerahmeel Suante",
+    "english": "The sons of Jerahmeel the firstborn of Hezron were Ram the firstborn, Bunah, Oren, Ozem, and Ahijah."
   },
   {
     "verse": 26,
-    "paite": "Jerahmeel in zi dang anei a, amin Atarah ahi; amah Onam nu ahi."
+    "paite": "Jerahmeel in zi dang anei a, amin Atarah ahi; amah Onam nu ahi.",
+    "english": "Jerahmeel had another wife, whose name was Atarah. She was the mother of Onam."
   },
   {
     "verse": 27,
-    "paite": "Jerahmeel ta masapen Ram tapate Maaz, Jamin leh Eker ahi uh."
+    "paite": "Jerahmeel ta masapen Ram tapate Maaz, Jamin leh Eker ahi uh.",
+    "english": "The sons of Ram the firstborn of Jerahmeel were Maaz, Jamin, and Eker."
   },
   {
     "verse": 28,
-    "paite": "Onam tapate: Shammai leh Jada ahi uh. Shammai tapate: Nadab leh Abishur ahi uhi."
+    "paite": "Onam tapate: Shammai leh Jada ahi uh. Shammai tapate: Nadab leh Abishur ahi uhi.",
+    "english": "The sons of Onam were Shammai and Jada. The sons of Shammai: Nadab and Abishur."
   },
   {
     "verse": 29,
-    "paite": "Abishur zi min Abihail ahi; ama'n Ahban leh Molid asuansak hi."
+    "paite": "Abishur zi min Abihail ahi; ama'n Ahban leh Molid asuansak hi.",
+    "english": "The name of the wife of Abishur was Abihail; and she bore him Ahban and Molid."
   },
   {
     "verse": 30,
-    "paite": "Nadab tapate: Seled leh Appaim ahi ua, Seled bel tate nei lou in asi hi."
+    "paite": "Nadab tapate: Seled leh Appaim ahi ua, Seled bel tate nei lou in asi hi.",
+    "english": "The sons of Nadab: Seled and Appaim; but Seled died without children."
   },
   {
     "verse": 31,
-    "paite": "Appaim tapa Ishi ahi. Ishi tapa Sheshan ahi. Sheshan tapa Ahlai ahi."
+    "paite": "Appaim tapa Ishi ahi. Ishi tapa Sheshan ahi. Sheshan tapa Ahlai ahi.",
+    "english": "The son of Appaim: Ishi. The son of Ishi: Sheshan. The son of Sheshan: Ahlai."
   },
   {
     "verse": 32,
-    "paite": "Huan Shammai unaupa Jada tapate: Jether leh Jonathan ahi ua; Jether ta nei lou in asi hi."
+    "paite": "Huan Shammai unaupa Jada tapate: Jether leh Jonathan ahi ua; Jether ta nei lou in asi hi.",
+    "english": "The sons of Jada the brother of Shammai: Jether and Jonathan; and Jether died without children."
   },
   {
     "verse": 33,
-    "paite": "Huan Jonathan tapate: Peleth, Zaza ahi uh. Hiaite Jerahmeel tapate ahi uh."
+    "paite": "Huan Jonathan tapate: Peleth, Zaza ahi uh. Hiaite Jerahmeel tapate ahi uh.",
+    "english": "The sons of Jonathan: Peleth and Zaza. These were the sons of Jerahmeel."
   },
   {
     "verse": 34,
-    "paite": "Huchi in Sheshan in, tanute chih louh, tapate anei kei hi. Huan Sheshan in Aigupta mi khat sikha anei a, amin Jarha ahi."
+    "paite": "Huchi in Sheshan in, tanute chih louh, tapate anei kei hi. Huan Sheshan in Aigupta mi khat sikha anei a, amin Jarha ahi.",
+    "english": "Now Sheshan had no sons, but only daughters. Sheshan had a servant, an Egyptian, whose name was Jarha."
   },
   {
     "verse": 35,
-    "paite": "Huan Sheshan in asikha Jarha kiang ah zi ding in atanu apia a; huchi in Attai aneihsak hi."
+    "paite": "Huan Sheshan in asikha Jarha kiang ah zi ding in atanu apia a; huchi in Attai aneihsak hi.",
+    "english": "Sheshan gave his daughter to Jarha his servant as wife; and she bore him Attai."
   },
   {
     "verse": 36,
-    "paite": "Huan Attai in Nathan asuang a, Nathan in Zabad asuang;"
+    "paite": "Huan Attai in Nathan asuang a, Nathan in Zabad asuang;",
+    "english": "Attai became the father of Nathan, and Nathan became the father of Zabad,"
   },
   {
     "verse": 37,
-    "paite": "Zabad in Ephlal asuang; Ephlal in Obed asuang;"
+    "paite": "Zabad in Ephlal asuang; Ephlal in Obed asuang;",
+    "english": "and Zabad became the father of Ephlal, and Ephlal became the father of Obed,"
   },
   {
     "verse": 38,
-    "paite": "Obed in Jehu asuang a, Jehu in Azariah asuang;"
+    "paite": "Obed in Jehu asuang a, Jehu in Azariah asuang;",
+    "english": "and Obed became the father of Jehu, and Jehu became the father of Azariah,"
   },
   {
     "verse": 39,
-    "paite": "Azariah in Helez asuang a, Helez in Eleasah asuang hi;"
+    "paite": "Azariah in Helez asuang a, Helez in Eleasah asuang hi;",
+    "english": "and Azariah became the father of Helez, and Helez became the father of Eleasah,"
   },
   {
     "verse": 40,
-    "paite": "Eleasah in Sisamai asuang a, Sisamai in Shallum asuang;"
+    "paite": "Eleasah in Sisamai asuang a, Sisamai in Shallum asuang;",
+    "english": "and Eleasah became the father of Sismai, and Sismai became the father of Shallum,"
   },
   {
     "verse": 41,
-    "paite": "Shallum in Jekamiah asuang a, Jekamiah in Elishama asuang hi."
+    "paite": "Shallum in Jekamiah asuang a, Jekamiah in Elishama asuang hi.",
+    "english": "and Shallum became the father of Jekamiah, and Jekamiah became the father of Elishama."
   },
   {
     "verse": 42,
     "paite": "Huchi in Jerahmeel unaupa Kaleb tapate: Ata masapen Mesha ahi a; amah Ziph pa ahi, huan Mareshah ahi a, amah Hebron pa ahi.",
-    "heading": "Kaleb Suante"
+    "heading": "Kaleb Suante",
+    "english": "The sons of Caleb the brother of Jerahmeel were Mesha his firstborn, who was the father of Ziph, and the sons of Mareshah the father of Hebron."
   },
   {
     "verse": 43,
-    "paite": "Huan Hebron tapate: Korah, Tappuah, Rekem, Shema ahi uh."
+    "paite": "Huan Hebron tapate: Korah, Tappuah, Rekem, Shema ahi uh.",
+    "english": "The sons of Hebron: Korah, Tappuah, Rekem, and Shema."
   },
   {
     "verse": 44,
-    "paite": "Shema in Raham, Jorkoam pa asuang; Rekem in Shammai asuang hi."
+    "paite": "Shema in Raham, Jorkoam pa asuang; Rekem in Shammai asuang hi.",
+    "english": "Shema became the father of Raham, the father of Jorkeam; and Rekem became the father of Shammai."
   },
   {
     "verse": 45,
-    "paite": "Huan Shammai tapa Maon ahi; Beth-zur pa Maon ahi."
+    "paite": "Huan Shammai tapa Maon ahi; Beth-zur pa Maon ahi.",
+    "english": "The son of Shammai was Maon; and Maon was the father of Beth Zur."
   },
   {
     "verse": 46,
-    "paite": "Ephah, Kaleb mei in, Haran, Moza leh Gazez asuang a: Haran in Gazez asuang hi."
+    "paite": "Ephah, Kaleb mei in, Haran, Moza leh Gazez asuang a: Haran in Gazez asuang hi.",
+    "english": "Ephah, Caleb’s concubine, bore Haran, Moza, and Gazez; and Haran became the father of Gazez."
   },
   {
     "verse": 47,
-    "paite": "Jahdai tapate: Regem, Jotham, Gesan, Pelet, Ephah leh Shaaph ahi uh."
+    "paite": "Jahdai tapate: Regem, Jotham, Gesan, Pelet, Ephah leh Shaaph ahi uh.",
+    "english": "The sons of Jahdai: Regem, Jothan, Geshan, Pelet, Ephah, and Shaaph."
   },
   {
     "verse": 48,
-    "paite": "Maakah, Kaleb mei in, Sheber leh Tirhanah anei a."
+    "paite": "Maakah, Kaleb mei in, Sheber leh Tirhanah anei a.",
+    "english": "Maacah, Caleb’s concubine, bore Sheber and Tirhanah."
   },
   {
     "verse": 49,
-    "paite": "Madmannah pa Shaaph, Makbenah pa leh Gibea pa Sheva anei a; Kaleb tanu Aksah ahi."
+    "paite": "Madmannah pa Shaaph, Makbenah pa leh Gibea pa Sheva anei a; Kaleb tanu Aksah ahi.",
+    "english": "She bore also Shaaph the father of Madmannah, Sheva the father of Machbena and the father of Gibea; and the daughter of Caleb was Achsah."
   },
   {
     "verse": 50,
-    "paite": "Hiaite Kaleb tapate ahi uh: Ephrathah ta masapen Hur tapa, Kiriath-jearim pa Shobal;"
+    "paite": "Hiaite Kaleb tapate ahi uh: Ephrathah ta masapen Hur tapa, Kiriath-jearim pa Shobal;",
+    "english": "These were the sons of Caleb, the son of Hur, the firstborn of Ephrathah: Shobal the father of Kiriath Jearim,"
   },
   {
     "verse": 51,
-    "paite": "Bethlehem pa Salma, Bethgader pa Hareph."
+    "paite": "Bethlehem pa Salma, Bethgader pa Hareph.",
+    "english": "Salma the father of Bethlehem, and Hareph the father of Beth Gader."
   },
   {
     "verse": 52,
-    "paite": "Kiriath-jearim pa Shobal in tapate anei a; Haroeh leh Menaheth kimkhatte ahi ua,"
+    "paite": "Kiriath-jearim pa Shobal in tapate anei a; Haroeh leh Menaheth kimkhatte ahi ua,",
+    "english": "Shobal the father of Kiriath Jearim had sons: Haroeh, half of the Menuhoth."
   },
   {
     "verse": 53,
-    "paite": "Kiriath-jearim inkote; Ithrit mite, Puthit mite, Shumathit mite, Misrai mite; Zareathit mite leh Eshtaol mite hong kipatna ahi."
+    "paite": "Kiriath-jearim inkote; Ithrit mite, Puthit mite, Shumathit mite, Misrai mite; Zareathit mite leh Eshtaol mite hong kipatna ahi.",
+    "english": "The families of Kiriath Jearim: the Ithrites, the Puthites, the Shumathites, and the Mishraites; from them came the Zorathites and the Eshtaolites."
   },
   {
     "verse": 54,
-    "paite": "Salma tapate: Bethlehem, Netophah mite, Joab inkuante Atroth-beth, Zorit mite, Manahathit mite kimkhatte ahi uh."
+    "paite": "Salma tapate: Bethlehem, Netophah mite, Joab inkuante Atroth-beth, Zorit mite, Manahathit mite kimkhatte ahi uh.",
+    "english": "The sons of Salma: Bethlehem, the Netophathites, Atroth Beth Joab, and half of the Manahathites, the Zorites."
   },
   {
     "verse": 55,
-    "paite": "Huan Jabez a teng laigelhmite inkote: Tirathit mite, Shimeathit mite, leh Sukathit mite. Hiaite Ken mi Rekab inkote pa, Hemath a kipan hong paite ahi uhi."
+    "paite": "Huan Jabez a teng laigelhmite inkote: Tirathit mite, Shimeathit mite, leh Sukathit mite. Hiaite Ken mi Rekab inkote pa, Hemath a kipan hong paite ahi uhi.",
+    "english": "The families of scribes who lived at Jabez: the Tirathites, the Shimeathites, and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab."
   }
 ]

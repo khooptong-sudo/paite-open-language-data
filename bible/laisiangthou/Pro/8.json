@@ -2,146 +2,182 @@
   {
     "verse": 1,
     "paite": "Pilna akikou in, theihsiamna in a-aw asuah kei maw?",
-    "heading": "Pilna Phatna"
+    "heading": "Pilna Phatna",
+    "english": "Doesn’t wisdom cry out? Doesn’t understanding raise her voice?"
   },
   {
     "verse": 2,
-    "paite": "Lampi a mun sangte tung ah, lampite kisutna ah adingh a;"
+    "paite": "Lampi a mun sangte tung ah, lampite kisutna ah adingh a;",
+    "english": "On the top of high places by the way, where the paths meet, she stands."
   },
   {
     "verse": 3,
-    "paite": "kongpite biang ah, khopi lutna ah, kongkhakte apailutna ah, nakpi in akikou hi."
+    "paite": "kongpite biang ah, khopi lutna ah, kongkhakte apailutna ah, nakpi in akikou hi.",
+    "english": "Beside the gates, at the entry of the city, at the entry doors, she cries aloud:"
   },
   {
     "verse": 4,
-    "paite": "Noute, aw mite, ka sam; huan ka aw mite tapa kiang ah ahi."
+    "paite": "Noute, aw mite, ka sam; huan ka aw mite tapa kiang ah ahi.",
+    "english": "“I call to you men! I send my voice to the sons of mankind."
   },
   {
     "verse": 5,
-    "paite": "Aw nou mimawlte, kivensiamna theisiam un; nou mihaite, lungtang theisiam nei un."
+    "paite": "Aw nou mimawlte, kivensiamna theisiam un; nou mihaite, lungtang theisiam nei un.",
+    "english": "You simple, understand prudence! You fools, be of an understanding heart!"
   },
   {
     "verse": 6,
-    "paite": "Za un, thil hoihpente gen ding ka hi ngal a; huan ka mukte honna thil dikte ahi ding hi."
+    "paite": "Za un, thil hoihpente gen ding ka hi ngal a; huan ka mukte honna thil dikte ahi ding hi.",
+    "english": "Hear, for I will speak excellent things. The opening of my lips is for right things."
   },
   {
     "verse": 7,
-    "paite": "Ka kam in thutak gen ding ahi ngal a; gitlouhna ka muk a ding in akihhuai hi."
+    "paite": "Ka kam in thutak gen ding ahi ngal a; gitlouhna ka muk a ding in akihhuai hi.",
+    "english": "For my mouth speaks truth. Wickedness is an abomination to my lips."
   },
   {
     "verse": 8,
-    "paite": "Ka kam a thute teng diktatna ah a-om; huaite ah bangmah diklou a-om kei hi."
+    "paite": "Ka kam a thute teng diktatna ah a-om; huaite ah bangmah diklou a-om kei hi.",
+    "english": "All the words of my mouth are in righteousness. There is nothing crooked or perverse in them."
   },
   {
     "verse": 9,
-    "paite": "Atheisiam kuapeuh a ding in akichian a, theihna mu amaute a ding in adik hi."
+    "paite": "Atheisiam kuapeuh a ding in akichian a, theihna mu amaute a ding in adik hi.",
+    "english": "They are all plain to him who understands, right to those who find knowledge."
   },
   {
     "verse": 10,
-    "paite": "Ka hilhna sang unla, dangka hilou in; dangka-eng hoihpen sang in theihna."
+    "paite": "Ka hilhna sang unla, dangka hilou in; dangka-eng hoihpen sang in theihna.",
+    "english": "Receive my instruction rather than silver, knowledge rather than choice gold."
   },
   {
     "verse": 11,
-    "paite": "Rubi suang sang in pilna ahoihzaw hi; huan deihhuai thilte tengteng huai toh tehpih theih ahi kei uh."
+    "paite": "Rubi suang sang in pilna ahoihzaw hi; huan deihhuai thilte tengteng huai toh tehpih theih ahi kei uh.",
+    "english": "For wisdom is better than rubies. All the things that may be desired can’t be compared to it."
   },
   {
     "verse": 12,
-    "paite": "Kei, pilna, kivensiamna toh ka tengkhawm a, theihna leh theihkakna ka mu hi."
+    "paite": "Kei, pilna, kivensiamna toh ka tengkhawm a, theihna leh theihkakna ka mu hi.",
+    "english": "“I, wisdom, have made prudence my dwelling. Find out knowledge and discretion."
   },
   {
     "verse": 13,
-    "paite": "TOUPA kihtak a gilou huat ding ahi; kisaktheihna leh, ki-otsakna, gilou lampi leh kam hoih lou, ka hua hi."
+    "paite": "TOUPA kihtak a gilou huat ding ahi; kisaktheihna leh, ki-otsakna, gilou lampi leh kam hoih lou, ka hua hi.",
+    "english": "The fear of Yahweh is to hate evil. I hate pride, arrogance, the evil way, and the perverse mouth."
   },
   {
     "verse": 14,
-    "paite": "Thupha kei a ahi, theihna hoih; theihsiamna leh hatna ka nei hi."
+    "paite": "Thupha kei a ahi, theihna hoih; theihsiamna leh hatna ka nei hi.",
+    "english": "Counsel and sound knowledge are mine. I have understanding and power."
   },
   {
     "verse": 15,
-    "paite": "Kei ziak in kumpipate'n vai ahawm ua, lalte'n dikna thu apia uh."
+    "paite": "Kei ziak in kumpipate'n vai ahawm ua, lalte'n dikna thu apia uh.",
+    "english": "By me kings reign, and princes decree justice."
   },
   {
     "verse": 16,
-    "paite": "Kei ziak in lalte'n vai ahawm ua, miliante leh lei a vaihawmte tengteng in."
+    "paite": "Kei ziak in lalte'n vai ahawm ua, miliante leh lei a vaihawmte tengteng in.",
+    "english": "By me princes rule, nobles, and all the righteous rulers of the earth."
   },
   {
     "verse": 17,
-    "paite": "Kei hon itte amau ka it a; kuapeuh hon zong in hon mu hi."
+    "paite": "Kei hon itte amau ka it a; kuapeuh hon zong in hon mu hi.",
+    "english": "I love those who love me. Those who seek me diligently will find me."
   },
   {
     "verse": 18,
-    "paite": "Hauhna leh zahna ka kiang ah a-om; ahi, sawt daih hauhna leh diktatna toh."
+    "paite": "Hauhna leh zahna ka kiang ah a-om; ahi, sawt daih hauhna leh diktatna toh.",
+    "english": "With me are riches, honor, enduring wealth, and prosperity."
   },
   {
     "verse": 19,
-    "paite": "Ka gah dangka-eng sang in ahoihzaw, ahi, dangka-eng hoih sang in; ka sum muhna dangka hoihpen sang in."
+    "paite": "Ka gah dangka-eng sang in ahoihzaw, ahi, dangka-eng hoih sang in; ka sum muhna dangka hoihpen sang in.",
+    "english": "My fruit is better than gold, yes, than fine gold, my yield than choice silver."
   },
   {
     "verse": 20,
-    "paite": "Diktatna lampi ka zui a, vaihawmna lampite lak ah."
+    "paite": "Diktatna lampi ka zui a, vaihawmna lampite lak ah.",
+    "english": "I walk in the way of righteousness, in the middle of the paths of justice,"
   },
   {
     "verse": 21,
-    "paite": "Kei hon itte van ka luahsak theih a, agoubawm uh ka dimsak theihna ding in."
+    "paite": "Kei hon itte van ka luahsak theih a, agoubawm uh ka dimsak theihna ding in.",
+    "english": "that I may give wealth to those who love me. I fill their treasuries."
   },
   {
     "verse": 22,
-    "paite": "Toupa'n alampi kipat tung in ahon nei a, nidang a athilhihte ma in."
+    "paite": "Toupa'n alampi kipat tung in ahon nei a, nidang a athilhihte ma in.",
+    "english": "“Yahweh possessed me in the beginning of his work, before his deeds of old."
   },
   {
     "verse": 23,
-    "paite": "Tangtawn a kipan, atung a kipan leh lei om ma a pan koihkip ka hi."
+    "paite": "Tangtawn a kipan, atung a kipan leh lei om ma a pan koihkip ka hi.",
+    "english": "I was set up from everlasting, from the beginning, before the earth existed."
   },
   {
     "verse": 24,
-    "paite": "Thuknate a-om louh lai in, lakkhiak in ka om a; luikhuk tui a dimte a-om louh lai un."
+    "paite": "Thuknate a-om louh lai in, lakkhiak in ka om a; luikhuk tui a dimte a-om louh lai un.",
+    "english": "When there were no depths, I was born, when there were no springs abounding with water."
   },
   {
     "verse": 25,
-    "paite": "Tangte a-omkip ma a, mualte om ma in lakkhiak in ka om."
+    "paite": "Tangte a-omkip ma a, mualte om ma in lakkhiak in ka om.",
+    "english": "Before the mountains were settled in place, before the hills, I was born;"
   },
   {
     "verse": 26,
-    "paite": "Lei leh gam bawlkhiak ahih ma in, leivui a khovel abawl nai louh lai in."
+    "paite": "Lei leh gam bawlkhiak ahih ma in, leivui a khovel abawl nai louh lai in.",
+    "english": "while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world."
   },
   {
     "verse": 27,
-    "paite": "Vante ahihkip lai in, huai ah ka om; tui thuk maikaih a tehna akoih lai in."
+    "paite": "Vante ahihkip lai in, huai ah ka om; tui thuk maikaih a tehna akoih lai in.",
+    "english": "When he established the heavens, I was there. When he set a circle on the surface of the deep,"
   },
   {
     "verse": 28,
-    "paite": "Tung a vante abawlkip lai in; tui thukte tuikhukte ahong hat lai un."
+    "paite": "Tung a vante abawlkip lai in; tui thukte tuikhukte ahong hat lai un.",
+    "english": "when he established the clouds above, when the springs of the deep became strong,"
   },
   {
     "verse": 29,
-    "paite": "Tuipi kiang a agi apiak lai in, huchi a tuite'n athupiak tung a atatleklouhna ding un; lei suangphumte achiamteh lai in."
+    "paite": "Tuipi kiang a agi apiak lai in, huchi a tuite'n athupiak tung a atatleklouhna ding un; lei suangphumte achiamteh lai in.",
+    "english": "when he gave to the sea its boundary, that the waters should not violate his commandment, when he marked out the foundations of the earth,"
   },
   {
     "verse": 30,
-    "paite": "Huai lai in akiang ah ka om, nasemmi heutu bang in; huan niteng in akipahna ka hi a, ama a kipak gige in;"
+    "paite": "Huai lai in akiang ah ka om, nasemmi heutu bang in; huan niteng in akipahna ka hi a, ama a kipak gige in;",
+    "english": "then I was the craftsman by his side. I was a delight day by day, always rejoicing before him,"
   },
   {
     "verse": 31,
-    "paite": "atentheihna lei ah; ka kipahna mite tapate kiang ah a-om hi."
+    "paite": "atentheihna lei ah; ka kipahna mite tapate kiang ah a-om hi.",
+    "english": "rejoicing in his whole world. My delight was with the sons of men."
   },
   {
     "verse": 32,
-    "paite": "Huaiziak in tu in, ka tapate, hon ngaikhia unla; ka lampite zui mite'n nuam asa ngal ua."
+    "paite": "Huaiziak in tu in, ka tapate, hon ngaikhia unla; ka lampite zui mite'n nuam asa ngal ua.",
+    "english": "“Now therefore, my sons, listen to me, for blessed are those who keep my ways."
   },
   {
     "verse": 33,
-    "paite": "Hilhna za in pil unla, nial kei un."
+    "paite": "Hilhna za in pil unla, nial kei un.",
+    "english": "Hear instruction, and be wise. Don’t refuse it."
   },
   {
     "verse": 34,
-    "paite": "Mi kei hon za in nuam asa hi, niteng a ka kongpi leh ka kongkhak khuamte a ngak in."
+    "paite": "Mi kei hon za in nuam asa hi, niteng a ka kongpi leh ka kongkhak khuamte a ngak in.",
+    "english": "Blessed is the man who hears me, watching daily at my gates, waiting at my door posts."
   },
   {
     "verse": 35,
-    "paite": "Kuapeuh hon mu in hinna amu ua, TOUPA deihsakna tang ding ahi uhi."
+    "paite": "Kuapeuh hon mu in hinna amu ua, TOUPA deihsakna tang ding ahi uhi.",
+    "english": "For whoever finds me finds life, and will obtain favor from Yahweh."
   },
   {
     "verse": 36,
-    "paite": "Himahleh kuapeuh ka tung a thil hihkhial in amah kha ahihdik kei hi; kei hon hote'n sihna a-it uhi."
+    "paite": "Himahleh kuapeuh ka tung a thil hihkhial in amah kha ahihdik kei hi; kei hon hote'n sihna a-it uhi.",
+    "english": "But he who sins against me wrongs his own soul. All those who hate me love death.”"
   }
 ]

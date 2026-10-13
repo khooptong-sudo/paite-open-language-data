@@ -2,246 +2,304 @@
   {
     "verse": 1,
     "paite": "Huai ni'n inn a kipan Jesu pakhia a, tuipi gei ah atu hi.",
-    "heading": "Buhchithehpa Gentehna Thu / (Mar 4.1-9; Luk 8.4-8)"
+    "heading": "Buhchithehpa Gentehna Thu / (Mar 4.1-9; Luk 8.4-8)",
+    "english": "On that day Jesus went out of the house and sat by the seaside."
   },
   {
     "verse": 2,
-    "paite": "Huan akiang ah mipi tampitak ahong kikhawm ua, huchi in long ah atuang a, atu a, mipi tengteng piautak ah adingh uhi."
+    "paite": "Huan akiang ah mipi tampitak ahong kikhawm ua, huchi in long ah atuang a, atu a, mipi tengteng piautak ah adingh uhi.",
+    "english": "Great multitudes gathered to him, so that he entered into a boat and sat; and all the multitude stood on the beach."
   },
   {
     "verse": 3,
-    "paite": "Gentehna in thu tampi akiang uah agen hi, \"Ngai dih ua, buhchithehpa buhchi theh in akuan hi."
+    "paite": "Gentehna in thu tampi akiang uah agen hi, \"Ngai dih ua, buhchithehpa buhchi theh in akuan hi.",
+    "english": "He spoke to them many things in parables, saying, “Behold, a farmer went out to sow."
   },
   {
     "verse": 4,
-    "paite": "Buhchi atheh lai in akhen lamsik ah akia a, vasate'n ane zou uhi."
+    "paite": "Buhchi atheh lai in akhen lamsik ah akia a, vasate'n ane zou uhi.",
+    "english": "As he sowed, some seeds fell by the roadside, and the birds came and devoured them."
   },
   {
     "verse": 5,
-    "paite": "Akhen suangsilei lak ah akia a, lei asah louh ziak in hong pou pah hi."
+    "paite": "Akhen suangsilei lak ah akia a, lei asah louh ziak in hong pou pah hi.",
+    "english": "Others fell on rocky ground, where they didn’t have much soil, and immediately they sprang up, because they had no depth of earth."
   },
   {
     "verse": 6,
-    "paite": "Himahleh ni asuah in haivuai in a-om a; zung aneih louh ziak in avuai maimah hi."
+    "paite": "Himahleh ni asuah in haivuai in a-om a; zung aneih louh ziak in avuai maimah hi.",
+    "english": "When the sun had risen, they were scorched. Because they had no root, they withered away."
   },
   {
     "verse": 7,
-    "paite": "Huan akhen loulingnei lak ah akia a, loupa hong pousang a; adepmangta hi."
+    "paite": "Huan akhen loulingnei lak ah akia a, loupa hong pousang a; adepmangta hi.",
+    "english": "Others fell among thorns. The thorns grew up and choked them."
   },
   {
     "verse": 8,
-    "paite": "Akhen lei hoih ah akia a, khenkhat aleh za, khenkhat aleh sawmguk, khenkhatte aleh sawmthum in hong gah uhi."
+    "paite": "Akhen lei hoih ah akia a, khenkhat aleh za, khenkhat aleh sawmguk, khenkhatte aleh sawmthum in hong gah uhi.",
+    "english": "Others fell on good soil and yielded fruit: some one hundred times as much, some sixty, and some thirty."
   },
   {
     "verse": 9,
-    "paite": "Kuapeuh bil nei in, za hen!\" achi hi."
+    "paite": "Kuapeuh bil nei in, za hen!\" achi hi.",
+    "english": "He who has ears to hear, let him hear.”"
   },
   {
     "verse": 10,
     "paite": "Huan nungzuite ahong pai ua, akiang ah, \"Bangziak a gentehna a thu gen na hia?\" achi uhi.",
-    "heading": "Gentehna Kizatna / (Mar 4.10-12; Luk 8.9,10)"
+    "heading": "Gentehna Kizatna / (Mar 4.10-12; Luk 8.9,10)",
+    "english": "The disciples came, and said to him, “Why do you speak to them in parables?”"
   },
   {
     "verse": 11,
-    "paite": "Ama'n adawng a akiang uah, \"Van lalgam thuguk noute theih phal ahi a, amau theih zaw phal ahi kei hi."
+    "paite": "Ama'n adawng a akiang uah, \"Van lalgam thuguk noute theih phal ahi a, amau theih zaw phal ahi kei hi.",
+    "english": "He answered them, “To you it is given to know the mysteries of the Kingdom of Heaven, but it is not given to them."
   },
   {
     "verse": 12,
-    "paite": "Kuapeuh anei piak behlap ahi ding a, ahau ding; kuapeuh anei lou aneihsun nangawn laksak ahi ding hi."
+    "paite": "Kuapeuh anei piak behlap ahi ding a, ahau ding; kuapeuh anei lou aneihsun nangawn laksak ahi ding hi.",
+    "english": "For whoever has, to him will be given, and he will have abundance; but whoever doesn’t have, from him will be taken away even that which he has."
   },
   {
     "verse": 13,
-    "paite": "Huchi ahih ziak in akiang uah gentehna in thu ka gen ahi; 'mu napi in amu kei nak ua, za napi in atheisiam kei nak uh.'"
+    "paite": "Huchi ahih ziak in akiang uah gentehna in thu ka gen ahi; 'mu napi in amu kei nak ua, za napi in atheisiam kei nak uh.'",
+    "english": "Therefore I speak to them in parables, because seeing they don’t see, and hearing, they don’t hear, neither do they understand."
   },
   {
     "verse": 14,
-    "paite": "Isai thugenkholh atung uah atung hi; 'Bil in zaw na za ding ua, theih bel na theisiam kei ding uh; muh zaw na mu ding ua, theih bel na thei kei ding uh."
+    "paite": "Isai thugenkholh atung uah atung hi; 'Bil in zaw na za ding ua, theih bel na theisiam kei ding uh; muh zaw na mu ding ua, theih bel na thei kei ding uh.",
+    "english": "In them the prophecy of Isaiah is fulfilled, which says, ‘By hearing you will hear, and will in no way understand; Seeing you will see, and will in no way perceive;"
   },
   {
     "verse": 15,
-    "paite": "Hiai chite lungtang ananggawpta, abilte uh angong a, amitsi ua, huchi lou in zaw amit un amu ding ua, abil un aza kha ding ua, alungtang un atheisiam ding ua, ahong kik nawn kha ding ua, amau ka na hihdam kha ding,' ana chi hi."
+    "paite": "Hiai chite lungtang ananggawpta, abilte uh angong a, amitsi ua, huchi lou in zaw amit un amu ding ua, abil un aza kha ding ua, alungtang un atheisiam ding ua, ahong kik nawn kha ding ua, amau ka na hihdam kha ding,' ana chi hi.",
+    "english": "for this people’s heart has grown callous, their ears are dull of hearing, and they have closed their eyes; or else perhaps they might perceive with their eyes, hear with their ears, understand with their heart, and would turn again, and I would heal them.’"
   },
   {
     "verse": 16,
-    "paite": "\"Nou mitte zaw ahampha hi, amuh ziak in; na bil uh leng ahampha hi, azak ziak in."
+    "paite": "\"Nou mitte zaw ahampha hi, amuh ziak in; na bil uh leng ahampha hi, azak ziak in.",
+    "english": "“But blessed are your eyes, for they see; and your ears, for they hear."
   },
   {
     "verse": 17,
-    "paite": "Chihtaktak in ka hon hilh ahi, zawlnei tampi leh midiktat tampi'n leng na thil muhte uh muh a-ut ua, himahleh amu kei uh; na thilzakte uh zak a-ut ua, himahleh aza kei uhi."
+    "paite": "Chihtaktak in ka hon hilh ahi, zawlnei tampi leh midiktat tampi'n leng na thil muhte uh muh a-ut ua, himahleh amu kei uh; na thilzakte uh zak a-ut ua, himahleh aza kei uhi.",
+    "english": "For most certainly I tell you that many prophets and righteous men desired to see the things which you see, and didn’t see them; and to hear the things which you hear, and didn’t hear them."
   },
   {
     "verse": 18,
     "paite": "\"Huaiziak in buhchithehpa gentehna thu za un.",
-    "heading": "Buhchithehpa Gentehna Hilhchetna / (Mar 4.13-20; Luk 8.11-15)"
+    "heading": "Buhchithehpa Gentehna Hilhchetna / (Mar 4.13-20; Luk 8.11-15)",
+    "english": "“Hear, then, the parable of the farmer."
   },
   {
     "verse": 19,
-    "paite": "Kuapeuh in lalgam thu bil a azak a, atheihsiam keileh migilou hong pai in, alungtang a thehsa alaksak nak hi. Huai tuh lamsik a theh ahi."
+    "paite": "Kuapeuh in lalgam thu bil a azak a, atheihsiam keileh migilou hong pai in, alungtang a thehsa alaksak nak hi. Huai tuh lamsik a theh ahi.",
+    "english": "When anyone hears the word of the Kingdom and doesn’t understand it, the evil one comes and snatches away that which has been sown in his heart. This is what was sown by the roadside."
   },
   {
     "verse": 20,
-    "paite": "Suangsilei a theh bel, thu za a kipaktak a pom bang ahi."
+    "paite": "Suangsilei a theh bel, thu za a kipaktak a pom bang ahi.",
+    "english": "What was sown on the rocky places, this is he who hears the word and immediately with joy receives it;"
   },
   {
     "verse": 21,
-    "paite": "Himahleh amah ah zung a-om kei a, sawt louchik kia a-om a, thu ziak a gimthuakna leh sawina ahong omtak in apuk pah hi."
+    "paite": "Himahleh amah ah zung a-om kei a, sawt louchik kia a-om a, thu ziak a gimthuakna leh sawina ahong omtak in apuk pah hi.",
+    "english": "yet he has no root in himself, but endures for a while. When oppression or persecution arises because of the word, immediately he stumbles."
   },
   {
     "verse": 22,
-    "paite": "Huan loulingnei lak a thehte tuh thu za a, himahleh khovel awlmohna leh hauhsakna khemna in thu adep a, gah lou in ahong om hi."
+    "paite": "Huan loulingnei lak a thehte tuh thu za a, himahleh khovel awlmohna leh hauhsakna khemna in thu adep a, gah lou in ahong om hi.",
+    "english": "What was sown among the thorns, this is he who hears the word, but the cares of this age and the deceitfulness of riches choke the word, and he becomes unfruitful."
   },
   {
     "verse": 23,
-    "paite": "Huan lei hoih tung a theh tuh thu bil a za a, theisiam ahi; huai tuh agah ngei a, khenkhat aleh za, khenkhat aleh sawmguk, khenkhat aleh sawmthum in apung,\" achi hi."
+    "paite": "Huan lei hoih tung a theh tuh thu bil a za a, theisiam ahi; huai tuh agah ngei a, khenkhat aleh za, khenkhat aleh sawmguk, khenkhat aleh sawmthum in apung,\" achi hi.",
+    "english": "What was sown on the good ground, this is he who hears the word and understands it, who most certainly bears fruit and produces, some one hundred times as much, some sixty, and some thirty.”"
   },
   {
     "verse": 24,
     "paite": "Akiang uah gentehna dang agen nawn a, \"Van lalgam tuh mi alou a chi hoih thehpa toh teh ahi.",
-    "heading": "Buhlem Gentehna"
+    "heading": "Buhlem Gentehna",
+    "english": "He set another parable before them, saying, “The Kingdom of Heaven is like a man who sowed good seed in his field,"
   },
   {
     "verse": 25,
-    "paite": "Himahleh mi a-ihmut kal in melma ahong pai a, buhlak ah buhlem atheh a, apaimang nawnta hi."
+    "paite": "Himahleh mi a-ihmut kal in melma ahong pai a, buhlak ah buhlem atheh a, apaimang nawnta hi.",
+    "english": "but while people slept, his enemy came and sowed darnel weeds also among the wheat, and went away."
   },
   {
     "verse": 26,
-    "paite": "Huan buh hong pou a, ahong vuih in, buhlem leng ahong kilang sam hi."
+    "paite": "Huan buh hong pou a, ahong vuih in, buhlem leng ahong kilang sam hi.",
+    "english": "But when the blade sprang up and produced grain, then the darnel weeds appeared also."
   },
   {
     "verse": 27,
-    "paite": "Huchi in inn neipa sikhate ahong pai ua, akiang ah, Pu, na lou a chi hoih theh lou na hi maw? Buhlemte koi a kipan a hong om ahia? achi uhi."
+    "paite": "Huchi in inn neipa sikhate ahong pai ua, akiang ah, Pu, na lou a chi hoih theh lou na hi maw? Buhlemte koi a kipan a hong om ahia? achi uhi.",
+    "english": "The servants of the householder came and said to him, ‘Sir, didn’t you sow good seed in your field? Where did these darnel weeds come from?’"
   },
   {
     "verse": 28,
-    "paite": "Ama'n akiang uah, melma in na theh ahi ve,\" achi hi. Sikhate'n akiang ah ahihleh huaite va lakhawm le ung hoih na sa hia? achi uhi."
+    "paite": "Ama'n akiang uah, melma in na theh ahi ve,\" achi hi. Sikhate'n akiang ah ahihleh huaite va lakhawm le ung hoih na sa hia? achi uhi.",
+    "english": "“He said to them, ‘An enemy has done this.’ “The servants asked him, ‘Do you want us to go and gather them up?’"
   },
   {
     "verse": 29,
-    "paite": "Ama'n bel, \"sa lou e, buhlem na lakkhawmna lam uah buhtak na botkhawm kha ding uh."
+    "paite": "Ama'n bel, \"sa lou e, buhlem na lakkhawmna lam uah buhtak na botkhawm kha ding uh.",
+    "english": "“But he said, ‘No, lest perhaps while you gather up the darnel weeds, you root up the wheat with them."
   },
   {
     "verse": 30,
-    "paite": "Buh lak dong in poukhawm uheh; buhlak hun chiang in buh atte kiang ah, buhlem lakhawm masa phot unla, hal ding in lomgak un; buhtak pen bel ka buh inn ah seklut un, ka chi ding,\" achi hi."
+    "paite": "Buh lak dong in poukhawm uheh; buhlak hun chiang in buh atte kiang ah, buhlem lakhawm masa phot unla, hal ding in lomgak un; buhtak pen bel ka buh inn ah seklut un, ka chi ding,\" achi hi.",
+    "english": "Let both grow together until the harvest, and in the harvest time I will tell the reapers, “First, gather up the darnel weeds, and bind them in bundles to burn them; but gather the wheat into my barn.”’”"
   },
   {
     "verse": 31,
     "paite": "Akiang uah gentehna dang agen nawn a, \"Van lalgam tuh mi'n ankam chi tang khat alak a, alou a atheh bang ahi.",
-    "heading": "Ankam Chi Gentehna / (Mar 4.30-32; Luk 13.18-19)"
+    "heading": "Ankam Chi Gentehna / (Mar 4.30-32; Luk 13.18-19)",
+    "english": "He set another parable before them, saying, “The Kingdom of Heaven is like a grain of mustard seed which a man took, and sowed in his field,"
   },
   {
     "verse": 32,
-    "paite": "Huai chi laklak ah aneupen a; himahleh ahong pousang chiang in loupa lak ah alianpen a, sing hong hi a, huchi in tungleng vasate ahong pai ua, ahiang ah agiak uh,\" achi hi."
+    "paite": "Huai chi laklak ah aneupen a; himahleh ahong pousang chiang in loupa lak ah alianpen a, sing hong hi a, huchi in tungleng vasate ahong pai ua, ahiang ah agiak uh,\" achi hi.",
+    "english": "which indeed is smaller than all seeds. But when it is grown, it is greater than the herbs and becomes a tree, so that the birds of the air come and lodge in its branches.”"
   },
   {
     "verse": 33,
     "paite": "Akiang uah gentehna dang agen nawn a, \"Van lalgam tuh numei in silngou anbuang tehna thum lak a abilh a, avek a athoh mateng aphum bang ahi,\" achi hi.",
-    "heading": "Silngou Gentehna / (Luk 13.20-21)"
+    "heading": "Silngou Gentehna / (Luk 13.20-21)",
+    "english": "He spoke another parable to them. “The Kingdom of Heaven is like yeast which a woman took and hid in three measures of meal, until it was all leavened.”"
   },
   {
     "verse": 34,
     "paite": "Jesu'n mipite kiang ah gentehna in huai tengteng agen a, gentehna lou in akiang uah bangmah agen kei hi.",
-    "heading": "Gentehna Zatna Ziak / (Mar 4.33-34)"
+    "heading": "Gentehna Zatna Ziak / (Mar 4.33-34)",
+    "english": "Jesus spoke all these things in parables to the multitudes; and without a parable, he didn’t speak to them,"
   },
   {
     "verse": 35,
-    "paite": "Zawlnei in, \"Gentehna in ka kam ka ka ding a, leilung pian tung a kipat thil kisel ka genkhe ding,\" chi a agen ahong tuntheihna ding in."
+    "paite": "Zawlnei in, \"Gentehna in ka kam ka ka ding a, leilung pian tung a kipat thil kisel ka genkhe ding,\" chi a agen ahong tuntheihna ding in.",
+    "english": "that it might be fulfilled which was spoken through the prophet, saying, “I will open my mouth in parables; I will utter things hidden from the foundation of the world.”"
   },
   {
     "verse": 36,
     "paite": "Huai lai in mipite apaisan a, inn ah alut a, nungzuite akiang ah ahong pai ua, \"Lou a buhlem gentehna thu hon hilhchian in,\" achi uhi.",
-    "heading": "Buhlem Gentehna Hilhchetna"
+    "heading": "Buhlem Gentehna Hilhchetna",
+    "english": "Then Jesus sent the multitudes away, and went into the house. His disciples came to him, saying, “Explain to us the parable of the darnel weeds of the field.”"
   },
   {
     "verse": 37,
-    "paite": "Ama'n adawng a, \"Chi hoih thehpa Mihing Tapa ahi a; lou bel khovel ahi."
+    "paite": "Ama'n adawng a, \"Chi hoih thehpa Mihing Tapa ahi a; lou bel khovel ahi.",
+    "english": "He answered them, “He who sows the good seed is the Son of Man,"
   },
   {
     "verse": 38,
-    "paite": "Chi hoihte gam tate ahi ua; buhlemte migilou tate ahi."
+    "paite": "Chi hoihte gam tate ahi ua; buhlemte migilou tate ahi.",
+    "english": "the field is the world, the good seeds are the children of the Kingdom, and the darnel weeds are the children of the evil one."
   },
   {
     "verse": 39,
-    "paite": "Melma buhlem thehpa diabol ahi a, buhlak hun khovel tawpna ding ahi; a-atte angelte ahi uhi."
+    "paite": "Melma buhlem thehpa diabol ahi a, buhlak hun khovel tawpna ding ahi; a-atte angelte ahi uhi.",
+    "english": "The enemy who sowed them is the devil. The harvest is the end of the age, and the reapers are angels."
   },
   {
     "verse": 40,
-    "paite": "Huchi in buhlemte alakhawm ua mei a ahal bang un khovel tawpna ah a-om ding hi."
+    "paite": "Huchi in buhlemte alakhawm ua mei a ahal bang un khovel tawpna ah a-om ding hi.",
+    "english": "As therefore the darnel weeds are gathered up and burned with fire; so will it be at the end of this age."
   },
   {
     "verse": 41,
-    "paite": "Mihing Tapa in angelte asawlkhe ding a, gam a kipan hihkhialsakte leh thil hihkhialte tengteng akhawmkhe ding uh."
+    "paite": "Mihing Tapa in angelte asawlkhe ding a, gam a kipan hihkhialsakte leh thil hihkhialte tengteng akhawmkhe ding uh.",
+    "english": "The Son of Man will send out his angels, and they will gather out of his Kingdom all things that cause stumbling and those who do iniquity,"
   },
   {
     "verse": 42,
-    "paite": "Amaute haltuina mei ah apai ding ua, huai lai ah kah leh hagawi a-om ding hi."
+    "paite": "Amaute haltuina mei ah apai ding ua, huai lai ah kah leh hagawi a-om ding hi.",
+    "english": "and will cast them into the furnace of fire. There will be weeping and gnashing of teeth."
   },
   {
     "verse": 43,
-    "paite": "Huai hun chiang in midiktatte a Pa uh gam ah ni bang in atang ding uhi. Zakna ding a bil nei peuh in za hen!"
+    "paite": "Huai hun chiang in midiktatte a Pa uh gam ah ni bang in atang ding uhi. Zakna ding a bil nei peuh in za hen!",
+    "english": "Then the righteous will shine like the sun in the Kingdom of their Father. He who has ears to hear, let him hear."
   },
   {
     "verse": 44,
     "paite": "\"Van lalgam tuh lou a gou phumguk bang ahi; mi'n huai mu in, asel nawn a, akipah ziak in aneih tengteng azuak a, huai lou aleita hi.",
-    "heading": "Gou Phumguk Gentehna"
+    "heading": "Gou Phumguk Gentehna",
+    "english": "“Again, the Kingdom of Heaven is like treasure hidden in the field, which a man found and hid. In his joy, he goes and sells all that he has and buys that field."
   },
   {
     "verse": 45,
     "paite": "\"Huan van-gam tuh sumsinmi tuikepsuang hoihtak zongmi bang ahi nawn hi.",
-    "heading": "Tuikepsuang Gentehna"
+    "heading": "Tuikepsuang Gentehna",
+    "english": "“Again, the Kingdom of Heaven is like a man who is a merchant seeking fine pearls,"
   },
   {
     "verse": 46,
-    "paite": "Huan ama'n tuikepsuang manphatak khat amu a, aneih tengteng zuak in aleita hi."
+    "paite": "Huan ama'n tuikepsuang manphatak khat amu a, aneih tengteng zuak in aleita hi.",
+    "english": "who having found one pearl of great price, he went and sold all that he had and bought it."
   },
   {
     "verse": 47,
     "paite": "\"Van lalgam tuh lenpi, tuipi a paih, chi chih tunkhawmna bang ahi nawn hi.",
-    "heading": "Lenpi Phumguk Gentehna"
+    "heading": "Lenpi Phumguk Gentehna",
+    "english": "“Again, the Kingdom of Heaven is like a dragnet that was cast into the sea and gathered some fish of every kind,"
   },
   {
     "verse": 48,
-    "paite": "Adimtak in agei ah akaikhia ua, atu ua, bawm ah ahoih teng alakhawm ua, ahoihloute apaih uh bang ahi."
+    "paite": "Adimtak in agei ah akaikhia ua, atu ua, bawm ah ahoih teng alakhawm ua, ahoihloute apaih uh bang ahi.",
+    "english": "which, when it was filled, fishermen drew up on the beach. They sat down and gathered the good into containers, but the bad they threw away."
   },
   {
     "verse": 49,
-    "paite": "Khovel tawp hun chiang in huchibang mah in a-om ding, angelte ahong pawt ding ua, midiktatte lak ah migiloute akhenkhe ding uh."
+    "paite": "Khovel tawp hun chiang in huchibang mah in a-om ding, angelte ahong pawt ding ua, midiktatte lak ah migiloute akhenkhe ding uh.",
+    "english": "So it will be in the end of the world. The angels will come and separate the wicked from among the righteous,"
   },
   {
     "verse": 50,
-    "paite": "Huchi in haltuina mei ah apai ding ua, huai ah kah leh hagawi a-om ding,\" achi hi."
+    "paite": "Huchi in haltuina mei ah apai ding ua, huai ah kah leh hagawi a-om ding,\" achi hi.",
+    "english": "and will cast them into the furnace of fire. There will be weeping and gnashing of teeth.”"
   },
   {
     "verse": 51,
     "paite": "Jesu mah in akiang uah, \"Huai tengteng na theisiam uhia?\" achi a, amau akiang ah, \"Thei e,” achi uhi.",
-    "heading": "Thil Lui Leh Thil Thak"
+    "heading": "Thil Lui Leh Thil Thak",
+    "english": "Jesus said to them, “Have you understood all these things?” They answered him, “Yes, Lord.”"
   },
   {
     "verse": 52,
-    "paite": "Huan ama'n akiang uah, \"Huaiziak in laigelhmi van-gam thuhilh a om peuhmah, inn neipa, agoubawm a kipan a thil thakte leh thil luite pholhkhepa bang ahi,\" achi hi."
+    "paite": "Huan ama'n akiang uah, \"Huaiziak in laigelhmi van-gam thuhilh a om peuhmah, inn neipa, agoubawm a kipan a thil thakte leh thil luite pholhkhepa bang ahi,\" achi hi.",
+    "english": "He said to them, “Therefore every scribe who has been made a disciple in the Kingdom of Heaven is like a man who is a householder, who brings out of his treasure new and old things.”"
   },
   {
     "verse": 53,
     "paite": "Huan hichi ahong hi a, Jesu'n huai gentehnate agen khit in huai a kipan apaita hi.",
-    "heading": "Nazaret Jesu Adeih Kei Uh / (Mar 6.1-6; Luk 4.16-30)"
+    "heading": "Nazaret Jesu Adeih Kei Uh / (Mar 6.1-6; Luk 4.16-30)",
+    "english": "When Jesus had finished these parables, he departed from there."
   },
   {
     "verse": 54,
-    "paite": "A-omna kholam atung a, asinagogte uah amaute thu ahilh a, huchi in lamdang asa mahmah ua, \"Hiai mi'n koi a kipan a hiai bang pilna leh hiai nasep thupi hihtheihnate amuh ahia?"
+    "paite": "A-omna kholam atung a, asinagogte uah amaute thu ahilh a, huchi in lamdang asa mahmah ua, \"Hiai mi'n koi a kipan a hiai bang pilna leh hiai nasep thupi hihtheihnate amuh ahia?",
+    "english": "Coming into his own country, he taught them in their synagogue, so that they were astonished and said, “Where did this man get this wisdom and these mighty works?"
   },
   {
     "verse": 55,
-    "paite": "Hiai mi singlem bawlpa tapa hilou hia? Anu Mari kichi hilou hia? A-unaute Jakob, Joseph, Simon, Judas kichite hilou uhia?"
+    "paite": "Hiai mi singlem bawlpa tapa hilou hia? Anu Mari kichi hilou hia? A-unaute Jakob, Joseph, Simon, Judas kichite hilou uhia?",
+    "english": "Isn’t this the carpenter’s son? Isn’t his mother called Mary, and his brothers James, Joses, Simon, and Judas?"
   },
   {
     "verse": 56,
-    "paite": "Hiai mi in koi a kipan a hiaite tengteng mu ahia? Asanggamnute leng i kiang ua om vek hilou uhia?\" achi uhi."
+    "paite": "Hiai mi in koi a kipan a hiaite tengteng mu ahia? Asanggamnute leng i kiang ua om vek hilou uhia?\" achi uhi.",
+    "english": "Aren’t all of his sisters with us? Where then did this man get all of these things?”"
   },
   {
     "verse": 57,
-    "paite": "Huchi in atung ah alungkim kei uhi. Himahleh Jesu'n akiang uah, \"Zawlnei ama kholam leh ama inn lam lou ngal ah pahtawi louh in a-om ngei kei,\" achi hi."
+    "paite": "Huchi in atung ah alungkim kei uhi. Himahleh Jesu'n akiang uah, \"Zawlnei ama kholam leh ama inn lam lou ngal ah pahtawi louh in a-om ngei kei,\" achi hi.",
+    "english": "They were offended by him. But Jesus said to them, “A prophet is not without honor, except in his own country and in his own house.”"
   },
   {
     "verse": 58,
-    "paite": "Agin louh ziak un huai ah nasep thupi dang tam ahih kei hi."
+    "paite": "Agin louh ziak un huai ah nasep thupi dang tam ahih kei hi.",
+    "english": "He didn’t do many mighty works there because of their unbelief."
   }
 ]

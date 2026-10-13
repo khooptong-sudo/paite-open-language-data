@@ -2,42 +2,52 @@
   {
     "verse": 1,
     "paite": "TOUPA aw, heh in hon sal ke'nla, thangpai in hon sawi sam ke'n.",
-    "heading": "Lapu Lian A Ding, David La: Kaihging Gui Nei A Sak Ding. Sheminith A Sak Ding. / Mangbat Hun A Panpihna Dia Thumna"
+    "heading": "Lapu Lian A Ding, David La: Kaihging Gui Nei A Sak Ding. Sheminith A Sak Ding. / Mangbat Hun A Panpihna Dia Thumna",
+    "english": "For the Chief Musician; on stringed instruments, upon the eight-stringed lyre. A Psalm by David. Yahweh, don’t rebuke me in your anger, neither discipline me in your wrath."
   },
   {
     "verse": 2,
-    "paite": "TOUPA aw, ka tung ah zahngai in, ka gimgawpta a; TOUPA aw, hon damsak in; ka guhte lah ana vekta ngal a;"
+    "paite": "TOUPA aw, ka tung ah zahngai in, ka gimgawpta a; TOUPA aw, hon damsak in; ka guhte lah ana vekta ngal a;",
+    "english": "Have mercy on me, Yahweh, for I am faint. Yahweh, heal me, for my bones are troubled."
   },
   {
     "verse": 3,
-    "paite": "Ka hinna leng nakpitak in hihmangbat in a-om hi; TOUPA aw, nang bang tan ahia na hon etsim ding?"
+    "paite": "Ka hinna leng nakpitak in hihmangbat in a-om hi; TOUPA aw, nang bang tan ahia na hon etsim ding?",
+    "english": "My soul is also in great anguish. But you, Yahweh—how long?"
   },
   {
     "verse": 4,
-    "paite": "TOUPA aw, hong kik nawn inla, ka hinna hondam in, na hoihna phatna ziak in hon hondam in."
+    "paite": "TOUPA aw, hong kik nawn inla, ka hinna hondam in, na hoihna phatna ziak in hon hondam in.",
+    "english": "Return, Yahweh. Deliver my soul, and save me for your loving kindness’ sake."
   },
   {
     "verse": 5,
-    "paite": "Sih nung in nang theihgigena a-om ngal kei a; Sheol ah kua'n ahia na tung a kipahthu gen ding?"
+    "paite": "Sih nung in nang theihgigena a-om ngal kei a; Sheol ah kua'n ahia na tung a kipahthu gen ding?",
+    "english": "For in death there is no memory of you. In Sheol, who shall give you thanks?"
   },
   {
     "verse": 6,
-    "paite": "Ka mauna lam ah ka bahta; zan teng in tui ah ka lupna ka kilamsak a; ka lupna ka khitui in ka kawtsak zel hi;"
+    "paite": "Ka mauna lam ah ka bahta; zan teng in tui ah ka lupna ka kilamsak a; ka lupna ka khitui in ka kawtsak zel hi;",
+    "english": "I am weary with my groaning. Every night I flood my bed. I drench my couch with my tears."
   },
   {
     "verse": 7,
-    "paite": "Lungkhamna ziak in ka mit ase hulhul a; hon doute ziak in ahong tek deuhdeuhta hi."
+    "paite": "Lungkhamna ziak in ka mit ase hulhul a; hon doute ziak in ahong tek deuhdeuhta hi.",
+    "english": "My eye wastes away because of grief. It grows old because of all my adversaries."
   },
   {
     "verse": 8,
-    "paite": "Nou, nna gilou sem tengteng aw, hon paisan vek un; TOUPA'N ka kah ging azata ngal a;"
+    "paite": "Nou, nna gilou sem tengteng aw, hon paisan vek un; TOUPA'N ka kah ging azata ngal a;",
+    "english": "Depart from me, all you workers of iniquity, for Yahweh has heard the voice of my weeping."
   },
   {
     "verse": 9,
-    "paite": "TOUPA'N hehpihna ka nget lah angaikheta a; TOUPA'N ka thumna akipahpih ding hi."
+    "paite": "TOUPA'N hehpihna ka nget lah angaikheta a; TOUPA'N ka thumna akipahpih ding hi.",
+    "english": "Yahweh has heard my supplication. Yahweh accepts my prayer."
   },
   {
     "verse": 10,
-    "paite": "Hon doute tengteng azahlak un amangbang mahmah ding ua; akik nawn ding ua, thakhat in ahong zahlak ding uhi."
+    "paite": "Hon doute tengteng azahlak un amangbang mahmah ding ua; akik nawn ding ua, thakhat in ahong zahlak ding uhi.",
+    "english": "May all my enemies be ashamed and dismayed. They shall turn back, they shall be disgraced suddenly."
   }
 ]

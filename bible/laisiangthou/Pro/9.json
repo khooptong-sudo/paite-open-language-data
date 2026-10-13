@@ -2,74 +2,92 @@
   {
     "verse": 1,
     "paite": "Pilna in a-inn alam khin a, akhuam sagihte aphut hi.",
-    "heading": "Pilna Leh Haina"
+    "heading": "Pilna Leh Haina",
+    "english": "Wisdom has built her house. She has carved out her seven pillars."
   },
   {
     "verse": 2,
-    "paite": "Agante agouta a; a-uain leng ahelta hi; adohkan leng abawl khinta hi."
+    "paite": "Agante agouta a; a-uain leng ahelta hi; adohkan leng abawl khinta hi.",
+    "english": "She has prepared her meat. She has mixed her wine. She has also set her table."
   },
   {
     "verse": 3,
-    "paite": "Anungakte asawlkheta a, khopi mun sang penpente tung ah akikou a,"
+    "paite": "Anungakte asawlkheta a, khopi mun sang penpente tung ah akikou a,",
+    "english": "She has sent out her maidens. She cries from the highest places of the city:"
   },
   {
     "verse": 4,
-    "paite": "mimawl peuhmah, hiai lam ah hong kihei hen; theihsiamna nei lou amah tungtang ahihleh, ama'n akiang ah,"
+    "paite": "mimawl peuhmah, hiai lam ah hong kihei hen; theihsiamna nei lou amah tungtang ahihleh, ama'n akiang ah,",
+    "english": "“Whoever is simple, let him turn in here!” As for him who is void of understanding, she says to him,"
   },
   {
     "verse": 5,
-    "paite": "\"Hong in, ka tanghou ne unla, ka helsa ka uain dawn un,\" achi hi."
+    "paite": "\"Hong in, ka tanghou ne unla, ka helsa ka uain dawn un,\" achi hi.",
+    "english": "“Come, eat some of my bread, Drink some of the wine which I have mixed!"
   },
   {
     "verse": 6,
-    "paite": "Paikhia unla, nou mimawlte, hing un; theihsiamna lampi ah pai un."
+    "paite": "Paikhia unla, nou mimawlte, hing un; theihsiamna lampi ah pai un.",
+    "english": "Leave your simple ways, and live. Walk in the way of understanding.”"
   },
   {
     "verse": 7,
-    "paite": "Musitmi bawlhoih in amah a ding in zumhuaina amu; huan kuapeuh migilou-salou in amah a ding in minsiatna amu."
+    "paite": "Musitmi bawlhoih in amah a ding in zumhuaina amu; huan kuapeuh migilou-salou in amah a ding in minsiatna amu.",
+    "english": "One who corrects a mocker invites insult. One who reproves a wicked man invites abuse."
   },
   {
     "verse": 8,
-    "paite": "Musitmi sal dah in, nang ahon ho kha ding; mipil sal in, huchi in nang ahon it ding."
+    "paite": "Musitmi sal dah in, nang ahon ho kha ding; mipil sal in, huchi in nang ahon it ding.",
+    "english": "Don’t reprove a scoffer, lest he hate you. Reprove a wise person, and he will love you."
   },
   {
     "verse": 9,
-    "paite": "Mipil kiang ah hilhna pe lechin, apilzaw lai ding a; midiktat sinsak in."
+    "paite": "Mipil kiang ah hilhna pe lechin, apilzaw lai ding a; midiktat sinsak in.",
+    "english": "Instruct a wise person, and he will be still wiser. Teach a righteous person, and he will increase in learning."
   },
   {
     "verse": 10,
-    "paite": "TOUPA kihtak pilna bul ahi; misiangthou theihna theihsiamna ahi."
+    "paite": "TOUPA kihtak pilna bul ahi; misiangthou theihna theihsiamna ahi.",
+    "english": "The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One is understanding."
   },
   {
     "verse": 11,
-    "paite": "Kei ziak in na nite lah hihtam ahi ding a, na damsung kumte hihpun ahi ding hi."
+    "paite": "Kei ziak in na nite lah hihtam ahi ding a, na damsung kumte hihpun ahi ding hi.",
+    "english": "For by me your days will be multiplied. The years of your life will be increased."
   },
   {
     "verse": 12,
-    "paite": "Na pilleh, nangmah a dia pil na hi. Huan mi na muhsitleh, nang kia in na po ding hi."
+    "paite": "Na pilleh, nangmah a dia pil na hi. Huan mi na muhsitleh, nang kia in na po ding hi.",
+    "english": "If you are wise, you are wise for yourself. If you mock, you alone will bear it."
   },
   {
     "verse": 13,
-    "paite": "Numei hai a-aphuai; mimawl ahi a, bangmah athei kei."
+    "paite": "Numei hai a-aphuai; mimawl ahi a, bangmah athei kei.",
+    "english": "The foolish woman is loud, undisciplined, and knows nothing."
   },
   {
     "verse": 14,
-    "paite": "Huan a-inn kongkhak ah atu a, khopi mun sangte atutphah tung ah,"
+    "paite": "Huan a-inn kongkhak ah atu a, khopi mun sangte atutphah tung ah,",
+    "english": "She sits at the door of her house, on a seat in the high places of the city,"
   },
   {
     "verse": 15,
-    "paite": "avialpaite sam ding, alampite ua pai zelte,"
+    "paite": "avialpaite sam ding, alampite ua pai zelte,",
+    "english": "to call to those who pass by, who go straight on their ways,"
   },
   {
     "verse": 16,
-    "paite": "mimawl kuapeuh, hiai lai ah hong kihei hen; huan amah theihsiamna nei lou tungtang ahihleh, ama'n akiang ah,"
+    "paite": "mimawl kuapeuh, hiai lai ah hong kihei hen; huan amah theihsiamna nei lou tungtang ahihleh, ama'n akiang ah,",
+    "english": "“Whoever is simple, let him turn in here.” As for him who is void of understanding, she says to him,"
   },
   {
     "verse": 17,
-    "paite": "tuigukte akhum a, aguk a tanghou nek anuam, achi hi."
+    "paite": "tuigukte akhum a, aguk a tanghou nek anuam, achi hi.",
+    "english": "“Stolen water is sweet. Food eaten in secret is pleasant.”"
   },
   {
     "verse": 18,
-    "paite": "Himahleh ama'n huai ah misite a-om uh chih leh amichialte Sheol thuk ah a-om uh chih athei kei hi."
+    "paite": "Himahleh ama'n huai ah misite a-om uh chih leh amichialte Sheol thuk ah a-om uh chih athei kei hi.",
+    "english": "But he doesn’t know that the departed spirits are there, that her guests are in the depths of Sheol."
   }
 ]

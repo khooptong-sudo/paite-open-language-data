@@ -2,330 +2,411 @@
   {
     "verse": 1,
     "paite": "Levi Tapate: Gershom, Kohath, Merari ahi uh.",
-    "heading": "Siampu Liante Inkuan Khangthu"
+    "heading": "Siampu Liante Inkuan Khangthu",
+    "english": "The sons of Levi: Gershon, Kohath, and Merari."
   },
   {
     "verse": 2,
-    "paite": "Huan Kohath tapate: Amram, Izhar, Hebron, Uzziel ahi uh."
+    "paite": "Huan Kohath tapate: Amram, Izhar, Hebron, Uzziel ahi uh.",
+    "english": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel."
   },
   {
     "verse": 3,
-    "paite": "Amram tate: Aaron, Mosi, Miriam ahi uh. Aaron tapate: Nadab leh Abihu, Eleazar leh Ithamar ahi uh."
+    "paite": "Amram tate: Aaron, Mosi, Miriam ahi uh. Aaron tapate: Nadab leh Abihu, Eleazar leh Ithamar ahi uh.",
+    "english": "The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar."
   },
   {
     "verse": 4,
-    "paite": "Eleazar in Phinehas asuang a, Phinehas in Abishua asuang;"
+    "paite": "Eleazar in Phinehas asuang a, Phinehas in Abishua asuang;",
+    "english": "Eleazar became the father of Phinehas, Phinehas became the father of Abishua,"
   },
   {
     "verse": 5,
-    "paite": "Abishua in Bukki asuang a, Bukki in Uzzi asuang;"
+    "paite": "Abishua in Bukki asuang a, Bukki in Uzzi asuang;",
+    "english": "Abishua became the father of Bukki. Bukki became the father of Uzzi."
   },
   {
     "verse": 6,
-    "paite": "Uzzi in Zerahiah asuang a, Zerahiah in Meraioth asuang;"
+    "paite": "Uzzi in Zerahiah asuang a, Zerahiah in Meraioth asuang;",
+    "english": "Uzzi became the father of Zerahiah. Zerahiah became the father of Meraioth."
   },
   {
     "verse": 7,
-    "paite": "Meraioth in Amariah asuang a, Amariah in Ahitub asuang;"
+    "paite": "Meraioth in Amariah asuang a, Amariah in Ahitub asuang;",
+    "english": "Meraioth became the father of Amariah. Amariah became the father of Ahitub."
   },
   {
     "verse": 8,
-    "paite": "Ahitub in Zadok asuang a, Zadok in Ahimaaz asuang;"
+    "paite": "Ahitub in Zadok asuang a, Zadok in Ahimaaz asuang;",
+    "english": "Ahitub became the father of Zadok. Zadok became the father of Ahimaaz."
   },
   {
     "verse": 9,
-    "paite": "Ahimaaz in Azariah asuang a, Azariah in Johanan asuang;"
+    "paite": "Ahimaaz in Azariah asuang a, Azariah in Johanan asuang;",
+    "english": "Ahimaaz became the father of Azariah. Azariah became the father of Johanan."
   },
   {
     "verse": 10,
-    "paite": "Johanan in Azariah asuang a, amah Jerusalem a Solomon inn lam lai siampu nasep sempa ahi:"
+    "paite": "Johanan in Azariah asuang a, amah Jerusalem a Solomon inn lam lai siampu nasep sempa ahi:",
+    "english": "Johanan became the father of Azariah, who executed the priest’s office in the house that Solomon built in Jerusalem."
   },
   {
     "verse": 11,
-    "paite": "Huan Azariah in Amariah asuang a, Amariah in Ahitub asuang;"
+    "paite": "Huan Azariah in Amariah asuang a, Amariah in Ahitub asuang;",
+    "english": "Azariah became the father of Amariah. Amariah became the father of Ahitub."
   },
   {
     "verse": 12,
-    "paite": "Ahitub in Zadok asuang a, Zadok in Shallum asuang;"
+    "paite": "Ahitub in Zadok asuang a, Zadok in Shallum asuang;",
+    "english": "Ahitub became the father of Zadok. Zadok became the father of Shallum."
   },
   {
     "verse": 13,
-    "paite": "Shallum in Hilkiah asuang a, Hilkiah in Azariah asuang;"
+    "paite": "Shallum in Hilkiah asuang a, Hilkiah in Azariah asuang;",
+    "english": "Shallum became the father of Hilkiah. Hilkiah became the father of Azariah."
   },
   {
     "verse": 14,
-    "paite": "Azariah in Seraiah asuang a, Seraiah in Jahozadak asuang;"
+    "paite": "Azariah in Seraiah asuang a, Seraiah in Jahozadak asuang;",
+    "english": "Azariah became the father of Seraiah. Seraiah became the father of Jehozadak."
   },
   {
     "verse": 15,
-    "paite": "TOUPA'N Nebukadnezzar khut a Judah leh Jerusalem apimang lai in saltanna lam ah Jahozadak apitel hi."
+    "paite": "TOUPA'N Nebukadnezzar khut a Judah leh Jerusalem apimang lai in saltanna lam ah Jahozadak apitel hi.",
+    "english": "Jehozadak went into captivity when Yahweh carried Judah and Jerusalem away by the hand of Nebuchadnezzar."
   },
   {
     "verse": 16,
     "paite": "Levi tapate: Gershom, Kahath leh Merari Jahozadak ahi uh.",
-    "heading": "Levi Suante"
+    "heading": "Levi Suante",
+    "english": "The sons of Levi: Gershom, Kohath, and Merari."
   },
   {
     "verse": 17,
-    "paite": "Hiaite Gershom tapate minte ahi uh: Libni leh Shimei."
+    "paite": "Hiaite Gershom tapate minte ahi uh: Libni leh Shimei.",
+    "english": "These are the names of the sons of Gershom: Libni and Shimei."
   },
   {
     "verse": 18,
-    "paite": "Kohath tapate: Amram, Ezhar, Hebron leh Uzziel ahi uh."
+    "paite": "Kohath tapate: Amram, Ezhar, Hebron leh Uzziel ahi uh.",
+    "english": "The sons of Kohath were Amram, Izhar, Hebron, and Uzziel."
   },
   {
     "verse": 19,
-    "paite": "Merari tapate: Mahli leh Mushi ahi uh. Hiaite apipute uh inkote dungzui in Levite inkuante ahi uh."
+    "paite": "Merari tapate: Mahli leh Mushi ahi uh. Hiaite apipute uh inkote dungzui in Levite inkuante ahi uh.",
+    "english": "The sons of Merari: Mahli and Mushi. These are the families of the Levites according to their fathers’ households."
   },
   {
     "verse": 20,
-    "paite": "Gershom a kipan: Atapa Libni, atapa Jahath, atapa Zimmah;"
+    "paite": "Gershom a kipan: Atapa Libni, atapa Jahath, atapa Zimmah;",
+    "english": "Of Gershom: Libni his son, Jahath his son, Zimmah his son,"
   },
   {
     "verse": 21,
-    "paite": "atapa Joah, atapa Iddo, atapa Zerah, atapa Jeatherai."
+    "paite": "atapa Joah, atapa Iddo, atapa Zerah, atapa Jeatherai.",
+    "english": "Joah his son, Iddo his son, Zerah his son, and Jeatherai his son."
   },
   {
     "verse": 22,
-    "paite": "Kohath tapate: Atapa Amminadab, atapa Korah, atapa Assir;"
+    "paite": "Kohath tapate: Atapa Amminadab, atapa Korah, atapa Assir;",
+    "english": "The sons of Kohath: Amminadab his son, Korah his son, Assir his son,"
   },
   {
     "verse": 23,
-    "paite": "atapa Elkanah, atapa Ebiasaph, atapa Assir;"
+    "paite": "atapa Elkanah, atapa Ebiasaph, atapa Assir;",
+    "english": "Elkanah his son, Ebiasaph his son, Assir his son,"
   },
   {
     "verse": 24,
-    "paite": "atapa Tahath, atapa Uriel, atapa Uzziah, atapa Shaul."
+    "paite": "atapa Tahath, atapa Uriel, atapa Uzziah, atapa Shaul.",
+    "english": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son."
   },
   {
     "verse": 25,
-    "paite": "Elkanah tapate: Amasai leh Ahimoth ahi a,"
+    "paite": "Elkanah tapate: Amasai leh Ahimoth ahi a,",
+    "english": "The sons of Elkanah: Amasai and Ahimoth."
   },
   {
     "verse": 26,
-    "paite": "atapa Elkanah, atapa Zophai, atapa Nahath,"
+    "paite": "atapa Elkanah, atapa Zophai, atapa Nahath,",
+    "english": "As for Elkanah, the sons of Elkanah: Zophai his son, Nahath his son,"
   },
   {
     "verse": 27,
-    "paite": "atapa Eliab, atapa Jeroham, atapa Elkanah."
+    "paite": "atapa Eliab, atapa Jeroham, atapa Elkanah.",
+    "english": "Eliab his son, Jeroham his son, and Elkanah his son."
   },
   {
     "verse": 28,
-    "paite": "Samuel tapate: Ata masapen Joel, azom Abiah ahi."
+    "paite": "Samuel tapate: Ata masapen Joel, azom Abiah ahi.",
+    "english": "The sons of Samuel: the firstborn, Joel, and the second, Abijah."
   },
   {
     "verse": 29,
-    "paite": "Merari tapate: Mahli, atapa Libni, atapa Shimei, atapa Uzzah;"
+    "paite": "Merari tapate: Mahli, atapa Libni, atapa Shimei, atapa Uzzah;",
+    "english": "The sons of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son,"
   },
   {
     "verse": 30,
-    "paite": "atapa Shimea, atapa Haggiah, leh atapa Asaiah."
+    "paite": "atapa Shimea, atapa Haggiah, leh atapa Asaiah.",
+    "english": "Shimea his son, Haggiah his son, Asaiah his son."
   },
   {
     "verse": 31,
     "paite": "Huan hiaite David in thukhun bawm akhawl nung a, TOUPA insung a la a nasepna tung a heutu a akoihte ahi uh.",
-    "heading": "Tempul A Tumging Tumte"
+    "heading": "Tempul A Tumging Tumte",
+    "english": "These are they whom David set over the service of song in Yahweh’s house after the ark came to rest there."
   },
   {
     "verse": 32,
-    "paite": "Jerusalem a Solomon in TOUPA' inn alam khit masiah, kihoupihna biakbuk ma ah la sa in nna asem uhi. Athupiak bang zel un anasepna uh ahih uhi."
+    "paite": "Jerusalem a Solomon in TOUPA' inn alam khit masiah, kihoupihna biakbuk ma ah la sa in nna asem uhi. Athupiak bang zel un anasepna uh ahih uhi.",
+    "english": "They ministered with song before the tabernacle of the Tent of Meeting until Solomon had built Yahweh’s house in Jerusalem. They performed the duties of their office according to their order."
   },
   {
     "verse": 33,
-    "paite": "Hiaite atapate toh nasemte ahi uhi. Kohath mite tapate ahihleh: Lasami Heman, Joel tapa, Samuel tapa;"
+    "paite": "Hiaite atapate toh nasemte ahi uhi. Kohath mite tapate ahihleh: Lasami Heman, Joel tapa, Samuel tapa;",
+    "english": "These are those who served, and their sons. Of the sons of the Kohathites: Heman the singer, the son of Joel, the son of Samuel,"
   },
   {
     "verse": 34,
-    "paite": "Elkanah tapa, Jeroham tapa, Eliel tapa, Toah tapa;"
+    "paite": "Elkanah tapa, Jeroham tapa, Eliel tapa, Toah tapa;",
+    "english": "the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,"
   },
   {
     "verse": 35,
-    "paite": "Zuph tapa, Elkanah tapa, Mahath tapa, Amasai tapa;"
+    "paite": "Zuph tapa, Elkanah tapa, Mahath tapa, Amasai tapa;",
+    "english": "the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,"
   },
   {
     "verse": 36,
-    "paite": "Elkanah tapa, Joel tapa, Azariah tapa, Zephaniah tapa;"
+    "paite": "Elkanah tapa, Joel tapa, Azariah tapa, Zephaniah tapa;",
+    "english": "the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,"
   },
   {
     "verse": 37,
-    "paite": "Tahath tapa, Assir tapa, Ebiasaph tapa, Korah tapa;"
+    "paite": "Tahath tapa, Assir tapa, Ebiasaph tapa, Korah tapa;",
+    "english": "the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,"
   },
   {
     "verse": 38,
-    "paite": "Ezhar tapa, Kohath tapa, Levi tapa, Israel tapa."
+    "paite": "Ezhar tapa, Kohath tapa, Levi tapa, Israel tapa.",
+    "english": "the son of Izhar, the son of Kohath, the son of Levi, the son of Israel."
   },
   {
     "verse": 39,
-    "paite": "A-unaupa Asaph, ataklam pang a dinghpa, Asaph Berekiah tapa mahmah, Shimea tapa;"
+    "paite": "A-unaupa Asaph, ataklam pang a dinghpa, Asaph Berekiah tapa mahmah, Shimea tapa;",
+    "english": "His brother Asaph, who stood on his right hand, even Asaph the son of Berechiah, the son of Shimea,"
   },
   {
     "verse": 40,
-    "paite": "Mikael tapa, Baaseiah tapa, Malkijah tapa;"
+    "paite": "Mikael tapa, Baaseiah tapa, Malkijah tapa;",
+    "english": "the son of Michael, the son of Baaseiah, the son of Malchijah,"
   },
   {
     "verse": 41,
-    "paite": "Ethni tapa, Zerah tapa, Adaiah tapa;"
+    "paite": "Ethni tapa, Zerah tapa, Adaiah tapa;",
+    "english": "the son of Ethni, the son of Zerah, the son of Adaiah,"
   },
   {
     "verse": 42,
-    "paite": "Ethan tapa, Zimmah tapa, Shimei tapa,"
+    "paite": "Ethan tapa, Zimmah tapa, Shimei tapa,",
+    "english": "the son of Ethan, the son of Zimmah, the son of Shimei,"
   },
   {
     "verse": 43,
-    "paite": "Jahath tapa, Gershom tapa, Levi tapa,"
+    "paite": "Jahath tapa, Gershom tapa, Levi tapa,",
+    "english": "the son of Jahath, the son of Gershom, the son of Levi."
   },
   {
     "verse": 44,
-    "paite": "akhut veilam ah a-unaute uh Merari tapate: Kishi tapa Etham, Malluk tapa Abdi;"
+    "paite": "akhut veilam ah a-unaute uh Merari tapate: Kishi tapa Etham, Malluk tapa Abdi;",
+    "english": "On the left hand their brothers the sons of Merari: Ethan the son of Kishi, the son of Abdi, the son of Malluch,"
   },
   {
     "verse": 45,
-    "paite": "Hashabiah tapa, Amaziah tapa, Hilkiah tapa;"
+    "paite": "Hashabiah tapa, Amaziah tapa, Hilkiah tapa;",
+    "english": "the son of Hashabiah, the son of Amaziah, the son of Hilkiah,"
   },
   {
     "verse": 46,
-    "paite": "Amzi tapa, Bani tapa, Shamer tapa;"
+    "paite": "Amzi tapa, Bani tapa, Shamer tapa;",
+    "english": "the son of Amzi, the son of Bani, the son of Shemer,"
   },
   {
     "verse": 47,
-    "paite": "Mahli tapa, Mushi tapa, Merari tapa, Levi tapa."
+    "paite": "Mahli tapa, Mushi tapa, Merari tapa, Levi tapa.",
+    "english": "the son of Mahli, the son of Mushi, the son of Merari, the son of Levi."
   },
   {
     "verse": 48,
-    "paite": "A-unaute uh Levi mite Pathian inn biakbuk a nasepna tengteng a ding a aseh ahi uhi."
+    "paite": "A-unaute uh Levi mite Pathian inn biakbuk a nasepna tengteng a ding a aseh ahi uhi.",
+    "english": "Their brothers the Levites were appointed for all the service of the tabernacle of God’s house."
   },
   {
     "verse": 49,
     "paite": "Himahleh Aaron leh atapate'n halmang maitam tung ah, gimlim maitam tung ah, Mun Siangthoupen a nasepna tengteng a ding in alan uh; Pathian sikha Mosi thupiak tengteng bang a, Israel a ding a tatna bawl ding in.",
-    "heading": "Aaron Suante"
+    "heading": "Aaron Suante",
+    "english": "But Aaron and his sons offered on the altar of burnt offering, and on the altar of incense, for all the work of the most holy place, and to make atonement for Israel, according to all that Moses the servant of God had commanded."
   },
   {
     "verse": 50,
-    "paite": "Huan hiaite Aaron tapate ahi uh: atapa Eleazar, tapa Phinehas, atapa, Abishua;"
+    "paite": "Huan hiaite Aaron tapate ahi uh: atapa Eleazar, tapa Phinehas, atapa, Abishua;",
+    "english": "These are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,"
   },
   {
     "verse": 51,
-    "paite": "atapa Bukki, atapa Uzzi, atapa Zerahiah;"
+    "paite": "atapa Bukki, atapa Uzzi, atapa Zerahiah;",
+    "english": "Bukki his son, Uzzi his son, Zerahiah his son,"
   },
   {
     "verse": 52,
-    "paite": "atapa Meraioth, atapa Amariah, atapa Ahitub;"
+    "paite": "atapa Meraioth, atapa Amariah, atapa Ahitub;",
+    "english": "Meraioth his son, Amariah his son, Ahitub his son,"
   },
   {
     "verse": 53,
-    "paite": "atapa Zadok, atapa Ahimaaz ahi."
+    "paite": "atapa Zadok, atapa Ahimaaz ahi.",
+    "english": "Zadok his son, and Ahimaaz his son."
   },
   {
     "verse": 54,
     "paite": "Huchi in hiaite agamgite ua apuanin kaihnate uh dungzui a atenna uh ahi: Aaron tapate kiang ah, Kohath mite inkote a, amau mun ding a ai san a piak masakpen ahi.",
-    "heading": "Levite Tenna Mun"
+    "heading": "Levite Tenna Mun",
+    "english": "Now these are their dwelling places according to their encampments in their borders: to the sons of Aaron, of the families of the Kohathites (for theirs was the first lot),"
   },
   {
     "verse": 55,
-    "paite": "Amau kiang ah Judah gam ah Hebron leh akimvel a gantatna ding gamte toh apia uhi;"
+    "paite": "Amau kiang ah Judah gam ah Hebron leh akimvel a gantatna ding gamte toh apia uhi;",
+    "english": "to them they gave Hebron in the land of Judah, and its pasture lands around it;"
   },
   {
     "verse": 56,
-    "paite": "Himahleh huai a khopi munte leh khotate, Jephunneh tapa Kaleb kiang ah apia uhi."
+    "paite": "Himahleh huai a khopi munte leh khotate, Jephunneh tapa Kaleb kiang ah apia uhi.",
+    "english": "but the fields of the city and its villages, they gave to Caleb the son of Jephunneh."
   },
   {
     "verse": 57,
-    "paite": "Aaron tapate kiang ah kihumbitna khopite apia uh, Hebron; Libna leh akimvel a gantatna ding gamte toh, Jattir, Eshtemoa leh akimvel a gantatna ding gamte toh;"
+    "paite": "Aaron tapate kiang ah kihumbitna khopite apia uh, Hebron; Libna leh akimvel a gantatna ding gamte toh, Jattir, Eshtemoa leh akimvel a gantatna ding gamte toh;",
+    "english": "To the sons of Aaron they gave the cities of refuge, Hebron, Libnah also with its pasture lands, Jattir, Eshtemoa with its pasture lands,"
   },
   {
     "verse": 58,
-    "paite": "Hilen leh akimvel a gantatna ding gamte toh, Debir leh akimvel a gantatna ding gamte toh;"
+    "paite": "Hilen leh akimvel a gantatna ding gamte toh, Debir leh akimvel a gantatna ding gamte toh;",
+    "english": "Hilen with its pasture lands, Debir with its pasture lands,"
   },
   {
     "verse": 59,
-    "paite": "Ashan leh akimvel a gantatna ding gamte toh, Beth-shemesh leh akimvel a gantatna ding gamte toh."
+    "paite": "Ashan leh akimvel a gantatna ding gamte toh, Beth-shemesh leh akimvel a gantatna ding gamte toh.",
+    "english": "Ashan with its pasture lands, and Beth Shemesh with its pasture lands;"
   },
   {
     "verse": 60,
-    "paite": "Huan Benjamin nam a kipan; Geba leh akimvel a gantatna ding gamte toh, Allemeth leh akimvel a gantatna ding gamte toh, Anathoth leh akimvel a gantatna ding gamte toh. A-inkuante tengteng a akhopite tengteng uh khopi sawm-le-thum ahi hi."
+    "paite": "Huan Benjamin nam a kipan; Geba leh akimvel a gantatna ding gamte toh, Allemeth leh akimvel a gantatna ding gamte toh, Anathoth leh akimvel a gantatna ding gamte toh. A-inkuante tengteng a akhopite tengteng uh khopi sawm-le-thum ahi hi.",
+    "english": "and out of the tribe of Benjamin, Geba with its pasture lands, Allemeth with its pasture lands, and Anathoth with its pasture lands. All their cities throughout their families were thirteen cities."
   },
   {
     "verse": 61,
-    "paite": "Kohath tapa omlaite kiang ah, huai nam inkuan a kipan, nam kimkhat, Manasseh nam kimkhat a kipan khopi sawm aisan a piak ahi uhi."
+    "paite": "Kohath tapa omlaite kiang ah, huai nam inkuan a kipan, nam kimkhat, Manasseh nam kimkhat a kipan khopi sawm aisan a piak ahi uhi.",
+    "english": "To the rest of the sons of Kohath were given by lot, out of the family of the tribe, out of the half-tribe, the half of Manasseh, ten cities."
   },
   {
     "verse": 62,
-    "paite": "Huan Gershom tapate ahihleh, a-inkuante uh dungzui in, Issakar nam a kipan, Asher nam a kipan, Naphtali nam a kipan, Bashan a Manasseh nam a kipan, khopi sawm-le-thum ahi."
+    "paite": "Huan Gershom tapate ahihleh, a-inkuante uh dungzui in, Issakar nam a kipan, Asher nam a kipan, Naphtali nam a kipan, Bashan a Manasseh nam a kipan, khopi sawm-le-thum ahi.",
+    "english": "To the sons of Gershom, according to their families, out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities."
   },
   {
     "verse": 63,
-    "paite": "Merari tapate kiang ah aisan a piak ahi, a-inkote uh dungzui in, Reuben nam a kipan, Gad nam a kipan, Zebulun nam a kipan, khopi sawm-le-nihte."
+    "paite": "Merari tapate kiang ah aisan a piak ahi, a-inkote uh dungzui in, Reuben nam a kipan, Gad nam a kipan, Zebulun nam a kipan, khopi sawm-le-nihte.",
+    "english": "To the sons of Merari were given by lot, according to their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities."
   },
   {
     "verse": 64,
-    "paite": "Israel suante'n Levi mite kiang ah khopite leh akimvel a gantatna ding gamte toh apia uhi."
+    "paite": "Israel suante'n Levi mite kiang ah khopite leh akimvel a gantatna ding gamte toh apia uhi.",
+    "english": "The children of Israel gave to the Levites the cities with their pasture lands."
   },
   {
     "verse": 65,
-    "paite": "Judah tate nam a kipan, Simeon tapa nam a kipan, Benjamin tate nam a kipan, hiai khopi minlohte, aisan in apia uhi."
+    "paite": "Judah tate nam a kipan, Simeon tapa nam a kipan, Benjamin tate nam a kipan, hiai khopi minlohte, aisan in apia uhi.",
+    "english": "They gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities which are mentioned by name."
   },
   {
     "verse": 66,
-    "paite": "Kohath tapa inkote lak a khenkhatte'n Ephraim nam a kipan amau gamgi khopite anei uhi."
+    "paite": "Kohath tapa inkote lak a khenkhatte'n Ephraim nam a kipan amau gamgi khopite anei uhi.",
+    "english": "Some of the families of the sons of Kohath had cities of their borders out of the tribe of Ephraim."
   },
   {
     "verse": 67,
-    "paite": "Amaute kiang ah bitna khopite apia uh, Ephraim singtang gam a Shekem leh akimvel a gantatna ding gamte toh; Gezer leh akimvel a gantatna ding gamte toh;"
+    "paite": "Amaute kiang ah bitna khopite apia uh, Ephraim singtang gam a Shekem leh akimvel a gantatna ding gamte toh; Gezer leh akimvel a gantatna ding gamte toh;",
+    "english": "They gave to them the cities of refuge, Shechem in the hill country of Ephraim with its pasture lands and Gezer with its pasture lands,"
   },
   {
     "verse": 68,
-    "paite": "Jokmeam leh akimvel a gantatna ding gamte toh, Beth-horon leh akimvel a gantatna ding gamte toh;"
+    "paite": "Jokmeam leh akimvel a gantatna ding gamte toh, Beth-horon leh akimvel a gantatna ding gamte toh;",
+    "english": "Jokmeam with its pasture lands, Beth Horon with its pasture lands,"
   },
   {
     "verse": 69,
-    "paite": "Aijalon leh akimvel a gantatna ding gamte toh, Gath-rimmon leh akimvel a gantatna ding gamte toh;"
+    "paite": "Aijalon leh akimvel a gantatna ding gamte toh, Gath-rimmon leh akimvel a gantatna ding gamte toh;",
+    "english": "Aijalon with its pasture lands, Gath Rimmon with its pasture lands;"
   },
   {
     "verse": 70,
-    "paite": "Manasseh nam kimkhat a kipan Aner leh akimvel a gantatna ding gamte toh; Bileam leh akimvel a gantatna ding gamte toh, Kohath tapate inko lak a omlaite a ding in."
+    "paite": "Manasseh nam kimkhat a kipan Aner leh akimvel a gantatna ding gamte toh; Bileam leh akimvel a gantatna ding gamte toh, Kohath tapate inko lak a omlaite a ding in.",
+    "english": "and out of the half-tribe of Manasseh, Aner with its pasture lands, and Bileam with its pasture lands, for the rest of the family of the sons of Kohath."
   },
   {
     "verse": 71,
-    "paite": "Gershom tapa kiang ah, Manasseh nam kimkhat inkuan a kipan a piak ahi; Bashan a Golan leh akimvel a gantatna ding gamte toh, Astaroth leh akimvel a gantatna ding gamte toh,"
+    "paite": "Gershom tapa kiang ah, Manasseh nam kimkhat inkuan a kipan a piak ahi; Bashan a Golan leh akimvel a gantatna ding gamte toh, Astaroth leh akimvel a gantatna ding gamte toh,",
+    "english": "To the sons of Gershom were given, out of the family of the half-tribe of Manasseh, Golan in Bashan with its pasture lands, and Ashtaroth with its pasture lands;"
   },
   {
     "verse": 72,
-    "paite": "Issakar nam a kipan in: Kedesh leh akimvel a gantatna ding gamte toh, Daberath leh akimvel a gantatna ding gamte toh;"
+    "paite": "Issakar nam a kipan in: Kedesh leh akimvel a gantatna ding gamte toh, Daberath leh akimvel a gantatna ding gamte toh;",
+    "english": "and out of the tribe of Issachar, Kedesh with its pasture lands, Daberath with its pasture lands,"
   },
   {
     "verse": 73,
-    "paite": "Ramoth leh akimvel a gantatna ding gamte toh, Anem leh akimvel a gantatna ding gamte toh,"
+    "paite": "Ramoth leh akimvel a gantatna ding gamte toh, Anem leh akimvel a gantatna ding gamte toh,",
+    "english": "Ramoth with its pasture lands, and Anem with its pasture lands;"
   },
   {
     "verse": 74,
-    "paite": "Asher nam a kipan in: Mashal leh akimvel a gantatna ding gamte toh, Abdon leh akimvel a gantatna ding gamte toh;"
+    "paite": "Asher nam a kipan in: Mashal leh akimvel a gantatna ding gamte toh, Abdon leh akimvel a gantatna ding gamte toh;",
+    "english": "and out of the tribe of Asher, Mashal with its pasture lands, Abdon with its pasture lands,"
   },
   {
     "verse": 75,
-    "paite": "Hukok leh akimvel a gantatna ding gamte toh, Rehob leh akimvel a gantatna ding gamte toh,"
+    "paite": "Hukok leh akimvel a gantatna ding gamte toh, Rehob leh akimvel a gantatna ding gamte toh,",
+    "english": "Hukok with its pasture lands, and Rehob with its pasture lands;"
   },
   {
     "verse": 76,
-    "paite": "Naphtali nam a kipan in: Galili a Kedesh leh akimvel a gantatna ding gamte toh, Hammon leh akimvel a gantatna ding gamte toh, Kiriathaim leh akimvel a gantatna ding gamte toh."
+    "paite": "Naphtali nam a kipan in: Galili a Kedesh leh akimvel a gantatna ding gamte toh, Hammon leh akimvel a gantatna ding gamte toh, Kiriathaim leh akimvel a gantatna ding gamte toh.",
+    "english": "and out of the tribe of Naphtali, Kedesh in Galilee with its pasture lands, Hammon with its pasture lands, and Kiriathaim with its pasture lands."
   },
   {
     "verse": 77,
-    "paite": "Levi mite omlaite kiang ah, Merari tapate, Zebulun nam a kipan a piak ahi, Rimmon leh akimvel a gantatna ding gamte toh, Tabor leh akimvel a gantatna ding gamte toh,"
+    "paite": "Levi mite omlaite kiang ah, Merari tapate, Zebulun nam a kipan a piak ahi, Rimmon leh akimvel a gantatna ding gamte toh, Tabor leh akimvel a gantatna ding gamte toh,",
+    "english": "To the rest of the Levites, the sons of Merari, were given, out of the tribe of Zebulun, Rimmono with its pasture lands, and Tabor with its pasture lands;"
   },
   {
     "verse": 78,
-    "paite": "Jeriko a Jordan khen, suahlam pang, Reuben nam a kipan, amaute piak ahi, gamdai a Bezer leh akimvel a gantatna ding gamte toh, Jahzah leh akimvel a gantatna ding gamte toh,"
+    "paite": "Jeriko a Jordan khen, suahlam pang, Reuben nam a kipan, amaute piak ahi, gamdai a Bezer leh akimvel a gantatna ding gamte toh, Jahzah leh akimvel a gantatna ding gamte toh,",
+    "english": "and beyond the Jordan at Jericho, on the east side of the Jordan, were given them out of the tribe of Reuben: Bezer in the wilderness with its pasture lands, Jahzah with its pasture lands,"
   },
   {
     "verse": 79,
-    "paite": "Kedemoth leh akimvel a gantatna ding gamte toh, Mephaath leh akimvel a gantatna ding gamte toh,"
+    "paite": "Kedemoth leh akimvel a gantatna ding gamte toh, Mephaath leh akimvel a gantatna ding gamte toh,",
+    "english": "Kedemoth with its pasture lands, and Mephaath with its pasture lands;"
   },
   {
     "verse": 80,
-    "paite": "Gad nam a kipan in: Gilead a Ramoth leh akimvel a gantatna ding gamte toh, Mahanaim leh akimvel a gantatna ding gamte toh,"
+    "paite": "Gad nam a kipan in: Gilead a Ramoth leh akimvel a gantatna ding gamte toh, Mahanaim leh akimvel a gantatna ding gamte toh,",
+    "english": "and out of the tribe of Gad, Ramoth in Gilead with its pasture lands, Mahanaim with its pasture lands,"
   },
   {
     "verse": 81,
-    "paite": "Heshbon leh akimvel a gantatna ding gamte toh, Jazer leh akimvel a gantatna ding gamte toh."
+    "paite": "Heshbon leh akimvel a gantatna ding gamte toh, Jazer leh akimvel a gantatna ding gamte toh.",
+    "english": "Heshbon with its pasture lands, and Jazer with its pasture lands."
   }
 ]

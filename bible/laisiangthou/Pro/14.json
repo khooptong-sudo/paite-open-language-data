@@ -1,142 +1,177 @@
 [
   {
     "verse": 1,
-    "paite": "Numei pil in innte alam a; himahleh mihai in amah khut in aphelsia."
+    "paite": "Numei pil in innte alam a; himahleh mihai in amah khut in aphelsia.",
+    "english": "Every wise woman builds her house, but the foolish one tears it down with her own hands."
   },
   {
     "verse": 2,
-    "paite": "Atang a gamtami in TOUPA akihta a; himahleh alampite a hoih lou in amah amusit hi."
+    "paite": "Atang a gamtami in TOUPA akihta a; himahleh alampite a hoih lou in amah amusit hi.",
+    "english": "He who walks in his uprightness fears Yahweh, but he who is perverse in his ways despises him."
   },
   {
     "verse": 3,
-    "paite": "Mihai kam ah kisaktheihna chiang a-om; himahleh mipil mukte'n huaite ahawi ding hi."
+    "paite": "Mihai kam ah kisaktheihna chiang a-om; himahleh mipil mukte'n huaite ahawi ding hi.",
+    "english": "The fool’s talk brings a rod to his back, but the lips of the wise protect them."
   },
   {
     "verse": 4,
-    "paite": "Bawngtalte omlouhna ah, anpiakna kuang asiang a; himahleh bawngtal hatna ziak in nakpi a punna a-om hi."
+    "paite": "Bawngtalte omlouhna ah, anpiakna kuang asiang a; himahleh bawngtal hatna ziak in nakpi a punna a-om hi.",
+    "english": "Where no oxen are, the crib is clean, but much increase is by the strength of the ox."
   },
   {
     "verse": 5,
-    "paite": "Theihpih ginom in zuau agen kei ding; himahleh theihpih zuauthei in zuau agen hi."
+    "paite": "Theihpih ginom in zuau agen kei ding; himahleh theihpih zuauthei in zuau agen hi.",
+    "english": "A truthful witness will not lie, but a false witness pours out lies."
   },
   {
     "verse": 6,
-    "paite": "Musitmi in pilna azong a, amu kei hi; himahleh theihsiamna nei a ding in theihna abaih hi."
+    "paite": "Musitmi in pilna azong a, amu kei hi; himahleh theihsiamna nei a ding in theihna abaih hi.",
+    "english": "A scoffer seeks wisdom, and doesn’t find it, but knowledge comes easily to a discerning person."
   },
   {
     "verse": 7,
-    "paite": "Mihai a-omna ah lut in, amah ah theihna mukte na mu kei ding hi."
+    "paite": "Mihai a-omna ah lut in, amah ah theihna mukte na mu kei ding hi.",
+    "english": "Stay away from a foolish man, for you won’t find knowledge on his lips."
   },
   {
     "verse": 8,
-    "paite": "Mipilvang pilna a lampi theihsiam ahi a; himahleh mihaite haina khemna ahi."
+    "paite": "Mipilvang pilna a lampi theihsiam ahi a; himahleh mihaite haina khemna ahi.",
+    "english": "The wisdom of the prudent is to think about his way, but the folly of fools is deceit."
   },
   {
     "verse": 9,
-    "paite": "Mihai in khelhna achiamnuihbawl a; himahleh mitangte lak ah deihsakna a-om hi."
+    "paite": "Mihai in khelhna achiamnuihbawl a; himahleh mitangte lak ah deihsakna a-om hi.",
+    "english": "Fools mock at making atonement for sins, but among the upright there is good will."
   },
   {
     "verse": 10,
-    "paite": "Lungtang in amah khatna athei a; huan mikhual in anopsakna atokbuai kei hi."
+    "paite": "Lungtang in amah khatna athei a; huan mikhual in anopsakna atokbuai kei hi.",
+    "english": "The heart knows its own bitterness and joy; he will not share these with a stranger."
   },
   {
     "verse": 11,
-    "paite": "Migiloute inn suksiat in a-om ding; himahleh mitang biakbuk apha ding hi."
+    "paite": "Migiloute inn suksiat in a-om ding; himahleh mitang biakbuk apha ding hi.",
+    "english": "The house of the wicked will be overthrown, but the tent of the upright will flourish."
   },
   {
     "verse": 12,
-    "paite": "Mihing a dia lampi dik a kilawm a-om a, himahleh huai tawpna sihna lampite ahi."
+    "paite": "Mihing a dia lampi dik a kilawm a-om a, himahleh huai tawpna sihna lampite ahi.",
+    "english": "There is a way which seems right to a man, but in the end it leads to death."
   },
   {
     "verse": 13,
-    "paite": "Lungtang nuihna nangawn lungkhamna ahi a; huan vualnopna tawpna gikna ahi."
+    "paite": "Lungtang nuihna nangawn lungkhamna ahi a; huan vualnopna tawpna gikna ahi.",
+    "english": "Even in laughter the heart may be sorrowful, and mirth may end in heaviness."
   },
   {
     "verse": 14,
-    "paite": "Lungtang a nungtolhmi amah lampite a dimsak in a-om ding; huan mihoih amah mah a kipan a hihlungkim in a-om ding hi."
+    "paite": "Lungtang a nungtolhmi amah lampite a dimsak in a-om ding; huan mihoih amah mah a kipan a hihlungkim in a-om ding hi.",
+    "english": "The unfaithful will be repaid for his own ways; likewise a good man will be rewarded for his ways."
   },
   {
     "verse": 15,
-    "paite": "Mimawl in thu chih a-um a; himahleh mipilvang in apaina hoihtak in a-en hi."
+    "paite": "Mimawl in thu chih a-um a; himahleh mipilvang in apaina hoihtak in a-en hi.",
+    "english": "A simple man believes everything, but the prudent man carefully considers his ways."
   },
   {
     "verse": 16,
-    "paite": "Mipil in akihta a, gilou a kipan apaimang; himahleh mihai bel ngottat in, akimuang hi."
+    "paite": "Mipil in akihta a, gilou a kipan apaimang; himahleh mihai bel ngottat in, akimuang hi.",
+    "english": "A wise man fears and shuns evil, but the fool is hot headed and reckless."
   },
   {
     "verse": 17,
-    "paite": "Kuapeuh hehbaih haitak in agamta ding; huan ngaihtuah giloumi huat in a-om hi."
+    "paite": "Kuapeuh hehbaih haitak in agamta ding; huan ngaihtuah giloumi huat in a-om hi.",
+    "english": "He who is quick to become angry will commit folly, and a crafty man is hated."
   },
   {
     "verse": 18,
-    "paite": "Mimawl in haina aluah ding; himahleh mipilvang theihna khuksak in a-om ding."
+    "paite": "Mimawl in haina aluah ding; himahleh mipilvang theihna khuksak in a-om ding.",
+    "english": "The simple inherit folly, but the prudent are crowned with knowledge."
   },
   {
     "verse": 19,
-    "paite": "Hoih mai ah hoih lou akun a; huan diktat kongpite ah gilou akun hi."
+    "paite": "Hoih mai ah hoih lou akun a; huan diktat kongpite ah gilou akun hi.",
+    "english": "The evil bow down before the good, and the wicked at the gates of the righteous."
   },
   {
     "verse": 20,
-    "paite": "Genthei amah inveng mahmah muhdah in a-om; himahleh hausa in lawm tampi anei hi."
+    "paite": "Genthei amah inveng mahmah muhdah in a-om; himahleh hausa in lawm tampi anei hi.",
+    "english": "The poor person is shunned even by his own neighbor, but the rich person has many friends."
   },
   {
     "verse": 21,
-    "paite": "A-inveng musit in thil ahihkhial a; himahleh migenthei hehpih, ama'n nuam asa hi."
+    "paite": "A-inveng musit in thil ahihkhial a; himahleh migenthei hehpih, ama'n nuam asa hi.",
+    "english": "He who despises his neighbor sins, but he who has pity on the poor is blessed."
   },
   {
     "verse": 22,
-    "paite": "Hoih lou ngaihtuahte apaikhial kei uh maw? Himahleh zahngaihna leh thutak hoih ngaihtuah kiang ah a-om ding hi."
+    "paite": "Hoih lou ngaihtuahte apaikhial kei uh maw? Himahleh zahngaihna leh thutak hoih ngaihtuah kiang ah a-om ding hi.",
+    "english": "Don’t they go astray who plot evil? But love and faithfulness belong to those who plan good."
   },
   {
     "verse": 23,
-    "paite": "Sepgimna tengteng ah phattuamna a-om; himahleh mukte houlimna taksapna lam kia ah apai hi."
+    "paite": "Sepgimna tengteng ah phattuamna a-om; himahleh mukte houlimna taksapna lam kia ah apai hi.",
+    "english": "In all hard work there is profit, but the talk of the lips leads only to poverty."
   },
   {
     "verse": 24,
-    "paite": "Mipilte ahauhsakna ua theih in a-om uhi; himahleh mihaite ahaina ua theih in a-om uhi."
+    "paite": "Mipilte ahauhsakna ua theih in a-om uhi; himahleh mihaite ahaina ua theih in a-om uhi.",
+    "english": "The crown of the wise is their riches, but the folly of fools crowns them with folly."
   },
   {
     "verse": 25,
-    "paite": "Theihpih dik in khate asuaktasak a; himahleh zuaugen in khemna a-omsak hi."
+    "paite": "Theihpih dik in khate asuaktasak a; himahleh zuaugen in khemna a-omsak hi.",
+    "english": "A truthful witness saves souls, but a false witness is deceitful."
   },
   {
     "verse": 26,
-    "paite": "TOUPA kihtakna ah muanna hat a-om a; huan atate'n bukna mun anei ding uh."
+    "paite": "TOUPA kihtakna ah muanna hat a-om a; huan atate'n bukna mun anei ding uh.",
+    "english": "In the fear of Yahweh is a secure fortress, and he will be a refuge for his children."
   },
   {
     "verse": 27,
-    "paite": "TOUPA kihtak hinna tuikhuk ahi, sihna thangte a kipan paimangna ding in."
+    "paite": "TOUPA kihtak hinna tuikhuk ahi, sihna thangte a kipan paimangna ding in.",
+    "english": "The fear of Yahweh is a fountain of life, turning people from the snares of death."
   },
   {
     "verse": 28,
-    "paite": "Mipi tamna ah kumpipa thupina a-om; himahleh mipite omlouhna lal siatna ahi."
+    "paite": "Mipi tamna ah kumpipa thupina a-om; himahleh mipite omlouhna lal siatna ahi.",
+    "english": "In the multitude of people is the king’s glory, but in the lack of people is the destruction of the prince."
   },
   {
     "verse": 29,
-    "paite": "Kuapeuh ahehhak theihsiamna thupi a kipan ahi; himahleh kuapeuh lungtom in haina atawisang hi."
+    "paite": "Kuapeuh ahehhak theihsiamna thupi a kipan ahi; himahleh kuapeuh lungtom in haina atawisang hi.",
+    "english": "He who is slow to anger has great understanding, but he who has a quick temper displays folly."
   },
   {
     "verse": 30,
-    "paite": "Lungtang hoih taksa a dia hinna ahi; himahleh hazatna guhte muatna ahi."
+    "paite": "Lungtang hoih taksa a dia hinna ahi; himahleh hazatna guhte muatna ahi.",
+    "english": "The life of the body is a heart at peace, but envy rots the bones."
   },
   {
     "verse": 31,
-    "paite": "Kuapeuh genthei nuaisiah in abawlpa simmoh ahi; himahleh kuapeuh tasam tung a zahngaihna nei in amah azahtak hi."
+    "paite": "Kuapeuh genthei nuaisiah in abawlpa simmoh ahi; himahleh kuapeuh tasam tung a zahngaihna nei in amah azahtak hi.",
+    "english": "He who oppresses the poor shows contempt for his Maker, but he who is kind to the needy honors him."
   },
   {
     "verse": 32,
-    "paite": "Migilou agitlouh hihna a paihlut in a-om a; himahleh midiktat in asihna ah lametna anei hi."
+    "paite": "Migilou agitlouh hihna a paihlut in a-om a; himahleh midiktat in asihna ah lametna anei hi.",
+    "english": "The wicked is brought down in his calamity, but in death, the righteous has a refuge."
   },
   {
     "verse": 33,
-    "paite": "Theihsiamna nei lungtang ah pilna akhawl a; himahleh mihaite sunglam pang a om kitheihsak in a-om hi."
+    "paite": "Theihsiamna nei lungtang ah pilna akhawl a; himahleh mihaite sunglam pang a om kitheihsak in a-om hi.",
+    "english": "Wisdom rests in the heart of one who has understanding, and is even made known in the inward part of fools."
   },
   {
     "verse": 34,
-    "paite": "Diktatna in nam atawisang a; himahleh khelhna mi kuapeuh a ding in zahlakna ahi."
+    "paite": "Diktatna in nam atawisang a; himahleh khelhna mi kuapeuh a ding in zahlakna ahi.",
+    "english": "Righteousness exalts a nation, but sin is a disgrace to any people."
   },
   {
     "verse": 35,
-    "paite": "Sikha piltak a gamta kiang ah kumpipa deihsakna a-om a; himahleh zumna omsak tung ah athangpaihna a-om hi."
+    "paite": "Sikha piltak a gamta kiang ah kumpipa deihsakna a-om a; himahleh zumna omsak tung ah athangpaihna a-om hi.",
+    "english": "The king’s favor is toward a servant who deals wisely, but his wrath is toward one who causes shame."
   }
 ]

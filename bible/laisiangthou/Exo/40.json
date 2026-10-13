@@ -2,155 +2,193 @@
   {
     "verse": 1,
     "paite": "Huan TOUPA'N Mosi kiang ah thu agen a:",
-    "heading": "TOUPA Puanin Tundingna Leh Latna"
+    "heading": "TOUPA Puanin Tundingna Leh Latna",
+    "english": "Yahweh spoke to Moses, saying,"
   },
   {
     "verse": 2,
-    "paite": "\"Kha masapen ani masapen in kihoupihna biakbuk na dingsakta ding ahi."
+    "paite": "\"Kha masapen ani masapen in kihoupihna biakbuk na dingsakta ding ahi.",
+    "english": "“On the first day of the first month you shall raise up the tabernacle of the Tent of Meeting."
   },
   {
     "verse": 3,
-    "paite": "Huai sung ah theihpihna bawm na koih dia, bawm puanzak in na khuh ding ahi."
+    "paite": "Huai sung ah theihpihna bawm na koih dia, bawm puanzak in na khuh ding ahi.",
+    "english": "You shall put the ark of the covenant in it, and you shall screen the ark with the veil."
   },
   {
     "verse": 4,
-    "paite": "Dohkan na lalut dia, atung ah thil kizom akoih dingte kizom in na koih ding a; khawnvak koihna na lalut dia, akhawnvakte na det ding ahi."
+    "paite": "Dohkan na lalut dia, atung ah thil kizom akoih dingte kizom in na koih ding a; khawnvak koihna na lalut dia, akhawnvakte na det ding ahi.",
+    "english": "You shall bring in the table, and set in order the things that are on it. You shall bring in the lamp stand, and light its lamps."
   },
   {
     "verse": 5,
-    "paite": "Theihpihna bawm ma ah gimlim a dia dangka-eng maitam na koih dia, kongkhak puankhai biakbuk ah na koih ding ahi."
+    "paite": "Theihpihna bawm ma ah gimlim a dia dangka-eng maitam na koih dia, kongkhak puankhai biakbuk ah na koih ding ahi.",
+    "english": "You shall set the golden altar for incense before the ark of the covenant, and put the screen of the door to the tabernacle."
   },
   {
     "verse": 6,
-    "paite": "Kihoupihna puanin biakbuk kongkhak ma ah halmang thillat maitam na koih ding ahi."
+    "paite": "Kihoupihna puanin biakbuk kongkhak ma ah halmang thillat maitam na koih ding ahi.",
+    "english": "“You shall set the altar of burnt offering before the door of the tabernacle of the Tent of Meeting."
   },
   {
     "verse": 7,
-    "paite": "Kihoupihna puanin leh maitam kikal ah tuikuang na koih dia, huai ah tui na koih ding ahi."
+    "paite": "Kihoupihna puanin leh maitam kikal ah tuikuang na koih dia, huai ah tui na koih ding ahi.",
+    "english": "You shall set the basin between the Tent of Meeting and the altar, and shall put water therein."
   },
   {
     "verse": 8,
-    "paite": "Akimvel in huangsung na bawl dia, huangsung kongpi ah puankhai na khaitou ding ahi."
+    "paite": "Akimvel in huangsung na bawl dia, huangsung kongpi ah puankhai na khaitou ding ahi.",
+    "english": "You shall set up the court around it, and hang up the screen of the gate of the court."
   },
   {
     "verse": 9,
-    "paite": "\"Thaunilhna sathau na la dia, biakbuk na nilh ding a; huai sung a om tengteng toh, na hihsiangthou dia, atui-um belsuan tengteng asiangthou ding hi."
+    "paite": "\"Thaunilhna sathau na la dia, biakbuk na nilh ding a; huai sung a om tengteng toh, na hihsiangthou dia, atui-um belsuan tengteng asiangthou ding hi.",
+    "english": "“You shall take the anointing oil, and anoint the tabernacle and all that is in it, and shall make it holy, and all its furniture, and it will be holy."
   },
   {
     "verse": 10,
-    "paite": "Haltum thillat maitam na nilh ding a; atui-um belsuan tengteng toh, maitam na siangthousak ding. Huchi in maitam asiangthou penpen ding hi."
+    "paite": "Haltum thillat maitam na nilh ding a; atui-um belsuan tengteng toh, maitam na siangthousak ding. Huchi in maitam asiangthou penpen ding hi.",
+    "english": "You shall anoint the altar of burnt offering, with all its vessels, and sanctify the altar, and the altar will be most holy."
   },
   {
     "verse": 11,
-    "paite": "Tuikuang leh akhe na nilh dia, na siangsak ding ahi."
+    "paite": "Tuikuang leh akhe na nilh dia, na siangsak ding ahi.",
+    "english": "You shall anoint the basin and its base, and sanctify it."
   },
   {
     "verse": 12,
-    "paite": "\"Kihoupihna puanin kongkhak ah Aaron leh atapate na hon pi dia, tui in na sil ding ahi."
+    "paite": "\"Kihoupihna puanin kongkhak ah Aaron leh atapate na hon pi dia, tui in na sil ding ahi.",
+    "english": "“You shall bring Aaron and his sons to the door of the Tent of Meeting, and shall wash them with water."
   },
   {
     "verse": 13,
-    "paite": "Puan siangthoute Aaron na silhsak dia, na nilh dia, na siangthousak ding ahi; siampu nasepna mun a ka nna aseptheihna ding in."
+    "paite": "Puan siangthoute Aaron na silhsak dia, na nilh dia, na siangthousak ding ahi; siampu nasepna mun a ka nna aseptheihna ding in.",
+    "english": "You shall put on Aaron the holy garments; and you shall anoint him, and sanctify him, that he may minister to me in the priest’s office."
   },
   {
     "verse": 14,
-    "paite": "Atapate na hon tonpih dia, puanak tung na silhsak ding ahi."
+    "paite": "Atapate na hon tonpih dia, puanak tung na silhsak ding ahi.",
+    "english": "You shall bring his sons, and put tunics on them."
   },
   {
     "verse": 15,
-    "paite": "Apa uh sathau na nilh bang in amau siampu nasepna mun a, ka nna aseptheihna ding un thau na nilh ding ahi. Athaunilhna uh akhang-akhang ua siampu hihna ahih taktak ding ziak in,\" achi hi."
+    "paite": "Apa uh sathau na nilh bang in amau siampu nasepna mun a, ka nna aseptheihna ding un thau na nilh ding ahi. Athaunilhna uh akhang-akhang ua siampu hihna ahih taktak ding ziak in,\" achi hi.",
+    "english": "You shall anoint them, as you anointed their father, that they may minister to me in the priest’s office. Their anointing shall be to them for an everlasting priesthood throughout their generations.”"
   },
   {
     "verse": 16,
-    "paite": "Hiai bang in Mosi in ahihta a; TOUPA'N amah thu apiak bang zel in ahi, ahih."
+    "paite": "Hiai bang in Mosi in ahihta a; TOUPA'N amah thu apiak bang zel in ahi, ahih.",
+    "english": "Moses did so. According to all that Yahweh commanded him, so he did."
   },
   {
     "verse": 17,
-    "paite": "Huan hichi ahong hi a, akum nihna, akha masapen, huai kha a ani masapen ni in, biakbuk dinsak in a-omta hi."
+    "paite": "Huan hichi ahong hi a, akum nihna, akha masapen, huai kha a ani masapen ni in, biakbuk dinsak in a-omta hi.",
+    "english": "In the first month in the second year, on the first day of the month, the tabernacle was raised up."
   },
   {
     "verse": 18,
-    "paite": "Mosi in biakbuk adingsakta a, akingakna khuakkuakte ahen a, asingpekte atung a, azawlte athunlut a, akhuamte adingsak hi."
+    "paite": "Mosi in biakbuk adingsakta a, akingakna khuakkuakte ahen a, asingpekte atung a, azawlte athunlut a, akhuamte adingsak hi.",
+    "english": "Moses raised up the tabernacle, and laid its sockets, and set up its boards, and put in its bars, and raised up its pillars."
   },
   {
     "verse": 19,
-    "paite": "Biakbuk tung ah puanin azalhta a; atunglam ah puanin khuhna akoih a; TOUPA'N Mosi thu apiak bang in ahihta hi."
+    "paite": "Biakbuk tung ah puanin azalhta a; atunglam ah puanin khuhna akoih a; TOUPA'N Mosi thu apiak bang in ahihta hi.",
+    "english": "He spread the covering over the tent, and put the roof of the tabernacle above on it, as Yahweh commanded Moses."
   },
   {
     "verse": 20,
-    "paite": "Theihpihna ala a bawm sung ah akoih a, bawm tung ah azawlte akoih a; bawm tunglam ah zahngaihna tutphah akoih hi."
+    "paite": "Theihpihna ala a bawm sung ah akoih a, bawm tung ah azawlte akoih a; bawm tunglam ah zahngaihna tutphah akoih hi.",
+    "english": "He took and put the covenant into the ark, and set the poles on the ark, and put the mercy seat above on the ark."
   },
   {
     "verse": 21,
-    "paite": "Bawm biakbuk sung ah atawilut a, khuhna puanzak azak a, theihpihna bawm akhuh hi. TOUPA'N Mosi thu apiak bang in ahihta."
+    "paite": "Bawm biakbuk sung ah atawilut a, khuhna puanzak azak a, theihpihna bawm akhuh hi. TOUPA'N Mosi thu apiak bang in ahihta.",
+    "english": "He brought the ark into the tabernacle, and set up the veil of the screen, and screened the ark of the covenant, as Yahweh commanded Moses."
   },
   {
     "verse": 22,
-    "paite": "Kihoupihna puanin sung ah biakbuk pang mallam, puanzak polam ah dohkan akoih hi."
+    "paite": "Kihoupihna puanin sung ah biakbuk pang mallam, puanzak polam ah dohkan akoih hi.",
+    "english": "He put the table in the Tent of Meeting, on the north side of the tabernacle, outside of the veil."
   },
   {
     "verse": 23,
-    "paite": "TOUPA ma ah dohkan tung ah tanghoute kizom in akoih a; TOUPA'N Mosi thu apiak bang in akoih hi."
+    "paite": "TOUPA ma ah dohkan tung ah tanghoute kizom in akoih a; TOUPA'N Mosi thu apiak bang in akoih hi.",
+    "english": "He set the bread in order on it before Yahweh, as Yahweh commanded Moses."
   },
   {
     "verse": 24,
-    "paite": "Kihoupihna puanin sung ah dohkan zawn ah, biakbuk sik simlam pang ah khawnvak koihna akoih hi."
+    "paite": "Kihoupihna puanin sung ah dohkan zawn ah, biakbuk sik simlam pang ah khawnvak koihna akoih hi.",
+    "english": "He put the lamp stand in the Tent of Meeting, opposite the table, on the south side of the tabernacle."
   },
   {
     "verse": 25,
-    "paite": "TOUPA'N Mosi thu apiak bang in TOUPA ma ah khawnvakte det ahi."
+    "paite": "TOUPA'N Mosi thu apiak bang in TOUPA ma ah khawnvakte det ahi.",
+    "english": "He lit the lamps before Yahweh, as Yahweh commanded Moses."
   },
   {
     "verse": 26,
-    "paite": "Huan puanzak ma ah kihoupihna biakbuk sung ah dangka-eng maitam akoih hi:"
+    "paite": "Huan puanzak ma ah kihoupihna biakbuk sung ah dangka-eng maitam akoih hi:",
+    "english": "He put the golden altar in the Tent of Meeting before the veil;"
   },
   {
     "verse": 27,
-    "paite": "TOUPA'N Mosi thu apiak bang in, huai tung ah gimlim ahal hi."
+    "paite": "TOUPA'N Mosi thu apiak bang in, huai tung ah gimlim ahal hi.",
+    "english": "and he burned incense of sweet spices on it, as Yahweh commanded Moses."
   },
   {
     "verse": 28,
-    "paite": "Biakbuk kongkhak ah puankhai akhai hi."
+    "paite": "Biakbuk kongkhak ah puankhai akhai hi.",
+    "english": "He put up the screen of the door to the tabernacle."
   },
   {
     "verse": 29,
-    "paite": "Kihoupihna puanin biakbuk kongkhak kiang ah TOUPA'N Mosi thu apiak bang in halmang thillat leh tangbuang thillat alan hi."
+    "paite": "Kihoupihna puanin biakbuk kongkhak kiang ah TOUPA'N Mosi thu apiak bang in halmang thillat leh tangbuang thillat alan hi.",
+    "english": "He set the altar of burnt offering at the door of the tabernacle of the Tent of Meeting, and offered on it the burnt offering and the meal offering, as Yahweh commanded Moses."
   },
   {
     "verse": 30,
-    "paite": "Kihoupihna puanin leh maitam kikal ah kisawpna ding in tuikuang akoih a, huai ah tui akoih hi."
+    "paite": "Kihoupihna puanin leh maitam kikal ah kisawpna ding in tuikuang akoih a, huai ah tui akoih hi.",
+    "english": "He set the basin between the Tent of Meeting and the altar, and put water therein, with which to wash."
   },
   {
     "verse": 31,
-    "paite": "Mosi leh Aaron leh atapate'n akhutte uh leh akhepekte uh huai ah asil uhi."
+    "paite": "Mosi leh Aaron leh atapate'n akhutte uh leh akhepekte uh huai ah asil uhi.",
+    "english": "Moses, Aaron, and his sons washed their hands and their feet there."
   },
   {
     "verse": 32,
-    "paite": "Kihoupihna puanin sung ah ahoh ua, maitam kiang ah ahong pai nai ua TOUPA'N Mosi thu apiak bang in akisil uhi."
+    "paite": "Kihoupihna puanin sung ah ahoh ua, maitam kiang ah ahong pai nai ua TOUPA'N Mosi thu apiak bang in akisil uhi.",
+    "english": "When they went into the Tent of Meeting, and when they came near to the altar, they washed, as Yahweh commanded Moses."
   },
   {
     "verse": 33,
-    "paite": "Biakbuk leh maitam kimvel in huangsung abawl a, huangsung kongpi puankhaite akhaita hi. Huchi in Mosi in nasep azouta hi."
+    "paite": "Biakbuk leh maitam kimvel in huangsung abawl a, huangsung kongpi puankhaite akhaita hi. Huchi in Mosi in nasep azouta hi.",
+    "english": "He raised up the court around the tabernacle and the altar, and set up the screen of the gate of the court. So Moses finished the work."
   },
   {
     "verse": 34,
     "paite": "Huai khit in meipi in kihoupihna biakbuk atuam a, TOUPA thupina in biakbuk adimsak hi.",
-    "heading": "TOUPA Omna Puanin Tung A Meipi / (Nam 9.15-23)"
+    "heading": "TOUPA Omna Puanin Tung A Meipi / (Nam 9.15-23)",
+    "english": "Then the cloud covered the Tent of Meeting, and Yahweh’s glory filled the tabernacle."
   },
   {
     "verse": 35,
-    "paite": "Huchi in kihoupihna biakbuk sung ah Mosi alut theita kei; atung a meipi akai ziak in leh TOUPA thupina in biakbuk adimsak ziak in."
+    "paite": "Huchi in kihoupihna biakbuk sung ah Mosi alut theita kei; atung a meipi akai ziak in leh TOUPA thupina in biakbuk adimsak ziak in.",
+    "english": "Moses wasn’t able to enter into the Tent of Meeting, because the cloud stayed on it, and Yahweh’s glory filled the tabernacle."
   },
   {
     "verse": 36,
-    "paite": "Biakbuk tung a pan meipi laktouh a a-om chiang in, Israel suante akhualzinna uah malam ah apai zel uhi."
+    "paite": "Biakbuk tung a pan meipi laktouh a a-om chiang in, Israel suante akhualzinna uah malam ah apai zel uhi.",
+    "english": "When the cloud was taken up from over the tabernacle, the children of Israel went onward, throughout all their journeys;"
   },
   {
     "verse": 37,
-    "paite": "Himahleh meipi laktouh a a-om louh chiang in, akilaktouh louh ni in azin kei uhi."
+    "paite": "Himahleh meipi laktouh a a-om louh chiang in, akilaktouh louh ni in azin kei uhi.",
+    "english": "but if the cloud wasn’t taken up, then they didn’t travel until the day that it was taken up."
   },
   {
     "verse": 38,
-    "paite": "Akhualzin sung teng uh Israel inkote mitmuh in sun in biakbuk tung ah meipi in TOUPA a-om a, zan in biakbuk tung ah meikuang in a-om hi."
+    "paite": "Akhualzin sung teng uh Israel inkote mitmuh in sun in biakbuk tung ah meipi in TOUPA a-om a, zan in biakbuk tung ah meikuang in a-om hi.",
+    "english": "For the cloud of Yahweh was on the tabernacle by day, and there was fire in the cloud by night, in the sight of all the house of Israel, throughout all their journeys."
   }
 ]
