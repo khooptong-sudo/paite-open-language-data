@@ -73,6 +73,25 @@ Zero is not said with a number. It is said with a negative sentence:
 | Ka email hon en mah. | Please check my email. |
 | Ka email hon en dih. | Please check my email. (alternative) |
 
+## Modern Paite and Tedim (Bible) style
+
+Older Bible text and AI models often write in the Tedim (Tedim-Chin) style. Modern Paite, as spoken and written in Manipur, Mizoram, and Bangladesh, uses different forms. Both are understood, but they are not the same.
+
+| Meaning | Modern Paite | Tedim / Bible style |
+|---------|--------------|---------------------|
+| Do you love me? | Na hon it hia? | Nang in kei nong it hiam? |
+| I don't see even one rock. | Suang khat le ka mukei. | Suang khat zong ka mu kei hi. |
+
+- Tedim / Bible style markers: `nong`, `hiam` (question), `zong` (even), `hi` at the end of a statement.
+- Modern Paite uses `hia` (question) and `le` (even), and often leaves out the final `hi`.
+- `Suang khat lei-ah ka mu hi.` (I see one rock on the ground) is acceptable Paite, though `Suang khat leilak ah ka mu.` is the more usual form.
+
+## Words with more than one sense
+
+- `mangpha` = good night, sweet dreams. `Mangpha phot le.` = Good night for now.
+- `mang` = dream; also lost.
+- `pha` = good, in set greetings: `mangpha` (good night), `zingpha` (good morning). It is not the everyday word for "good" in other uses.
+
 ## Open questions
 
 - Exact function of `hon` vs `N'on`.

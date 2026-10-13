@@ -2,7 +2,7 @@
 
 Open text data for the Paite language, ready for research, language learning, and training language models.
 
-Paite (ISO 639-3: `pck`) is a Zomi language of the Tibeto-Burman branch of the Sino-Tibetan family. The Paite are a distinct tribe within the Zomi people, who live in Manipur and Mizoram (India), Myanmar, and the Chittagong Hill Tracts (Bangladesh). Paite is mutually intelligible with Tedim (Zopau) and the other Zomi languages. Some linguistic catalogues file this language group under a technical subgroup label. That label is linguistic, not ethnic.
+Paite (ISO 639-3: `pck`) is a Zomi language of the Tibeto-Burman branch of the Sino-Tibetan family. The Paite are a distinct tribe within the Zomi people, who live in Manipur and Mizoram (India), Myanmar, and the Chittagong Hill Tracts (Bangladesh). Paite is mutually intelligible with Tedim (Zopau) and the other Zomi languages. Tedim, also called Tedim-Chin, is the form used mostly in Myanmar. Modern Paite is the common form in Manipur, Mizoram, and Bangladesh. The two differ in accent and in spoken and written forms, and this repository targets modern Paite. Some linguistic catalogues file this language group under a technical subgroup label. That label is linguistic, not ethnic.
 
 References: [Paite people](https://en.wikipedia.org/wiki/Paite_people), [Tedim language](https://en.wikipedia.org/wiki/Tedim_language), [Zomi identity among the Paite of Manipur (NEHU thesis)](https://dspace.nehu.ac.in/bitstreams/c81ef78a-e800-434a-8661-53b6b96006b5/download).
 
@@ -66,7 +66,7 @@ Everything is moving to phones and AI. A language with no digital text gets left
 | `training/` | **Ready-to-train JSONL files** with fixed train, dev, and test splits. Start here. | See [Training a model](#training-a-model) |
 | `bible/laisiangthou/` | **Primary Bible.** The complete Laisiangthou Paite Bible by [John Samte](https://github.com/johnsamte), one JSON file for each chapter | 66 books, 1,189 chapters, 31,104 verses |
 | `bible/world-english-bible/` | World English Bible (public domain) in verse-per-line form, the English side of every Bible pair | 66 books, 31,103 verses |
-| `bible/legacy-etabetapi/` | Retired Bible text, kept for reference and comparison. Do not use it as a primary source. | 22 books, 408 chapters |
+| `bible/legacy-etabetapi/` | Retired Bible text in the older Tedim-Paite (Bible) style, kept for reference and comparison. It is not modern Paite. Do not use it as a primary source. | 22 books, 408 chapters |
 | `dictionary/` | English to Paite dictionary with part of speech | 23,006 entries |
 | `songs/` | Paite hymn lyrics, with English titles and authors, and hymn-app snippets | 573 hymns, 846 snippets |
 | `corrections.json` | Sentences that a native speaker checked and corrected | Grows over time |

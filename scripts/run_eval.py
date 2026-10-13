@@ -13,13 +13,15 @@ Examples:
   # Local Ollama, no key
   python scripts/run_eval.py --base-url http://localhost:11434/v1 llama3.1
 
-Writes eval/results/<model>.jsonl (every answer) and adds a row to eval/RESULTS.md.
+Writes eval/results/<model>.jsonl (every answer) and rebuilds eval/RESULTS.md.
+After accepted answers in eval/everyday.jsonl change:  python scripts/run_eval.py --rescore
 """
 
 import argparse
 import json
 import os
 import re
+import sys
 import time
 import urllib.request
 from collections import Counter
@@ -64,40 +66,73 @@ def prompt_for(text: str, source: str, target: str) -> str:
             f"Reply with the translation only, nothing else.\n\n{text}")
 
 
-def evaluate(base_url: str, model: str) -> dict[str, float]:
-    items = [json.loads(line) for line in (EVAL / "everyday.jsonl").read_text(encoding="utf-8").splitlines() if line]
-    rows, totals = [], {"pck-en": [], "en-pck": []}
-    for item in items:
-        for direction, src_lang, tgt_lang, src, refs in (
-            ("pck-en", PAITE, "English", item["paite"][0], item["english"]),
-            ("en-pck", "English", PAITE, item["english"][0], item["paite"]),
+def load_items() -> list[dict]:
+    return [json.loads(line) for line in (EVAL / "everyday.jsonl").read_text(encoding="utf-8").splitlines() if line]
+
+
+def references(item: dict, direction: str) -> list[str]:
+    return item["english"] if direction == "pck-en" else item["paite"]
+
+
+def results_path(model: str) -> Path:
+    return EVAL / "results" / (re.sub(r"[^\w.-]+", "_", model) + ".jsonl")
+
+
+def save(path: Path, rows: list[dict]) -> None:
+    path.parent.mkdir(exist_ok=True)
+    path.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows), encoding="utf-8")
+
+
+def evaluate(base_url: str, model: str) -> list[dict]:
+    rows, date = [], time.strftime("%Y-%m-%d")
+    for item in load_items():
+        for direction, src_lang, tgt_lang, src in (
+            ("pck-en", PAITE, "English", item["paite"][0]),
+            ("en-pck", "English", PAITE, item["english"][0]),
         ):
             try:
                 prediction = ask(base_url, model, prompt_for(src, src_lang, tgt_lang))
             except Exception as e:  # keep going; a failed call scores 0 and is recorded
                 prediction = f"[error: {e}]"
-            score = max(chrf(prediction, ref) for ref in refs)
-            totals[direction].append(score)
-            rows.append({"id": item["id"], "direction": direction, "source": src,
-                         "prediction": prediction, "references": refs, "chrf": round(score, 1)})
-
-    out = EVAL / "results" / (re.sub(r"[^\w.-]+", "_", model) + ".jsonl")
-    out.parent.mkdir(exist_ok=True)
-    out.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows), encoding="utf-8")
-    return {d: sum(s) / len(s) for d, s in totals.items()} | {"n": len(items)}
+            refs = references(item, direction)
+            rows.append({"model": model, "date": date, "id": item["id"], "direction": direction,
+                         "source": src, "prediction": prediction, "references": refs,
+                         "chrf": round(max(chrf(prediction, r) for r in refs), 1)})
+    save(results_path(model), rows)
+    return rows
 
 
-def record(model: str, scores: dict[str, float]) -> None:
-    results = EVAL / "RESULTS.md"
-    if not results.exists():
-        results.write_text(
-            "# How well does AI know Paite?\n\n"
-            "chrF scores (0-100, higher is better) on `eval/everyday.jsonl`, sentences checked by a native speaker.\n\n"
-            "| Date | Model | Paite → English | English → Paite | Sentences |\n"
-            "|------|-------|-----------------|-----------------|-----------|\n", encoding="utf-8")
-    with open(results, "a", encoding="utf-8") as f:
-        f.write(f"| {time.strftime('%Y-%m-%d')} | `{model}` | {scores['pck-en']:.1f} | "
-                f"{scores['en-pck']:.1f} | {scores['n']} |\n")
+def rescore() -> None:
+    """Re-score saved answers against the current accepted answers, without calling any model."""
+    items = {i["id"]: i for i in load_items()}
+    for path in sorted((EVAL / "results").glob("*.jsonl")):
+        rows = [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line]
+        for r in rows:
+            if r["id"] in items:
+                r["references"] = references(items[r["id"]], r["direction"])
+                r["chrf"] = round(max(chrf(r["prediction"], ref) for ref in r["references"]), 1)
+        save(path, rows)
+
+
+def summarize(rows: list[dict]) -> dict:
+    by_dir = {d: [r["chrf"] for r in rows if r["direction"] == d] for d in ("pck-en", "en-pck")}
+    return {d: sum(s) / len(s) if s else 0.0 for d, s in by_dir.items()} | {"n": len({r["id"] for r in rows})}
+
+
+def write_results() -> None:
+    """Rebuild eval/RESULTS.md from every file in eval/results/."""
+    lines = ["# How well does AI know Paite?", "",
+             "chrF scores (0-100, higher is better) on `eval/everyday.jsonl`, sentences checked by a native speaker.",
+             "chrF compares letters, not meaning, so a correct answer in other words scores below 100. "
+             "Every answer is in `eval/results/`.", "",
+             "| Date | Model | Paite → English | English → Paite | Sentences |",
+             "|------|-------|-----------------|-----------------|-----------|"]
+    for path in sorted((EVAL / "results").glob("*.jsonl")):
+        rows = [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line]
+        s = summarize(rows)
+        lines.append(f"| {rows[0].get('date', '')} | `{rows[0].get('model', path.stem)}` | "
+                     f"{s['pck-en']:.1f} | {s['en-pck']:.1f} | {s['n']} |")
+    (EVAL / "RESULTS.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def _self_check() -> None:
@@ -108,15 +143,21 @@ def _self_check() -> None:
 
 
 if __name__ == "__main__":
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")  # Windows consoles default to cp1252
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("models", nargs="*")
     parser.add_argument("--base-url", default="https://openrouter.ai/api/v1")
     parser.add_argument("--self-check", action="store_true")
+    parser.add_argument("--rescore", action="store_true", help="re-score saved answers after accepted answers change")
     args = parser.parse_args()
     if args.self_check:
         _self_check()
         print("self-check passed")
+    if args.rescore:
+        rescore()
     for model in args.models:
-        scores = evaluate(args.base_url, model)
-        record(model, scores)
-        print(f"{model}: Paite→English {scores['pck-en']:.1f}, English→Paite {scores['en-pck']:.1f}")
+        s = summarize(evaluate(args.base_url, model))
+        print(f"{model}: Paite→English {s['pck-en']:.1f}, English→Paite {s['en-pck']:.1f}")
+    if args.rescore or args.models:
+        write_results()
+        print((EVAL / "RESULTS.md").read_text(encoding="utf-8"))
