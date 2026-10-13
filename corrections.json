@@ -71,10 +71,10 @@
     {
       "paite": "Tes tes lah ahi.",
       "english": "This is a test.",
-      "notes": "unit test",
-      "status": "verified",
+      "notes": "Unit-test artifact from Levia, not real Paite.",
+      "status": "rejected",
       "added_at": "2026-08-30T03:58:18+0530",
-      "updated_at": "2026-08-31T16:43:32+0530"
+      "updated_at": "2026-10-13T22:50:37+0530"
     },
     {
       "paite": "Mangpha phot le.",
