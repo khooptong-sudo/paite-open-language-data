@@ -2,203 +2,251 @@
   {
     "verse": 1,
     "paite": "Huchi in mipite amuh in tang a paitou in atu a, akiang ah anungzuite hong pai uhi.",
-    "heading": "Jesu Tang Tung Thugente / (Luk 5.1-7.29)"
+    "heading": "Jesu Tang Tung Thugente / (Luk 5.1-7.29)",
+    "english": "Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him."
   },
   {
     "verse": 2,
-    "paite": "Huan thu agen a, amaute thu ahilh hi."
+    "paite": "Huan thu agen a, amaute thu ahilh hi.",
+    "english": "He opened his mouth and taught them, saying,"
   },
   {
     "verse": 3,
     "paite": "\"Lungsim a gentheite ahampha uh, van-gam amaute a ahi ngal a.",
-    "heading": "Kipahna Dik / (Luk 6.20-23)"
+    "heading": "Kipahna Dik / (Luk 6.20-23)",
+    "english": "“Blessed are the poor in spirit, for theirs is the Kingdom of Heaven."
   },
   {
     "verse": 4,
-    "paite": "Lungkhamte ahampha uh, khamuan a om ding ahi ngal ua."
+    "paite": "Lungkhamte ahampha uh, khamuan a om ding ahi ngal ua.",
+    "english": "Blessed are those who mourn, for they shall be comforted."
   },
   {
     "verse": 5,
-    "paite": "Thunuailutte ahampha uh, leigou luah ding ahi ngal ua."
+    "paite": "Thunuailutte ahampha uh, leigou luah ding ahi ngal ua.",
+    "english": "Blessed are the gentle, for they shall inherit the earth."
   },
   {
     "verse": 6,
-    "paite": "Diktatna lunggulh a gilkial leh dangtakte ahampha uh, tai ding ahi ngal ua."
+    "paite": "Diktatna lunggulh a gilkial leh dangtakte ahampha uh, tai ding ahi ngal ua.",
+    "english": "Blessed are those who hunger and thirst for righteousness, for they shall be filled."
   },
   {
     "verse": 7,
-    "paite": "Zahngaitheite ahampha uh, zahngaihna mu ding ahi ngal ua."
+    "paite": "Zahngaitheite ahampha uh, zahngaihna mu ding ahi ngal ua.",
+    "english": "Blessed are the merciful, for they shall obtain mercy."
   },
   {
     "verse": 8,
-    "paite": "Lungsim a siangthoute ahampha uh, Pathian mu ding ahi ngal ua."
+    "paite": "Lungsim a siangthoute ahampha uh, Pathian mu ding ahi ngal ua.",
+    "english": "Blessed are the pure in heart, for they shall see God."
   },
   {
     "verse": 9,
-    "paite": "Lemna bawlte ahampha uh, Pathian tate chih ding ahi ngal ua."
+    "paite": "Lemna bawlte ahampha uh, Pathian tate chih ding ahi ngal ua.",
+    "english": "Blessed are the peacemakers, for they shall be called children of God."
   },
   {
     "verse": 10,
-    "paite": "Diktatna ziak a sawina thuakte ahampha uh, van-gam amau a ahi ngal a."
+    "paite": "Diktatna ziak a sawina thuakte ahampha uh, van-gam amau a ahi ngal a.",
+    "english": "Blessed are those who have been persecuted for righteousness’ sake, for theirs is the Kingdom of Heaven."
   },
   {
     "verse": 11,
-    "paite": "\"Mi'n keimah ziak a ahon tai ua, ahon sawi ua, zuau a gilou chiteng a hon hek hun chiang un, na hampha uhi."
+    "paite": "\"Mi'n keimah ziak a ahon tai ua, ahon sawi ua, zuau a gilou chiteng a hon hek hun chiang un, na hampha uhi.",
+    "english": "“Blessed are you when people reproach you, persecute you, and say all kinds of evil against you falsely, for my sake."
   },
   {
     "verse": 12,
-    "paite": "Kipak unla, nakpitak in nuam un, van ah na kipahman uh athupi ngal a; huchi mah bang in na ma ua zawlnei omte leng ana sawi zel uhi."
+    "paite": "Kipak unla, nakpitak in nuam un, van ah na kipahman uh athupi ngal a; huchi mah bang in na ma ua zawlnei omte leng ana sawi zel uhi.",
+    "english": "Rejoice, and be exceedingly glad, for great is your reward in heaven. For that is how they persecuted the prophets who were before you."
   },
   {
     "verse": 13,
     "paite": "\"Lei chi na hi uh, himahleh chi peng taleh, bang in ahia ahih al nawn ding? Paihkhiak a mihingte chilgawp ding louh ngal, bangmah ding in aphatuam kei hi.",
-    "heading": "Chi Leh Vak Etsakna / (Mar 9.50; Luk 14.34-35)"
+    "heading": "Chi Leh Vak Etsakna / (Mar 9.50; Luk 14.34-35)",
+    "english": "“You are the salt of the earth, but if the salt has lost its flavor, with what will it be salted? It is then good for nothing, but to be cast out and trodden under the feet of men."
   },
   {
     "verse": 14,
-    "paite": "\"Khovel vak na hi uh. Mual tung a khopi om selguk theih ahi kei."
+    "paite": "\"Khovel vak na hi uh. Mual tung a khopi om selguk theih ahi kei.",
+    "english": "“You are the light of the world. A city located on a hill can’t be hidden."
   },
   {
     "verse": 15,
-    "paite": "Mi'n khawnvak de in loh nuai ah akoih ngei kei ua, akoihna ah akoih zaw uhi. Huchi in insung a om tengteng atanvak hi."
+    "paite": "Mi'n khawnvak de in loh nuai ah akoih ngei kei ua, akoihna ah akoih zaw uhi. Huchi in insung a om tengteng atanvak hi.",
+    "english": "Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house."
   },
   {
     "verse": 16,
-    "paite": "Huchi mah bang in, na vak uh mite mitmuh ding in vak hen, huchi in na thil hoih hihte uh amu ding ua, na Pa uh van a om apahtawi thei ding uhi."
+    "paite": "Huchi mah bang in, na vak uh mite mitmuh ding in vak hen, huchi in na thil hoih hihte uh amu ding ua, na Pa uh van a om apahtawi thei ding uhi.",
+    "english": "Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven."
   },
   {
     "verse": 17,
     "paite": "\"Dan hiam zawlneite thu hihmang ding a hong pai in hon ngaihtuah kei un; hihmang ding a hong pai ka hi kei a, hihtangtung ding a hong pai ka hi zaw hi.",
-    "heading": "Dan Leh Zawlneite Thu"
+    "heading": "Dan Leh Zawlneite Thu",
+    "english": "“Don’t think that I came to destroy the law or the prophets. I didn’t come to destroy, but to fulfill."
   },
   {
     "verse": 18,
-    "paite": "Chihtaktak in ka hon hilh ahi, lei leh van aman ma, avek a atunkim masiah uh dan thu a sutvom neuchik hiam, thaivom neuchik hiam, khat leng amang kei hial ding."
+    "paite": "Chihtaktak in ka hon hilh ahi, lei leh van aman ma, avek a atunkim masiah uh dan thu a sutvom neuchik hiam, thaivom neuchik hiam, khat leng amang kei hial ding.",
+    "english": "For most certainly, I tell you, until heaven and earth pass away, not even one smallest letter or one tiny pen stroke shall in any way pass away from the law, until all things are accomplished."
   },
   {
     "verse": 19,
-    "paite": "Huchi in kuapeuh hiai thupiak neupente lak a khat bohsia a, huai zui dia mite thuhilh peuhmah, van-gam ah mineupen akichi ding; himahleh kuapeuh zui a thuhilh behlapte, van-gam ah milian akichi ding hi."
+    "paite": "Huchi in kuapeuh hiai thupiak neupente lak a khat bohsia a, huai zui dia mite thuhilh peuhmah, van-gam ah mineupen akichi ding; himahleh kuapeuh zui a thuhilh behlapte, van-gam ah milian akichi ding hi.",
+    "english": "Therefore, whoever shall break one of these least commandments and teach others to do so, shall be called least in the Kingdom of Heaven; but whoever shall do and teach them shall be called great in the Kingdom of Heaven."
   },
   {
     "verse": 20,
-    "paite": "Na diktatna un laigelhmite leh Pharisaite diktatna akhup kei in zaw van-gam ah na lut kei hial ding uh chih ka hon hilh ahi."
+    "paite": "Na diktatna un laigelhmite leh Pharisaite diktatna akhup kei in zaw van-gam ah na lut kei hial ding uh chih ka hon hilh ahi.",
+    "english": "For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, there is no way you will enter into the Kingdom of Heaven."
   },
   {
     "verse": 21,
     "paite": "\"Nidanglai a mite kiang ah, 'Tual na that ding ahi kei,' kichi leh, 'Kuapeuh tualthat vaihawmna a ding in lauhuai in a-om ding, kichi na zata uh.",
-    "heading": "Hehna Leh Thangpaihna / (Luk 12.57-59)"
+    "heading": "Hehna Leh Thangpaihna / (Luk 12.57-59)",
+    "english": "“You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’"
   },
   {
     "verse": 22,
-    "paite": "Ke'n zaw, kuapeuh a-unau tung a heh vaihawmna a ding in lauhthawnhuaitak in a-om ding. Kuapeuh a-unau selphou vaihawmte hawmsak a om lauhthawnhuaitak in a-om ding; 'Nang mihai' chi kuapeuh Gehenna mei a paih lauhthawnhuaitak in a-om ding uh, chih ka hon hilh ahi."
+    "paite": "Ke'n zaw, kuapeuh a-unau tung a heh vaihawmna a ding in lauhthawnhuaitak in a-om ding. Kuapeuh a-unau selphou vaihawmte hawmsak a om lauhthawnhuaitak in a-om ding; 'Nang mihai' chi kuapeuh Gehenna mei a paih lauhthawnhuaitak in a-om ding uh, chih ka hon hilh ahi.",
+    "english": "But I tell you that everyone who is angry with his brother without a cause will be in danger of the judgment. Whoever says to his brother, ‘Raca!’ will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna."
   },
   {
     "verse": 23,
-    "paite": "Huaiziak in maitam a na thilpiak na lat lai a na unau in na tung ah lung hihlouhna anei chih na theihkhiakleh,"
+    "paite": "Huaiziak in maitam a na thilpiak na lat lai a na unau in na tung ah lung hihlouhna anei chih na theihkhiakleh,",
+    "english": "“If therefore you are offering your gift at the altar, and there remember that your brother has anything against you,"
   },
   {
     "verse": 24,
-    "paite": "huai maitam ma a na thilpiak nusia in pai inla, na unau kilempih in, huai zoh in na thilpiak lan in."
+    "paite": "huai maitam ma a na thilpiak nusia in pai inla, na unau kilempih in, huai zoh in na thilpiak lan in.",
+    "english": "leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
   },
   {
     "verse": 25,
-    "paite": "Na langpa toh vaihawmna inn zuan a lampi a na paikhawm lai un kilempih in, huchi lou in zaw na langpa'n thukhenmi khut ah hon pe dia, thukhenmi'n mimanpa kiang ah hon pe dia; suangkul ah hon khum kha ding hi."
+    "paite": "Na langpa toh vaihawmna inn zuan a lampi a na paikhawm lai un kilempih in, huchi lou in zaw na langpa'n thukhenmi khut ah hon pe dia, thukhenmi'n mimanpa kiang ah hon pe dia; suangkul ah hon khum kha ding hi.",
+    "english": "Agree with your adversary quickly while you are with him on the way; lest perhaps the prosecutor deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison."
   },
   {
     "verse": 26,
-    "paite": "Chihtaktak in ka hon hilh ahi, paihsa san khat nangawn na piak kim masiah huai a kipan in na pawtkhe kei hial ding hi."
+    "paite": "Chihtaktak in ka hon hilh ahi, paihsa san khat nangawn na piak kim masiah huai a kipan in na pawtkhe kei hial ding hi.",
+    "english": "Most certainly I tell you, you shall by no means get out of there until you have paid the last penny."
   },
   {
     "verse": 27,
     "paite": "\"Nidanglai mite'n 'Ang na kawm ding ahi kei' achih uh na zata uhi.",
-    "heading": "Angkawm Thu A Sinsakna"
+    "heading": "Angkawm Thu A Sinsakna",
+    "english": "“You have heard that it was said, ‘You shall not commit adultery;’"
   },
   {
     "verse": 28,
-    "paite": "Himahleh ke'n zaw kuapeuh etlahna lungsim toh numei en in, alungsim in angkawm ahi chih ka hon hilh ahi."
+    "paite": "Himahleh ke'n zaw kuapeuh etlahna lungsim toh numei en in, alungsim in angkawm ahi chih ka hon hilh ahi.",
+    "english": "but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart."
   },
   {
     "verse": 29,
-    "paite": "Na mit taklam in hon hihpukleh, khelkhia inla paihmang in; na pumpi Gehenna a pai sang in na pumpi a hiang khat manthat nang a ding in ahoihzaw hi."
+    "paite": "Na mit taklam in hon hihpukleh, khelkhia inla paihmang in; na pumpi Gehenna a pai sang in na pumpi a hiang khat manthat nang a ding in ahoihzaw hi.",
+    "english": "If your right eye causes you to stumble, pluck it out and throw it away from you. For it is more profitable for you that one of your members should perish than for your whole body to be cast into Gehenna."
   },
   {
     "verse": 30,
-    "paite": "Na khut taklam in hon hihpukleh, tankhia inla paihmang in; na pumpi a Gehenna a pai sang in, na pumpi a hiang khat manthat nang a ding in ahoihzaw hi."
+    "paite": "Na khut taklam in hon hihpukleh, tankhia inla paihmang in; na pumpi a Gehenna a pai sang in, na pumpi a hiang khat manthat nang a ding in ahoihzaw hi.",
+    "english": "If your right hand causes you to stumble, cut it off, and throw it away from you. For it is more profitable for you that one of your members should perish, than for your whole body to be cast into Gehenna."
   },
   {
     "verse": 31,
     "paite": "\"Kuapeuh zi ma in kimakna lai akiang ah pia heh, leng akichi.",
-    "heading": "Kimak Thu A Thuhilhna / (Mat 19.9; Mar 10.11-12; Luk 16.18)"
+    "heading": "Kimak Thu A Thuhilhna / (Mat 19.9; Mar 10.11-12; Luk 16.18)",
+    "english": "“It was also said, ‘Whoever shall put away his wife, let him give her a writing of divorce,’"
   },
   {
     "verse": 32,
-    "paite": "Ke'n zaw kuapeuh kingaihna ziak hilou a zi ma in amah angkawmsak ahi, kuapeuh maksa nei nawn angkawm ahi chih ka hon hilh ahi."
+    "paite": "Ke'n zaw kuapeuh kingaihna ziak hilou a zi ma in amah angkawmsak ahi, kuapeuh maksa nei nawn angkawm ahi chih ka hon hilh ahi.",
+    "english": "but I tell you that whoever puts away his wife, except for the cause of sexual immorality, makes her an adulteress; and whoever marries her when she is put away commits adultery."
   },
   {
     "verse": 33,
     "paite": "\"Nidanglai in mite kiang ah, 'Zuau in kichiam ke'nla, Toupa kiang ah na kichiamnate tangtun zaw in,' akichi chih leng na zata uhi.",
-    "heading": "Kichiam Thu A Thuhilhna"
+    "heading": "Kichiam Thu A Thuhilhna",
+    "english": "“Again you have heard that it was said to the ancient ones, ‘You shall not make false vows, but shall perform to the Lord your vows,’"
   },
   {
     "verse": 34,
-    "paite": "Ke'n zaw ka hon hilh ahi, chiam himhim kichiam kei un; van lou in kichiam kei un, huai Pathian laltutphah ahi ngal a; lei lou in kichiam sam kei un, huai akhe ngakna ahi."
+    "paite": "Ke'n zaw ka hon hilh ahi, chiam himhim kichiam kei un; van lou in kichiam kei un, huai Pathian laltutphah ahi ngal a; lei lou in kichiam sam kei un, huai akhe ngakna ahi.",
+    "english": "but I tell you, don’t swear at all: neither by heaven, for it is the throne of God;"
   },
   {
     "verse": 35,
-    "paite": "Jerusalem lou in kichiam sam kei un, huai Kumpipa thupitak khopi ahi."
+    "paite": "Jerusalem lou in kichiam sam kei un, huai Kumpipa thupitak khopi ahi.",
+    "english": "nor by the earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King."
   },
   {
     "verse": 36,
-    "paite": "Na lutang lou in na kichiam ding ahi sam kei, samzang khat lel leng na hihngou in, na hihvom thei ngal kei uhi."
+    "paite": "Na lutang lou in na kichiam ding ahi sam kei, samzang khat lel leng na hihngou in, na hihvom thei ngal kei uhi.",
+    "english": "Neither shall you swear by your head, for you can’t make one hair white or black."
   },
   {
     "verse": 37,
-    "paite": "Na thugen uh, 'Ahi, hi henla,' 'Hilou, hilou,' hi vanglak hen, akan-aval zaw gitlouhna asuak ahi."
+    "paite": "Na thugen uh, 'Ahi, hi henla,' 'Hilou, hilou,' hi vanglak hen, akan-aval zaw gitlouhna asuak ahi.",
+    "english": "But let your ‘Yes’ be ‘Yes’ and your ‘No’ be ‘No.’ Whatever is more than these is of the evil one."
   },
   {
     "verse": 38,
     "paite": "\"Mit sik in mit, ha sik in ha, akichi chih na zata uhi.",
-    "heading": "Phulakna Thu A Thuhilhna / (Luk 6.29-30)"
+    "heading": "Phulakna Thu A Thuhilhna / (Luk 6.29-30)",
+    "english": "“You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’"
   },
   {
     "verse": 39,
-    "paite": "Ke'n zaw ka hon hilh ahi. Migilou nang kei un; na taklam biang bengte, alehlam leng doh zaw un."
+    "paite": "Ke'n zaw ka hon hilh ahi. Migilou nang kei un; na taklam biang bengte, alehlam leng doh zaw un.",
+    "english": "But I tell you, don’t resist him who is evil; but whoever strikes you on your right cheek, turn to him the other also."
   },
   {
     "verse": 40,
-    "paite": "Kuapeuh in na lak ah thusia bawl ut in, na puanak lak atupleh, na puanza leng lasak ngal in."
+    "paite": "Kuapeuh in na lak ah thusia bawl ut in, na puanak lak atupleh, na puanza leng lasak ngal in.",
+    "english": "If anyone sues you to take away your coat, let him have your cloak also."
   },
   {
     "verse": 41,
-    "paite": "Huan mel khat pai dia hon phut kiang ah mel nih pai in."
+    "paite": "Huan mel khat pai dia hon phut kiang ah mel nih pai in.",
+    "english": "Whoever compels you to go one mile, go with him two."
   },
   {
     "verse": 42,
-    "paite": "Ahon ngen kiang ah pia inla, nang lak a leitawi nuam kiheisan ke'n."
+    "paite": "Ahon ngen kiang ah pia inla, nang lak a leitawi nuam kiheisan ke'n.",
+    "english": "Give to him who asks you, and don’t turn away him who desires to borrow from you."
   },
   {
     "verse": 43,
     "paite": "\"Na vengte it inla, na melmate hua in, akichi chih na zata uhi.",
-    "heading": "Melmate Itna / (Luk 6.27-28; Luk 6.32-36)"
+    "heading": "Melmate Itna / (Luk 6.27-28; Luk 6.32-36)",
+    "english": "“You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’"
   },
   {
     "verse": 44,
-    "paite": "Ke'n zaw ka hon hilh ahi, na melmate uh it unla, hon sawite thumsak un."
+    "paite": "Ke'n zaw ka hon hilh ahi, na melmate uh it unla, hon sawite thumsak un.",
+    "english": "But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you,"
   },
   {
     "verse": 45,
-    "paite": "Na Pa uh van a om tate na hihtheihna ding un. Ama'n migiloute leh mihoihte tung ah anisa asuaksak a, midiktatte leh diktatloute tung ah leng vuah azusak hi."
+    "paite": "Na Pa uh van a om tate na hihtheihna ding un. Ama'n migiloute leh mihoihte tung ah anisa asuaksak a, midiktatte leh diktatloute tung ah leng vuah azusak hi.",
+    "english": "that you may be children of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust."
   },
   {
     "verse": 46,
-    "paite": "Nou hon itte kia na it un, kipahman bang ahia na muh ding uh? Siahkhon mite'n leng huchibang in ahih sam kei ua hia?"
+    "paite": "Nou hon itte kia na it un, kipahman bang ahia na muh ding uh? Siahkhon mite'n leng huchibang in ahih sam kei ua hia?",
+    "english": "For if you love those who love you, what reward do you have? Don’t even the tax collectors do the same?"
   },
   {
     "verse": 47,
-    "paite": "Huan na unaute kia uh chibai na buk un bang na hihtam tuan ua ahia? Zentelte'n leng hichibang in ahih sam kei ua hia?"
+    "paite": "Huan na unaute kia uh chibai na buk un bang na hihtam tuan ua ahia? Zentelte'n leng hichibang in ahih sam kei ua hia?",
+    "english": "If you only greet your friends, what more do you do than others? Don’t even the tax collectors do the same?"
   },
   {
     "verse": 48,
-    "paite": "Huchi in na Pa uh van a om ahoihkim sipsip bang in na hoihkim sipsip ding uh ahi.\""
+    "paite": "Huchi in na Pa uh van a om ahoihkim sipsip bang in na hoihkim sipsip ding uh ahi.\"",
+    "english": "Therefore you shall be perfect, just as your Father in heaven is perfect."
   }
 ]

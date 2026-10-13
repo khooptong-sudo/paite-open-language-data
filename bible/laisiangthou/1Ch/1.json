@@ -2,225 +2,279 @@
   {
     "verse": 1,
     "paite": "Adam, Seth, Enosh;",
-    "heading": "Adam A Kipan Noah Suante / (Gen 5.1-32; 10.1-32; 11.10-26)"
+    "heading": "Adam A Kipan Noah Suante / (Gen 5.1-32; 10.1-32; 11.10-26)",
+    "english": "Adam, Seth, Enosh,"
   },
   {
     "verse": 2,
-    "paite": "Kenan, Mahalalel, Jared;"
+    "paite": "Kenan, Mahalalel, Jared;",
+    "english": "Kenan, Mahalalel, Jared,"
   },
   {
     "verse": 3,
-    "paite": "Enok, Methuselah, Lamekh;"
+    "paite": "Enok, Methuselah, Lamekh;",
+    "english": "Enoch, Methuselah, Lamech,"
   },
   {
     "verse": 4,
-    "paite": "Noah, Shem, Ham leh Japheth."
+    "paite": "Noah, Shem, Ham leh Japheth.",
+    "english": "Noah, Shem, Ham, and Japheth."
   },
   {
     "verse": 5,
     "paite": "Japheth tapate: Gomer, Magog, Madai, Javan, Tubal, Meshek leh Tiras ahi uh.",
-    "heading": "Japheth Suante"
+    "heading": "Japheth Suante",
+    "english": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
   },
   {
     "verse": 6,
-    "paite": "Gomer tapate: Ashkenaz, Riphath, leh Togarmah ahi uh."
+    "paite": "Gomer tapate: Ashkenaz, Riphath, leh Togarmah ahi uh.",
+    "english": "The sons of Gomer: Ashkenaz, Diphath, and Togarmah."
   },
   {
     "verse": 7,
-    "paite": "Javan tapate: Elishah, Tarshish, Kittim, leh Rodanim ahi uh."
+    "paite": "Javan tapate: Elishah, Tarshish, Kittim, leh Rodanim ahi uh.",
+    "english": "The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim."
   },
   {
     "verse": 8,
     "paite": "Ham tapate: Kush, Mizraim, leh Put, Kanaan ahi uh.",
-    "heading": "Ham Suante"
+    "heading": "Ham Suante",
+    "english": "The sons of Ham: Cush, Mizraim, Put, and Canaan."
   },
   {
     "verse": 9,
-    "paite": "Kus tapate: Seba, Havilah, Sabta, Raamah leh Sabtekhah ahi uh. Raamah tapate: Seba, leh Dedan ahi uh."
+    "paite": "Kus tapate: Seba, Havilah, Sabta, Raamah leh Sabtekhah ahi uh. Raamah tapate: Seba, leh Dedan ahi uh.",
+    "english": "The sons of Cush: Seba, Havilah, Sabta, Raama, Sabteca. The sons of Raamah: Sheba and Dedan."
   },
   {
     "verse": 10,
-    "paite": "Kush in Nimrod asuang a; amah lei ah mihat ahong hi pan hi."
+    "paite": "Kush in Nimrod asuang a; amah lei ah mihat ahong hi pan hi.",
+    "english": "Cush became the father of Nimrod. He began to be a mighty one on the earth."
   },
   {
     "verse": 11,
-    "paite": "Mizraim in Ludte, Anamte, Lahabte, Naphtuhte,"
+    "paite": "Mizraim in Ludte, Anamte, Lahabte, Naphtuhte,",
+    "english": "Mizraim became the father of Ludim, Anamim, Lehabim, Naphtuhim,"
   },
   {
     "verse": 12,
-    "paite": "Pathruste, Kasluhte, Philistiate hong kipatna leh Kaphtorte asuang hi."
+    "paite": "Pathruste, Kasluhte, Philistiate hong kipatna leh Kaphtorte asuang hi.",
+    "english": "Pathrusim, Casluhim (where the Philistines came from), and Caphtorim."
   },
   {
     "verse": 13,
-    "paite": "Kanaan in Zidon ata masapen leh Heth asuang a;"
+    "paite": "Kanaan in Zidon ata masapen leh Heth asuang a;",
+    "english": "Canaan became the father of Sidon his firstborn, Heth,"
   },
   {
     "verse": 14,
-    "paite": "Jebus mi, Amor mi, Girgas mi;"
+    "paite": "Jebus mi, Amor mi, Girgas mi;",
+    "english": "the Jebusite, the Amorite, the Girgashite,"
   },
   {
     "verse": 15,
-    "paite": "Hiv mi, Arki mi, Sin mi."
+    "paite": "Hiv mi, Arki mi, Sin mi.",
+    "english": "the Hivite, the Arkite, the Sinite,"
   },
   {
     "verse": 16,
-    "paite": "Arvad mi, Zemar mi leh Hamath mi leng asuang hi."
+    "paite": "Arvad mi, Zemar mi leh Hamath mi leng asuang hi.",
+    "english": "the Arvadite, the Zemarite, and the Hamathite."
   },
   {
     "verse": 17,
     "paite": "Shem tapate: Elam, Asshur, Arpakshad, Lud, Aram, Uz, Hul, Gether, leh Meshek.",
-    "heading": "Shem Suante"
+    "heading": "Shem Suante",
+    "english": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech."
   },
   {
     "verse": 18,
-    "paite": "Arpakshad in Shelah asuang a, huan Shelah in Eber asuang hi."
+    "paite": "Arpakshad in Shelah asuang a, huan Shelah in Eber asuang hi.",
+    "english": "Arpachshad became the father of Shelah, and Shelah became the father of Eber."
   },
   {
     "verse": 19,
-    "paite": "Eber lak ah tapa nih apiang ua: khat pen min Peleg ahi (adam lai in lah lei akikhen ngal a), a-unaupa min Joktan ahi."
+    "paite": "Eber lak ah tapa nih apiang ua: khat pen min Peleg ahi (adam lai in lah lei akikhen ngal a), a-unaupa min Joktan ahi.",
+    "english": "To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided; and his brother’s name was Joktan."
   },
   {
     "verse": 20,
-    "paite": "Joktan in Almodad, Seleph, Hazarmaveth, Jerah;"
+    "paite": "Joktan in Almodad, Seleph, Hazarmaveth, Jerah;",
+    "english": "Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,"
   },
   {
     "verse": 21,
-    "paite": "Hadoram, Uzal, Diklah;"
+    "paite": "Hadoram, Uzal, Diklah;",
+    "english": "Hadoram, Uzal, Diklah,"
   },
   {
     "verse": 22,
-    "paite": "Ebal, Abimael, Sheba;"
+    "paite": "Ebal, Abimael, Sheba;",
+    "english": "Ebal, Abimael, Sheba,"
   },
   {
     "verse": 23,
-    "paite": "Ophir, Havilah, leh Jobab asuang hi. Hiaite tengteng Joktan tapate ahi uh."
+    "paite": "Ophir, Havilah, leh Jobab asuang hi. Hiaite tengteng Joktan tapate ahi uh.",
+    "english": "Ophir, Havilah, and Jobab. All these were the sons of Joktan."
   },
   {
     "verse": 24,
-    "paite": "Shem, Arpakshad, Shelah;"
+    "paite": "Shem, Arpakshad, Shelah;",
+    "english": "Shem, Arpachshad, Shelah,"
   },
   {
     "verse": 25,
-    "paite": "Eber, Peleg, Reu;"
+    "paite": "Eber, Peleg, Reu;",
+    "english": "Eber, Peleg, Reu,"
   },
   {
     "verse": 26,
-    "paite": "Serug, Nahor, Terah;"
+    "paite": "Serug, Nahor, Terah;",
+    "english": "Serug, Nahor, Terah,"
   },
   {
     "verse": 27,
-    "paite": "Abram, huai mah Abraham ahi."
+    "paite": "Abram, huai mah Abraham ahi.",
+    "english": "Abram (also called Abraham)."
   },
   {
     "verse": 28,
     "paite": "Abraham tapate: Isak leh Ishmael ahi.",
-    "heading": "Abraham Suante / (Gen 25.12-16)"
+    "heading": "Abraham Suante / (Gen 25.12-16)",
+    "english": "The sons of Abraham: Isaac and Ishmael."
   },
   {
     "verse": 29,
-    "paite": "Hiaite akhang kizopdan uh ahi: Ishmael ta masapen Nebajoth ahi. Huan Kedar, Adbeel, Mibsam,"
+    "paite": "Hiaite akhang kizopdan uh ahi: Ishmael ta masapen Nebajoth ahi. Huan Kedar, Adbeel, Mibsam,",
+    "english": "These are their generations: the firstborn of Ishmael, Nebaioth; then Kedar, Adbeel, Mibsam,"
   },
   {
     "verse": 30,
-    "paite": "Mishma, Dumah, Massa; Hadad, Tema,"
+    "paite": "Mishma, Dumah, Massa; Hadad, Tema,",
+    "english": "Mishma, Dumah, Massa, Hadad, Tema,"
   },
   {
     "verse": 31,
-    "paite": "Jetur, Naphish, leh Kedemah. Hiaite Ishmael tapate ahi uh."
+    "paite": "Jetur, Naphish, leh Kedemah. Hiaite Ishmael tapate ahi uh.",
+    "english": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael."
   },
   {
     "verse": 32,
-    "paite": "Keturah, Abraham mei tapate: Zimran, Jokshan, Medan, Midian, Ishbak, leh Shuah ahi. Jokshan tapate: Sheba leh Dedan ahi uh."
+    "paite": "Keturah, Abraham mei tapate: Zimran, Jokshan, Medan, Midian, Ishbak, leh Shuah ahi. Jokshan tapate: Sheba leh Dedan ahi uh.",
+    "english": "The sons of Keturah, Abraham’s concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan."
   },
   {
     "verse": 33,
-    "paite": "Midian tapate: Ephah, Epher, Honok, Abida, leh Eldaah ahi uh. Hiaite tengteng Keturah suante ahi uh."
+    "paite": "Midian tapate: Ephah, Epher, Honok, Abida, leh Eldaah ahi uh. Hiaite tengteng Keturah suante ahi uh.",
+    "english": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah."
   },
   {
     "verse": 34,
-    "paite": "Abraham in Isak asuang hi. Isak tapate: Esau leh Israel ahi uh."
+    "paite": "Abraham in Isak asuang hi. Isak tapate: Esau leh Israel ahi uh.",
+    "english": "Abraham became the father of Isaac. The sons of Isaac: Esau and Israel."
   },
   {
     "verse": 35,
     "paite": "Esau tapate: Eliphaz, Reuel, Jeush, Jaalam, leh Korah ahi uh.",
-    "heading": "Esau Suante / (Gen 36.1-19)"
+    "heading": "Esau Suante / (Gen 36.1-19)",
+    "english": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah."
   },
   {
     "verse": 36,
-    "paite": "Eliphaz tapate: Teman, Omar, Zephi, Gatam, Kenaz, Timna, leh Amalek ahi uh."
+    "paite": "Eliphaz tapate: Teman, Omar, Zephi, Gatam, Kenaz, Timna, leh Amalek ahi uh.",
+    "english": "The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek."
   },
   {
     "verse": 37,
-    "paite": "Reuel tapate: Nahath, Zerah, Shammah, leh Mizzah ahi uh."
+    "paite": "Reuel tapate: Nahath, Zerah, Shammah, leh Mizzah ahi uh.",
+    "english": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah."
   },
   {
     "verse": 38,
     "paite": "Seir tapate: Lotan, Shobal, Zibeon, Anah, Dishon, Ezar leh Dishan ahi uh.",
-    "heading": "Edom Gam Mi Masate / (Gen 36.20-30)"
+    "heading": "Edom Gam Mi Masate / (Gen 36.20-30)",
+    "english": "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan."
   },
   {
     "verse": 39,
-    "paite": "Lotan tapate: Hori leh Homam; leh Lotan sanggamnu Timna ahi uh."
+    "paite": "Lotan tapate: Hori leh Homam; leh Lotan sanggamnu Timna ahi uh.",
+    "english": "The sons of Lotan: Hori and Homam; and Timna was Lotan’s sister."
   },
   {
     "verse": 40,
-    "paite": "Shobal tapate: Alian, Manahath leh Ebal, Shephi leh Onam ahi uh. Huan Zibeon tapate: Aiah leh Anah ahi uh."
+    "paite": "Shobal tapate: Alian, Manahath leh Ebal, Shephi leh Onam ahi uh. Huan Zibeon tapate: Aiah leh Anah ahi uh.",
+    "english": "The sons of Shobal: Alian, Manahath, Ebal, Shephi, and Onam. The sons of Zibeon: Aiah and Anah."
   },
   {
     "verse": 41,
-    "paite": "Anah tapa Dishon ahi. Dishon tapate: Hamran, Eshban, Ithran leh Keran ahi uh."
+    "paite": "Anah tapa Dishon ahi. Dishon tapate: Hamran, Eshban, Ithran leh Keran ahi uh.",
+    "english": "The son of Anah: Dishon. The sons of Dishon: Hamran, Eshban, Ithran, and Cheran."
   },
   {
     "verse": 42,
-    "paite": "Ezer tapate: Bilhan, Zaavan leh Jaakan ahi uh. Dishan tapate: Uz leh Aran ahi uh."
+    "paite": "Ezer tapate: Bilhan, Zaavan leh Jaakan ahi uh. Dishan tapate: Uz leh Aran ahi uh.",
+    "english": "The sons of Ezer: Bilhan, Zaavan, and Jaakan. The sons of Dishan: Uz and Aran."
   },
   {
     "verse": 43,
     "paite": "Huchi in hiaite Israel suante tung a vaihawm kumpipate himhim a-om ma ua, Edom gam a vaihawm kumpipate ahi uhi. Beor tapa Bela, akhopi min Dinhabah ahi.",
-    "heading": "Edom Kumpipate / (Gen 36.31-43)"
+    "heading": "Edom Kumpipate / (Gen 36.31-43)",
+    "english": "Now these are the kings who reigned in the land of Edom, before any king reigned over the children of Israel: Bela the son of Beor; and the name of his city was Dinhabah."
   },
   {
     "verse": 44,
-    "paite": "Bela asi a, huchi in Bozrah a Zerah tapa Jobab in asik in vai ahawm hi."
+    "paite": "Bela asi a, huchi in Bozrah a Zerah tapa Jobab in asik in vai ahawm hi.",
+    "english": "Bela died, and Jobab the son of Zerah of Bozrah reigned in his place."
   },
   {
     "verse": 45,
-    "paite": "Jobab asi a, Teman mite gam a Husham in asik in vai ahawm hi."
+    "paite": "Jobab asi a, Teman mite gam a Husham in asik in vai ahawm hi.",
+    "english": "Jobab died, and Husham of the land of the Temanites reigned in his place."
   },
   {
     "verse": 46,
-    "paite": "Husham asi a, Bedad, Moab gam a Midian mi thattu, Bedad tapa Hadad in asik in vai ahawm a; akhopi min Avith ahi."
+    "paite": "Husham asi a, Bedad, Moab gam a Midian mi thattu, Bedad tapa Hadad in asik in vai ahawm a; akhopi min Avith ahi.",
+    "english": "Husham died, and Hadad the son of Bedad, who struck Midian in the field of Moab, reigned in his place; and the name of his city was Avith."
   },
   {
     "verse": 47,
-    "paite": "Hadad asi a, huchi in Masrekah mi Samlah in asik in vai ahawm hi."
+    "paite": "Hadad asi a, huchi in Masrekah mi Samlah in asik in vai ahawm hi.",
+    "english": "Hadad died, and Samlah of Masrekah reigned in his place."
   },
   {
     "verse": 48,
-    "paite": "Samlah asi a, huchi in lui kiang a Rehoboth a Shaul in asik in vai ahawm hi."
+    "paite": "Samlah asi a, huchi in lui kiang a Rehoboth a Shaul in asik in vai ahawm hi.",
+    "english": "Samlah died, and Shaul of Rehoboth by the River reigned in his place."
   },
   {
     "verse": 49,
-    "paite": "Shaul asi a, huchi in Akbor tapa Baal-hanan in asik in vai ahawm hi."
+    "paite": "Shaul asi a, huchi in Akbor tapa Baal-hanan in asik in vai ahawm hi.",
+    "english": "Shaul died, and Baal Hanan the son of Achbor reigned in his place."
   },
   {
     "verse": 50,
-    "paite": "Baal-hanan asi a, asik in Hadad in vai ahawm a, akhopi min Pai ahi; huan azi min Mehetabel, Matred tanu, Mezahab tanu ahi."
+    "paite": "Baal-hanan asi a, asik in Hadad in vai ahawm a, akhopi min Pai ahi; huan azi min Mehetabel, Matred tanu, Mezahab tanu ahi.",
+    "english": "Baal Hanan died, and Hadad reigned in his place; and the name of his city was Pai. His wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab."
   },
   {
     "verse": 51,
-    "paite": "Hadad leng asi hi. Edom hausa makaite: hausa makai Timnah, hausa makai Aliah, hausa makai Jetheth,"
+    "paite": "Hadad leng asi hi. Edom hausa makaite: hausa makai Timnah, hausa makai Aliah, hausa makai Jetheth,",
+    "english": "Then Hadad died. The chiefs of Edom were: chief Timna, chief Aliah, chief Jetheth,"
   },
   {
     "verse": 52,
-    "paite": "hausa makai Aholibamah, hausa makai Elah, hausa makai Pinon,"
+    "paite": "hausa makai Aholibamah, hausa makai Elah, hausa makai Pinon,",
+    "english": "chief Oholibamah, chief Elah, chief Pinon,"
   },
   {
     "verse": 53,
-    "paite": "hausa makai Kenaz, hausa makai Teman, hausa makai Mibzar,"
+    "paite": "hausa makai Kenaz, hausa makai Teman, hausa makai Mibzar,",
+    "english": "chief Kenaz, chief Teman, chief Mibzar,"
   },
   {
     "verse": 54,
-    "paite": "hausa makai Magdiel, leh hausa makai Iram; hiaite Edom hausa makaite ahi uhi."
+    "paite": "hausa makai Magdiel, leh hausa makai Iram; hiaite Edom hausa makaite ahi uhi.",
+    "english": "chief Magdiel, and chief Iram. These are the chiefs of Edom."
   }
 ]

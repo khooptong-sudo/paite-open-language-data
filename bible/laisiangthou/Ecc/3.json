@@ -2,91 +2,113 @@
   {
     "verse": 1,
     "paite": "Bangchiteng a ding in hunbi a om, van nuai a thiltup chiteng a ding in hun;",
-    "heading": "Bang Teng A Dia Hunbi"
+    "heading": "Bang Teng A Dia Hunbi",
+    "english": "For everything there is a season, and a time for every purpose under heaven:"
   },
   {
     "verse": 2,
-    "paite": "Pian hun leh sih hun; suan hun leh suansa bohkhiak hun;"
+    "paite": "Pian hun leh sih hun; suan hun leh suansa bohkhiak hun;",
+    "english": "a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;"
   },
   {
     "verse": 3,
-    "paite": "Thah hun leh hihdam hun; phel hun leh lam nawn hun;"
+    "paite": "Thah hun leh hihdam hun; phel hun leh lam nawn hun;",
+    "english": "a time to kill, and a time to heal; a time to break down, and a time to build up;"
   },
   {
     "verse": 4,
-    "paite": "Kah hun leh nuih hun; suun hun leh lam hun;"
+    "paite": "Kah hun leh nuih hun; suun hun leh lam hun;",
+    "english": "a time to weep, and a time to laugh; a time to mourn, and a time to dance;"
   },
   {
     "verse": 5,
-    "paite": "Suangte paihmang hun leh suangte lakkhawm hun; kawi hun leh kawi kidek hun;"
+    "paite": "Suangte paihmang hun leh suangte lakkhawm hun; kawi hun leh kawi kidek hun;",
+    "english": "a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;"
   },
   {
     "verse": 6,
-    "paite": "Zon hun leh mansuah hun; vom hun leh paihmang hun;"
+    "paite": "Zon hun leh mansuah hun; vom hun leh paihmang hun;",
+    "english": "a time to seek, and a time to lose; a time to keep, and a time to cast away;"
   },
   {
     "verse": 7,
-    "paite": "Bohkek hun leh khui hun; pau louh hun leh thugen hun;"
+    "paite": "Bohkek hun leh khui hun; pau louh hun leh thugen hun;",
+    "english": "a time to tear, and a time to sew; a time to keep silence, and a time to speak;"
   },
   {
     "verse": 8,
-    "paite": "It hun leh muhdah hun; kidou hun leh kilep hun."
+    "paite": "It hun leh muhdah hun; kidou hun leh kilep hun.",
+    "english": "a time to love, and a time to hate; a time for war, and a time for peace."
   },
   {
     "verse": 9,
-    "paite": "Asepgimna nasempa'n bang phattuamna anei a?"
+    "paite": "Asepgimna nasempa'n bang phattuamna anei a?",
+    "english": "What profit has he who works in that in which he labors?"
   },
   {
     "verse": 10,
-    "paite": "Huai akisawizoina ding a Pathian in mite tapate kiang a apiak haksatna ka muta hi."
+    "paite": "Huai akisawizoina ding a Pathian in mite tapate kiang a apiak haksatna ka muta hi.",
+    "english": "I have seen the burden which God has given to the sons of men to be afflicted with."
   },
   {
     "verse": 11,
-    "paite": "Thil chiteng ahun a kilawm in abawl a; alungtang uah khovel leng akoihta a, hinapi in mihing in Pathian nasep abul a kipan a atawp pha ahihsa amukhe thei kei hi."
+    "paite": "Thil chiteng ahun a kilawm in abawl a; alungtang uah khovel leng akoihta a, hinapi in mihing in Pathian nasep abul a kipan a atawp pha ahihsa amukhe thei kei hi.",
+    "english": "He has made everything beautiful in its time. He has also set eternity in their hearts, yet so that man can’t find out the work that God has done from the beginning even to the end."
   },
   {
     "verse": 12,
-    "paite": "Adamsung teng un kipah leh hoih hih sang a amau a dia hoihzaw bangmah a-om kei chih ka thei hi."
+    "paite": "Adamsung teng un kipah leh hoih hih sang a amau a dia hoihzaw bangmah a-om kei chih ka thei hi.",
+    "english": "I know that there is nothing better for them than to rejoice, and to do good as long as they live."
   },
   {
     "verse": 13,
-    "paite": "Michih in anek a adawn a, asepgimna tengteng a hoih leh nuam asakpih Pathian thilpiak ahi."
+    "paite": "Michih in anek a adawn a, asepgimna tengteng a hoih leh nuam asakpih Pathian thilpiak ahi.",
+    "english": "Also that every man should eat and drink, and enjoy good in all his labor, is the gift of God."
   },
   {
     "verse": 14,
-    "paite": "Bangpeuh Pathian in ahih, tangtawn in a-om ding chih ka thei a; huai ah bangmah akikoih thei kei ding a, huai a kipan in bangmah mah akilakhe thei sam kei ding; Pathian in ahih khinta a, huchi in ama ah mite'n alau ding uhi."
+    "paite": "Bangpeuh Pathian in ahih, tangtawn in a-om ding chih ka thei a; huai ah bangmah akikoih thei kei ding a, huai a kipan in bangmah mah akilakhe thei sam kei ding; Pathian in ahih khinta a, huchi in ama ah mite'n alau ding uhi.",
+    "english": "I know that whatever God does, it shall be forever. Nothing can be added to it, nor anything taken from it; and God has done it, that men should fear before him."
   },
   {
     "verse": 15,
-    "paite": "A-om khinsa pen; a-om ding a om khinsa ahi; huan Pathian in apaimangsa azong hi."
+    "paite": "A-om khinsa pen; a-om ding a om khinsa ahi; huan Pathian in apaimangsa azong hi.",
+    "english": "That which is has been long ago, and that which is to be has been long ago. God seeks again that which is passed away."
   },
   {
     "verse": 16,
     "paite": "Huchi in ni nuai ah, vaihawmna mun ah, gitlouhna a-om chih leng ka mu hi; huan diktatna mun ah, gitlouhna huai ah a-om hi.",
-    "heading": "Leitung A Diklouhna"
+    "heading": "Leitung A Diklouhna",
+    "english": "Moreover I saw under the sun, in the place of justice, that wickedness was there; and in the place of righteousness, that wickedness was there."
   },
   {
     "verse": 17,
-    "paite": "Ka lungtang in, \"Pathian in midiktat leh migilou angaihtuah ding; thiltup chiteng leh nasep chiteng a ding in hun a-om,\" ka chi hi."
+    "paite": "Ka lungtang in, \"Pathian in midiktat leh migilou angaihtuah ding; thiltup chiteng leh nasep chiteng a ding in hun a-om,\" ka chi hi.",
+    "english": "I said in my heart, “God will judge the righteous and the wicked; for there is a time there for every purpose and for every work.”"
   },
   {
     "verse": 18,
-    "paite": "Ka lungtang in, mite tapate ziak in ahi, Pathian in amau a-ettel a, amau mahmah gamsa bang lel ahihdan uh akitheihtheihna ding un."
+    "paite": "Ka lungtang in, mite tapate ziak in ahi, Pathian in amau a-ettel a, amau mahmah gamsa bang lel ahihdan uh akitheihtheihna ding un.",
+    "english": "I said in my heart, “As for the sons of men, God tests them, so that they may see that they themselves are like animals."
   },
   {
     "verse": 19,
-    "paite": "Mite tapate tung atung peuhmah lah gamsate tung ah atung ngal a; thil khat ngei atung uah atung a; khat asih bang in, huchi mah bang in adangdang asi a; ahi, hu khat aneikhawm ua; huan mihing in gamsate sang a masak zawkna anei kei; bang teng bangmah lou ahi ngal a."
+    "paite": "Mite tapate tung atung peuhmah lah gamsate tung ah atung ngal a; thil khat ngei atung uah atung a; khat asih bang in, huchi mah bang in adangdang asi a; ahi, hu khat aneikhawm ua; huan mihing in gamsate sang a masak zawkna anei kei; bang teng bangmah lou ahi ngal a.",
+    "english": "For that which happens to the sons of men happens to animals. Even one thing happens to them. As the one dies, so the other dies. Yes, they have all one breath; and man has no advantage over the animals, for all is vanity."
   },
   {
     "verse": 20,
-    "paite": "Bang teng mun khat ah apai ua; bang teng leivui a kipan ahi ua, bang teng leivui ah akik nawn uh."
+    "paite": "Bang teng mun khat ah apai ua; bang teng leivui a kipan ahi ua, bang teng leivui ah akik nawn uh.",
+    "english": "All go to one place. All are from the dust, and all turn to dust again."
   },
   {
     "verse": 21,
-    "paite": "Mihing kha tunglam a paitouleh gamsa kha nuailam a paisuk ahihdan kua ahia thei?"
+    "paite": "Mihing kha tunglam a paitouleh gamsa kha nuailam a paisuk ahihdan kua ahia thei?",
+    "english": "Who knows the spirit of man, whether it goes upward, and the spirit of the animal, whether it goes downward to the earth?”"
   },
   {
     "verse": 22,
-    "paite": "Huaiziak in mihing a nasepte a akipah ding sang a hoihzaw bangmah a-om kei chih ka thei hi; huai atantuan ahi ngal a; amah nung in bang ahi dia chih mu ding in amah kua'n hon pi nawn ahia le?"
+    "paite": "Huaiziak in mihing a nasepte a akipah ding sang a hoihzaw bangmah a-om kei chih ka thei hi; huai atantuan ahi ngal a; amah nung in bang ahi dia chih mu ding in amah kua'n hon pi nawn ahia le?",
+    "english": "Therefore I saw that there is nothing better than that a man should rejoice in his works, for that is his portion; for who can bring him to see what will be after him?"
   }
 ]

@@ -2,22 +2,27 @@
   {
     "verse": 1,
     "paite": "Gam tengteng aw, TOUPA pahtawi in nuamsatak in kikou un.",
-    "heading": "Phatna La / Kipahthu Genna"
+    "heading": "Phatna La / Kipahthu Genna",
+    "english": "A Psalm of thanksgiving. Shout for joy to Yahweh, all you lands!"
   },
   {
     "verse": 2,
-    "paite": "Kipak kawm in TOUPA nna sem unla; la sa kawm in ama ah hong pai un."
+    "paite": "Kipak kawm in TOUPA nna sem unla; la sa kawm in ama ah hong pai un.",
+    "english": "Serve Yahweh with gladness. Come before his presence with singing."
   },
   {
     "verse": 3,
-    "paite": "TOUPA tuh Pathian ahi chih thei un; hon bawlpa amah ahi a, amah a i hi ua; amite leh agantatna mun a belamte i hi."
+    "paite": "TOUPA tuh Pathian ahi chih thei un; hon bawlpa amah ahi a, amah a i hi ua; amite leh agantatna mun a belamte i hi.",
+    "english": "Know that Yahweh, he is God. It is he who has made us, and we are his. We are his people, and the sheep of his pasture."
   },
   {
     "verse": 4,
-    "paite": "Kipahthu gen kawm in akongkhak ah lut unla, phat kawm in ahuangsung intual ah lut un; akiang ah kipahthu gen unla, amin phat un."
+    "paite": "Kipahthu gen kawm in akongkhak ah lut unla, phat kawm in ahuangsung intual ah lut un; akiang ah kipahthu gen unla, amin phat un.",
+    "english": "Enter into his gates with thanksgiving, and into his courts with praise. Give thanks to him, and bless his name."
   },
   {
     "verse": 5,
-    "paite": "TOUPA ahoih ngal a; azahngaihna tangtawn in a-om ding hi, amuanhuaidan suan tengteng tan in a-om ding hi."
+    "paite": "TOUPA ahoih ngal a; azahngaihna tangtawn in a-om ding hi, amuanhuaidan suan tengteng tan in a-om ding hi.",
+    "english": "For Yahweh is good. His loving kindness endures forever, his faithfulness to all generations."
   }
 ]

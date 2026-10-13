@@ -2,30 +2,37 @@
   {
     "verse": 1,
     "paite": "Asuangphum tang siangthou ah a-om hi.",
-    "heading": "Korah tapate phatna La / Jerusalem Phatna"
+    "heading": "Korah tapate phatna La / Jerusalem Phatna",
+    "english": "A Psalm by the sons of Korah; a Song. His foundation is in the holy mountains."
   },
   {
     "verse": 2,
-    "paite": "TOUPA'N Zion kulh kongkhakte Jakob omna tengteng sang in a-itzaw ahi."
+    "paite": "TOUPA'N Zion kulh kongkhakte Jakob omna tengteng sang in a-itzaw ahi.",
+    "english": "Yahweh loves the gates of Zion more than all the dwellings of Jacob."
   },
   {
     "verse": 3,
-    "paite": "Pathian khopi aw, na tungthu thupitak in agen uhi. Selah"
+    "paite": "Pathian khopi aw, na tungthu thupitak in agen uhi. Selah",
+    "english": "Glorious things are spoken about you, city of God. Selah."
   },
   {
     "verse": 4,
-    "paite": "Hon theite lak ah apang sam uh chih Rahab leh Babulon tungtang thu ka gen ding; Philistia leh Tura, Ethiopia toh, \"En un, hiai mi huai lai a piang ahi,\" achi ua."
+    "paite": "Hon theite lak ah apang sam uh chih Rahab leh Babulon tungtang thu ka gen ding; Philistia leh Tura, Ethiopia toh, \"En un, hiai mi huai lai a piang ahi,\" achi ua.",
+    "english": "I will record Rahab and Babylon among those who acknowledge me. Behold, Philistia, Tyre, and also Ethiopia: “This one was born there.”"
   },
   {
     "verse": 5,
-    "paite": "Zion tungtang thu gen ahih chiang in, \"Hiai mi leh huai mi amah a piang ahi; Tungnungpen ngei in amah ahihkip ding,\" chi a gen ahi dia;"
+    "paite": "Zion tungtang thu gen ahih chiang in, \"Hiai mi leh huai mi amah a piang ahi; Tungnungpen ngei in amah ahihkip ding,\" chi a gen ahi dia;",
+    "english": "Yes, of Zion it will be said, “This one and that one was born in her;” the Most High himself will establish her."
   },
   {
     "verse": 6,
-    "paite": "TOUPA'N, mite' min gelh a akhumlut chiang in, \"Hiai mi huai a piang ahi,\" achi ding a, Selah"
+    "paite": "TOUPA'N, mite' min gelh a akhumlut chiang in, \"Hiai mi huai a piang ahi,\" achi ding a, Selah",
+    "english": "Yahweh will count, when he writes up the peoples, “This one was born there.” Selah."
   },
   {
     "verse": 7,
-    "paite": "Lasate leh lamte'n, \"Ka tuikhuk teng nangmah ah ahi a-om,\" achi ding uhi."
+    "paite": "Lasate leh lamte'n, \"Ka tuikhuk teng nangmah ah ahi a-om,\" achi ding uhi.",
+    "english": "Those who sing as well as those who dance say, “All my springs are in you.”"
   }
 ]

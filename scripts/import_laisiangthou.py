@@ -3,8 +3,9 @@
 Source: assets/bible.db inside the Laisiangthou app APK by John Samte
 (github.com/johnsamte), used with his permission.
 
-English text comes from the World English Bible (public domain) where the
-legacy folder already has it for the same book, chapter, and verse.
+English text comes from the World English Bible (public domain, ebible.org
+eng-web_vpl), stored in bible/world-english-bible/, matched by book, chapter,
+and verse.
 
 Usage: python scripts/import_laisiangthou.py path/to/bible.db
 """
@@ -17,7 +18,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "bible" / "laisiangthou"
-LEGACY = ROOT / "bible" / "legacy-etabetapi"
+WEB = ROOT / "bible" / "world-english-bible" / "eng-web_vpl.txt"
 
 # Same codes as the legacy folders, in canonical order (book id 1..66).
 BOOK_CODES = (
@@ -37,11 +38,17 @@ def clean(text: str | None) -> str:
     return re.sub(r"\s+", " ", (text or "").replace("\\n", " ")).strip()
 
 
-def legacy_english(code: str, chapter: int) -> dict[int, str]:
-    path = LEGACY / code / f"{chapter}.json"
-    if not path.exists():
-        return {}
-    return {v["verse"]: v.get("english", "") for v in json.loads(path.read_text(encoding="utf-8"))}
+def load_web() -> dict[tuple[int, int, int], str]:
+    """Lines look like 'GEN 1:1 In the beginning...'; books appear in canonical order."""
+    english: dict[tuple[int, int, int], str] = {}
+    book_ids: dict[str, int] = {}
+    for line in WEB.read_text(encoding="utf-8").splitlines():
+        book, ref, text = line.split(" ", 2)
+        book_id = book_ids.setdefault(book, len(book_ids) + 1)
+        chapter, verse = ref.split(":")
+        english[(book_id, int(chapter), int(verse))] = text.strip()
+    assert len(book_ids) == 66, f"expected 66 WEB books, got {len(book_ids)}"
+    return english
 
 
 def main(db_path: str) -> None:
@@ -53,14 +60,14 @@ def main(db_path: str) -> None:
         "ORDER BY c.book_id, c.chapter_number, v.verse_number"
     ).fetchall()
 
-    chapters: dict[tuple[int, int], list[dict]] = {}
+    chapters: dict[tuple[int, int], list[sqlite3.Row]] = {}
     for r in rows:
         chapters.setdefault((r["book_id"], r["chapter_number"]), []).append(r)
 
+    web = load_web()
     verses = with_english = 0
     for (book_id, chapter), chapter_rows in chapters.items():
         code = BOOK_CODES[book_id - 1]
-        english = legacy_english(code, chapter)
         out = []
         seen: set[int] = set()
         for r in chapter_rows:
@@ -72,8 +79,9 @@ def main(db_path: str) -> None:
             heading = " / ".join(clean(r[c]) for c in HEADING_COLUMNS if clean(r[c]))
             if heading:
                 verse["heading"] = heading
-            if english.get(number):
-                verse["english"] = english[number]
+            english = web.get((book_id, chapter, number))
+            if english:
+                verse["english"] = english
                 with_english += 1
             out.append(verse)
             verses += 1

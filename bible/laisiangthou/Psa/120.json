@@ -2,30 +2,37 @@
   {
     "verse": 1,
     "paite": "Ka mangbatna ah TOUPA ka sam a, huchi in ama'n ahon dawng hi.",
-    "heading": "Panpihna Dia Thumna"
+    "heading": "Panpihna Dia Thumna",
+    "english": "A Song of Ascents. In my distress, I cried to Yahweh. He answered me."
   },
   {
     "verse": 2,
-    "paite": "TOUPA aw, muk zuautheite lak leh lei mikhemhat lak ah ka hinna humbit in."
+    "paite": "TOUPA aw, muk zuautheite lak leh lei mikhemhat lak ah ka hinna humbit in.",
+    "english": "Deliver my soul, Yahweh, from lying lips, from a deceitful tongue."
   },
   {
     "verse": 3,
-    "paite": "Nang lei khemhat, na kiang ah bang ahon pe ding ua, bang ahon behlap ding ua?"
+    "paite": "Nang lei khemhat, na kiang ah bang ahon pe ding ua, bang ahon behlap ding ua?",
+    "english": "What will be given to you, and what will be done more to you, you deceitful tongue?"
   },
   {
     "verse": 4,
-    "paite": "Mihat thal zumtakte, Juniper sing lingte toh."
+    "paite": "Mihat thal zumtakte, Juniper sing lingte toh.",
+    "english": "Sharp arrows of the mighty, with coals of juniper."
   },
   {
     "verse": 5,
-    "paite": "Mashekte gam a ka omleh Kedarte puanin lak a ka om ka tung agik hi."
+    "paite": "Mashekte gam a ka omleh Kedarte puanin lak a ka om ka tung agik hi.",
+    "english": "Woe is me, that I live in Meshech, that I dwell among the tents of Kedar!"
   },
   {
     "verse": 6,
-    "paite": "Lemna hote kiang ah ka hinna sawtpi a-omta hi."
+    "paite": "Lemna hote kiang ah ka hinna sawtpi a-omta hi.",
+    "english": "My soul has had her dwelling too long with him who hates peace."
   },
   {
     "verse": 7,
-    "paite": "Ke'n kituah ka ut a; himahleh thu ka gentak in kidou a-ut nak uhi."
+    "paite": "Ke'n kituah ka ut a; himahleh thu ka gentak in kidou a-ut nak uhi.",
+    "english": "I am for peace, but when I speak, they are for war."
   }
 ]

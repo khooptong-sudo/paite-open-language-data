@@ -8,17 +8,17 @@
   {
     "verse": 2,
     "paite": "Huan hichi ahong hi a, suahlam a kipan akisuan zel lai un, Shinar gam ah phaizang amu ua; huai ah atengta uhi.",
-    "english": "It happened, as they traveled east, that they found a plain in the land of Shinar, and they lived there."
+    "english": "As they traveled east, they found a plain in the land of Shinar, and they lived there."
   },
   {
     "verse": 3,
     "paite": "\"Kisa un, teklei i bawl ding a, hoihtak in i hal ding,\" akichita uhi. Suang sik in teklei anei ua, suang hukna sik in longnai anei uhi.",
-    "english": "They said one to another, “Come, let’s make bricks, and burn them thoroughly.” They had brick for stone, and they used tar for mortar."
+    "english": "They said to one another, “Come, let’s make bricks, and burn them thoroughly.” They had brick for stone, and they used tar for mortar."
   },
   {
     "verse": 4,
     "paite": "\"Kisa un, khopi i bawl ding a, avum in van sun ding in insang i bawl ding ua, i min i thangsak ding uh. Huchi lou in zaw leitung pumpi ah thehdalh in i om kha ding,\" achi uhi.",
-    "english": "They said, “Come, let’s build ourselves a city, and a tower whose top reaches to the sky, and let’s make ourselves a name, lest we be scattered abroad on the surface of the whole earth.”"
+    "english": "They said, “Come, let’s build ourselves a city, and a tower whose top reaches to the sky, and let’s make a name for ourselves, lest we be scattered abroad on the surface of the whole earth.”"
   },
   {
     "verse": 5,
@@ -28,7 +28,7 @@
   {
     "verse": 6,
     "paite": "TOUPA'N, \"Ngai dih ua, mite pum khat ahi ua, avek un lah pau khat anei ngal ua; hiai thil ahih pan uhi. Tu'n zaw athil hihtupte uh leng kham vual ahita kei ding.",
-    "english": "Yahweh said, “Behold, they are one people, and they have all one language, and this is what they begin to do. Now nothing will be withheld from them, which they intend to do."
+    "english": "Yahweh said, “Behold, they are one people, and they all have one language, and this is what they begin to do. Now nothing will be withheld from them, which they intend to do."
   },
   {
     "verse": 7,
@@ -49,12 +49,12 @@
     "verse": 10,
     "paite": "Hiaite Shem suante ahi uh. Shem kum zakhat a upa ahi a; tuichim tun nung kum nih nung in tapa Arpakshad anei hi.",
     "heading": "Shem Suante / (1 Kro 1.24-27)",
-    "english": "This is the history of the generations of Shem. Shem was one hundred years old and became the father of Arpachshad two years after the flood."
+    "english": "This is the history of the generations of Shem: Shem was one hundred years old when he became the father of Arpachshad two years after the flood."
   },
   {
     "verse": 11,
     "paite": "Arpakshad aneih nung in Shem kum zanga adam lai a, tanute leh tapate anei lai hi.",
-    "english": "Shem lived five hundred years after he became the father of Arpachshad, and became the father of sons and daughters."
+    "english": "Shem lived five hundred years after he became the father of Arpachshad, and became the father of more sons and daughters."
   },
   {
     "verse": 12,
@@ -64,17 +64,17 @@
   {
     "verse": 13,
     "paite": "Shelah aneih nung in Arpakshad kum zali-le-thum adam lai a, tanute leh tapate anei lai hi.",
-    "english": "Arpachshad lived four hundred three years after he became the father of Shelah, and became the father of sons and daughters."
+    "english": "Arpachshad lived four hundred three years after he became the father of Shelah, and became the father of more sons and daughters."
   },
   {
     "verse": 14,
     "paite": "Shelah in kum sawmthum ahih in tapa Eber anei hi.",
-    "english": "Shelah lived thirty years, and became the father of Eber:"
+    "english": "Shelah lived thirty years, and became the father of Eber."
   },
   {
     "verse": 15,
     "paite": "Eber aneih nung in Shelah kum zali-le-thum adam lai a, tanute leh tapate anei lai hi.",
-    "english": "and Shelah lived four hundred three years after he became the father of Eber, and became the father of sons and daughters."
+    "english": "Shelah lived four hundred three years after he became the father of Eber, and became the father of more sons and daughters."
   },
   {
     "verse": 16,
@@ -84,7 +84,7 @@
   {
     "verse": 17,
     "paite": "Peleg aneih nung in Eber kum zali-le-sawmthum adam lai a, tanute leh tapate anei lai hi.",
-    "english": "Eber lived four hundred thirty years after he became the father of Peleg, and became the father of sons and daughters."
+    "english": "Eber lived four hundred thirty years after he became the father of Peleg, and became the father of more sons and daughters."
   },
   {
     "verse": 18,
@@ -94,7 +94,7 @@
   {
     "verse": 19,
     "paite": "Reu aneih nung in Peleg kum zanih-le-kua adam lai a, tanute leh tapate anei lai hi.",
-    "english": "Peleg lived two hundred nine years after he became the father of Reu, and became the father of sons and daughters."
+    "english": "Peleg lived two hundred nine years after he became the father of Reu, and became the father of more sons and daughters."
   },
   {
     "verse": 20,
@@ -104,7 +104,7 @@
   {
     "verse": 21,
     "paite": "Serug aneih nung in Reu kum zanih-le-sagih adam lai a, tanute leh tapate anei lai hi.",
-    "english": "Reu lived two hundred seven years after he became the father of Serug, and became the father of sons and daughters."
+    "english": "Reu lived two hundred seven years after he became the father of Serug, and became the father of more sons and daughters."
   },
   {
     "verse": 22,
@@ -114,7 +114,7 @@
   {
     "verse": 23,
     "paite": "Nahor aneih nung in Serug kum zanih adam lai a, tanute leh tapate anei lai hi.",
-    "english": "Serug lived two hundred years after he became the father of Nahor, and became the father of sons and daughters."
+    "english": "Serug lived two hundred years after he became the father of Nahor, and became the father of more sons and daughters."
   },
   {
     "verse": 24,
@@ -124,7 +124,7 @@
   {
     "verse": 25,
     "paite": "Terah aneih nung in Nahor kum za-le-sawmkua adam lai a, tanute leh tapate anei lai hi.",
-    "english": "Nahor lived one hundred nineteen years after he became the father of Terah, and became the father of sons and daughters."
+    "english": "Nahor lived one hundred nineteen years after he became the father of Terah, and became the father of more sons and daughters."
   },
   {
     "verse": 26,
@@ -140,12 +140,12 @@
   {
     "verse": 28,
     "paite": "Haran ahihleh apianna gam, Kaldaite khua Ur ah, apa Terah ma in asi hi.",
-    "english": "Haran died before his father Terah in the land of his birth, in Ur of the Chaldees."
+    "english": "Haran died in the land of his birth, in Ur of the Chaldees, while his father Terah was still alive."
   },
   {
     "verse": 29,
     "paite": "Abram leh Nahor in zi anei ua; Abram zi min Sarai ahi a, Nahor zi min Haran tanu Milkah ahi. Haran ahihleh Milkah pa leh Iskah pa ahi.",
-    "english": "Abram and Nahor took wives. The name of Abram’s wife was Sarai, and the name of Nahor’s wife, Milcah, the daughter of Haran who was also the father of Iscah."
+    "english": "Abram and Nahor married wives. The name of Abram’s wife was Sarai, and the name of Nahor’s wife was Milcah, the daughter of Haran, who was also the father of Iscah."
   },
   {
     "verse": 30,

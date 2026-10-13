@@ -2,34 +2,42 @@
   {
     "verse": 1,
     "paite": "TOUPA aw, tui thukpi a kipan ka hon sam a,",
-    "heading": "Panpihna Dia Thumna"
+    "heading": "Panpihna Dia Thumna",
+    "english": "A Song of Ascents. Out of the depths I have cried to you, Yahweh."
   },
   {
     "verse": 2,
-    "paite": "TOUPA ka aw ngaikhia in; hehpih ka ngetna aw na bil in ngaikhia in."
+    "paite": "TOUPA ka aw ngaikhia in; hehpih ka ngetna aw na bil in ngaikhia in.",
+    "english": "Lord, hear my voice. Let your ears be attentive to the voice of my petitions."
   },
   {
     "verse": 3,
-    "paite": "TOUPA nang thulimlouhnate na chiamtehleh TOUPA aw, kua adingzouta dia?"
+    "paite": "TOUPA nang thulimlouhnate na chiamtehleh TOUPA aw, kua adingzouta dia?",
+    "english": "If you, Yah, kept a record of sins, Lord, who could stand?"
   },
   {
     "verse": 4,
-    "paite": "Himahleh na kiang ah ngaihdamna a-om ahi, kihtak a na omtheihna ding in."
+    "paite": "Himahleh na kiang ah ngaihdamna a-om ahi, kihtak a na omtheihna ding in.",
+    "english": "But there is forgiveness with you, therefore you are feared."
   },
   {
     "verse": 5,
-    "paite": "TOUPA ka ngak gige a, ka hinna in angak gige a, athu leng ka lamen ahi."
+    "paite": "TOUPA ka ngak gige a, ka hinna in angak gige a, athu leng ka lamen ahi.",
+    "english": "I wait for Yahweh. My soul waits. I hope in his word."
   },
   {
     "verse": 6,
-    "paite": "Vengmi'n zingsang khovak angaklah sang in ka hinna in TOUPA angaklahzaw hi. Ahi, vengmi'n zingsang khovak angaklah sang in."
+    "paite": "Vengmi'n zingsang khovak angaklah sang in ka hinna in TOUPA angaklahzaw hi. Ahi, vengmi'n zingsang khovak angaklah sang in.",
+    "english": "My soul longs for the Lord more than watchmen long for the morning, more than watchmen for the morning."
   },
   {
     "verse": 7,
-    "paite": "Israelte aw, TOUPA lamen un, TOUPA kiang ah zahngaihna a-om a, amah ah tatna tampi a-om hi."
+    "paite": "Israelte aw, TOUPA lamen un, TOUPA kiang ah zahngaihna a-om a, amah ah tatna tampi a-om hi.",
+    "english": "Israel, hope in Yahweh, for there is loving kindness with Yahweh. Abundant redemption is with him."
   },
   {
     "verse": 8,
-    "paite": "Huchi in ama'n Israelte athulimlouhna tengteng ua kipan ahunkhe ding hi."
+    "paite": "Huchi in ama'n Israelte athulimlouhna tengteng ua kipan ahunkhe ding hi.",
+    "english": "He will redeem Israel from all their sins."
   }
 ]

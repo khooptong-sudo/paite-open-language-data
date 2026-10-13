@@ -2,34 +2,42 @@
   {
     "verse": 1,
     "paite": "Mihat omkhawmte lak ah Pathian adingh a; pathiante lak ah vai ahawm hi.",
-    "heading": "Asaph phatna La / Pathian, Vaihawmpa Tungnungpen"
+    "heading": "Asaph phatna La / Pathian, Vaihawmpa Tungnungpen",
+    "english": "A Psalm by Asaph. God presides in the great assembly. He judges among the gods."
   },
   {
     "verse": 2,
-    "paite": "Bang tan ahia dikloutak a vai na hawm ua, migilou-saloute, na deihsak tuam ding uh?"
+    "paite": "Bang tan ahia dikloutak a vai na hawm ua, migilou-saloute, na deihsak tuam ding uh?",
+    "english": "“How long will you judge unjustly, and show partiality to the wicked?” Selah."
   },
   {
     "verse": 3,
-    "paite": "Gentheite leh pa neiloute hawmsak unla; haksa thuakte, tagahte tung ah hihdik un."
+    "paite": "Gentheite leh pa neiloute hawmsak unla; haksa thuakte, tagahte tung ah hihdik un.",
+    "english": "“Defend the weak, the poor, and the fatherless. Maintain the rights of the poor and oppressed."
   },
   {
     "verse": 4,
-    "paite": "Gentheite leh tagahte gum unla; migilou-salou khut a kipan humbit un."
+    "paite": "Gentheite leh tagahte gum unla; migilou-salou khut a kipan humbit un.",
+    "english": "Rescue the weak and needy. Deliver them out of the hand of the wicked.”"
   },
   {
     "verse": 5,
-    "paite": "Athei kei ua, theihsiamna leng anei kei uh; mial ah akileh akileh ua; leilung kingakna tengteng alingta hi;"
+    "paite": "Athei kei ua, theihsiamna leng anei kei uh; mial ah akileh akileh ua; leilung kingakna tengteng alingta hi;",
+    "english": "They don’t know, neither do they understand. They walk back and forth in darkness. All the foundations of the earth are shaken."
   },
   {
     "verse": 6,
-    "paite": "pathiante na hi ua, na vek un Tungnungpen tate na hi uh, ka chi hi."
+    "paite": "pathiante na hi ua, na vek un Tungnungpen tate na hi uh, ka chi hi.",
+    "english": "I said, “You are gods, all of you are sons of the Most High."
   },
   {
     "verse": 7,
-    "paite": "Himahleh mihingte bang phet in na hong si ding ua, milian khat bang in na hong puk ding uhi."
+    "paite": "Himahleh mihingte bang phet in na hong si ding ua, milian khat bang in na hong puk ding uhi.",
+    "english": "Nevertheless you shall die like men, and fall like one of the rulers.”"
   },
   {
     "verse": 8,
-    "paite": "Pathian aw, thou inla, lei vai hawmsak in, nam chih na gouluah ding ahi uhi."
+    "paite": "Pathian aw, thou inla, lei vai hawmsak in, nam chih na gouluah ding ahi uhi.",
+    "english": "Arise, God, judge the earth, for you inherit all of the nations."
   }
 ]

@@ -14,6 +14,7 @@ Paite has very little digital text. This repository puts the text that we have i
 |------|----------|------|
 | `training/` | **Ready-to-train JSONL files** with fixed train, dev, and test splits. Start here. | See [Training a model](#training-a-model) |
 | `bible/laisiangthou/` | **Primary Bible.** The complete Laisiangthou Paite Bible by [John Samte](https://github.com/johnsamte), one JSON file for each chapter | 66 books, 1,189 chapters, 31,104 verses |
+| `bible/world-english-bible/` | World English Bible (public domain) in verse-per-line form, the English side of every Bible pair | 66 books, 31,103 verses |
 | `bible/legacy-etabetapi/` | Retired Bible text, kept for reference and comparison. Do not use it as a primary source. | 22 books, 408 chapters |
 | `dictionary/` | English to Paite dictionary with part of speech | 23,006 entries |
 | `songs/` | Paite hymn lyrics, with English titles and authors, and hymn-app snippets | 573 hymns, 846 snippets |
@@ -54,7 +55,7 @@ python scripts/build_training.py
 
 ## File formats
 
-**`bible/laisiangthou/<Book>/<chapter>.json`**: a list of verses. `english` (World English Bible) is present only where an aligned verse exists. `heading` is the section heading in the Paite Bible.
+**`bible/laisiangthou/<Book>/<chapter>.json`**: a list of verses. `english` (World English Bible) is present for 31,095 of the 31,104 verses. `heading` is the section heading in the Paite Bible.
 
 ```json
 [{ "verse": 1, "paite": "Atung in Pathian in lei leh vante asiam hi.", "heading": "Thilsiam Thu", "english": "In the beginning God ... created the heavens and the earth." }]
@@ -78,8 +79,7 @@ Book folders use three-character codes: `Gen`, `Exo`, `Lev` ... `Mat`, `Mar`, `L
 ## Known limitations
 
 - **Register.** Most sentences come from the Bible and hymns. Formal and religious language is over-represented. Everyday speech is rare. Corrections from conversation are the best way to fix this.
-- **English for 10,466 verses only.** The English side covers the 22 books of the legacy text. The other Paite verses have no English yet.
-- **Footnotes in English verses.** Some English verses contain translator footnotes inside the sentence (for example, a note on the Hebrew word "Elohim"). Remove them before you train a translation model.
+- **Nine verses have no English.** The World English Bible omits or moves 9 verses that the Paite Bible keeps (for example, Acts 8:37, Luke 17:36, and Romans 16:25-27). These rows are in `monolingual.jsonl` only.
 - **Dictionary quality.** The dictionary comes from an app. Some entries contain typing errors or several meanings in one string.
 - **One fixed source error.** In the app database, Genesis 31:53 has the number 23. The import script corrects it.
 
@@ -91,7 +91,7 @@ This repository mixes original work and third-party text. The licence is differe
 |------|--------|--------|
 | `corrections.json`, `grammar_notes.md`, `verified_*` entries, scripts, documentation | Maintainer and native-speaker contributors | CC BY 4.0 |
 | Paite Bible in `bible/laisiangthou/` | Laisiangthou app (v5.0.2) by [John Samte](https://github.com/johnsamte) | Used with the permission of John Samte |
-| English Bible text | World English Bible | Public domain |
+| English Bible text | World English Bible ([ebible.org](https://ebible.org/find/details.php?id=eng-web)) | Public domain |
 | Paite Bible in `bible/legacy-etabetapi/` (retired) | Collected from etabetapi.com | Copyright of the original Paite Bible publisher |
 | Dictionary | Extracted from the "Paite English Dictionary" Android app (v1.1.4) | Copyright of the app author |
 | Hymn lyrics | Extracted from the "Kristian Labu" (v1.4.53) and "Biakna Labupi" (v1.0.0) Android apps | Copyright of the hymn authors, translators, and app publishers |

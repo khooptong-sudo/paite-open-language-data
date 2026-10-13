@@ -2,103 +2,128 @@
   {
     "verse": 1,
     "paite": "Abraham tapa, David tapa, Jesu Khrist khangthubu.",
-    "heading": "Jesu Khrist Suangtute / (Luk 3.23-38)"
+    "heading": "Jesu Khrist Suangtute / (Luk 3.23-38)",
+    "english": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham."
   },
   {
     "verse": 2,
-    "paite": "Abraham in Isak asuang a, Isak in Jakob asuang a, Jakob in Judas leh a-unaute asuang hi."
+    "paite": "Abraham in Isak asuang a, Isak in Jakob asuang a, Jakob in Judas leh a-unaute asuang hi.",
+    "english": "Abraham became the father of Isaac. Isaac became the father of Jacob. Jacob became the father of Judah and his brothers."
   },
   {
     "verse": 3,
-    "paite": "Judas in Tamar a pan Perez leh Zerah asuang a, Perez in Erom asuang a, Erom in Aram asuang hi."
+    "paite": "Judas in Tamar a pan Perez leh Zerah asuang a, Perez in Erom asuang a, Erom in Aram asuang hi.",
+    "english": "Judah became the father of Perez and Zerah by Tamar. Perez became the father of Hezron. Hezron became the father of Ram."
   },
   {
     "verse": 4,
-    "paite": "Aram in Amminadab asuang a, Amminadab in Nashon asuang a, Nashon in Salmon asuang hi."
+    "paite": "Aram in Amminadab asuang a, Amminadab in Nashon asuang a, Nashon in Salmon asuang hi.",
+    "english": "Ram became the father of Amminadab. Amminadab became the father of Nahshon. Nahshon became the father of Salmon."
   },
   {
     "verse": 5,
-    "paite": "Salmon in Rahab a pan Boaz asuang a, Boaz in Ruth a pan Obed asuang a, Obed in Jesse asuang hi."
+    "paite": "Salmon in Rahab a pan Boaz asuang a, Boaz in Ruth a pan Obed asuang a, Obed in Jesse asuang hi.",
+    "english": "Salmon became the father of Boaz by Rahab. Boaz became the father of Obed by Ruth. Obed became the father of Jesse."
   },
   {
     "verse": 6,
-    "paite": "Jesse in kumpipa David asuang a, kumpipa David in Uria zi a pan Solomon asuang hi."
+    "paite": "Jesse in kumpipa David asuang a, kumpipa David in Uria zi a pan Solomon asuang hi.",
+    "english": "Jesse became the father of King David. David the king became the father of Solomon by her who had been Uriah’s wife."
   },
   {
     "verse": 7,
-    "paite": "Solomon in Rehoboam asuang a, Rehoboam in Abijah asuang a, Abijah in Asa asuang hi."
+    "paite": "Solomon in Rehoboam asuang a, Rehoboam in Abijah asuang a, Abijah in Asa asuang hi.",
+    "english": "Solomon became the father of Rehoboam. Rehoboam became the father of Abijah. Abijah became the father of Asa."
   },
   {
     "verse": 8,
-    "paite": "Asa in Jehoshaphat asuang a, Jehoshaphat in Jeram asuang a, Jeram in Uzzia asuang hi."
+    "paite": "Asa in Jehoshaphat asuang a, Jehoshaphat in Jeram asuang a, Jeram in Uzzia asuang hi.",
+    "english": "Asa became the father of Jehoshaphat. Jehoshaphat became the father of Joram. Joram became the father of Uzziah."
   },
   {
     "verse": 9,
-    "paite": "Uzzia in Jotham asuang a, Jotham in Ahaz asuang a, Ahaz in Hezekiah asuang hi."
+    "paite": "Uzzia in Jotham asuang a, Jotham in Ahaz asuang a, Ahaz in Hezekiah asuang hi.",
+    "english": "Uzziah became the father of Jotham. Jotham became the father of Ahaz. Ahaz became the father of Hezekiah."
   },
   {
     "verse": 10,
-    "paite": "Hezekiah in Manasseh asuang a, Manasseh in Amon asuang a, Amon in Josiah asuang hi."
+    "paite": "Hezekiah in Manasseh asuang a, Manasseh in Amon asuang a, Amon in Josiah asuang hi.",
+    "english": "Hezekiah became the father of Manasseh. Manasseh became the father of Amon. Amon became the father of Josiah."
   },
   {
     "verse": 11,
-    "paite": "Babulon sal a api lai un Josiah in Jekoniah leh a-unaute asuang hi."
+    "paite": "Babulon sal a api lai un Josiah in Jekoniah leh a-unaute asuang hi.",
+    "english": "Josiah became the father of Jechoniah and his brothers at the time of the exile to Babylon."
   },
   {
     "verse": 12,
-    "paite": "Huan Babulon sal a api nung un Jekoniah in Salathiel asuang a, Salathiel in Zerubbabel asuang hi."
+    "paite": "Huan Babulon sal a api nung un Jekoniah in Salathiel asuang a, Salathiel in Zerubbabel asuang hi.",
+    "english": "After the exile to Babylon, Jechoniah became the father of Shealtiel. Shealtiel became the father of Zerubbabel."
   },
   {
     "verse": 13,
-    "paite": "Zerubbabel in Abiud asuang a, Abiud in Eliakim asuang a, Eliakim in Azor asuang a,"
+    "paite": "Zerubbabel in Abiud asuang a, Abiud in Eliakim asuang a, Eliakim in Azor asuang a,",
+    "english": "Zerubbabel became the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor."
   },
   {
     "verse": 14,
-    "paite": "Azor in Zadok asuang a, Zadok in Akim asuang a, Akim in Eliud asuang hi."
+    "paite": "Azor in Zadok asuang a, Zadok in Akim asuang a, Akim in Eliud asuang hi.",
+    "english": "Azor became the father of Zadok. Zadok became the father of Achim. Achim became the father of Eliud."
   },
   {
     "verse": 15,
-    "paite": "Eliud in Eleazar asuang a, Eleazar in Mathan asuang a, Mathan in Jakob asuang hi."
+    "paite": "Eliud in Eleazar asuang a, Eleazar in Mathan asuang a, Mathan in Jakob asuang hi.",
+    "english": "Eliud became the father of Eleazar. Eleazar became the father of Matthan. Matthan became the father of Jacob."
   },
   {
     "verse": 16,
-    "paite": "Jakob in Joseph, Mari pasal asuang a, huai Mari lak ah Jesu Khrist ahong piangta hi."
+    "paite": "Jakob in Joseph, Mari pasal asuang a, huai Mari lak ah Jesu Khrist ahong piangta hi.",
+    "english": "Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ."
   },
   {
     "verse": 17,
-    "paite": "Huchi in suan tengteng Abraham a pan David tan suan sawm-le-li ahi a, David a pan Babulon a sal a pi ahih tan un, suan sawm-le-li ahi a, Babulon a sal a pi ahih ua pan Khrist tan suan sawm-le-li ahi."
+    "paite": "Huchi in suan tengteng Abraham a pan David tan suan sawm-le-li ahi a, David a pan Babulon a sal a pi ahih tan un, suan sawm-le-li ahi a, Babulon a sal a pi ahih ua pan Khrist tan suan sawm-le-li ahi.",
+    "english": "So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations."
   },
   {
     "verse": 18,
     "paite": "Jesu Khrist hong piandan hichibang ahi. Anu Mari leh Joseph akikham lai ua a-omkhawm ma un, Kha Siangthou in agaisak chih atheita uhi.",
-    "heading": "Jesu Khrist Pianna / (Luk 2.1-7)"
+    "heading": "Jesu Khrist Pianna / (Luk 2.1-7)",
+    "english": "Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit."
   },
   {
     "verse": 19,
-    "paite": "Huchi in apasal Joseph, midiktak ahi a, amah daisak a-ut kei a, aguk in tawpsan atum hi."
+    "paite": "Huchi in apasal Joseph, midiktak ahi a, amah daisak a-ut kei a, aguk in tawpsan atum hi.",
+    "english": "Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly."
   },
   {
     "verse": 20,
-    "paite": "Himahleh, huai thute angaihtuah lai in, ngai in, amang in akiang ah Toupa angel ahong kilak a, \"Joseph, nang David tapa, na zi Mari neih lau ke'n, anaupai Kha Siangthou a kipan ahi."
+    "paite": "Himahleh, huai thute angaihtuah lai in, ngai in, amang in akiang ah Toupa angel ahong kilak a, \"Joseph, nang David tapa, na zi Mari neih lau ke'n, anaupai Kha Siangthou a kipan ahi.",
+    "english": "But when he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, don’t be afraid to take to yourself Mary as your wife, for that which is conceived in her is of the Holy Spirit."
   },
   {
     "verse": 21,
-    "paite": "Tapa anei dia, amin ding in Jesu na sa ding; ama'n amite akhelhna ua kipan ahotdam ding ziak in,\" achi hi."
+    "paite": "Tapa anei dia, amin ding in Jesu na sa ding; ama'n amite akhelhna ua kipan ahotdam ding ziak in,\" achi hi.",
+    "english": "She shall give birth to a son. You shall name him Jesus, for it is he who shall save his people from their sins.”"
   },
   {
     "verse": 22,
-    "paite": "Toupa'n zawlnei kam a:"
+    "paite": "Toupa'n zawlnei kam a:",
+    "english": "Now all this has happened that it might be fulfilled which was spoken by the Lord through the prophet, saying,"
   },
   {
     "verse": 23,
-    "paite": "\"Ngai in, nungak siangthou agai dia, tapa anei dia, amin Immanuel asa ding uh,\" chi a agen ahong tuntheihna ding in huai tengteng ahong om hi. Huai tuh, \"I kiang uah Pathian a-om,\" chihna ahi."
+    "paite": "\"Ngai in, nungak siangthou agai dia, tapa anei dia, amin Immanuel asa ding uh,\" chi a agen ahong tuntheihna ding in huai tengteng ahong om hi. Huai tuh, \"I kiang uah Pathian a-om,\" chihna ahi.",
+    "english": "“Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel,” which is, being interpreted, “God with us.”"
   },
   {
     "verse": 24,
-    "paite": "Huchi in Joseph ihmu athoukhia a, Toupa Angel in akiang a thu apiak bang in ahih a, azi aneita hi."
+    "paite": "Huchi in Joseph ihmu athoukhia a, Toupa Angel in akiang a thu apiak bang in ahih a, azi aneita hi.",
+    "english": "Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;"
   },
   {
     "verse": 25,
-    "paite": "Himahleh, tapa aneih masiah akithuahpih kei; huan amin Jesu asata hi."
+    "paite": "Himahleh, tapa aneih masiah akithuahpih kei; huan amin Jesu asata hi.",
+    "english": "and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus."
   }
 ]

@@ -1,105 +1,130 @@
 [
   {
     "verse": 1,
-    "paite": "Huan TOUPA'N Mosi kiang ah, \"En in, Pharaoh a ding in Pathian in ka hon bawlta. Huchi in na sanggampa Aaron na zawlnei ahi ding,” achi hi."
+    "paite": "Huan TOUPA'N Mosi kiang ah, \"En in, Pharaoh a ding in Pathian in ka hon bawlta. Huchi in na sanggampa Aaron na zawlnei ahi ding,” achi hi.",
+    "english": "Yahweh said to Moses, “Behold, I have made you as God to Pharaoh; and Aaron your brother shall be your prophet."
   },
   {
     "verse": 2,
-    "paite": "Thu ka hon piak tengteng na gen ding hi. Huchi in Aaron na sanggampa'n agam a pan a Israel suante sawlkhe ding in Pharaoh kiang ah agen ding."
+    "paite": "Thu ka hon piak tengteng na gen ding hi. Huchi in Aaron na sanggampa'n agam a pan a Israel suante sawlkhe ding in Pharaoh kiang ah agen ding.",
+    "english": "You shall speak all that I command you; and Aaron your brother shall speak to Pharaoh, that he let the children of Israel go out of his land."
   },
   {
     "verse": 3,
-    "paite": "\"Huan Pharaoh lungtang ka khauhsak dia, Aigupta gam ah ka chiamtehnate leh ka thillamdangte ka pungsak ding hi."
+    "paite": "\"Huan Pharaoh lungtang ka khauhsak dia, Aigupta gam ah ka chiamtehnate leh ka thillamdangte ka pungsak ding hi.",
+    "english": "I will harden Pharaoh’s heart, and multiply my signs and my wonders in the land of Egypt."
   },
   {
     "verse": 4,
-    "paite": "Himahleh, Aigupta tung a ka khut ka ngaktheihna ding leh ka sepaihte leh ka mi Israel suante, vaihawmna thupite a Aigupta gam a pan ka pikhiak theihna ding in, Pharaoh in nang ahon ngaikhe kei ding hi."
+    "paite": "Himahleh, Aigupta tung a ka khut ka ngaktheihna ding leh ka sepaihte leh ka mi Israel suante, vaihawmna thupite a Aigupta gam a pan ka pikhiak theihna ding in, Pharaoh in nang ahon ngaikhe kei ding hi.",
+    "english": "But Pharaoh will not listen to you, so I will lay my hand on Egypt, and bring out my armies, my people the children of Israel, out of the land of Egypt by great judgments."
   },
   {
     "verse": 5,
-    "paite": "Aigupta tung a ka khut ka lik a, alak ua pan Israel suante ka pikhiak hun chiang in, Aiguptate'n kei, TOUPA ka hi chih athei ding uh,\" achi hi."
+    "paite": "Aigupta tung a ka khut ka lik a, alak ua pan Israel suante ka pikhiak hun chiang in, Aiguptate'n kei, TOUPA ka hi chih athei ding uh,\" achi hi.",
+    "english": "The Egyptians shall know that I am Yahweh when I stretch out my hand on Egypt, and bring the children of Israel out from among them.”"
   },
   {
     "verse": 6,
-    "paite": "Mosi leh Aaron in ToUPA'N thu apiak bang in ahihta uhi."
+    "paite": "Mosi leh Aaron in ToUPA'N thu apiak bang in ahihta uhi.",
+    "english": "Moses and Aaron did so. As Yahweh commanded them, so they did."
   },
   {
     "verse": 7,
-    "paite": "Pharaoh kiang a thu agen lai un, Mosi kum sawmgiat a upa ahita a, Aaron kum sawmgiat-le-thum a upa ahita hi."
+    "paite": "Pharaoh kiang a thu agen lai un, Mosi kum sawmgiat a upa ahita a, Aaron kum sawmgiat-le-thum a upa ahita hi.",
+    "english": "Moses was eighty years old, and Aaron eighty-three years old, when they spoke to Pharaoh."
   },
   {
     "verse": 8,
     "paite": "TOUPA'N Mosi leh Aaron kiang ah thu agen a, akiang uah,",
-    "heading": "Aaron Chiang"
+    "heading": "Aaron Chiang",
+    "english": "Yahweh spoke to Moses and to Aaron, saying,"
   },
   {
     "verse": 9,
-    "paite": "\"Pharoah in na kiang ua, 'Nou a ding in thillamdang suah un,' achih chiang in Aaron kiang ah, 'Na chiangkhun la inla, Pharaoh ma ah khia in, gul hong suak hen,' na chi ding,” achi hi."
+    "paite": "\"Pharoah in na kiang ua, 'Nou a ding in thillamdang suah un,' achih chiang in Aaron kiang ah, 'Na chiangkhun la inla, Pharaoh ma ah khia in, gul hong suak hen,' na chi ding,” achi hi.",
+    "english": "“When Pharaoh speaks to you, saying, ‘Perform a miracle!’ then you shall tell Aaron, ‘Take your rod, and cast it down before Pharaoh, and it will become a serpent.’”"
   },
   {
     "verse": 10,
-    "paite": "Huchi in Pharaoh kiang ah Mosi leh Aaron alut ua, TOUPA'N thu apiak bang in ahihta uhi. Pharaoh leh asikhate ma ah Aaron in achiangkhun akhia a, gul ahong suak hi."
+    "paite": "Huchi in Pharaoh kiang ah Mosi leh Aaron alut ua, TOUPA'N thu apiak bang in ahihta uhi. Pharaoh leh asikhate ma ah Aaron in achiangkhun akhia a, gul ahong suak hi.",
+    "english": "Moses and Aaron went in to Pharaoh, and they did so, as Yahweh had commanded. Aaron cast down his rod before Pharaoh and before his servants, and it became a serpent."
   },
   {
     "verse": 11,
-    "paite": "Pharaoh in leng mipilte leh bumsiamte asam a; Aigupta mitkhialdawi tawite'n amitkhialdawi un huchibang mah in ahih sam uhi."
+    "paite": "Pharaoh in leng mipilte leh bumsiamte asam a; Aigupta mitkhialdawi tawite'n amitkhialdawi un huchibang mah in ahih sam uhi.",
+    "english": "Then Pharaoh also called for the wise men and the sorcerers. They also, the magicians of Egypt, did the same thing with their enchantments."
   },
   {
     "verse": 12,
-    "paite": "Michih in leng amau chiangkhun chiat akhia ua, gul ahong suak uhi. Himahleh Aaron chiangkhun in amau chiangkhunte avalhta hi."
+    "paite": "Michih in leng amau chiangkhun chiat akhia ua, gul ahong suak uhi. Himahleh Aaron chiangkhun in amau chiangkhunte avalhta hi.",
+    "english": "For they each cast down their rods, and they became serpents; but Aaron’s rod swallowed up their rods."
   },
   {
     "verse": 13,
-    "paite": "Hinapi in TOUPA'N achih bang in Pharaoh in alungtang akhauhsak a, amau thu angaikhe nuam kei."
+    "paite": "Hinapi in TOUPA'N achih bang in Pharaoh in alungtang akhauhsak a, amau thu angaikhe nuam kei.",
+    "english": "Pharaoh’s heart was hardened, and he didn’t listen to them, as Yahweh had spoken."
   },
   {
     "verse": 14,
     "paite": "Huan TOUPA'N Mosi kiang ah, \"Pharoah lungtang akhauhta a, mite paisak anial hi.",
-    "heading": "Sisan A Gawtna"
+    "heading": "Sisan A Gawtna",
+    "english": "Yahweh said to Moses, “Pharaoh’s heart is stubborn. He refuses to let the people go."
   },
   {
     "verse": 15,
-    "paite": "Zingsang in Pharaoh kiang ah va hoh in, ngai in, amah lui a hoh ding ahi a, ahong pai ngak in lui gei ah na dingh in. Na khut in huai chiangkhun, gul hong suak pen na tawi ding ahi."
+    "paite": "Zingsang in Pharaoh kiang ah va hoh in, ngai in, amah lui a hoh ding ahi a, ahong pai ngak in lui gei ah na dingh in. Na khut in huai chiangkhun, gul hong suak pen na tawi ding ahi.",
+    "english": "Go to Pharaoh in the morning. Behold, he is going out to the water. You shall stand by the river’s bank to meet him. You shall take the rod which was turned to a serpent in your hand."
   },
   {
     "verse": 16,
-    "paite": "Akiang ah, 'Hebrute' TOUPA Pathian in na kiang ah ahon sawl a, gamdai a ka nna aseptheihna ding un, ka mite paisak in.' Ngai in, tuma lam in na ngeingaih kei, achi,\" chi in."
+    "paite": "Akiang ah, 'Hebrute' TOUPA Pathian in na kiang ah ahon sawl a, gamdai a ka nna aseptheihna ding un, ka mite paisak in.' Ngai in, tuma lam in na ngeingaih kei, achi,\" chi in.",
+    "english": "You shall tell him, ‘Yahweh, the God of the Hebrews, has sent me to you, saying, “Let my people go, that they may serve me in the wilderness. Behold, until now you haven’t listened.”"
   },
   {
     "verse": 17,
-    "paite": "Hichibang in TOUPA'N achi, \"Hiai ah TOUPA ka hi chih na thei ding. Ngai in, ka khut a chiangkhun in lui a om tuite ka sat dia, sisan ahong suak ding uhi."
+    "paite": "Hichibang in TOUPA'N achi, \"Hiai ah TOUPA ka hi chih na thei ding. Ngai in, ka khut a chiangkhun in lui a om tuite ka sat dia, sisan ahong suak ding uhi.",
+    "english": "Yahweh says, “In this you shall know that I am Yahweh. Behold: I will strike with the rod that is in my hand on the waters which are in the river, and they shall be turned to blood."
   },
   {
     "verse": 18,
-    "paite": "Lui a om ngasate asi ding ua, lui a-uih dia; Aiguptate'n luitui adawn thei kei ding uh,\" achi hi."
+    "paite": "Lui a om ngasate asi ding ua, lui a-uih dia; Aiguptate'n luitui adawn thei kei ding uh,\" achi hi.",
+    "english": "The fish that are in the river will die and the river will become foul. The Egyptians will loathe to drink water from the river.”’”"
   },
   {
     "verse": 19,
-    "paite": "Huan TOUPA'N Mosi kiang ah thu agen a, \"Na chiangkhun la inla, Aigupta tuite tung ah, atui nak neite tung ah, aluite uh tung ah, atuichinte uh tung ah leh atuilite uh tung ah, sisan ahon suahtheihna ding un, Aigupta gam pumpi a singhawmte leh suanghawmte a sisan a-omtheihna ding in na khut likkhia in, Aaron kiang ah chi in,\" achi hi."
+    "paite": "Huan TOUPA'N Mosi kiang ah thu agen a, \"Na chiangkhun la inla, Aigupta tuite tung ah, atui nak neite tung ah, aluite uh tung ah, atuichinte uh tung ah leh atuilite uh tung ah, sisan ahon suahtheihna ding un, Aigupta gam pumpi a singhawmte leh suanghawmte a sisan a-omtheihna ding in na khut likkhia in, Aaron kiang ah chi in,\" achi hi.",
+    "english": "Yahweh said to Moses, “Tell Aaron, ‘Take your rod, and stretch out your hand over the waters of Egypt, over their rivers, over their streams, and over their pools, and over all their ponds of water, that they may become blood. There will be blood throughout all the land of Egypt, both in vessels of wood and in vessels of stone.’”"
   },
   {
     "verse": 20,
-    "paite": "TOUPA thupiak bang in, Mosi leh Aaron in ahih uhi. Achiangkhun aliktou a, Pharaoh leh asikhate mitmuh in, lui a om tuite asatta a, lui a om tuite sisan ahong suak vek uhi."
+    "paite": "TOUPA thupiak bang in, Mosi leh Aaron in ahih uhi. Achiangkhun aliktou a, Pharaoh leh asikhate mitmuh in, lui a om tuite asatta a, lui a om tuite sisan ahong suak vek uhi.",
+    "english": "Moses and Aaron did so, as Yahweh commanded; and he lifted up the rod, and struck the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood."
   },
   {
     "verse": 21,
-    "paite": "Lui a om ngasate asi ua; lui a-uih a, Aiguptate'n luitui adawn theita kei uhi. Aigupta gam pumpi ah sisan a-omta hi."
+    "paite": "Lui a om ngasate asi ua; lui a-uih a, Aiguptate'n luitui adawn theita kei uhi. Aigupta gam pumpi ah sisan a-omta hi.",
+    "english": "The fish that were in the river died. The river became foul. The Egyptians couldn’t drink water from the river. The blood was throughout all the land of Egypt."
   },
   {
     "verse": 22,
-    "paite": "Aigupta mitkhialdawi tawite'n leng amitkhialdawi tawi un huchi mah bang in ahih uhi. Pharaoh lungtang akhauh a, TOUPA'N achih bang in amau angaikhe kei hi."
+    "paite": "Aigupta mitkhialdawi tawite'n leng amitkhialdawi tawi un huchi mah bang in ahih uhi. Pharaoh lungtang akhauh a, TOUPA'N achih bang in amau angaikhe kei hi.",
+    "english": "The magicians of Egypt did the same thing with their enchantments. So Pharaoh’s heart was hardened, and he didn’t listen to them, as Yahweh had spoken."
   },
   {
     "verse": 23,
-    "paite": "Pharaoh akihei a, a-inn ah apaita a, huai thil in alungtang akhoih kei hi."
+    "paite": "Pharaoh akihei a, a-inn ah apaita a, huai thil in alungtang akhoih kei hi.",
+    "english": "Pharaoh turned and went into his house, and he didn’t even take this to heart."
   },
   {
     "verse": 24,
-    "paite": "Aigupta tengteng in luitui adawn theih louh ziak un, dawn ding zong in lui kim teng akhuat uhi."
+    "paite": "Aigupta tengteng in luitui adawn theih louh ziak un, dawn ding zong in lui kim teng akhuat uhi.",
+    "english": "All the Egyptians dug around the river for water to drink; for they couldn’t drink the river water."
   },
   {
     "verse": 25,
     "paite": "TOUPA'N lui asat nung ni sagih ahong chingta hi.",
-    "heading": "Ukengte"
+    "heading": "Ukengte",
+    "english": "Seven days were fulfilled, after Yahweh had struck the river."
   }
 ]

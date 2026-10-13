@@ -1,75 +1,92 @@
 [
   {
     "verse": 1,
-    "paite": "Sharon pak ka hi, phaizang lili pak."
+    "paite": "Sharon pak ka hi, phaizang lili pak.",
+    "english": "I am a rose of Sharon, a lily of the valleys."
   },
   {
     "verse": 2,
     "paite": "Ling lak a lili pak bang in, huchibang in tanute lak ah ka it a-om hi.",
-    "heading": "Pasal"
+    "heading": "Pasal",
+    "english": "As a lily among thorns, so is my love among the daughters."
   },
   {
     "verse": 3,
     "paite": "Gamlak singte lak a epul kung bang in, huchibang in tapate lak ah ka ngaihnou a-om hi. Nakpi a kipahna toh aliim nuai ah ka tu a, agah ka chep in akhum hi.",
-    "heading": "Numei"
+    "heading": "Numei",
+    "english": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, his fruit was sweet to my taste."
   },
   {
     "verse": 4,
-    "paite": "Ankuangluina inn ah ahon pi a, ka tung a kizak puanlap a-itna ahi."
+    "paite": "Ankuangluina inn ah ahon pi a, ka tung a kizak puanlap a-itna ahi.",
+    "english": "He brought me to the banquet hall. His banner over me is love."
   },
   {
     "verse": 5,
-    "paite": "Grep phoukeu in hon khou unla, epul thei in hon nem un; zawlngai in ka chi ana ngal a."
+    "paite": "Grep phoukeu in hon khou unla, epul thei in hon nem un; zawlngai in ka chi ana ngal a.",
+    "english": "Strengthen me with raisins, refresh me with apples; for I am faint with love."
   },
   {
     "verse": 6,
-    "paite": "Akhut veilam ka lu nuai ah a-om a, akhut taklam in ahon kawi hi."
+    "paite": "Akhut veilam ka lu nuai ah a-om a, akhut taklam in ahon kawi hi.",
+    "english": "His left hand is under my head. His right hand embraces me."
   },
   {
     "verse": 7,
-    "paite": "Zuktal leh gam a zukpite ka hon ngen hi, Aw Jerusalem tanute, ka it hihbuai kei unla, phawng kei un, alungkim matan."
+    "paite": "Zuktal leh gam a zukpite ka hon ngen hi, Aw Jerusalem tanute, ka it hihbuai kei unla, phawng kei un, alungkim matan.",
+    "english": "I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up, nor awaken love, until it so desires."
   },
   {
     "verse": 8,
     "paite": "Ka ngaihnou aw! Ngai un, ahong hi, tangte tung ah atawm a, mual tungte ah adiang hi.",
-    "heading": "La Nihna / Numei"
+    "heading": "La Nihna / Numei",
+    "english": "The voice of my beloved! Behold, he comes, leaping on the mountains, skipping on the hills."
   },
   {
     "verse": 9,
-    "paite": "Ka ngaihnou zaw zuktal hiam ahihkeileh sakhi tuailai bang ahi; Ngai in, ka kulhbaang nunglam uah adingh a, tohlette ah a-en a, anannate ah amah akimusak."
+    "paite": "Ka ngaihnou zaw zuktal hiam ahihkeileh sakhi tuailai bang ahi; Ngai in, ka kulhbaang nunglam uah adingh a, tohlette ah a-en a, anannate ah amah akimusak.",
+    "english": "My beloved is like a roe or a young deer. Behold, he stands behind our wall! He looks in at the windows. He glances through the lattice."
   },
   {
     "verse": 10,
     "paite": "Ka ngaihnou in thu agen a, ka kiang ah, \"Pasal thou in, ka it, ka kilawmnou, hong pai meng in,\" achi hi.",
-    "heading": "Pasal"
+    "heading": "Pasal",
+    "english": "My beloved spoke, and said to me, “Rise up, my love, my beautiful one, and come away."
   },
   {
     "verse": 11,
-    "paite": "Ngai in, phalbi lah abeita ngal a, vuah atheuta a, apaimangta hi;"
+    "paite": "Ngai in, phalbi lah abeita ngal a, vuah atheuta a, apaimangta hi;",
+    "english": "For behold, the winter is past. The rain is over and gone."
   },
   {
     "verse": 12,
-    "paite": "Leitung ah pakte hong kilang a; vasate lasak hun ahong tung a, i gam uah vakhu aw akizata hi."
+    "paite": "Leitung ah pakte hong kilang a; vasate lasak hun ahong tung a, i gam uah vakhu aw akizata hi.",
+    "english": "The flowers appear on the earth. The time of the singing has come, and the voice of the turtledove is heard in our land."
   },
   {
     "verse": 13,
-    "paite": "Theipi kung in gahhingte aminsak a, grep guite apaklun uhi, agimlimte uh asuaksak uhi. Thou ve, ka it, ka kilawmnou hong pai meng in."
+    "paite": "Theipi kung in gahhingte aminsak a, grep guite apaklun uhi, agimlimte uh asuaksak uhi. Thou ve, ka it, ka kilawmnou hong pai meng in.",
+    "english": "The fig tree ripens her green figs. The vines are in blossom. They give out their fragrance. Arise, my love, my beautiful one, and come away.”"
   },
   {
     "verse": 14,
-    "paite": "Mun sang a suangpi heng a om, vakhu bang na hi, na mel hon musak inla, na aw hon zasak in, na aw akhum a, na mel ahoih hi."
+    "paite": "Mun sang a suangpi heng a om, vakhu bang na hi, na mel hon musak inla, na aw hon zasak in, na aw akhum a, na mel ahoih hi.",
+    "english": "My dove in the clefts of the rock, in the hiding places of the mountainside, let me see your face. Let me hear your voice; for your voice is sweet and your face is lovely."
   },
   {
     "verse": 15,
-    "paite": "Sehalte, grephuan hihsia, sehal neute hon matsak ve; ka grephuan uh apaklun ngal a."
+    "paite": "Sehalte, grephuan hihsia, sehal neute hon matsak ve; ka grephuan uh apaklun ngal a.",
+    "english": "Catch for us the foxes, the little foxes that plunder the vineyards; for our vineyards are in blossom."
   },
   {
     "verse": 16,
     "paite": "Ka ngaihnou kei a ahi, kei amah a ka hi; lili pak lak ah aganta aching a,",
-    "heading": "Numei"
+    "heading": "Numei",
+    "english": "My beloved is mine, and I am his. He browses among the lilies."
   },
   {
     "verse": 17,
-    "paite": "Ni ahong nem a, limliapte aman matan, ka ngaihnou, kihei inla, Bether mual tung a zuktal hiam sakhi tuailai bang in om in."
+    "paite": "Ni ahong nem a, limliapte aman matan, ka ngaihnou, kihei inla, Bether mual tung a zuktal hiam sakhi tuailai bang in om in.",
+    "english": "Until the day is cool, and the shadows flee away, turn, my beloved, and be like a roe or a young deer on the mountains of Bether."
   }
 ]

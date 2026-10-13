@@ -1,102 +1,127 @@
 [
   {
     "verse": 1,
-    "paite": "Tapa pil in apa hilhna aza a; himahleh musitmi in asalhna aza kei hi."
+    "paite": "Tapa pil in apa hilhna aza a; himahleh musitmi in asalhna aza kei hi.",
+    "english": "A wise son listens to his father’s instruction, but a scoffer doesn’t listen to rebuke."
   },
   {
     "verse": 2,
-    "paite": "Mi'n akam gah in hoih ane ding hi; himahleh lepchiahmi kha in hiamgamna ane ding hi."
+    "paite": "Mi'n akam gah in hoih ane ding hi; himahleh lepchiahmi kha in hiamgamna ane ding hi.",
+    "english": "By the fruit of his lips, a man enjoys good things, but the unfaithful crave violence."
   },
   {
     "verse": 3,
-    "paite": "Kuapeuh akam veng in ahinna avom a; himahleh kuapeuh amukte hong za in siatna anei ding hi."
+    "paite": "Kuapeuh akam veng in ahinna avom a; himahleh kuapeuh amukte hong za in siatna anei ding hi.",
+    "english": "He who guards his mouth guards his soul. One who opens wide his lips comes to ruin."
   },
   {
     "verse": 4,
-    "paite": "Thadah kha in adeih a, bangmah anei kei; himahleh thanuam kha thausak in a-om ding hi."
+    "paite": "Thadah kha in adeih a, bangmah anei kei; himahleh thanuam kha thausak in a-om ding hi.",
+    "english": "The soul of the sluggard desires, and has nothing, but the desire of the diligent shall be fully satisfied."
   },
   {
     "verse": 5,
-    "paite": "Midiktat in zuau ahua; himahleh migilou huathuai ahi a, zumna atung sek hi."
+    "paite": "Midiktat in zuau ahua; himahleh migilou huathuai ahi a, zumna atung sek hi.",
+    "english": "A righteous man hates lies, but a wicked man brings shame and disgrace."
   },
   {
     "verse": 6,
-    "paite": "Lampi a mitang amah diktatna in aveng; himahleh gitlouhna in mikhial aman hi."
+    "paite": "Lampi a mitang amah diktatna in aveng; himahleh gitlouhna in mikhial aman hi.",
+    "english": "Righteousness guards the way of integrity, but wickedness overthrows the sinner."
   },
   {
     "verse": 7,
-    "paite": "Amah leh amah hausa a kibawl a-om, himahleh bangmah anei kei; amah-le-amah genthei a kibawl a-om, himahleh hauhsakna thupi anei hi."
+    "paite": "Amah leh amah hausa a kibawl a-om, himahleh bangmah anei kei; amah-le-amah genthei a kibawl a-om, himahleh hauhsakna thupi anei hi.",
+    "english": "There are some who pretend to be rich, yet have nothing. There are some who pretend to be poor, yet have great wealth."
   },
   {
     "verse": 8,
-    "paite": "Mihing hinna tat man ahauhsakna ahi; himahleh genthei in vaulauna aza kei hi."
+    "paite": "Mihing hinna tat man ahauhsakna ahi; himahleh genthei in vaulauna aza kei hi.",
+    "english": "The ransom of a man’s life is his riches, but the poor hear no threats."
   },
   {
     "verse": 9,
-    "paite": "Midiktat vakna akipak a; himahleh migilou khawnvak akithat ding."
+    "paite": "Midiktat vakna akipak a; himahleh migilou khawnvak akithat ding.",
+    "english": "The light of the righteous shines brightly, but the lamp of the wicked is snuffed out."
   },
   {
     "verse": 10,
-    "paite": "Kisaktheih ziak in kiselna kia ahong a; himahleh hoihtak a thuhilh pilna ahi."
+    "paite": "Kisaktheih ziak in kiselna kia ahong a; himahleh hoihtak a thuhilh pilna ahi.",
+    "english": "Pride only breeds quarrels, but wisdom is with people who take advice."
   },
   {
     "verse": 11,
-    "paite": "Bangmah lou a hauhsakna muh akiam ding; himahleh sepgimna ziak a lakkhawm apung ding hi."
+    "paite": "Bangmah lou a hauhsakna muh akiam ding; himahleh sepgimna ziak a lakkhawm apung ding hi.",
+    "english": "Wealth gained dishonestly dwindles away, but he who gathers by hand makes it grow."
   },
   {
     "verse": 12,
-    "paite": "Lametna halsawt in lungtang achinasak a; himahleh deih ahong tun chiang in, hinna sing ahi."
+    "paite": "Lametna halsawt in lungtang achinasak a; himahleh deih ahong tun chiang in, hinna sing ahi.",
+    "english": "Hope deferred makes the heart sick, but when longing is fulfilled, it is a tree of life."
   },
   {
     "verse": 13,
-    "paite": "Kuapeuh thu musit in atung ah asiatna atun hi; himahleh kuapeuh thupiak kihta kipahman piak in a-om ding."
+    "paite": "Kuapeuh thu musit in atung ah asiatna atun hi; himahleh kuapeuh thupiak kihta kipahman piak in a-om ding.",
+    "english": "Whoever despises instruction will pay for it, but he who respects a command will be rewarded."
   },
   {
     "verse": 14,
-    "paite": "Mipil dan hinna tuikhuk ahi, sihna thangte a kipan a paimangna ding."
+    "paite": "Mipil dan hinna tuikhuk ahi, sihna thangte a kipan a paimangna ding.",
+    "english": "The teaching of the wise is a spring of life, to turn from the snares of death."
   },
   {
     "verse": 15,
-    "paite": "Theihsiamna hoih in deihsakna apia a; himahleh lepchiahmi lampi aphok hi."
+    "paite": "Theihsiamna hoih in deihsakna apia a; himahleh lepchiahmi lampi aphok hi.",
+    "english": "Good understanding wins favor, but the way of the unfaithful is hard."
   },
   {
     "verse": 16,
-    "paite": "Mipilvang peuhmah in theihna toh in nna asem a; himahleh mihai in diklouhna athehzak."
+    "paite": "Mipilvang peuhmah in theihna toh in nna asem a; himahleh mihai in diklouhna athehzak.",
+    "english": "Every prudent man acts from knowledge, but a fool exposes folly."
   },
   {
     "verse": 17,
-    "paite": "Sawltak gilou hoih lou ah apuk a; himahleh palai muanhuai damna ahi."
+    "paite": "Sawltak gilou hoih lou ah apuk a; himahleh palai muanhuai damna ahi.",
+    "english": "A wicked messenger falls into trouble, but a trustworthy envoy gains healing."
   },
   {
     "verse": 18,
-    "paite": "Gentheihna leh zumna bawlhoihna nial kiang ah a-om dia; himahleh salhna limsak zahtak in a-om ding."
+    "paite": "Gentheihna leh zumna bawlhoihna nial kiang ah a-om dia; himahleh salhna limsak zahtak in a-om ding.",
+    "english": "Poverty and shame come to him who refuses discipline, but he who heeds correction shall be honored."
   },
   {
     "verse": 19,
-    "paite": "Deih hihpichin kha a ding in anuam a; himahleh gilou a kipan paimang mihaite a ding in kihhuai ahi."
+    "paite": "Deih hihpichin kha a ding in anuam a; himahleh gilou a kipan paimang mihaite a ding in kihhuai ahi.",
+    "english": "Longing fulfilled is sweet to the soul, but fools detest turning from evil."
   },
   {
     "verse": 20,
-    "paite": "Mipilte toh ton in, huchi in na pil ding; himahleh mihaite kithuahpih in huaiziak in athuak ding."
+    "paite": "Mipilte toh ton in, huchi in na pil ding; himahleh mihaite kithuahpih in huaiziak in athuak ding.",
+    "english": "One who walks with wise men grows wise, but a companion of fools suffers harm."
   },
   {
     "verse": 21,
-    "paite": "Hoih lou in mikhialte adelh a; himahleh midiktat hoih a thuk in a-om ding hi."
+    "paite": "Hoih lou in mikhialte adelh a; himahleh midiktat hoih a thuk in a-om ding hi.",
+    "english": "Misfortune pursues sinners, but prosperity rewards the righteous."
   },
   {
     "verse": 22,
-    "paite": "Mihoih in gouluah ata leh tute kiang ah anutsiat; mikhial hauhsakna midiktat a dia kholkhawm in a-om hi."
+    "paite": "Mihoih in gouluah ata leh tute kiang ah anutsiat; mikhial hauhsakna midiktat a dia kholkhawm in a-om hi.",
+    "english": "A good man leaves an inheritance to his children’s children, but the wealth of the sinner is stored for the righteous."
   },
   {
     "verse": 23,
-    "paite": "Genthei loukhohna ah an tampi a-om; himahleh diklouhna ziak a suksiat a-om hi."
+    "paite": "Genthei loukhohna ah an tampi a-om; himahleh diklouhna ziak a suksiat a-om hi.",
+    "english": "An abundance of food is in poor people’s fields, but injustice sweeps it away."
   },
   {
     "verse": 24,
-    "paite": "Kuapeuh chiang zang lou in atapa amudah a; himahleh amah it in amah thanuamtak in asawi zel hi."
+    "paite": "Kuapeuh chiang zang lou in atapa amudah a; himahleh amah it in amah thanuamtak in asawi zel hi.",
+    "english": "One who spares the rod hates his son, but one who loves him is careful to discipline him."
   },
   {
     "verse": 25,
-    "paite": "Midiktat in akha lungkimna tan in ane a; himahleh migilou gilpi atasam ding."
+    "paite": "Midiktat in akha lungkimna tan in ane a; himahleh migilou gilpi atasam ding.",
+    "english": "The righteous one eats to the satisfying of his soul, but the belly of the wicked goes hungry."
   }
 ]

@@ -2,94 +2,117 @@
   {
     "verse": 1,
     "paite": "Pathian aw, bang ding a hon paimang den ding na hia oi? Bangziak a na gantatna mun a belamte tung a na hehna akhut?",
-    "heading": "Asaph La / Nam Hutkhiakna Dia Thumna"
+    "heading": "Asaph La / Nam Hutkhiakna Dia Thumna",
+    "english": "A contemplation by Asaph. God, why have you rejected us forever? Why does your anger smolder against the sheep of your pasture?"
   },
   {
     "verse": 2,
-    "paite": "Na mite omkhawmte, nidanglai a na lei, na gou ding a na tat namte theigige in; na omna Zion tang toh."
+    "paite": "Na mite omkhawmte, nidanglai a na lei, na gou ding a na tat namte theigige in; na omna Zion tang toh.",
+    "english": "Remember your congregation, which you purchased of old, which you have redeemed to be the tribe of your inheritance: Mount Zion, in which you have lived."
   },
   {
     "verse": 3,
-    "paite": "Tangtawn siatna lam ah na khe khai in, melmate'n mun siangthou ah thil gilou chiteng ahihta uhi."
+    "paite": "Tangtawn siatna lam ah na khe khai in, melmate'n mun siangthou ah thil gilou chiteng ahihta uhi.",
+    "english": "Lift up your feet to the perpetual ruins, all the evil that the enemy has done in the sanctuary."
   },
   {
     "verse": 4,
-    "paite": "Nangmah doute na mite kikhawmte lak ah a-awng zuazua ua; achiamtehnate uh chiamtehna hi ding in atakta uhi."
+    "paite": "Nangmah doute na mite kikhawmte lak ah a-awng zuazua ua; achiamtehnate uh chiamtehna hi ding in atakta uhi.",
+    "english": "Your adversaries have roared in the middle of your assembly. They have set up their standards as signs."
   },
   {
     "verse": 5,
-    "paite": "Mi singbawk heipi a ngimte bang in akimu ua."
+    "paite": "Mi singbawk heipi a ngimte bang in akimu ua.",
+    "english": "They behaved like men wielding axes, cutting through a thicket of trees."
   },
   {
     "verse": 6,
-    "paite": "Tun ah athilkhuak kilawm teng uh heita leh sek in ahihse chiat uhi."
+    "paite": "Tun ah athilkhuak kilawm teng uh heita leh sek in ahihse chiat uhi.",
+    "english": "Now they break all its carved work down with hatchet and hammers."
   },
   {
     "verse": 7,
-    "paite": "Na mun siangthou ahal ua; na min omna lei a tumkhop hial in ahihbuahta uhi."
+    "paite": "Na mun siangthou ahal ua; na min omna lei a tumkhop hial in ahihbuahta uhi.",
+    "english": "They have burned your sanctuary to the ground. They have profaned the dwelling place of your Name."
   },
   {
     "verse": 8,
-    "paite": "Alungsim un, avek in i hihse ding, achi ua, hiai gam a Pathian kikhopna inn tengteng ahalse khinta uhi."
+    "paite": "Alungsim un, avek in i hihse ding, achi ua, hiai gam a Pathian kikhopna inn tengteng ahalse khinta uhi.",
+    "english": "They said in their heart, “We will crush them completely.” They have burned up all the places in the land where God was worshiped."
   },
   {
     "verse": 9,
-    "paite": "I kichiamtehnate uh i muta kei ua, zawlnei a-omta kei ua asawtdan ding thei himhim i lak uah leng a-om kei hi."
+    "paite": "I kichiamtehnate uh i muta kei ua, zawlnei a-omta kei ua asawtdan ding thei himhim i lak uah leng a-om kei hi.",
+    "english": "We see no miraculous signs. There is no longer any prophet, neither is there among us anyone who knows how long."
   },
   {
     "verse": 10,
-    "paite": "Pathian aw, melma in bang tan ahia hon gensiat ding? Gal in na min tangtawn in agense dia hia?"
+    "paite": "Pathian aw, melma in bang tan ahia hon gensiat ding? Gal in na min tangtawn in agense dia hia?",
+    "english": "How long, God, shall the adversary reproach? Shall the enemy blaspheme your name forever?"
   },
   {
     "verse": 11,
-    "paite": "Bang ding in ahia, na khut, na khut taklam na lakkik? Pholhkhe nawn inla, amaute hihmang in."
+    "paite": "Bang ding in ahia, na khut, na khut taklam na lakkik? Pholhkhe nawn inla, amaute hihmang in.",
+    "english": "Why do you draw back your hand, even your right hand? Take it from your chest and consume them!"
   },
   {
     "verse": 12,
-    "paite": "Himahleh, Pathian nidanglai tan a ka Kumpipa, lei laitak a hotdamna siampa pen ahi."
+    "paite": "Himahleh, Pathian nidanglai tan a ka Kumpipa, lei laitak a hotdamna siampa pen ahi.",
+    "english": "Yet God is my King of old, working salvation throughout the earth."
   },
   {
     "verse": 13,
-    "paite": "Nang na hatna in tuipi na kikhensak a, nang tui a dragonte na kitamsak hi."
+    "paite": "Nang na hatna in tuipi na kikhensak a, nang tui a dragonte na kitamsak hi.",
+    "english": "You divided the sea by your strength. You broke the heads of the sea monsters in the waters."
   },
   {
     "verse": 14,
-    "paite": "Nang Leviathan lute na zansak a, amah gamdai mi omte kiang ah an ding in na pia hi."
+    "paite": "Nang Leviathan lute na zansak a, amah gamdai mi omte kiang ah an ding in na pia hi.",
+    "english": "You broke the heads of Leviathan in pieces. You gave him as food to people and desert creatures."
   },
   {
     "verse": 15,
-    "paite": "Nang tuikhuk leh tui lian na khen a; nang lui lian taktakte na kangsak hi."
+    "paite": "Nang tuikhuk leh tui lian na khen a; nang lui lian taktakte na kangsak hi.",
+    "english": "You opened up spring and stream. You dried up mighty rivers."
   },
   {
     "verse": 16,
-    "paite": "Sun nang a ahi a, zan leng nang а ahi. Nang khovak leh nisa na ngaihtuah hi."
+    "paite": "Sun nang a ahi a, zan leng nang а ahi. Nang khovak leh nisa na ngaihtuah hi.",
+    "english": "The day is yours, the night is also yours. You have prepared the light and the sun."
   },
   {
     "verse": 17,
-    "paite": "Nang leitung gamgite na khung vek hi; nang nipi leh phalbi na siam ahi."
+    "paite": "Nang leitung gamgite na khung vek hi; nang nipi leh phalbi na siam ahi.",
+    "english": "You have set all the boundaries of the earth. You have made summer and winter."
   },
   {
     "verse": 18,
-    "paite": "TOUPA aw, hiai theigige in, melma in ahon gensiat a; nam haipi in na min agensiat."
+    "paite": "TOUPA aw, hiai theigige in, melma in ahon gensiat a; nam haipi in na min agensiat.",
+    "english": "Remember this, that the enemy has mocked you, Yahweh. Foolish people have blasphemed your name."
   },
   {
     "verse": 19,
-    "paite": "Aw na vakhu hinna gam sahang kiang ah pe mahmah ke'nla; na migentheite hinna tangtawn in mangngilh sam ke'n."
+    "paite": "Aw na vakhu hinna gam sahang kiang ah pe mahmah ke'nla; na migentheite hinna tangtawn in mangngilh sam ke'n.",
+    "english": "Don’t deliver the soul of your dove to wild beasts. Don’t forget the life of your poor forever."
   },
   {
     "verse": 20,
-    "paite": "Thukhun hon poimohngaih in; lei mun mial tata hiamgamna omna in adim hi."
+    "paite": "Thukhun hon poimohngaih in; lei mun mial tata hiamgamna omna in adim hi.",
+    "english": "Honor your covenant, for haunts of violence fill the dark places of the earth."
   },
   {
     "verse": 21,
-    "paite": "Aw, nuaisiahna thuakte zahlak in nungkik kei uhenla; genthei leh tagahte'n na min phat uhen."
+    "paite": "Aw, nuaisiahna thuakte zahlak in nungkik kei uhenla; genthei leh tagahte'n na min phat uhen.",
+    "english": "Don’t let the oppressed return ashamed. Let the poor and needy praise your name."
   },
   {
     "verse": 22,
-    "paite": "Pathian aw, thou inla, nangmah thu kigen tawm inla, mihai in nitum in ahon gensiat dan theigige in."
+    "paite": "Pathian aw, thou inla, nangmah thu kigen tawm inla, mihai in nitum in ahon gensiat dan theigige in.",
+    "english": "Arise, God! Plead your own cause. Remember how the foolish man mocks you all day."
   },
   {
     "verse": 23,
-    "paite": "Nangmah galte husa mangngilh ke'n; ahon sualte chiak vengvung a paitou gige ahi uhi."
+    "paite": "Nangmah galte husa mangngilh ke'n; ahon sualte chiak vengvung a paitou gige ahi uhi.",
+    "english": "Don’t forget the voice of your adversaries. The tumult of those who rise up against you ascends continually."
   }
 ]
