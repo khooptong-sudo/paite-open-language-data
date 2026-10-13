@@ -75,7 +75,7 @@ Everything is moving to phones and AI. A language with no digital text gets left
 | `grammar_notes.md` | Working notes on pronouns, verbs, and particles | Hypotheses, not a formal grammar |
 | `paite_phrasebook.json` | Combined lookup file that the Levia assistant uses | 21,324 dictionary entries, 573 hymns |
 | `eval/` | A small test of how well AI models know everyday Paite, with sentences checked by a native speaker | 16 sentences, growing |
-| `prompts/everyday_en.txt` | Simple everyday English sentences for speakers to translate (public domain). Used by Paite Daily and Levia's practice | 200+ sentences |
+| `prompts/everyday_en.txt` | Simple everyday English sentences for speakers to translate (public domain). Used by Paite Daily and Levia's practice | 196 sentences, growing |
 | `scripts/` | The scripts that build `bible/laisiangthou/` and `training/` | |
 
 ## Training a model
