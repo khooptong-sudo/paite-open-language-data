@@ -32,6 +32,31 @@ Owner-curated notes from live conversation with Levia. These are working hypothe
 - `a` = verb/assertive particle? Common in biblical text.
 - `te` = plural marker? (`Hiai te` = "these")
 
+## Numbers and counting
+
+The numeral follows the noun. The noun does not change for plural: `suang` (rock) stays the same with every number.
+
+| Paite | English |
+|-------|---------|
+| Suang | rock / rocks |
+| Suang khat | 1 rock |
+| Suang nih | 2 rocks |
+| Suang thum | 3 rocks |
+| Suang nga | 5 rocks |
+| Suang sawm | 10 rocks |
+| Suang za / Suang zakhat | 100 rocks (`za` = hundred, `zakhat` = one hundred) |
+| Suang sangkhat | 1,000 rocks (`sang` = thousand) |
+
+Zero is not said with a number. It is said with a negative sentence:
+
+| Paite | English |
+|-------|---------|
+| Leilak ah suang ka mukei. | I don't see any rocks on the ground. (`leilak ah` = on the ground) |
+| Suang khat le ka mukei. | I don't see even one rock. |
+
+- `kei` after the verb (`mu` = see) = negation? (`ka mukei` = I don't see)
+- `le` after a quantity = "even"? (`suang khat le` = even one rock)
+
 ## Sample corrected sentences
 
 | Paite | English |
