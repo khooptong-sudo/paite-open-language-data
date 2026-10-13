@@ -48,7 +48,7 @@ It is free. Students, researchers, developers, and anyone curious can download i
 <details>
 <summary><b>Can I help? I do not know about computers.</b></summary>
 
-Yes. If you speak Paite well, you can help more than any programmer. When you see a Paite sentence that is wrong, send the correct one. [Fill in the correction form](https://github.com/khooptong-sudo/paite-open-language-data/issues/new?template=correction.yml) and write the wrong sentence, the correct sentence, and its meaning in English. You do not need to know anything else. To open an issue, you need a free GitHub account.
+Yes. If you speak Paite well, you can help more than any programmer. When you see a Paite sentence that is wrong, send the correct one. **[Fill in the Paite Correction form](https://forms.gle/dbAEPanWhszH8vK28)** with the wrong sentence, the correct sentence, and its meaning in English. It takes one minute on a phone, and you do not need an account. If you use GitHub, you can also use the [GitHub correction form](https://github.com/khooptong-sudo/paite-open-language-data/issues/new?template=correction.yml).
 
 </details>
 

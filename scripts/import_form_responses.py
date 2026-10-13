@@ -17,22 +17,23 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CORRECTIONS = ROOT / "corrections.json"
 
-# field -> keyword that identifies its column heading (first match wins, checked in this order)
+# field -> keywords that identify its column heading (first match wins, checked in this order).
+# "min" is Paite for name: the live form asks "Peluttu Min".
 COLUMNS = {
-    "incorrect": "wrong",
-    "paite": "correct",
-    "english": "english",
-    "register": "spoken",
-    "notes": "notes",
-    "contributor": "name",
+    "incorrect": ("wrong",),
+    "paite": ("correct",),
+    "english": ("english",),
+    "register": ("spoken",),
+    "notes": ("note",),
+    "contributor": ("name", "min"),
 }
 
 
 def map_headers(headers: list[str]) -> dict[str, str]:
     found, used = {}, set()
-    for field, keyword in COLUMNS.items():
+    for field, keywords in COLUMNS.items():
         for h in headers:
-            if h not in used and keyword in h.lower():
+            if h not in used and any(k in h.lower() for k in keywords):
                 found[field] = h
                 used.add(h)
                 break
@@ -93,6 +94,14 @@ def _self_check() -> None:
     assert e["incorrect"] == "Ka dam." and e["register"] == "spoken" and e["status"] == "pending"
     assert e["notes"] == "from Mang"
     assert to_entry(dict(row, **{"Correct Paite sentence": ""}), cols, "now") is None
+
+    # Headings of the live form (forms.gle/dbAEPanWhszH8vK28).
+    live = ["Timestamp", "Wrong Sentence (bawl dik di pen - optional)", "Correct Paite sentence/word",
+            "Meaning in English", "Spoken or Written?", "Note:", "Peluttu Min"]
+    assert map_headers(live) == {
+        "incorrect": live[1], "paite": live[2], "english": live[3],
+        "register": live[4], "notes": live[5], "contributor": live[6],
+    }
 
 
 if __name__ == "__main__":
