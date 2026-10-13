@@ -54,8 +54,13 @@ Zero is not said with a number. It is said with a negative sentence:
 | Leilak ah suang ka mukei. | I don't see any rocks on the ground. (`leilak ah` = on the ground) |
 | Suang khat le ka mukei. | I don't see even one rock. |
 
-- `kei` after the verb (`mu` = see) = negation? (`ka mukei` = I don't see)
-- `le` after a quantity = "even"? (`suang khat le` = even one rock)
+| Suang khat leilak ah ka mu. | I see 1 rock on the ground. |
+| Suang sawm leilak ah ka mu. | I see 10 rocks on the ground. |
+| Suang leilak ah ka mu. | I see rocks on the ground. |
+
+- `kei` after the verb (`mu` = see) marks the negative. (`ka mu` = I see, `ka mukei` = I don't see). Confirmed by the owner.
+- `le` after a quantity means "even". (`suang khat le` = even one rock). Confirmed by the owner.
+- Word order in these sentences: object (with its number), then place (`leilak ah`), then subject marker (`ka`), then verb (`mu`).
 
 ## Sample corrected sentences
 
