@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_at": "2026-08-30T03:53:38+0530",
-    "updated_at": "2026-08-30T04:17:48+0530"
+    "updated_at": "2026-09-03T19:51:37+0530"
   },
   "corrections": [
     {
@@ -74,7 +74,7 @@
       "notes": "unit test",
       "status": "verified",
       "added_at": "2026-08-30T03:58:18+0530",
-      "updated_at": "2026-08-30T03:59:52+0530"
+      "updated_at": "2026-08-31T16:43:32+0530"
     },
     {
       "paite": "Mangpha phot le.",
@@ -91,6 +91,30 @@
       "status": "verified",
       "added_at": "2026-08-30T04:17:48+0530",
       "updated_at": "2026-08-30T04:17:48+0530"
+    },
+    {
+      "paite": "Paite pau na siam hia?",
+      "english": "Do you know how to speak Paite?",
+      "notes": "",
+      "status": "verified",
+      "added_at": "2026-09-03T19:46:21+0530",
+      "updated_at": "2026-09-03T19:47:45+0530"
+    },
+    {
+      "paite": "Na hon it hia?",
+      "english": "Do you love me?",
+      "notes": "",
+      "status": "verified",
+      "added_at": "2026-09-03T19:49:24+0530",
+      "updated_at": "2026-09-03T19:49:24+0530"
+    },
+    {
+      "paite": "Bang hih e?",
+      "english": "What are you doing? or What's up?",
+      "notes": "",
+      "status": "verified",
+      "added_at": "2026-09-03T19:51:37+0530",
+      "updated_at": "2026-09-03T19:51:37+0530"
     }
   ]
 }
