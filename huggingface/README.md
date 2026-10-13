@@ -9,7 +9,6 @@ pretty_name: Paite Open Language Data
 task_categories:
   - translation
   - text-generation
-  - text2text-generation
 tags:
   - paite
   - zomi
@@ -23,8 +22,6 @@ configs:
     data_files: training/parallel.jsonl
   - config_name: monolingual
     data_files: training/monolingual.jsonl
-  - config_name: grammar
-    data_files: training/grammar.jsonl
   - config_name: everyday_eval
     data_files: eval/everyday.jsonl
 ---
@@ -41,7 +38,7 @@ Source data, scripts, and documentation: https://github.com/khooptong-sudo/paite
 |--------|------|---------|
 | `parallel` | 54,146 | `id`, `paite`, `english`, `source`, `split` |
 | `monolingual` | 31,677 | `id`, `text`, `source`, `split` |
-| `grammar` | grows with contributions | `id`, `incorrect`, `correct`, `register`, `notes`, `split` |
+| `grammar` | added here once it has rows; see `training/grammar.jsonl` on GitHub | `id`, `incorrect`, `correct`, `register`, `notes`, `split` |
 | `everyday_eval` | 16 | `id`, `paite` (accepted answers), `english` (accepted answers) |
 
 Each training row has a fixed `split` (`train`, `dev`, `test`; about 90/5/5). Whole Bible chapters stay in one split. Every `everyday_eval` sentence is in the `test` split, so a model is never trained on the benchmark.
@@ -49,7 +46,7 @@ Each training row has a fixed `split` (`train`, `dev`, `test`; about 90/5/5). Wh
 ```python
 from datasets import load_dataset
 
-pairs = load_dataset("khooptong-sudo/paite-open-language-data", "parallel")["train"]
+pairs = load_dataset("LamkaLabs/paite-open-language-data", "parallel")["train"]
 train = pairs.filter(lambda r: r["split"] == "train")
 ```
 

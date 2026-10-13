@@ -89,12 +89,12 @@ The repository holds training **data**, not a trained model. You train a model o
 - **`source`** tells you where a row came from (`bible`, `hymn`, `dictionary`, `correction`, `verified_example`, `verified_word`). Filter on it to weight or remove a source.
 - **Grammar data starts empty.** `grammar.jsonl` grows when speakers add corrections that include the wrong form (see [CONTRIBUTING.md](CONTRIBUTING.md)). This is the most valuable data that you can give.
 
-Load the files with the Hugging Face `datasets` library:
+The same files are on Hugging Face at [LamkaLabs/paite-open-language-data](https://huggingface.co/datasets/LamkaLabs/paite-open-language-data), so you can load them without cloning this repository:
 
 ```python
 from datasets import load_dataset
 
-ds = load_dataset("json", data_files="training/parallel.jsonl")["train"]
+ds = load_dataset("LamkaLabs/paite-open-language-data", "parallel")["train"]
 train = ds.filter(lambda r: r["split"] == "train")
 test = ds.filter(lambda r: r["split"] == "test")
 ```
