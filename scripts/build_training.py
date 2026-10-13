@@ -23,6 +23,18 @@ def split_for(group: str) -> str:
     return "train" if bucket < 90 else "dev" if bucket < 95 else "test"
 
 
+# Sentences in the benchmark (eval/everyday.jsonl) must never be trained on.
+EVAL_PAITE = {
+    p.lower()
+    for line in (ROOT / "eval" / "everyday.jsonl").read_text(encoding="utf-8").splitlines() if line
+    for p in json.loads(line)["paite"]
+}
+
+
+def split_for_sentence(paite: str, row_id: str) -> str:
+    return "test" if paite.lower() in EVAL_PAITE else split_for(row_id)
+
+
 def load(name: str):
     return json.loads((ROOT / name).read_text(encoding="utf-8"))
 
@@ -52,17 +64,17 @@ def main() -> None:
             continue
         row_id = f"correction:{i}"
         parallel.append({"id": row_id, "paite": c["paite"], "english": c["english"],
-                         "source": "correction", "split": split_for(row_id)})
+                         "source": "correction", "split": split_for_sentence(c["paite"], row_id)})
         if c.get("incorrect"):
             grammar.append({"id": row_id, "incorrect": c["incorrect"], "correct": c["paite"],
                             "register": c.get("register", "unspecified"), "notes": c.get("notes", ""),
-                            "split": split_for(row_id)})
+                            "split": split_for_sentence(c["paite"], row_id)})
 
     book = load("paite_phrasebook.json")
     for english, paite in book["verified_examples"].items():
         row_id = f"example:{english}"
         parallel.append({"id": row_id, "paite": paite, "english": english,
-                         "source": "verified_example", "split": split_for(row_id)})
+                         "source": "verified_example", "split": split_for_sentence(paite, row_id)})
     for english, paite in book["verified_words"].items():
         parallel.append({"id": f"word:{english}", "paite": paite, "english": english,
                          "source": "verified_word", "split": "train"})

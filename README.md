@@ -72,6 +72,7 @@ Everything is moving to phones and AI. A language with no digital text gets left
 | `corrections.json` | Sentences that a native speaker checked and corrected | Grows over time |
 | `grammar_notes.md` | Working notes on pronouns, verbs, and particles | Hypotheses, not a formal grammar |
 | `paite_phrasebook.json` | Combined lookup file that the Levia assistant uses | 21,324 dictionary entries, 573 hymns |
+| `eval/` | A small test of how well AI models know everyday Paite, with sentences checked by a native speaker | 16 sentences, growing |
 | `scripts/` | The scripts that build `bible/laisiangthou/` and `training/` | |
 
 ## Training a model
@@ -103,6 +104,18 @@ After you change any source file, rebuild the training files:
 ```bash
 python scripts/build_training.py
 ```
+
+## How well does AI know Paite?
+
+`eval/everyday.jsonl` holds everyday sentences that a native speaker checked. `scripts/run_eval.py` asks any AI model to translate each one both ways and scores the answers with chrF (0 to 100, higher is better). Results go into [eval/RESULTS.md](eval/RESULTS.md).
+
+```bash
+python scripts/run_eval.py --base-url http://localhost:11434/v1 llama3.1
+```
+
+The command above tests a local model through Ollama. To test hosted models, set `EVAL_API_KEY` to an [OpenRouter](https://openrouter.ai) key and list model ids from openrouter.ai/models.
+
+These sentences are always in the `test` split of `training/`, so a model trained on this repository is never trained on its own exam. The test set is small. Every sentence sent through the correction form can make it larger.
 
 ## File formats
 

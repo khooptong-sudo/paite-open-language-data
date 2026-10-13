@@ -31093,36 +31093,34 @@
 {"id": "bible:Zep.3.18", "paite": "Khawmpi kulmut ziak a dahnate, noute a dia puakgik leh gensiatna hiite ka lamang ding hi.", "english": "I will remove those who grieve about the appointed feasts from you. They are a burden and a reproach to you.", "source": "bible", "split": "train"}
 {"id": "bible:Zep.3.19", "paite": "Ngai in, huai hun chiang in, nang hihgimte tengteng ka bawl ding a, panpih kiphamohnu ka hondam ding a, hawlmang a omnu ka lakhawm ding; huchi in leitung pumpi a azahlakna uh ana omkhitnate ah, phatna leh minthanna amaute ka pe ding hi.", "english": "Behold, at that time I will deal with all those who afflict you; and I will save those who are lame and gather those who were driven away. I will give them praise and honor, whose shame has been in all the earth.", "source": "bible", "split": "train"}
 {"id": "bible:Zep.3.20", "paite": "Huai hun chiang in ka hon la nawn ding a, huai hun chiang in nou ka hon kaikhawm ding hi; na mitmuh ua na saltanna ua kipan ka hon pi nawn hun chiang in, lei a mi tengteng lak ah min leh phatna in nou ka hon bawl ding, TOUPA'N achita hi.", "english": "At that time I will bring you in, and at that time I will gather you; for I will give you honor and praise among all the peoples of the earth when I restore your fortunes before your eyes, says Yahweh.", "source": "bible", "split": "train"}
-{"id": "correction:0", "paite": "Hiai te bang chih didan a le?", "english": "What are we supposed to do with these?", "source": "correction", "split": "train"}
-{"id": "correction:1", "paite": "Na hon thei hia?", "english": "Do you know me?", "source": "correction", "split": "train"}
-{"id": "correction:2", "paite": "Ka dam e.", "english": "I am well.", "source": "correction", "split": "dev"}
-{"id": "correction:3", "paite": "Bang chi?", "english": "What is the matter?", "source": "correction", "split": "train"}
-{"id": "correction:4", "paite": "Bang chi e?", "english": "What is the matter?", "source": "correction", "split": "train"}
-{"id": "correction:5", "paite": "N'on it hia?", "english": "Do you love me?", "source": "correction", "split": "train"}
-{"id": "correction:6", "paite": "Ka email hon en mah.", "english": "Please check my email.", "source": "correction", "split": "train"}
+{"id": "correction:0", "paite": "Hiai te bang chih didan a le?", "english": "What are we supposed to do with these?", "source": "correction", "split": "test"}
+{"id": "correction:1", "paite": "Na hon thei hia?", "english": "Do you know me?", "source": "correction", "split": "test"}
+{"id": "correction:2", "paite": "Ka dam e.", "english": "I am well.", "source": "correction", "split": "test"}
+{"id": "correction:3", "paite": "Bang chi?", "english": "What is the matter?", "source": "correction", "split": "test"}
+{"id": "correction:4", "paite": "Bang chi e?", "english": "What is the matter?", "source": "correction", "split": "test"}
+{"id": "correction:5", "paite": "N'on it hia?", "english": "Do you love me?", "source": "correction", "split": "test"}
+{"id": "correction:6", "paite": "Ka email hon en mah.", "english": "Please check my email.", "source": "correction", "split": "test"}
 {"id": "correction:7", "paite": "Ka email hon en dih.", "english": "Please check my email.", "source": "correction", "split": "test"}
-{"id": "correction:8", "paite": "Tes tes lah ahi.", "english": "This is a test.", "source": "correction", "split": "train"}
-{"id": "correction:9", "paite": "Mangpha phot le.", "english": "Good night for now.", "source": "correction", "split": "train"}
-{"id": "correction:10", "paite": "Ka theisiam kei. Hon hilh ve.", "english": "I don't understand yet. Please teach me.", "source": "correction", "split": "train"}
-{"id": "correction:11", "paite": "Paite pau na siam hia?", "english": "Do you know how to speak Paite?", "source": "correction", "split": "train"}
-{"id": "correction:12", "paite": "Na hon it hia?", "english": "Do you love me?", "source": "correction", "split": "train"}
-{"id": "correction:13", "paite": "Bang hih e?", "english": "What are you doing? or What's up?", "source": "correction", "split": "train"}
-{"id": "correction:14", "paite": "Chibai.", "english": "Hello / greetings.", "source": "correction", "split": "train"}
+{"id": "correction:9", "paite": "Mangpha phot le.", "english": "Good night for now.", "source": "correction", "split": "test"}
+{"id": "correction:10", "paite": "Ka theisiam kei. Hon hilh ve.", "english": "I don't understand yet. Please teach me.", "source": "correction", "split": "test"}
+{"id": "correction:11", "paite": "Paite pau na siam hia?", "english": "Do you know how to speak Paite?", "source": "correction", "split": "test"}
+{"id": "correction:12", "paite": "Na hon it hia?", "english": "Do you love me?", "source": "correction", "split": "test"}
+{"id": "correction:13", "paite": "Bang hih e?", "english": "What are you doing? or What's up?", "source": "correction", "split": "test"}
+{"id": "correction:14", "paite": "Chibai.", "english": "Hello / greetings.", "source": "correction", "split": "test"}
 {"id": "example:All human beings are born free and equal in dignity and rights.", "paite": "Mi tengteng zalen a piang ihi ua, zah-omna leh dikna tanvou ah kibangvek ihi.", "english": "All human beings are born free and equal in dignity and rights.", "source": "verified_example", "split": "train"}
 {"id": "example:They are endowed with reason and conscience.", "paite": "Sia leh pha theihna pilna nei a siam I hih ziak un.", "english": "They are endowed with reason and conscience.", "source": "verified_example", "split": "test"}
 {"id": "example:Therefore, they should act towards one another in a spirit of brotherhood.", "paite": "I mihinpihte tungah unauna lungsim feltak I put ngai ahi.", "english": "Therefore, they should act towards one another in a spirit of brotherhood.", "source": "verified_example", "split": "train"}
-{"id": "example:What are we supposed to do with these?", "paite": "Hiai te bang chih didan a le?", "english": "What are we supposed to do with these?", "source": "verified_example", "split": "train"}
-{"id": "example:Do you know me?", "paite": "Na hon thei hia?", "english": "Do you know me?", "source": "verified_example", "split": "train"}
-{"id": "example:I am well.", "paite": "Ka dam e.", "english": "I am well.", "source": "verified_example", "split": "train"}
-{"id": "example:What is the matter?", "paite": "Bang chi e?", "english": "What is the matter?", "source": "verified_example", "split": "train"}
-{"id": "example:Do you love me?", "paite": "Na hon it hia?", "english": "Do you love me?", "source": "verified_example", "split": "train"}
-{"id": "example:Please check my email.", "paite": "Ka email hon en dih.", "english": "Please check my email.", "source": "verified_example", "split": "train"}
-{"id": "example:This is a test.", "paite": "Tes tes lah ahi.", "english": "This is a test.", "source": "verified_example", "split": "train"}
-{"id": "example:Good night for now.", "paite": "Mangpha phot le.", "english": "Good night for now.", "source": "verified_example", "split": "train"}
-{"id": "example:I don't understand yet. Please teach me.", "paite": "Ka theisiam kei. Hon hilh ve.", "english": "I don't understand yet. Please teach me.", "source": "verified_example", "split": "train"}
-{"id": "example:Do you know how to speak Paite?", "paite": "Paite pau na siam hia?", "english": "Do you know how to speak Paite?", "source": "verified_example", "split": "train"}
-{"id": "example:What are you doing? or What's up?", "paite": "Bang hih e?", "english": "What are you doing? or What's up?", "source": "verified_example", "split": "train"}
-{"id": "example:Hello / greetings.", "paite": "Chibai.", "english": "Hello / greetings.", "source": "verified_example", "split": "train"}
+{"id": "example:What are we supposed to do with these?", "paite": "Hiai te bang chih didan a le?", "english": "What are we supposed to do with these?", "source": "verified_example", "split": "test"}
+{"id": "example:Do you know me?", "paite": "Na hon thei hia?", "english": "Do you know me?", "source": "verified_example", "split": "test"}
+{"id": "example:I am well.", "paite": "Ka dam e.", "english": "I am well.", "source": "verified_example", "split": "test"}
+{"id": "example:What is the matter?", "paite": "Bang chi e?", "english": "What is the matter?", "source": "verified_example", "split": "test"}
+{"id": "example:Do you love me?", "paite": "Na hon it hia?", "english": "Do you love me?", "source": "verified_example", "split": "test"}
+{"id": "example:Please check my email.", "paite": "Ka email hon en dih.", "english": "Please check my email.", "source": "verified_example", "split": "test"}
+{"id": "example:Good night for now.", "paite": "Mangpha phot le.", "english": "Good night for now.", "source": "verified_example", "split": "test"}
+{"id": "example:I don't understand yet. Please teach me.", "paite": "Ka theisiam kei. Hon hilh ve.", "english": "I don't understand yet. Please teach me.", "source": "verified_example", "split": "test"}
+{"id": "example:Do you know how to speak Paite?", "paite": "Paite pau na siam hia?", "english": "Do you know how to speak Paite?", "source": "verified_example", "split": "test"}
+{"id": "example:What are you doing? or What's up?", "paite": "Bang hih e?", "english": "What are you doing? or What's up?", "source": "verified_example", "split": "test"}
+{"id": "example:Hello / greetings.", "paite": "Chibai.", "english": "Hello / greetings.", "source": "verified_example", "split": "test"}
 {"id": "word:new", "paite": "Thak", "english": "new", "source": "verified_word", "split": "train"}
 {"id": "word:spicy", "paite": "Thak", "english": "spicy", "source": "verified_word", "split": "train"}
 {"id": "word:servant", "paite": "Sikha", "english": "servant", "source": "verified_word", "split": "train"}
