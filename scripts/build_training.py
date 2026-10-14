@@ -78,6 +78,17 @@ def main() -> None:
     for english, paite in book["verified_words"].items():
         parallel.append({"id": f"word:{english}", "paite": paite, "english": english,
                          "source": "verified_word", "split": "train"})
+    for path in sorted((ROOT / "community").glob("*.jsonl")):
+        for line in path.read_text(encoding="utf-8").splitlines():
+            if not line.strip():
+                continue
+            row = json.loads(line)
+            variants = [row["paite"], *row.get("also_correct", [])]
+            split = "test" if any(p.lower() in EVAL_PAITE for p in variants) else split_for(row["id"])
+            for k, paite in enumerate(variants):
+                row_id = row["id"] if k == 0 else f"{row['id']}:{k}"
+                parallel.append({"id": row_id, "paite": paite, "english": row["english"],
+                                 "source": "community", "split": split})
 
     songs = load("songs/Kristian+Labu_1_4_53_apkcombo_com.json")["songs"]
     for i, s in enumerate(songs):
