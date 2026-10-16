@@ -34,7 +34,8 @@
     "I don't understand yet. Please teach me.": "Ka theisiam kei. Hon hilh ve.",
     "Do you know how to speak Paite?": "Paite pau na siam hia?",
     "What are you doing? or What's up?": "Bang hih e?",
-    "Hello / greetings.": "Chibai."
+    "Hello / greetings.": "Chibai.",
+    "No, thanks": "Ngailou"
   },
   "verified_words": {
     "new": "Thak",
@@ -23972,6 +23973,8 @@
     "Paite pau na siam hia?": "Do you know how to speak Paite?",
     "Na hon it hia?": "Do you love me?",
     "Bang hih e?": "What are you doing? or What's up?",
-    "Chibai.": "Hello / greetings."
+    "Chibai.": "Hello / greetings.",
+    "Ngaikei": "No, thanks",
+    "Ngailou": "No, thanks"
   }
 }

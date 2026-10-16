@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_at": "2026-08-30T03:53:38+0530",
-    "updated_at": "2026-10-13T19:57:37+0530"
+    "updated_at": "2026-10-17T02:14:47+0530"
   },
   "corrections": [
     {
@@ -123,6 +123,22 @@
       "status": "verified",
       "added_at": "2026-10-13T19:57:37+0530",
       "updated_at": "2026-10-13T19:57:37+0530"
+    },
+    {
+      "paite": "Ngaikei",
+      "english": "No, thanks",
+      "notes": "owner-supplied in chat 2026-10-17: a variant of Ngailou for refusing; the two are interchangeable",
+      "status": "verified",
+      "added_at": "2026-10-17T02:14:47+0530",
+      "updated_at": "2026-10-17T02:14:47+0530"
+    },
+    {
+      "paite": "Ngailou",
+      "english": "No, thanks",
+      "notes": "owner-supplied in chat 2026-10-17: a variant of Ngaikei for refusing; the two are interchangeable",
+      "status": "verified",
+      "added_at": "2026-10-17T02:14:47+0530",
+      "updated_at": "2026-10-17T02:14:47+0530"
     }
   ]
 }
