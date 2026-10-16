@@ -2,11 +2,13 @@
 
 ## Contributors (verified sentences)
 
-- Pausiam Thomte: 6
-- phualva: 3
+- Pausiam Thomte: 7
+- phualva: 5
 
 ## Reviewers (decisions)
 
-- Sutzalian Tonsing: 52
-- Min Khooptong: 15
+- Min Khooptong: 59
+- Sutzalian Tonsing: 58
+- Richard Ngaihte: 11
+- Sumthanlian Suantak: 0
 - Thangzamang Naulak: 0
