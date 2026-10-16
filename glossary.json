@@ -1,0 +1,747 @@
+{
+  "entries": [
+    {
+      "paite": "A",
+      "english": "It",
+      "note": "subject marker/pronoun",
+      "source": "note",
+      "example": {
+        "paite": "Huai zaw a dikkei",
+        "english": "That is not correct."
+      }
+    },
+    {
+      "paite": "A huan",
+      "english": "She cooked it",
+      "note": "a = she/it; huan = cook",
+      "source": "note",
+      "example": {
+        "paite": "Ka nu'n a huan ahi.",
+        "english": "My mother cooked it."
+      }
+    },
+    {
+      "paite": "A pallun uh",
+      "english": "Are blooming",
+      "note": "the note gives 'a paklun uh' as an alternative spelling",
+      "source": "note",
+      "example": {
+        "paite": "Pakte a pallun uh",
+        "english": "The flowers are blooming."
+      }
+    },
+    {
+      "paite": "Aban ah",
+      "english": "Next",
+      "note": "aban ah hong pai ding",
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Abik in",
+      "english": "Especially",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Adang",
+      "english": "Another",
+      "note": "other",
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Ah",
+      "english": "At",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Tuni inn ah khawl tawldam in.",
+        "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "Ah",
+      "english": "Home",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Tuni in ah tawldam in",
+        "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "Ahi",
+      "english": "Is/that is",
+      "note": "copula/assertion marker",
+      "source": "note",
+      "example": {
+        "paite": "Ka nu'n a huan ahi.",
+        "english": "My mother cooked it."
+      }
+    },
+    {
+      "paite": "Ahim him in",
+      "english": "Nevertheless",
+      "note": "inspite of",
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Akgil",
+      "english": "Hen coop",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "An",
+      "english": "Rice / food / meal",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "An ka nezouta.",
+        "english": "I have already eaten."
+      }
+    },
+    {
+      "paite": "An ka nezouta",
+      "english": "I have already eaten",
+      "note": "full sentence",
+      "source": "note",
+      "example": {
+        "paite": "An ka nezouta.",
+        "english": "I have already eaten."
+      }
+    },
+    {
+      "paite": "Ana ngak zual",
+      "english": "Wait a moment.",
+      "note": "Ngak zek",
+      "source": "note",
+      "example": {
+        "paite": "Ana ngak zual",
+        "english": "Wait a moment."
+      }
+    },
+    {
+      "paite": "Ann",
+      "english": "Food",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Biang",
+      "english": "Cheek",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Bil",
+      "english": "Ear",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Damdawi",
+      "english": "Medicine",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Hiai damdawi nikhat in nihvei ne in",
+        "english": "Take this medicine twice a day."
+      }
+    },
+    {
+      "paite": "Dek",
+      "english": "Nape",
+      "note": "Nape of the head",
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Dikkei",
+      "english": "Is not correct",
+      "note": "negative form of 'dik' (correct)",
+      "source": "note",
+      "example": {
+        "paite": "Huai zaw a dikkei",
+        "english": "That is not correct."
+      }
+    },
+    {
+      "paite": "Gammang",
+      "english": "Lost",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Gamsa",
+      "english": "Wild Animals",
+      "note": "Deer,tiger, lion",
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Ground",
+      "english": "Leitual",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Ha",
+      "english": "Teeth",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Hehpih in dai dih",
+      "english": "Please be quiet",
+      "note": "Also said as 'Hehpih in dai aw'",
+      "source": "note",
+      "example": {
+        "paite": "Hehpih in dai dih",
+        "english": "Please be quiet."
+      }
+    },
+    {
+      "paite": "Hiai",
+      "english": "This",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Hiai damdawi nikhat in nihvei ne in",
+        "english": "Take this medicine twice a day."
+      }
+    },
+    {
+      "paite": "Huai",
+      "english": "That",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Huai zaw a dikkei",
+        "english": "That is not correct."
+      }
+    },
+    {
+      "paite": "I zekai uh",
+      "english": "We are late",
+      "note": "Ka vaigei uh or I vaigei uh.",
+      "source": "note",
+      "example": {
+        "paite": "I zekai uh",
+        "english": "We are late."
+      }
+    },
+    {
+      "paite": "In",
+      "english": "Imperative marker",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Tuni inn ah khawl tawldam in.",
+        "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "In",
+      "english": "(imperative marker)",
+      "note": "sentence-final imperative particle",
+      "source": "note",
+      "example": {
+        "paite": "Tuni in ah tawldam in",
+        "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "In",
+      "english": "At",
+      "note": "locative marker",
+      "source": "note",
+      "example": {
+        "paite": "Tuni in ah tawldam in",
+        "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "Inn",
+      "english": "Home",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Tuni inn ah khawl tawldam in.",
+        "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "K'on",
+      "english": "I am proud of",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Nang k'on kisaktheihpih",
+        "english": "I am proud of you."
+      }
+    },
+    {
+      "paite": "Ka kipak",
+      "english": "I am happy",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Tuni ka kipak mahmah",
+        "english": "I am very happy today."
+      }
+    },
+    {
+      "paite": "Ka ne",
+      "english": "I eat / I ate",
+      "note": "ka is the first-person singular subject marker; ne means eat",
+      "source": "note",
+      "example": {
+        "paite": "An ka nezouta.",
+        "english": "I have already eaten."
+      }
+    },
+    {
+      "paite": "Ka nu'n",
+      "english": "My mother (ergative)",
+      "note": "nu = mother; ka = my; 'n marks the subject of a transitive verb",
+      "source": "note",
+      "example": {
+        "paite": "Ka nu'n a huan ahi.",
+        "english": "My mother cooked it."
+      }
+    },
+    {
+      "paite": "Ka thei kei",
+      "english": "I do not know",
+      "note": "Ke'n theilou ka hi",
+      "source": "note",
+      "example": {
+        "paite": "Ka thei kei",
+        "english": "I do not know."
+      }
+    },
+    {
+      "paite": "Ka theisiam zek",
+      "english": "I understand a little",
+      "note": "Neuchik ka theisiam",
+      "source": "note",
+      "example": {
+        "paite": "Ka theisiam zek",
+        "english": "I understand a little."
+      }
+    },
+    {
+      "paite": "Kam",
+      "english": "Mouth",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Kasin",
+      "english": "I am learning",
+      "note": "ka- first person singular prefix; sin- learn",
+      "source": "note",
+      "example": {
+        "paite": "Paite kasin lel",
+        "english": "I am learning Paite."
+      }
+    },
+    {
+      "paite": "Khawl",
+      "english": "Rest",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Tuni inn ah khawl tawldam in.",
+        "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "Khe a pai",
+      "english": "Walking",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Khovak mumasa",
+      "english": "Old age people",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Khuai",
+      "english": "Bee",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Khuk",
+      "english": "Knee",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Kinoh in",
+      "english": "Hurry up",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Kinoh in or Kintat in",
+        "english": "Hurry up."
+      }
+    },
+    {
+      "paite": "Kintat in",
+      "english": "Hurry up",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Kinoh in or Kintat in",
+        "english": "Hurry up."
+      }
+    },
+    {
+      "paite": "Kisaktheihpih",
+      "english": "Proud",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Nang k'on kisaktheihpih",
+        "english": "I am proud of you."
+      }
+    },
+    {
+      "paite": "Lametna",
+      "english": "Hope",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Lei",
+      "english": "Tongue",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Lel",
+      "english": "Still, yet",
+      "note": "indicates ongoing action",
+      "source": "note",
+      "example": {
+        "paite": "Paite kasin lel",
+        "english": "I am learning Paite."
+      }
+    },
+    {
+      "paite": "Lian",
+      "english": "Big",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Loumun",
+      "english": "Field",
+      "note": "Loumun ah haichi kava tuh",
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Lu",
+      "english": "Head",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Mahmah",
+      "english": "Very",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Tuni ka kipak mahmah",
+        "english": "I am very happy today."
+      }
+    },
+    {
+      "paite": "Meivak",
+      "english": "Light",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Meivak sumit in",
+        "english": "Turn off the light."
+      }
+    },
+    {
+      "paite": "Mit",
+      "english": "Eye",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Mittang",
+      "english": "Eyeball",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Muk",
+      "english": "Lip",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "N'on panpih thei diam?",
+      "english": "Can you help me?",
+      "note": "Polite request for help",
+      "source": "note",
+      "example": {
+        "paite": "N'on panpih thei diam?",
+        "english": "Can you help me?"
+      }
+    },
+    {
+      "paite": "Na dam hia?",
+      "english": "How are you?",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Na dam hia?",
+        "english": "How are you?"
+      }
+    },
+    {
+      "paite": "Nakvang",
+      "english": "Nostril",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Nang",
+      "english": "You",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Nang k'on kisaktheihpih",
+        "english": "I am proud of you."
+      }
+    },
+    {
+      "paite": "Nap",
+      "english": "Snot",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Ne in",
+      "english": "Take/eat (imperative)",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Hiai damdawi nikhat in nihvei ne in",
+        "english": "Take this medicine twice a day."
+      }
+    },
+    {
+      "paite": "Neu",
+      "english": "Small",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Nezouta",
+      "english": "Have already eaten",
+      "note": "zou indicates completion, ta indicates perfect/change of state",
+      "source": "note",
+      "example": {
+        "paite": "An ka nezouta.",
+        "english": "I have already eaten."
+      }
+    },
+    {
+      "paite": "Ngawng, gawl",
+      "english": "Neck",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Ni",
+      "english": "Sun",
+      "note": "ni suakta",
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Nihvei",
+      "english": "Twice",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Hiai damdawi nikhat in nihvei ne in",
+        "english": "Take this medicine twice a day."
+      }
+    },
+    {
+      "paite": "Nikhat in",
+      "english": "In a day",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Hiai damdawi nikhat in nihvei ne in",
+        "english": "Take this medicine twice a day."
+      }
+    },
+    {
+      "paite": "Paite",
+      "english": "Paite",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Paite kasin lel",
+        "english": "I am learning Paite."
+      }
+    },
+    {
+      "paite": "Pakte",
+      "english": "Flowers",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Pakte a pallun uh",
+        "english": "The flowers are blooming."
+      }
+    },
+    {
+      "paite": "Please Stand up",
+      "english": "Hehpihtakin ana Ding in",
+      "note": "Ana dinsak chih pen paite pau a kizanglou ahi",
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Poilou",
+      "english": "No problem",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Poilou",
+        "english": "No problem."
+      }
+    },
+    {
+      "paite": "Sam",
+      "english": "Hair",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Sawp",
+      "english": "Wash",
+      "note": "Puan niin sawp nang in meleng tang a hoih",
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Sumit in",
+      "english": "Turn off",
+      "note": "variant: mitsak in",
+      "source": "note",
+      "example": {
+        "paite": "Meivak sumit in",
+        "english": "Turn off the light."
+      }
+    },
+    {
+      "paite": "Tal",
+      "english": "Forehead",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Tawldam",
+      "english": "Rest",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Tuni in ah tawldam in",
+        "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "Tong",
+      "english": "Elbow",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Tuni",
+      "english": "Today",
+      "note": null,
+      "source": "note",
+      "example": {
+        "paite": "Tuni in ah tawldam in",
+        "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "Tutna",
+      "english": "Chair",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Vak",
+      "english": "Light",
+      "note": "khua vakta",
+      "source": "contributed",
+      "example": null
+    },
+    {
+      "paite": "Zaw",
+      "english": "Emphatic particle",
+      "note": "adds emphasis, often in negative statements",
+      "source": "note",
+      "example": {
+        "paite": "Huai zaw a dikkei",
+        "english": "That is not correct."
+      }
+    },
+    {
+      "paite": "Zuan",
+      "english": "Bounce",
+      "note": null,
+      "source": "contributed",
+      "example": null
+    }
+  ]
+}
