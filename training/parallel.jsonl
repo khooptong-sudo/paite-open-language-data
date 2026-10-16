@@ -31107,6 +31107,8 @@
 {"id": "correction:12", "paite": "Na hon it hia?", "english": "Do you love me?", "source": "correction", "split": "test"}
 {"id": "correction:13", "paite": "Bang hih e?", "english": "What are you doing? or What's up?", "source": "correction", "split": "test"}
 {"id": "correction:14", "paite": "Chibai.", "english": "Hello / greetings.", "source": "correction", "split": "test"}
+{"id": "correction:15", "paite": "Ngaikei", "english": "No, thanks", "source": "correction", "split": "train"}
+{"id": "correction:16", "paite": "Ngailou", "english": "No, thanks", "source": "correction", "split": "train"}
 {"id": "example:All human beings are born free and equal in dignity and rights.", "paite": "Mi tengteng zalen a piang ihi ua, zah-omna leh dikna tanvou ah kibangvek ihi.", "english": "All human beings are born free and equal in dignity and rights.", "source": "verified_example", "split": "train"}
 {"id": "example:They are endowed with reason and conscience.", "paite": "Sia leh pha theihna pilna nei a siam I hih ziak un.", "english": "They are endowed with reason and conscience.", "source": "verified_example", "split": "test"}
 {"id": "example:Therefore, they should act towards one another in a spirit of brotherhood.", "paite": "I mihinpihte tungah unauna lungsim feltak I put ngai ahi.", "english": "Therefore, they should act towards one another in a spirit of brotherhood.", "source": "verified_example", "split": "train"}
@@ -31121,6 +31123,7 @@
 {"id": "example:Do you know how to speak Paite?", "paite": "Paite pau na siam hia?", "english": "Do you know how to speak Paite?", "source": "verified_example", "split": "test"}
 {"id": "example:What are you doing? or What's up?", "paite": "Bang hih e?", "english": "What are you doing? or What's up?", "source": "verified_example", "split": "test"}
 {"id": "example:Hello / greetings.", "paite": "Chibai.", "english": "Hello / greetings.", "source": "verified_example", "split": "test"}
+{"id": "example:No, thanks", "paite": "Ngailou", "english": "No, thanks", "source": "verified_example", "split": "train"}
 {"id": "word:new", "paite": "Thak", "english": "new", "source": "verified_word", "split": "train"}
 {"id": "word:spicy", "paite": "Thak", "english": "spicy", "source": "verified_word", "split": "train"}
 {"id": "word:servant", "paite": "Sikha", "english": "servant", "source": "verified_word", "split": "train"}
