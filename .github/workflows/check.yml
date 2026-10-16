@@ -4,6 +4,13 @@ on:
   push:
   pull_request:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: check-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -35,9 +42,25 @@ jobs:
           python scripts/run_eval.py --self-check
           python scripts/import_form_responses.py --self-check
 
-      - name: Training files are up to date
+      - name: Rebuild training files
+        run: python scripts/build_training.py
+
+      # The community export writes community/ through the GitHub API and cannot run Python,
+      # so on master this job commits the rebuilt training/ itself. The GITHUB_TOKEN push does not re-trigger the workflow.
+      - name: Commit rebuilt training files (master only)
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
         run: |
-          python scripts/build_training.py
+          if git diff --quiet training/; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add training/
+          git commit -m "Rebuild training files"
+          git pull --rebase origin master
+          git push origin HEAD:master
+
+      - name: Training files are up to date
+        if: github.event_name == 'pull_request'
+        run: |
           git diff --exit-code --stat training/ || {
             echo "::error::training/ is out of date. Run: python scripts/build_training.py and commit the result."
             exit 1
