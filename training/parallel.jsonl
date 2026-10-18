@@ -31352,6 +31352,99 @@
 {"id": "community:258", "paite": "Heutupa'n kimawl ding dan hon sinsak.", "english": "The coach teaches us how to play.", "source": "community", "split": "train"}
 {"id": "community:259", "paite": "Niteng in school kaitawp chiang in ka kisin/kizir zel uh.", "english": "We practice after school every day.", "source": "community", "split": "train"}
 {"id": "community:265", "paite": "Aman kimawlna puan san a silh.", "english": "She wears a red sports shirt.", "source": "community", "split": "train"}
+{"id": "community:239", "paite": "Dawr nei pa sum a pe khin.", "english": "He paid the shopkeeper.", "source": "community", "split": "train"}
+{"id": "community:241", "paite": "Khedap hoih hiah a zuak uh", "english": "They sell good shoes here.", "source": "community", "split": "train"}
+{"id": "community:223", "paite": "Huainu'n sumsiik sawm a pia", "english": "She paid ten coins.", "source": "community", "split": "train"}
+{"id": "community:264", "paite": "Kimawlna zingkal in akipan.", "english": "The game starts in the morning.", "source": "community", "split": "train"}
+{"id": "community:275", "paite": "Field a kimawlte ka en uh", "english": "We watch the players on the field.", "source": "community", "split": "train"}
+{"id": "community:277", "paite": "Nitaklam teng in kou team te ka kizil zel uh", "english": "The team practices every afternoon.", "source": "community", "split": "train"}
+{"id": "community:285", "paite": "Aman hiai dil liau kai hi.", "english": "He swims across the pool.", "source": "community", "split": "train"}
+{"id": "community:293", "paite": "A lawmnu toh badminton aki mawl uh", "english": "She plays badminton with her friend.", "source": "community", "split": "train"}
+{"id": "community:296", "paite": "Kei lam ah ball a hon pek.", "english": "He kicks the ball to me.", "source": "community", "split": "train"}
+{"id": "community:303", "paite": "Sathau in nga a kang uh", "english": "They fried the fish in oil.", "source": "community", "split": "train"}
+{"id": "community:311", "paite": "Sikkeu in mehtui a tok", "english": "He stirred the soup with a spoon.", "source": "community", "split": "train"}
+{"id": "community:332", "paite": "ann nek chiang in tui ka dawn", "english": "We drank water with our meal.", "source": "community", "split": "train"}
+{"id": "community:347", "paite": "temta in meh a aat", "english": "She cuts the vegetables with a small knife.", "source": "community", "split": "train"}
+{"id": "community:215", "paite": "Antang leh be ka lei uh", "english": "We buy rice and beans.", "source": "community", "split": "train"}
+{"id": "community:356", "paite": "dohkan tung ah allu a kheh", "english": "She peels the potatoes on the table.", "source": "community", "split": "train"}
+{"id": "community:369", "paite": "Zan in sa tamlou a lei.", "english": "He bought some meat yesterday.", "source": "community", "split": "train"}
+{"id": "community:370", "paite": "Tanghou tuh nem in lum hi", "english": "The bread was soft and warm.", "source": "community", "split": "train"}
+{"id": "community:207", "paite": "Tuni bawngnawi tamlou ka poimawh", "english": "I need some milk today.", "source": "community", "split": "train"}
+{"id": "community:212", "paite": "Huaipa sum pe khin ka hi", "english": "I gave him the money.", "source": "community", "split": "train"}
+{"id": "community:219", "paite": "Laibu hoih mahmah a mu hi", "english": "He found a good book.", "source": "community", "split": "train"}
+{"id": "community:225", "paite": "Lamkiang a dawr zuan in ka pai uh.", "english": "We walked to the corner shop.", "source": "community", "split": "train"}
+{"id": "community:229", "paite": "Aman pen thak a poimoh", "english": "He needs a new pen.", "source": "community", "split": "train"}
+{"id": "community:248", "paite": "Hiai mi nu zingkal teng in park ah atai gige.", "english": "She runs in the park every morning.", "source": "community", "split": "train"}
+{"id": "community:274", "paite": "A lawmte lam ah ball a lawn hi", "english": "He throws the ball to his friend.", "source": "community", "split": "train"}
+{"id": "community:281", "paite": "Tu kawm in ki taiteh na ka en uh", "english": "We sit and watch the race.", "source": "community", "split": "train"}
+{"id": "community:288", "paite": "Kimawl mite a tawldam uh a kimawl zoh un", "english": "The players rest after the game.", "source": "community", "split": "dev"}
+{"id": "community:288:1", "paite": "Kimawl zoh in kimawlte a tawldam uh.", "english": "The players rest after the game.", "source": "community", "split": "dev"}
+{"id": "community:295", "paite": "Kimawlmi te hattai a tai a en uh.", "english": "They watch the players run fast.", "source": "community", "split": "train"}
+{"id": "community:295:1", "paite": "kimawlmi taihat dan a en uhi", "english": "They watch the players run fast.", "source": "community", "split": "train"}
+{"id": "community:312", "paite": "Ka huan uah haichi ka ching uh.", "english": "We grow vegetables in our garden.", "source": "community", "split": "train"}
+{"id": "community:313", "paite": "Aman pilvang tak in aalu a met", "english": "She peeled the potatoes with care.", "source": "community", "split": "train"}
+{"id": "community:313:1", "paite": "Pilvang tak in allu a met", "english": "She peeled the potatoes with care.", "source": "community", "split": "train"}
+{"id": "community:314", "paite": "Tuzing tanghou leh khuaizu ka ne.", "english": "I ate bread and honey this morning.", "source": "community", "split": "train"}
+{"id": "community:314:1", "paite": "Tu zing in sang leh khuaizu ka ne hi.", "english": "I ate bread and honey this morning.", "source": "community", "split": "train"}
+{"id": "community:337", "paite": "Miteng a di ann kidaih huntawk a kihuan", "english": "We cooked enough food for everyone.", "source": "community", "split": "train"}
+{"id": "community:337:1", "paite": "miteng nek ding a ann ki ningchingtak a ki huan ahi", "english": "We cooked enough food for everyone.", "source": "community", "split": "train"}
+{"id": "community:343", "paite": "Ngasa anteh lou-hing tawh a huan khawm hi", "english": "She cooked fish with green leaves.", "source": "community", "split": "train"}
+{"id": "community:343:1", "paite": "Hiai Nu'n Anteh toh Nga a huankhawm.", "english": "She cooked fish with green leaves.", "source": "community", "split": "train"}
+{"id": "community:350", "paite": "Naupang te'n annnek zoh in bawngnawi a dawn uh.", "english": "The children drink milk after lunch.", "source": "community", "split": "train"}
+{"id": "community:350:1", "paite": "Ann nekzoh in naupang te'n bawngnoi a dawn uh", "english": "The children drink milk after lunch.", "source": "community", "split": "train"}
+{"id": "community:365", "paite": "Thuk a tui a sou.", "english": "The water boils on the stove.", "source": "community", "split": "train"}
+{"id": "community:365:1", "paite": "Thuk tung a tui asou", "english": "The water boils on the stove.", "source": "community", "split": "train"}
+{"id": "community:373", "paite": "Amau singkung nuai ah sun-an a ne uh.", "english": "They ate lunch under the tree.", "source": "community", "split": "train"}
+{"id": "community:373:1", "paite": "Suun ann sing nuai ah a ne uhi.", "english": "They ate lunch under the tree.", "source": "community", "split": "train"}
+{"id": "community:374", "paite": "Haikung ah hai minte ka lou uh", "english": "We picked ripe mangoes from the tree.", "source": "community", "split": "test"}
+{"id": "community:376", "paite": "Singpi sa lawlai dawn di'n.", "english": "The tea was too hot to drink.", "source": "community", "split": "train"}
+{"id": "community:376:1", "paite": "Singpi salua ahi dawn dia", "english": "The tea was too hot to drink.", "source": "community", "split": "train"}
+{"id": "community:378", "paite": "Zanitak in cake lim mahmah a bawl", "english": "She baked sweet cakes last night.", "source": "community", "split": "train"}
+{"id": "community:216", "paite": "Dawr nitak in akikhak", "english": "The shop closes at night.", "source": "community", "split": "train"}
+{"id": "community:216:1", "paite": "Hiai dawr nitak chiangin a kikhak.", "english": "The shop closes at night.", "source": "community", "split": "train"}
+{"id": "community:358", "paite": "A singpi ah chini a sawh.", "english": "He adds sugar to his tea.", "source": "community", "split": "train"}
+{"id": "community:358:1", "paite": "Aman a singpi lak ah chini hel", "english": "He adds sugar to his tea.", "source": "community", "split": "train"}
+{"id": "community:379", "paite": "Aktui toh sathau tuni'n ka lei uh", "english": "We bought eggs and oil today.", "source": "community", "split": "train"}
+{"id": "community:379:1", "paite": "aktui leh sathau tuni in ka lei uh", "english": "We bought eggs and oil today.", "source": "community", "split": "train"}
+{"id": "community:386", "paite": "Dohkan niam a hong tu kimvel uhi", "english": "They gathered around the low table.", "source": "community", "split": "train"}
+{"id": "community:386:1", "paite": "Amau dohkan a um-kim vel uhi", "english": "They gathered around the low table.", "source": "community", "split": "train"}
+{"id": "community:388", "paite": "A ann nekval te kuangdai ah a koih", "english": "She kept the leftover food in a bowl.", "source": "community", "split": "train"}
+{"id": "community:382", "paite": "Ann ka huan khit in bel ka hahsiang", "english": "I cleaned the pot after cooking.", "source": "community", "split": "train"}
+{"id": "community:392", "paite": "ka innkuante ka it mahmah.", "english": "I love my family very much.", "source": "community", "split": "test"}
+{"id": "community:392:1", "paite": "Ka innkuan te it mahmah hi", "english": "I love my family very much.", "source": "community", "split": "test"}
+{"id": "community:395", "paite": "Ka sangamnu'n ka nu inn nasep ah a panpih zel", "english": "My sister helps my mother at home.", "source": "community", "split": "train"}
+{"id": "community:396", "paite": "Ka sanggam pa innkong ah a lawmte toh aki mawl", "english": "My brother plays outside with friends.", "source": "community", "split": "test"}
+{"id": "community:393", "paite": "Ka nu'n zingkal teng in ann a huan", "english": "My mother cooks food every morning.", "source": "community", "split": "train"}
+{"id": "community:302", "paite": "Ka nu'n nipini in bread a bawl.", "english": "My mother bakes bread on Sunday.", "source": "community", "split": "dev"}
+{"id": "community:403", "paite": "Ka ni in naupangte ading in muamkhum hon puak.", "english": "My aunt brings sweets for the children.", "source": "community", "split": "train"}
+{"id": "community:407", "paite": "Ka nun ka puan uh a sawp zel", "english": "My mother washes our clothes.", "source": "community", "split": "train"}
+{"id": "community:413", "paite": "Nitaklam in tukhawm in ka houlim uh", "english": "We sit and talk in the evening.", "source": "community", "split": "train"}
+{"id": "community:414", "paite": "Ka pi in singpi hon bawl sak", "english": "My grandmother makes tea for us.", "source": "community", "split": "train"}
+{"id": "community:417", "paite": "Ka naupa ka ngai", "english": "I love my little brother.", "source": "community", "split": "train"}
+{"id": "community:418", "paite": "Ka sanggan nu toh ka kimawl uh.", "english": "My sister and I play games.", "source": "community", "split": "train"}
+{"id": "community:421", "paite": "Ka pa'n kou a di ann hon leisak", "english": "My father buys food for us.", "source": "community", "split": "train"}
+{"id": "community:162", "paite": "Sinsaktu a zaidam.", "english": "The teacher is kind.", "source": "community", "split": "train"}
+{"id": "community:201", "paite": "dawr ah thei zuak uh", "english": "They sell fruit at the store.", "source": "community", "split": "train"}
+{"id": "community:202", "paite": "Bag man tawm deuh ka zong", "english": "I look for a cheap bag.", "source": "community", "split": "train"}
+{"id": "community:210", "paite": "Chiang neu ka mu uh", "english": "We found a small basket.", "source": "community", "split": "train"}
+{"id": "community:220", "paite": "Khat veivei ka vanluite ka zuak zel.", "english": "We sell old things sometimes.", "source": "community", "split": "train"}
+{"id": "community:230", "paite": "Puan ka en uh", "english": "We look at the clothes.", "source": "community", "split": "train"}
+{"id": "community:301", "paite": "Tuni mehtui hang a lim e", "english": "The soup tastes very good today.", "source": "community", "split": "train"}
+{"id": "community:319", "paite": "Malta meh ka chiam a, ka nui heuhau.", "english": "I tasted the sauce and smiled.", "source": "community", "split": "train"}
+{"id": "community:326", "paite": "Mei ah vaimim a em", "english": "He roasted the corn over the flames.", "source": "community", "split": "train"}
+{"id": "community:329", "paite": "Ann huan dan, ka nu apan ka zil ahi.", "english": "I learned to cook from my mother.", "source": "community", "split": "dev"}
+{"id": "community:345", "paite": "Lup ma in naupangte'n bawngnoi a dawn uh.", "english": "The children drank milk before bed.", "source": "community", "split": "train"}
+{"id": "community:221", "paite": "Dohkan thak a lei uh.", "english": "They bought a new table.", "source": "community", "split": "train"}
+{"id": "community:327", "paite": "Khut zang in ann ka ne", "english": "We ate rice with our hands.", "source": "community", "split": "train"}
+{"id": "community:327:1", "paite": "Khut in buh ka ne uh.", "english": "We ate rice with our hands.", "source": "community", "split": "train"}
+{"id": "community:353", "paite": "Zinglam meh ding in aktui nih a kang.", "english": "He fries two eggs for breakfast.", "source": "community", "split": "train"}
+{"id": "community:353:1", "paite": "Zing meh di'n aktui pum nih akang hi.", "english": "He fries two eggs for breakfast.", "source": "community", "split": "train"}
+{"id": "community:357", "paite": "Kou ka lawm te toh nek ding kaki hawm uh", "english": "We share the food with our friends.", "source": "community", "split": "train"}
+{"id": "community:357:1", "paite": "Lamwte toh ann ka ne khawm uh", "english": "We share the food with our friends.", "source": "community", "split": "train"}
+{"id": "community:368", "paite": "Nitak ann nek chiang in tui leng ka dawn zel uh.", "english": "We drink water with our dinner.", "source": "community", "split": "train"}
+{"id": "community:368:1", "paite": "Ann ka nek chiang un tui ka dawn zel uh", "english": "We drink water with our dinner.", "source": "community", "split": "train"}
+{"id": "community:387", "paite": "Tanghou mal neuneu in ka at.", "english": "I cut the bread into small pieces.", "source": "community", "split": "train"}
+{"id": "community:194", "paite": "Tuni internet a hat kei", "english": "The internet is slow today.", "source": "community", "split": "train"}
 {"id": "community:52", "paite": "Inkuan ka tam uh", "english": "Our family is big.", "source": "community", "split": "train"}
 {"id": "community:53", "paite": "Na nu-le-pa hon na biaksak aw.", "english": "Greet your parents for me.", "source": "community", "split": "train"}
 {"id": "community:59", "paite": "Zingchiang in kimu ni.", "english": "See you tomorrow.", "source": "community", "split": "train"}
