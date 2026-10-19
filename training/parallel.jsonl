@@ -31445,6 +31445,53 @@
 {"id": "community:368:1", "paite": "Ann ka nek chiang un tui ka dawn zel uh", "english": "We drink water with our dinner.", "source": "community", "split": "train"}
 {"id": "community:387", "paite": "Tanghou mal neuneu in ka at.", "english": "I cut the bread into small pieces.", "source": "community", "split": "train"}
 {"id": "community:194", "paite": "Tuni internet a hat kei", "english": "The internet is slow today.", "source": "community", "split": "train"}
+{"id": "community:304", "paite": "Ann nek zoh chiang in singpi ka dawn", "english": "I drink tea after my meal.", "source": "community", "split": "dev"}
+{"id": "community:322", "paite": "Buh hum te chiang ah ka khol uh", "english": "We stored the grain in a basket.", "source": "community", "split": "dev"}
+{"id": "community:323", "paite": "Minu'n lenglate singpi a pia hi.", "english": "She served hot tea to the guests.", "source": "community", "split": "train"}
+{"id": "community:352", "paite": "Ann nek zoh chiang in kuang a sil", "english": "She washes the plates after dinner.", "source": "community", "split": "train"}
+{"id": "community:355", "paite": "Keu sau in meh ka tok", "english": "I stir the pot with a long spoon.", "source": "community", "split": "train"}
+{"id": "community:362", "paite": "a sungkuante adi'n cake a bawl.", "english": "She makes a cake for the family.", "source": "community", "split": "train"}
+{"id": "community:363", "paite": "Betang te mun keu ah ka koih uh", "english": "We store the beans in a dry place.", "source": "community", "split": "train"}
+{"id": "community:371", "paite": "Ka unaunu a ding in noodles ka huan", "english": "I cooked noodles for my sister.", "source": "community", "split": "train"}
+{"id": "community:390", "paite": "Ann nek ma in a khut a silsiang.", "english": "He washed his hands before eating.", "source": "community", "split": "train"}
+{"id": "community:399", "paite": "Ka pu mei kiang ah a tu.", "english": "My grandfather sits near the fire.", "source": "community", "split": "train"}
+{"id": "community:402", "paite": "Pathianni chiang a ka gang hong hoh zel", "english": "My uncle visits us on Sunday.", "source": "community", "split": "train"}
+{"id": "community:404", "paite": "Inn neuchik ah ka teng uh.", "english": "We live in a small house.", "source": "community", "split": "train"}
+{"id": "community:405", "paite": "Sungkuan kipaktak ka hi uh.", "english": "My family is very happy together.", "source": "community", "split": "train"}
+{"id": "community:415", "paite": "Ka pu toh kholak ah ka vak uh", "english": "My grandfather walks with me outside.", "source": "community", "split": "train"}
+{"id": "community:423", "paite": "Ka sanggampa’n ka nasepna hon panpih", "english": "My brother helps me with my work.", "source": "community", "split": "train"}
+{"id": "community:424", "paite": "Houlim in ka nuikhawm uh", "english": "We laugh and talk together.", "source": "community", "split": "train"}
+{"id": "community:426", "paite": "Ka gang in ta neu nih a nei", "english": "My uncle has two small children.", "source": "community", "split": "train"}
+{"id": "community:427", "paite": "Ka pi nitaklam chiang in a ihmu zel", "english": "My grandmother sleeps in the afternoon.", "source": "community", "split": "test"}
+{"id": "community:429", "paite": "ka nu leh pa ka zahtak", "english": "I respect my father and mother.", "source": "community", "split": "train"}
+{"id": "community:430", "paite": "Ka sanggam nu'n naungek a kol.", "english": "My sister takes care of the baby.", "source": "community", "split": "train"}
+{"id": "community:432", "paite": "Ka pa'n thil tampi a hon hilh", "english": "My father teaches me many things.", "source": "community", "split": "train"}
+{"id": "community:434", "paite": "Ka sanggampa kei adin a siam lua", "english": "My brother is very kind to me.", "source": "community", "split": "train"}
+{"id": "community:436", "paite": "Ka pi leh pu ten hon iit vek", "english": "My grandparents love all of us.", "source": "community", "split": "train"}
+{"id": "community:438", "paite": "Nitak ann nek zoh in ka innkuan un ka tukhawm uh.", "english": "My family sits together after dinner.", "source": "community", "split": "train"}
+{"id": "community:440", "paite": "Niteng in ka kipanpih tuah gige uh", "english": "We help each other every day.", "source": "community", "split": "train"}
+{"id": "community:443", "paite": "Ka inn uh lui gei ahi", "english": "My home is near the river.", "source": "community", "split": "train"}
+{"id": "community:448", "paite": "Nunu in tuni in puan a sawp", "english": "Mother washes the clothes today.", "source": "community", "split": "train"}
+{"id": "community:451", "paite": "i ui uh gate gei ah a ihmu", "english": "Our dog sleeps near the gate.", "source": "community", "split": "train"}
+{"id": "community:454", "paite": "Phalbi chiang in mei ka awi uh.", "english": "We sit by the fire in winter.", "source": "community", "split": "train"}
+{"id": "community:455", "paite": "Ka sanggam nu'n inn a phiat.", "english": "My sister sweeps the floor.", "source": "community", "split": "train"}
+{"id": "community:456", "paite": "Noi duh in naungek a kap.", "english": "The baby cries for milk.", "source": "community", "split": "dev"}
+{"id": "community:458", "paite": "Khawnvak in vakna hoihtak hon pia.", "english": "The lamp gives us good light.", "source": "community", "split": "train"}
+{"id": "community:459", "paite": "Bel lianpi ah tui ka koih uh", "english": "We keep water in a big pot.", "source": "community", "split": "train"}
+{"id": "community:460", "paite": "Tawlet lampi lam a nga.", "english": "The window looks out to the road.", "source": "community", "split": "train"}
+{"id": "community:461", "paite": "Kal teng in ka lupna ka hah gige", "english": "I clean my bed every week.", "source": "community", "split": "train"}
+{"id": "community:464", "paite": "Ka sanggampa'n singkhuah hon pua", "english": "My brother brings wood for the fire.", "source": "community", "split": "train"}
+{"id": "community:467", "paite": "Hiai inn sawt a kibawl ahi", "english": "They built this home long ago.", "source": "community", "split": "train"}
+{"id": "community:469", "paite": "Ka kongkhak uah lengla te kana vaidawn uh", "english": "We welcome guests at our door.", "source": "community", "split": "train"}
+{"id": "community:472", "paite": "Ka pa'n nitak chiah kong a kalh", "english": "Father locks the door at night.", "source": "community", "split": "train"}
+{"id": "community:476", "paite": "A puan kawtte inn polam ah a phou/khai", "english": "She hangs the wet clothes outside.", "source": "community", "split": "train"}
+{"id": "community:466", "paite": "Ka Nu'n chi abawm ah a koih.", "english": "Mother keeps the salt in a jar.", "source": "community", "split": "train"}
+{"id": "community:485", "paite": "Naupang te phek nem tung ah ihmu uh", "english": "The children sleep on soft mats.", "source": "community", "split": "train"}
+{"id": "community:485:1", "paite": "Lupna nip ah naupang te a giak uh", "english": "The children sleep on soft mats.", "source": "community", "split": "train"}
+{"id": "community:487", "paite": "Nitaklam chia khongpi a kikhak", "english": "The gate is closed in the evening.", "source": "community", "split": "train"}
+{"id": "community:487:1", "paite": "Nitaklam chiah gate a ki khak.", "english": "The gate is closed in the evening.", "source": "community", "split": "train"}
+{"id": "community:489", "paite": "Putek pa niliim ah a khawl.", "english": "The old man rests in the shade.", "source": "community", "split": "train"}
+{"id": "community:489:1", "paite": "Putekpa hulliap ah a tawldam hi.", "english": "The old man rests in the shade.", "source": "community", "split": "train"}
 {"id": "community:52", "paite": "Inkuan ka tam uh", "english": "Our family is big.", "source": "community", "split": "train"}
 {"id": "community:53", "paite": "Na nu-le-pa hon na biaksak aw.", "english": "Greet your parents for me.", "source": "community", "split": "train"}
 {"id": "community:59", "paite": "Zingchiang in kimu ni.", "english": "See you tomorrow.", "source": "community", "split": "train"}
