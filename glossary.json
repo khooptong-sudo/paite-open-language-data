@@ -2,19 +2,51 @@
   "entries": [
     {
       "paite": "A",
+      "english": "His",
+      "note": "possessive marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman a singpi lak ah chini hel",
+        "english": "He adds sugar to his tea."
+      }
+    },
+    {
+      "paite": "A",
+      "english": "Locative/possessive particle",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Thuk tung a tui asou",
+        "english": "The water boils on the stove."
+      }
+    },
+    {
+      "paite": "A",
       "english": "It",
       "note": "subject marker/pronoun",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Huai zaw a dikkei",
         "english": "That is not correct."
       }
     },
     {
+      "paite": "A bul a baal",
+      "english": "From the very beginning",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "A dai",
       "english": "Is quiet",
       "note": "dai = quiet/calm",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni khosung a dai lua.",
         "english": "The village is very quiet today."
@@ -25,6 +57,7 @@
       "english": "For",
       "note": "benefactive marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
         "english": "My sister sings a song for us."
@@ -35,6 +68,7 @@
       "english": "Sings (for us)",
       "note": "hon = benefactive/directional 'for us'; sa = sing; hi = declarative marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
         "english": "My sister sings a song for us."
@@ -45,16 +79,48 @@
       "english": "She cooked it",
       "note": "a = she/it; huan = cook",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka nu'n a huan ahi.",
         "english": "My mother cooked it."
       }
     },
     {
+      "paite": "A huankhawm",
+      "english": "She cooked (it) together / mixed and cooked",
+      "note": "from ahuan, to cook",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai Nu'n Anteh toh Nga a huankhawm.",
+        "english": "She cooked fish with green leaves."
+      }
+    },
+    {
+      "paite": "A ihmu zel",
+      "english": "Sleeps (habitually)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka pi nitaklam chiang in a ihmu zel",
+        "english": "My grandmother sleeps in the afternoon."
+      }
+    },
+    {
+      "paite": "A kheem",
+      "english": "Fake",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "A kimuak",
       "english": "Greet each other",
       "note": "reciprocal form; kimuak = greet one another",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khosung ah mi a kimuak zel uh",
         "english": "People greet each other in the village."
@@ -65,16 +131,37 @@
       "english": "They slept",
       "note": "variant in note: a ihmu zel uhi",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Kha vak singseng nuai ah kho mipite a lum uh.",
         "english": "The village slept under a bright moon."
       }
     },
     {
+      "paite": "A met",
+      "english": "She peeled",
+      "note": "verb phrase with subject marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pilvang tak in allu a met",
+        "english": "She peeled the potatoes with care."
+      }
+    },
+    {
+      "paite": "A pallun uh",
+      "english": "They are flourishing.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "A pallun uh",
       "english": "They blossom. Or They bloom.",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -82,19 +169,81 @@
       "english": "Are blooming",
       "note": "the note gives 'a paklun uh' as an alternative spelling",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Pakte a pallun uh",
         "english": "The flowers are blooming."
       }
     },
     {
+      "paite": "A pia",
+      "english": "She paid / gave",
+      "note": "pia = give/pay; a- marks third-person subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huainu'n Sumsiik sawm a pia",
+        "english": "She paid ten coins."
+      }
+    },
+    {
+      "paite": "A tak",
+      "english": "Real",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "A tang uh",
       "english": "They won/achieved",
       "note": "note uses a vualzou uh",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Pawlpi ten tuni in kimawlna ah vualzoh na a tang uh",
         "english": "The team wins the match today."
+      }
+    },
+    {
+      "paite": "A tawldam hi",
+      "english": "Rests",
+      "note": "is rested; kitawldamsak",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Putekpa hulliap ah a tawldam hi.",
+        "english": "The old man rests in the shade."
+      }
+    },
+    {
+      "paite": "A tawldam uh",
+      "english": "They rest",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kimawl mite a tawldam uh a kimawl zoh un",
+        "english": "The players rest after the game."
+      }
+    },
+    {
+      "paite": "A Tual",
+      "english": "Local",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "A um-kim vel uhi",
+      "english": "Gathered around",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau dohkan a um-kim vel uhi",
+        "english": "They gathered around the low table."
       }
     },
     {
@@ -102,6 +251,7 @@
       "english": "Next",
       "note": "aban ah hong pai ding",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -109,6 +259,7 @@
       "english": "Especially, Particulary, specially, in particular, exclusively",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -116,6 +267,7 @@
       "english": "Especially, inclusive",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -123,6 +275,7 @@
       "english": "Especially",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -130,6 +283,7 @@
       "english": "Etcetera",
       "note": "Hiai toh a kibang adang a om hia?",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -137,6 +291,7 @@
       "english": "Another",
       "note": "other",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -144,6 +299,7 @@
       "english": "For",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka ni in naupangte ading in muamkhum hon puak.",
         "english": "My aunt brings sweets for the children."
@@ -154,13 +310,26 @@
       "english": "Exclamation",
       "note": "Adu..! Ka hih khial kha",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Ah",
+      "english": "On/in",
+      "note": "locative postposition",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Court ah tennis kaki mawl uh",
+        "english": "We play tennis on the court."
+      }
     },
     {
       "paite": "Ah",
       "english": "In",
       "note": "locative marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A ann nekval te kuangdai ah a koih",
         "english": "She kept the leftover food in a bowl."
@@ -171,6 +340,7 @@
       "english": "There, at",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -178,6 +348,7 @@
       "english": "To / at",
       "note": "locative particle",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Dawr pi ah ka hoh uh.",
         "english": "We went to the big shop."
@@ -188,6 +359,7 @@
       "english": "In / at",
       "note": "locative particle",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A thuukna lam ah va bual kei in",
         "english": "Do not swim in the deep water."
@@ -198,6 +370,7 @@
       "english": "At",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni inn ah khawl tawldam in.",
         "english": "Rest at home today."
@@ -208,6 +381,7 @@
       "english": "Home",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni in ah tawldam in",
         "english": "Rest at home today."
@@ -218,6 +392,7 @@
       "english": "Is/that is",
       "note": "copula/assertion marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka nu'n a huan ahi.",
         "english": "My mother cooked it."
@@ -225,9 +400,26 @@
     },
     {
       "paite": "Ahim him in",
+      "english": "But",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Ahim him in",
+      "english": "By the way",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Ahim him in",
       "english": "Whatever it may be",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -235,6 +427,15 @@
       "english": "Nevertheless",
       "note": "inspite of",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Akgil",
+      "english": "Chicken gizzard/Chicken coop.",
+      "note": "It can be both chicken gizzard and chicken coop. Also, written as Ak gil.",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -242,6 +443,7 @@
       "english": "Chicken coop",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -249,6 +451,7 @@
       "english": "Chicken shed",
       "note": "\"Hiai Akgil phel un\"",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -256,6 +459,7 @@
       "english": "Coop",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -263,6 +467,7 @@
       "english": "Hen coop",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -270,6 +475,7 @@
       "english": "Her hand",
       "note": "a- = her; khut = hand",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n akhut langkhat in ball man hi.",
         "english": "She catches the ball with one hand."
@@ -280,6 +486,7 @@
       "english": "Plays (together)",
       "note": "used for playing a game with someone",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A lawmnu toh badminton aki mawl zel uh",
         "english": "She plays badminton with her friend."
@@ -290,6 +497,7 @@
       "english": "Starts",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Kimawlna Zingkal in akipan.",
         "english": "The game starts in the morning."
@@ -300,6 +508,15 @@
       "english": "Egg",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Al",
+      "english": "Salty",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -307,6 +524,7 @@
       "english": "Potato(es)",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n dohkan tung ah allu kheh hi.",
         "english": "She peels the potatoes on the table."
@@ -314,9 +532,32 @@
     },
     {
       "paite": "Aman",
+      "english": "He",
+      "note": "subject form of 'he' used with a transitive verb",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman a singpi lak ah chini hel",
+        "english": "He adds sugar to his tea."
+      }
+    },
+    {
+      "paite": "Aman",
+      "english": "He (subject form)",
+      "note": "personal pronoun, he/him",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman hiai dil liau kai hi.",
+        "english": "He swims across the pool."
+      }
+    },
+    {
+      "paite": "Aman",
       "english": "Him / her",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -324,9 +565,21 @@
       "english": "She",
       "note": "subject form",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Aman kei receipt hon pia",
         "english": "She gave me the receipt."
+      }
+    },
+    {
+      "paite": "Amau",
+      "english": "They",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau dohkan a um-kim vel uhi",
+        "english": "They gathered around the low table."
       }
     },
     {
@@ -334,6 +587,7 @@
       "english": "Food",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "An huan di'n mei ka toh uhi.",
         "english": "We made a fire to cook the food."
@@ -344,6 +598,7 @@
       "english": "Rice / food / meal",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "An ka nezouta.",
         "english": "I have already eaten."
@@ -354,6 +609,7 @@
       "english": "I have already eaten",
       "note": "full sentence",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "An ka nezouta.",
         "english": "I have already eaten."
@@ -361,19 +617,37 @@
     },
     {
       "paite": "Ana ngak zual",
+      "english": "Wait a minute.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Ana ngak zual",
       "english": "Wait a moment.",
       "note": "Ngak zek",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ana ngak zual",
         "english": "Wait a moment."
       }
     },
     {
+      "paite": "Anger",
+      "english": "Hehna",
+      "note": "Na hehna ahou lua",
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Ann",
       "english": "Rice",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Beelpi lian a ann huan ahi",
         "english": "The rice cooks in a big pot."
@@ -384,6 +658,7 @@
       "english": "Food",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -391,6 +666,7 @@
       "english": "Rice",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -398,9 +674,21 @@
       "english": "Rice",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Antang leh be ka va lei uh",
         "english": "We buy rice and beans."
+      }
+    },
+    {
+      "paite": "Anteh",
+      "english": "Green leaves",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ngasa anteh lou hing tawh a huan khawm hi",
+        "english": "She cooked fish with green leaves."
       }
     },
     {
@@ -408,6 +696,7 @@
       "english": "From",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khat apat sawm tan sim oh",
         "english": "Count from one to ten."
@@ -418,6 +707,26 @@
       "english": "It ok/ it fine",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Asou",
+      "english": "Boils",
+      "note": "from the note 'atui suan sou cihna ahi'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Thuk tung a tui asou",
+        "english": "The water boils on the stove."
+      }
+    },
+    {
+      "paite": "Awi",
+      "english": "Agree",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": null,
       "example": null
     },
     {
@@ -425,6 +734,7 @@
       "english": "Wall , stay back , layover",
       "note": "Inbaang, va baangjual , lamkal ah baang",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -432,6 +742,7 @@
       "english": "Wall",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -439,6 +750,7 @@
       "english": "Ball",
       "note": "loanword",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n akhut langkhat in ball man hi.",
         "english": "She catches the ball with one hand."
@@ -446,9 +758,18 @@
     },
     {
       "paite": "Bang",
+      "english": "What?",
+      "note": "Bang hih e?",
+      "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Bang",
       "english": "What",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -456,6 +777,7 @@
       "english": "Beans",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Antang leh be ka va lei uh",
         "english": "We buy rice and beans."
@@ -466,6 +788,7 @@
       "english": "Big pot",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Beelpi lian a ann huan ahi",
         "english": "The rice cooks in a big pot."
@@ -476,6 +799,7 @@
       "english": "Beans",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -483,6 +807,7 @@
       "english": "Church",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -490,6 +815,7 @@
       "english": "Cheek",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -497,6 +823,7 @@
       "english": "Ear",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -504,6 +831,15 @@
       "english": "Si gui",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Chi",
+      "english": "Say",
+      "note": "Can also be salt. Chi is salt and \"a chi\" is said.",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -511,13 +847,26 @@
       "english": "Jokes",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Chiang in",
+      "english": "In / during",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka pi nitaklam chiang in a ihmu zel",
+        "english": "My grandmother sleeps in the afternoon."
+      }
     },
     {
       "paite": "Chikchiang",
       "english": "When",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -525,6 +874,7 @@
       "english": "Sugar",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Mipa'n singpi leh chini lei hi.",
         "english": "He buys tea and sugar."
@@ -535,13 +885,26 @@
       "english": "Challenge",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Court",
+      "english": "Court",
+      "note": "loanword used for the playing area",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Court ah tennis kaki mawl uh",
+        "english": "We play tennis on the court."
+      }
     },
     {
       "paite": "Damdawi",
       "english": "Medicine, meds",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -549,6 +912,7 @@
       "english": "Medicine",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hiai damdawi nikhat in nihvei ne in",
         "english": "Take this medicine twice a day."
@@ -559,6 +923,7 @@
       "english": "Law, systematic way,",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -566,6 +931,7 @@
       "english": "Law, that way",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -573,6 +939,7 @@
       "english": "Way/manner",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Heutupan kimol ding dan hon sinsak hi",
         "english": "The coach teaches us how to play."
@@ -583,16 +950,26 @@
       "english": "Big shop",
       "note": "Dawr lian is given as an alternative for 'big shop'",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Dawr pi ah ka hoh uh.",
         "english": "We went to the big shop."
       }
     },
     {
+      "paite": "Deih",
+      "english": "Like",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Deih hi",
       "english": "Like",
       "note": "aman ball deih hi",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -600,16 +977,26 @@
       "english": "Wants / desires",
       "note": "deih = to want/desire; hi = declarative sentence particle",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n puan-akpi deih hi.",
         "english": "She wants a warm coat."
       }
     },
     {
+      "paite": "Deihlou",
+      "english": "Don't like",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Dek",
       "english": "(Noun) - the nape ; neck ; the occiput (verb) to negotiate the price, to bargain the price",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -617,6 +1004,7 @@
       "english": "Bargain",
       "note": "Example",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -624,6 +1012,7 @@
       "english": "Nape",
       "note": "Nape of the head",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -631,6 +1020,7 @@
       "english": "It’s wrong",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -638,6 +1028,7 @@
       "english": "Wrong",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -645,9 +1036,21 @@
       "english": "Is not correct",
       "note": "negative form of 'dik' (correct)",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Huai zaw a dikkei",
         "english": "That is not correct."
+      }
+    },
+    {
+      "paite": "Dil",
+      "english": "Pool",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman hiai dil liau kai hi.",
+        "english": "He swims across the pool."
       }
     },
     {
@@ -655,6 +1058,7 @@
       "english": "Stand",
       "note": "Pasal khat a ding hi",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -662,6 +1066,7 @@
       "english": "How to / will",
       "note": "future/irrealis marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Heutupan kimol ding dan hon sinsak hi",
         "english": "The coach teaches us how to play."
@@ -669,9 +1074,21 @@
     },
     {
       "paite": "Dohkan",
+      "english": "Low table",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau dohkan a um-kim vel uhi",
+        "english": "They gathered around the low table."
+      }
+    },
+    {
+      "paite": "Dohkan",
       "english": "Table",
       "note": "Dohkan a van kikoih te",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -679,6 +1096,31 @@
       "english": "Tobacco",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "En",
+      "english": "Look",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Ensuk",
+      "english": "Look down",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Entou",
+      "english": "Look up",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -686,6 +1128,7 @@
       "english": "Kisual",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -693,6 +1136,15 @@
       "english": "Khutzung",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Forehead",
+      "english": "Tal tang",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -700,6 +1152,7 @@
       "english": "Tal",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -707,6 +1160,7 @@
       "english": "Lost",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -714,6 +1168,7 @@
       "english": "Wild animal",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -721,6 +1176,7 @@
       "english": "Wild animals, savage",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -728,6 +1184,15 @@
       "english": "Wild Animals",
       "note": "Deer,tiger, lion",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Gan",
+      "english": "Weave",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -735,6 +1200,7 @@
       "english": "Vehical",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -742,6 +1208,7 @@
       "english": "Mixed together",
       "note": "variant form",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Sangvui leh tui a helkhawm/ gawmkhawm",
         "english": "She mixed the flour and water."
@@ -752,6 +1219,7 @@
       "english": "Thingking",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -759,6 +1227,7 @@
       "english": "Eight",
       "note": "8",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -766,6 +1235,7 @@
       "english": "Faith",
       "note": "Ginna tungtawn a hotdam ihi",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -773,6 +1243,7 @@
       "english": "A piece of land that is use for particular purpose",
       "note": "Skul ground",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -780,6 +1251,15 @@
       "english": "Leitual",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Gua",
+      "english": "Bamboo",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -787,6 +1267,15 @@
       "english": "Six",
       "note": "6",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Ha",
+      "english": "Yes",
+      "note": "Ha - This can be a 'yes' as colloquy or informal. But formal 'yes' in Paite is 'Hi/hi' and Ha translated from Paite to English is Teeth. So, informally it is acceptable but Ha is teeth in Paite.",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -794,6 +1283,7 @@
       "english": "Teeth/tooth",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -801,6 +1291,15 @@
       "english": "Teeth",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Hai",
+      "english": "Mad",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -808,6 +1307,7 @@
       "english": "Strong and courageously",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -815,6 +1315,7 @@
       "english": "Be strong and courageous",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -822,6 +1323,7 @@
       "english": "Please keep quiet.",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -829,6 +1331,7 @@
       "english": "Silent please",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -836,16 +1339,37 @@
       "english": "Please be quiet",
       "note": "Also said as 'Hehpih in dai aw'",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hehpih in dai dih",
         "english": "Please be quiet."
       }
     },
     {
+      "paite": "Hel",
+      "english": "Adds",
+      "note": "verb meaning 'to add'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman a singpi lak ah chini hel",
+        "english": "He adds sugar to his tea."
+      }
+    },
+    {
+      "paite": "Helkhawm",
+      "english": "Mixing",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Helkhawm",
       "english": "Mixed",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -853,6 +1377,7 @@
       "english": "Mix/mix it together",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -860,6 +1385,7 @@
       "english": "Mixed together",
       "note": "variant form",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Sangvui leh tui a helkhawm/ gawmkhawm",
         "english": "She mixed the flour and water."
@@ -870,6 +1396,7 @@
       "english": "The teacher",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -877,6 +1404,7 @@
       "english": "Coach",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Heutupan kimol ding dan hon sinsak hi",
         "english": "The coach teaches us how to play."
@@ -884,9 +1412,21 @@
     },
     {
       "paite": "Hi",
+      "english": "Is / (sentence-final particle)",
+      "note": "sentence-final marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman hiai dil liau kai hi.",
+        "english": "He swims across the pool."
+      }
+    },
+    {
+      "paite": "Hi",
       "english": "Was",
       "note": "sentence-final copula",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tanghou tuh nem in lum hi",
         "english": "The bread was soft and warm."
@@ -897,6 +1437,7 @@
       "english": "Yes",
       "note": "Damzel mo?",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -904,6 +1445,7 @@
       "english": "(sentence-final particle)",
       "note": "marks completed statement",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Mipa'n singpi leh chini lei hi.",
         "english": "He buys tea and sugar."
@@ -914,6 +1456,7 @@
       "english": "(assertive sentence particle)",
       "note": "marks a declarative statement",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n akhut langkhat in ball man hi.",
         "english": "She catches the ball with one hand."
@@ -924,6 +1467,7 @@
       "english": "This",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hiai damdawi nikhat in nihvei ne in",
         "english": "Take this medicine twice a day."
@@ -934,9 +1478,21 @@
       "english": "In this village",
       "note": "hiai = this; khu/khua = village; ah = locative marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Mi tampi te hiai khu ah khosa ahi uh",
         "english": "Many people live in the village."
+      }
+    },
+    {
+      "paite": "Hiai Nu'n",
+      "english": "This woman (she)",
+      "note": "Hiai = this; Nu = woman; 'n marks the subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai Nu'n Anteh toh Nga a huankhawm.",
+        "english": "She cooked fish with green leaves."
       }
     },
     {
@@ -944,6 +1500,7 @@
       "english": "Alive",
       "note": "Hing ding a ne maw ne dia hing?",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -951,6 +1508,7 @@
       "english": "Green",
       "note": "The grass is green. Loupa hing nou mitmet.",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -958,6 +1516,7 @@
       "english": "We",
       "note": "We are...",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -965,6 +1524,7 @@
       "english": "Auxiliary verb no definite translation",
       "note": "it’s like an auxiliary verb that is and can be attached with any verb",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -972,6 +1532,7 @@
       "english": "Us (object marker)",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hon kiam zek uh.",
         "english": "They gave us a discount."
@@ -982,6 +1543,7 @@
       "english": "Gave",
       "note": "past tense marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Aman kei receipt hon pia",
         "english": "She gave me the receipt."
@@ -992,6 +1554,7 @@
       "english": "Us",
       "note": "object marker for first person plural",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Heutupan kimol ding dan hon sinsak hi",
         "english": "The coach teaches us how to play."
@@ -1002,9 +1565,21 @@
       "english": "Makes for us",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka pi in singpi hon bawl sak",
         "english": "My grandmother makes tea for us."
+      }
+    },
+    {
+      "paite": "Hon iit vek",
+      "english": "Love all of us",
+      "note": "hon = us (inclusive); iit = love; vek = all",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka pi leh pu ten hon iit vek",
+        "english": "My grandparents love all of us."
       }
     },
     {
@@ -1012,6 +1587,7 @@
       "english": "They gave us a discount",
       "note": "A man tawm zo in hon zuak uh",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hon kiam zek uh.",
         "english": "They gave us a discount."
@@ -1022,9 +1598,32 @@
       "english": "That",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Huai zaw a dikkei",
         "english": "That is not correct."
+      }
+    },
+    {
+      "paite": "Huainu'n",
+      "english": "Woman (subject)",
+      "note": "huainu = woman; -n marks the subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huainu'n Sumsiik sawm a pia",
+        "english": "She paid ten coins."
+      }
+    },
+    {
+      "paite": "Huaipa",
+      "english": "That person (male)",
+      "note": "mipa khat — a male person",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huaipa sum pe khin ka hi",
+        "english": "I gave him the money."
       }
     },
     {
@@ -1032,6 +1631,7 @@
       "english": "Cooks",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Beelpi lian a ann huan ahi",
         "english": "The rice cooks in a big pot."
@@ -1042,6 +1642,7 @@
       "english": "And then,",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1049,6 +1650,7 @@
       "english": "Cook, Garden, behold",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1056,6 +1658,7 @@
       "english": "To cook",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "An huan di'n mei ka toh uhi.",
         "english": "We made a fire to cook the food."
@@ -1066,19 +1669,51 @@
       "english": "In the garden",
       "note": "huan = garden; ah = locative marker 'in'",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka pa'n huan ah na asem.",
         "english": "My father works in the garden."
       }
     },
     {
+      "paite": "Huan khawm",
+      "english": "Cooked together",
+      "note": "variant in note: huan khawp",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ngasa anteh lou hing tawh a huan khawm hi",
+        "english": "She cooked fish with green leaves."
+      }
+    },
+    {
+      "paite": "Huansung ah",
+      "english": "In the garden.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
       "paite": "Huansung ah",
       "english": "In the garden",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka pa huansung ah ka va panpih.",
         "english": "I help my father in the garden."
+      }
+    },
+    {
+      "paite": "Hulliap",
+      "english": "Shade",
+      "note": "singlim/hulliap; place not reached by the sun's heat",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Putekpa hulliap ah a tawldam hi.",
+        "english": "The old man rests in the shade."
       }
     },
     {
@@ -1086,6 +1721,7 @@
       "english": "We were running very late.",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1093,6 +1729,7 @@
       "english": "We are late",
       "note": "Ka vaigei uh or I vaigei uh.",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "I zekai uh",
         "english": "We are late."
@@ -1100,9 +1737,18 @@
     },
     {
       "paite": "In",
+      "english": "Home",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "In",
       "english": "In",
       "note": "locative marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Kimawlna Zingkal in akipan.",
         "english": "The game starts in the morning."
@@ -1113,6 +1759,7 @@
       "english": "And",
       "note": "conjunction",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tanghou tuh nem in lum hi",
         "english": "The bread was soft and warm."
@@ -1123,6 +1770,7 @@
       "english": "With / by means of",
       "note": "instrumental marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n akhut langkhat in ball man hi.",
         "english": "She catches the ball with one hand."
@@ -1133,6 +1781,7 @@
       "english": "Imperative marker",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni inn ah khawl tawldam in.",
         "english": "Rest at home today."
@@ -1143,6 +1792,7 @@
       "english": "(imperative marker)",
       "note": "sentence-final imperative particle",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni in ah tawldam in",
         "english": "Rest at home today."
@@ -1153,6 +1803,7 @@
       "english": "At",
       "note": "locative marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni in ah tawldam in",
         "english": "Rest at home today."
@@ -1160,9 +1811,18 @@
     },
     {
       "paite": "Inlam",
+      "english": "House Construction",
+      "note": "Inlam can mean home. Ex: I miss home is translated to Inlam ka ngai. Inn lam/bawl is more correct for construction.",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Inlam",
       "english": "Building house/home",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1170,6 +1830,7 @@
       "english": "Noun= Hometown, verb= building a house",
       "note": "Noun= Inlam ka ngai/ I miss my hometown. | verb= Amau inlam uh/ They were building a house.",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1177,6 +1838,7 @@
       "english": "Home / to home",
       "note": "used in both the translation and the note",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Inlam pailel ka hi.",
         "english": "I am going home."
@@ -1184,9 +1846,18 @@
     },
     {
       "paite": "Inn",
+      "english": "House/ Home",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": null,
+      "example": null
+    },
+    {
+      "paite": "Inn",
       "english": "House,resident,home",
       "note": "Inn ah ka om ( I'm at home)",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1194,6 +1865,7 @@
       "english": "House",
       "note": "I am building a house",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -1201,6 +1873,7 @@
       "english": "House, home",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1208,6 +1881,7 @@
       "english": "House/Home",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1215,16 +1889,26 @@
       "english": "Home",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni inn ah khawl tawldam in.",
         "english": "Rest at home today."
       }
     },
     {
+      "paite": "Inngei",
+      "english": "Near our house",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Innkuan",
       "english": "Famly",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1232,6 +1916,15 @@
       "english": "Family",
       "note": "Kou innkuan",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Innveng",
+      "english": "Neighbour",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1239,6 +1932,7 @@
       "english": "I am proud of",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Nang k'on kisaktheihpih",
         "english": "I am proud of you."
@@ -1249,9 +1943,32 @@
       "english": "My",
       "note": "possessive marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka kawlzal ka ki puak",
         "english": "I carry my own bag."
+      }
+    },
+    {
+      "paite": "Ka hah gige",
+      "english": "I clean it regularly",
+      "note": "hah = to clean; gige = regularly/always",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kar teng in ka lupna ka hah gige",
+        "english": "I clean my bed every week."
+      }
+    },
+    {
+      "paite": "Ka hi",
+      "english": "I am / it is I",
+      "note": "first-person assertion ending",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huaipa sum pe khin ka hi",
+        "english": "I gave him the money."
       }
     },
     {
@@ -1259,6 +1976,7 @@
       "english": "I am",
       "note": "first-person copula",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Inlam pailel ka hi.",
         "english": "I am going home."
@@ -1266,12 +1984,32 @@
     },
     {
       "paite": "Ka hoh uh",
+      "english": "We went there",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Ka hoh uh",
       "english": "We went",
       "note": "first person plural past form",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Dawr pi ah ka hoh uh.",
         "english": "We went to the big shop."
+      }
+    },
+    {
+      "paite": "Ka houlim uh",
+      "english": "We talk",
+      "note": "first person plural inclusive form",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nitaklam tukhawm in ka houlim uh",
+        "english": "We sit and talk in the evening."
       }
     },
     {
@@ -1279,6 +2017,7 @@
       "english": "I love very much",
       "note": "iit = love; mahmah = very much",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "ka innkuan te ka iit mahmah",
         "english": "I love my family very much."
@@ -1286,9 +2025,18 @@
     },
     {
       "paite": "Ka innkuan te",
+      "english": "My family members",
+      "note": "My families",
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Ka innkuan te",
       "english": "My family",
       "note": "innkuan = family; te marks plural; ka = my",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "ka innkuan te ka iit mahmah",
         "english": "I love my family very much."
@@ -1299,6 +2047,7 @@
       "english": "We share",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka naunu/sanggamnu toh pindan ka kikop uh.",
         "english": "I share my room with my sister."
@@ -1309,9 +2058,21 @@
       "english": "I am happy",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni ka kipak mahmah",
         "english": "I am very happy today."
+      }
+    },
+    {
+      "paite": "Ka lupna",
+      "english": "My bed",
+      "note": "ka = my; lupna = bed",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kar teng in ka lupna ka hah gige",
+        "english": "I clean my bed every week."
       }
     },
     {
@@ -1319,6 +2080,7 @@
       "english": "I want to say my name but im scared",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -1326,6 +2088,7 @@
       "english": "My younger sister",
       "note": "variant of sister",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka naunu/sanggamnu toh pindan ka kikop uh.",
         "english": "I share my room with my sister."
@@ -1336,6 +2099,7 @@
       "english": "My little brother",
       "note": "ka = my; naupa = younger brother",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka naupa ka ngailua",
         "english": "I love my little brother."
@@ -1346,6 +2110,7 @@
       "english": "I eat",
       "note": "Ann ka ne",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1353,6 +2118,7 @@
       "english": "I eat / I ate",
       "note": "ka is the first-person singular subject marker; ne means eat",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "An ka nezouta.",
         "english": "I have already eaten."
@@ -1363,6 +2129,7 @@
       "english": "I ate",
       "note": "first-person past tense construction",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tu zing in sang leh khuaizu ka ne hi.",
         "english": "I ate bread and honey this morning."
@@ -1373,6 +2140,7 @@
       "english": "I love him very much",
       "note": "ngailua expresses strong love/affection",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka naupa ka ngailua",
         "english": "I love my little brother."
@@ -1383,16 +2151,37 @@
       "english": "My aunt",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka ni in naupangte ading in muamkhum hon puak.",
         "english": "My aunt brings sweets for the children."
       }
     },
     {
+      "paite": "Ka nu leh pa",
+      "english": "My mother and father",
+      "note": "ka = my; nu = mother; leh = and; pa = father",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "ka nu leh pa ka zahtak",
+        "english": "I respect my father and mother."
+      }
+    },
+    {
+      "paite": "Ka nu'n",
+      "english": "My mother/My mom/My mum.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Ka nu'n",
       "english": "My mother's",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1400,6 +2189,7 @@
       "english": "My mom",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1407,6 +2197,7 @@
       "english": "My mother...",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1414,6 +2205,7 @@
       "english": "My mother (ergative)",
       "note": "nu = mother; ka = my; 'n marks the subject of a transitive verb",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka nu'n a huan ahi.",
         "english": "My mother cooked it."
@@ -1424,6 +2216,7 @@
       "english": "My father",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka pa huansung ah ka va panpih.",
         "english": "I help my father in the garden."
@@ -1434,6 +2227,7 @@
       "english": "My father",
       "note": "Ka = my; pa = father; 'n marks the subject",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka pa'n huan ah na asem.",
         "english": "My father works in the garden."
@@ -1444,9 +2238,21 @@
       "english": "My grandmother",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka pi in singpi hon bawl sak",
         "english": "My grandmother makes tea for us."
+      }
+    },
+    {
+      "paite": "Ka pi leh pu ten",
+      "english": "My grandparents",
+      "note": "ka pi = my grandmother; leh = and; pu = grandfather; ten = plural/ergative marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka pi leh pu ten hon iit vek",
+        "english": "My grandparents love all of us."
       }
     },
     {
@@ -1454,9 +2260,21 @@
       "english": "I need more",
       "note": "poimoh = to need; -beh marks 'more'",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "mehkan nang sathau ka poimohbeh",
         "english": "We need more cooking oil."
+      }
+    },
+    {
+      "paite": "Ka Pu",
+      "english": "My grandfather",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka Pu toh kholak ah ka vak uh",
+        "english": "My grandfather walks with me outside."
       }
     },
     {
@@ -1464,6 +2282,7 @@
       "english": "My sister (female)",
       "note": "ka = my; sanggam nu = sister; 'n marks ergative",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
         "english": "My sister sings a song for us."
@@ -1474,6 +2293,7 @@
       "english": "I don't know",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1481,6 +2301,7 @@
       "english": "I do not know",
       "note": "Ke'n theilou ka hi",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka thei kei",
         "english": "I do not know."
@@ -1491,6 +2312,7 @@
       "english": "I understand a bit",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1498,6 +2320,7 @@
       "english": "I understand a little",
       "note": "Neuchik ka theisiam",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka theisiam zek",
         "english": "I understand a little."
@@ -1505,9 +2328,18 @@
     },
     {
       "paite": "Ka toh uhi",
+      "english": "We excavated it",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Ka toh uhi",
       "english": "We made",
       "note": "first person plural past form",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "An huan di'n mei ka toh uhi.",
         "english": "We made a fire to cook the food."
@@ -1518,9 +2350,62 @@
       "english": "I help (go and help)",
       "note": "va indicates going to do the action",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka pa huansung ah ka va panpih.",
         "english": "I help my father in the garden."
+      }
+    },
+    {
+      "paite": "Ka vak uh",
+      "english": "We walk",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka Pu toh kholak ah ka vak uh",
+        "english": "My grandfather walks with me outside."
+      }
+    },
+    {
+      "paite": "Ka zahtak",
+      "english": "I respect",
+      "note": "ka = I; zahtak = respect",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "ka nu leh pa ka zahtak",
+        "english": "I respect my father and mother."
+      }
+    },
+    {
+      "paite": "Kah",
+      "english": "Climb",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": null,
+      "example": null
+    },
+    {
+      "paite": "Kai",
+      "english": "Swims / crosses",
+      "note": "verb",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman hiai dil liau kai hi.",
+        "english": "He swims across the pool."
+      }
+    },
+    {
+      "paite": "Kaki mawl uh",
+      "english": "We play",
+      "note": "first-person plural verb phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Court ah tennis kaki mawl uh",
+        "english": "We play tennis on the court."
       }
     },
     {
@@ -1528,23 +2413,53 @@
       "english": "Mouth",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
+    },
+    {
+      "paite": "Kar teng in",
+      "english": "Every week",
+      "note": "time expression",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kar teng in ka lupna ka hah gige",
+        "english": "I clean my bed every week."
+      }
     },
     {
       "paite": "Kasin",
       "english": "I am learning",
       "note": "ka- first person singular prefix; sin- learn",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Paite kasin lel",
         "english": "I am learning Paite."
       }
     },
     {
+      "paite": "Kawltu",
+      "english": "Sugarcane",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Kawlzal",
       "english": "Bag",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Kawt",
+      "english": "Wet",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1552,6 +2467,7 @@
       "english": "Me",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Aman kei receipt hon pia",
         "english": "She gave me the receipt."
@@ -1562,6 +2478,7 @@
       "english": "Bright moon",
       "note": "kha vak = bright moon; singseng = moon",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Kha vak singseng nuai ah kho mipite a lum uh.",
         "english": "The village slept under a bright moon."
@@ -1572,6 +2489,7 @@
       "english": "One",
       "note": "1",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -1579,6 +2497,7 @@
       "english": "Each other / one another",
       "note": "literally 'one-and-one'",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khosung ah mi khat-le-khat a ki muak tuah uhi.",
         "english": "People greet each other in the village."
@@ -1589,6 +2508,7 @@
       "english": "Stop",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1596,6 +2516,7 @@
       "english": "Rest, machine",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1603,6 +2524,7 @@
       "english": "Machine",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1610,6 +2532,7 @@
       "english": "Wait",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1617,6 +2540,7 @@
       "english": "Rest",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni inn ah khawl tawldam in.",
         "english": "Rest at home today."
@@ -1627,6 +2551,7 @@
       "english": "Walking",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1634,26 +2559,56 @@
       "english": "Peels",
       "note": "kheh = peel; hi marks the declarative",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n dohkan tung ah allu kheh hi.",
         "english": "She peels the potatoes on the table."
       }
     },
     {
+      "paite": "Khitui",
+      "english": "Tear",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Kho mipite",
       "english": "The village people",
       "note": "kho = village; mipite = people",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Kha vak singseng nuai ah kho mipite a lum uh.",
         "english": "The village slept under a bright moon."
       }
     },
     {
+      "paite": "Kholak ah",
+      "english": "Outside",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka Pu toh kholak ah ka vak uh",
+        "english": "My grandfather walks with me outside."
+      }
+    },
+    {
+      "paite": "Kholum",
+      "english": "Summer",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Khosa ahi uh",
       "english": "They live / they dwell",
       "note": "khosa = to live/dwell; ahi uh = they are",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Mi tampi te hiai khu ah khosa ahi uh",
         "english": "Many people live in the village."
@@ -1661,9 +2616,18 @@
     },
     {
       "paite": "Khosung",
+      "english": "Within the village",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Khosung",
       "english": "Village / inside the village",
       "note": "khua (village) + sung (inside)",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khosung ah mi a kimuak zel uh",
         "english": "People greet each other in the village."
@@ -1674,6 +2638,7 @@
       "english": "Locality",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1681,6 +2646,7 @@
       "english": "Village",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1688,6 +2654,7 @@
       "english": "Village (inside the village)",
       "note": "khua = village; khosung = within the village",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni khosung a dai lua.",
         "english": "The village is very quiet today."
@@ -1698,6 +2665,15 @@
       "english": "Old age people",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Khovot hun",
+      "english": "Winter season",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1705,6 +2681,7 @@
       "english": "Bee",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1712,16 +2689,34 @@
       "english": "Honey",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tu zing in sang leh khuaizu ka ne hi.",
         "english": "I ate bread and honey this morning."
       }
     },
     {
+      "paite": "Khuangpi",
+      "english": "Drum",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Khuk",
       "english": "Knee",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Khum",
+      "english": "Sweet",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1729,6 +2724,7 @@
       "english": "Greet each other / meet one another",
       "note": "reciprocal greeting expression",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khosung ah mi khat-le-khat a ki muak tuah uhi.",
         "english": "People greet each other in the village."
@@ -1739,6 +2735,7 @@
       "english": "Carry oneself / carry (for oneself)",
       "note": "reflexive form of 'to carry'",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka kawlzal ka ki puak",
         "english": "I carry my own bag."
@@ -1749,6 +2746,7 @@
       "english": "Decrease",
       "note": "Lui tuite a kiam mahmah ta.",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1756,6 +2754,7 @@
       "english": "Lower",
       "note": "Ka tha a kiam deuh²",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1763,6 +2762,7 @@
       "english": "Reduce/discount",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hon kiam zek uh.",
         "english": "They gave us a discount."
@@ -1773,6 +2773,7 @@
       "english": "Discuss",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1780,13 +2781,37 @@
       "english": "Meeting",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Kimawl mite",
+      "english": "The players",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kimawl mite a tawldam uh a kimawl zoh un",
+        "english": "The players rest after the game."
+      }
+    },
+    {
+      "paite": "Kimawl zoh un",
+      "english": "After the game",
+      "note": "Kimawl zoh in a kimawlte a tawldam uhi",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kimawl mite a tawldam uh a kimawl zoh un",
+        "english": "The players rest after the game."
+      }
     },
     {
       "paite": "Kimawlna",
       "english": "Game",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Kimawlna Zingkal in akipan.",
         "english": "The game starts in the morning."
@@ -1797,6 +2822,7 @@
       "english": "Toys",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1804,6 +2830,7 @@
       "english": "Games",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1811,6 +2838,7 @@
       "english": "Match/game",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Pawlpi ten tuni in kimawlna ah vualzoh na a tang uh",
         "english": "The team wins the match today."
@@ -1818,9 +2846,18 @@
     },
     {
       "paite": "Kimol",
+      "english": "Play",
+      "note": "Game a ka kimol hi",
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Kimol",
       "english": "Play, gamble",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1828,6 +2865,7 @@
       "english": "To play",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Heutupan kimol ding dan hon sinsak hi",
         "english": "The coach teaches us how to play."
@@ -1835,9 +2873,18 @@
     },
     {
       "paite": "Kimvel",
+      "english": "Surrounding",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Kimvel",
       "english": "Around",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1845,6 +2892,7 @@
       "english": "Hurry",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1852,6 +2900,7 @@
       "english": "Hurry up",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Kinoh in or Kintat in",
         "english": "Hurry up."
@@ -1862,6 +2911,7 @@
       "english": "Swift",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1869,6 +2919,7 @@
       "english": "Quick/be quick",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1876,6 +2927,7 @@
       "english": "Hurry up",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Kinoh in or Kintat in",
         "english": "Hurry up."
@@ -1886,6 +2938,7 @@
       "english": "Thank you",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1893,6 +2946,15 @@
       "english": "Thankyou",
       "note": "Thankyou for giving me gift",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Kisaktheihpih",
+      "english": "Proud of",
+      "note": "Kon kisaktheihpih mahmah uhi",
+      "source": "contributed",
+      "reviewed_by": null,
       "example": null
     },
     {
@@ -1900,6 +2962,7 @@
       "english": "Our Pride",
       "note": "He/she is our pride",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1907,6 +2970,7 @@
       "english": "Proud",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Nang k'on kisaktheihpih",
         "english": "I am proud of you."
@@ -1917,6 +2981,7 @@
       "english": "Where",
       "note": "locative question phrase",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tu'n koi ah na om a?",
         "english": "Where are you now?"
@@ -1927,6 +2992,7 @@
       "english": "To keep / to put / to place",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A ann nekval te kuangdai ah a koih",
         "english": "She kept the leftover food in a bowl."
@@ -1937,6 +3003,7 @@
       "english": "Door",
       "note": "Kongkhak hong ou",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -1944,6 +3011,7 @@
       "english": "Us",
       "note": "exclusive 'us' (not including the addressee)",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
         "english": "My sister sings a song for us."
@@ -1951,9 +3019,18 @@
     },
     {
       "paite": "Kuang ; Mei a kaang",
+      "english": "Burning; Burning in fire",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Kuang ; Mei a kaang",
       "english": "Ablaze",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1961,16 +3038,26 @@
       "english": "Bowl",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A ann nekval te kuangdai ah a koih",
         "english": "She kept the leftover food in a bowl."
       }
     },
     {
+      "paite": "Kun",
+      "english": "Bow down",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
       "paite": "La khat",
       "english": "A song",
       "note": "la = song; khat = one",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
         "english": "My sister sings a song for us."
@@ -1981,6 +3068,7 @@
       "english": "Dance",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -1988,6 +3076,7 @@
       "english": "Book",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -1995,6 +3084,7 @@
       "english": "Booklet",
       "note": "Hiai laibuta khawmpi a zat ding a bawl ahi.",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2002,6 +3092,15 @@
       "english": "Handbook",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Laikhak",
+      "english": "Message",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2009,6 +3108,7 @@
       "english": "Pen",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2016,6 +3116,7 @@
       "english": "Paper",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2023,13 +3124,26 @@
       "english": "Study",
       "note": "Lehkha I sim chiang in lai sim ki chi hi",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Lak ah",
+      "english": "Into",
+      "note": "locative/directional phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman a singpi lak ah chini hel",
+        "english": "He adds sugar to his tea."
+      }
     },
     {
       "paite": "Lam",
       "english": "Build",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2037,9 +3151,21 @@
       "english": "Side / direction",
       "note": "as in 'thuukna lam ah' (toward the deep side)",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A thuukna lam ah va bual kei in",
         "english": "Do not swim in the deep water."
+      }
+    },
+    {
+      "paite": "Lam ah",
+      "english": "Towards / in the direction of",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A lawmte lam ah ball a lawn hi",
+        "english": "He throws the ball to his friend."
       }
     },
     {
@@ -2047,6 +3173,15 @@
       "english": "Hope",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Lampai",
+      "english": "Walking",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2054,6 +3189,7 @@
       "english": "Walk",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2061,6 +3197,7 @@
       "english": "Road",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2068,6 +3205,7 @@
       "english": "One side / one (of a pair)",
       "note": "langkhat in = with one (hand)",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n akhut langkhat in ball man hi.",
         "english": "She catches the ball with one hand."
@@ -2078,9 +3216,32 @@
       "english": "Friend (female)",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A lawmnu toh badminton aki mawl zel uh",
         "english": "She plays badminton with her friend."
+      }
+    },
+    {
+      "paite": "Lawmte",
+      "english": "Friends",
+      "note": "plural of lawm (friend)",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A lawmte lam ah ball a lawn hi",
+        "english": "He throws the ball to his friend."
+      }
+    },
+    {
+      "paite": "Lawn",
+      "english": "Throws",
+      "note": "verb stem",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A lawmte lam ah ball a lawn hi",
+        "english": "He throws the ball to his friend."
       }
     },
     {
@@ -2088,6 +3249,7 @@
       "english": "And",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Sangvui leh tui a helkhawm/ gawmkhawm",
         "english": "She mixed the flour and water."
@@ -2095,9 +3257,18 @@
     },
     {
       "paite": "Lei",
+      "english": "Buy/Tongue/Soil/Land",
+      "note": "Buy: Tui ka lei = I bought/buy water. Tongue = Ka lei na. = I have a sore tongue or My tongue hurts. Land/Soil/Dirt = Tangtel in lei a ne. = Earthworms eats the soil.",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Lei",
       "english": "Soil",
       "note": "the soil is suitable for planting",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2105,6 +3276,7 @@
       "english": "Soil, land",
       "note": "Lei hoih ah haichi in gah suang hi.",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2112,6 +3284,7 @@
       "english": "Buy, brought,",
       "note": "Thutphah thak ka lei (I bought a new couch).",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2119,6 +3292,7 @@
       "english": "Buy",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2126,6 +3300,7 @@
       "english": "Buys",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Mipa'n singpi leh chini lei hi.",
         "english": "He buys tea and sugar."
@@ -2136,6 +3311,7 @@
       "english": "Bridge",
       "note": "Hiai guam kan theih na di'n lei i doh ding uh.",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2143,6 +3319,7 @@
       "english": "Tongue",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2150,6 +3327,7 @@
       "english": "Still, yet",
       "note": "indicates ongoing action",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Paite kasin lel",
         "english": "I am learning Paite."
@@ -2160,6 +3338,7 @@
       "english": "Four",
       "note": "4",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2167,20 +3346,45 @@
       "english": "Big",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Liau",
+      "english": "Across",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman hiai dil liau kai hi.",
+        "english": "He swims across the pool."
+      }
     },
     {
       "paite": "Lim/Him",
       "english": "Tasty/delicious",
       "note": "Zannitak a sameh chu a lim/him e",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
+    },
+    {
+      "paite": "Lou hing",
+      "english": "Cooked with",
+      "note": "used in the sentence as the cooking-with phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ngasa anteh lou hing tawh a huan khawm hi",
+        "english": "She cooked fish with green leaves."
+      }
     },
     {
       "paite": "Loumun",
       "english": "Farm",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2188,6 +3392,7 @@
       "english": "Field",
       "note": "Loumun ah haichi kava tuh",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2195,6 +3400,15 @@
       "english": "Head",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Lua",
+      "english": "Vomit",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2202,6 +3416,7 @@
       "english": "Very / too much",
       "note": "intensifier",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni khosung a dai lua.",
         "english": "The village is very quiet today."
@@ -2209,9 +3424,26 @@
     },
     {
       "paite": "Lum",
+      "english": "Lay down",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Lum",
+      "english": "Sleep/warm",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Lum",
       "english": "Warm",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tanghou tuh nem in lum hi",
         "english": "The bread was soft and warm."
@@ -2222,6 +3454,7 @@
       "english": "Laying",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2229,6 +3462,7 @@
       "english": "Sleep",
       "note": "Lupna ah ka lum",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2236,6 +3470,7 @@
       "english": "Kept warm",
       "note": "from the sentence; the note gives hailum instead",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "meikuang in ann lumsak hi",
         "english": "The fire kept the food warm."
@@ -2246,6 +3481,7 @@
       "english": "Desire, longing, craving",
       "note": "Nek di khat ka duh ( I'm craving for something to eat)",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2253,6 +3489,7 @@
       "english": "Craving",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2260,6 +3497,7 @@
       "english": "Satisfied",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2267,6 +3505,7 @@
       "english": "Very",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni ka kipak mahmah",
         "english": "I am very happy today."
@@ -2277,6 +3516,7 @@
       "english": "Pasal",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2284,6 +3524,7 @@
       "english": "Catch / hold",
       "note": "verb",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n akhut langkhat in ball man hi.",
         "english": "She catches the ball with one hand."
@@ -2294,6 +3535,15 @@
       "english": "Forget",
       "note": "Zan a kon vanpiak di ka mangngilh kha",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Meh",
+      "english": "Curry",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2301,6 +3551,7 @@
       "english": "Cooking oil",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "mehkan nang sathau ka poimohbeh",
         "english": "We need more cooking oil."
@@ -2311,6 +3562,7 @@
       "english": "Fire, power, current",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2318,6 +3570,7 @@
       "english": "Fire",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "An huan di'n mei ka toh uhi.",
         "english": "We made a fire to cook the food."
@@ -2328,6 +3581,7 @@
       "english": "Charcoal",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2335,6 +3589,7 @@
       "english": "Fire",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "meikuang in ann lumsak hi",
         "english": "The fire kept the food warm."
@@ -2345,6 +3600,7 @@
       "english": "Widow",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2352,6 +3608,7 @@
       "english": "Light",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Meivak sumit in",
         "english": "Turn off the light."
@@ -2362,6 +3619,7 @@
       "english": "People / person",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khosung ah mi khat-le-khat a ki muak tuah uhi.",
         "english": "People greet each other in the village."
@@ -2372,6 +3630,7 @@
       "english": "People",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khosung ah mi a kimuak zel uh",
         "english": "People greet each other in the village."
@@ -2382,6 +3641,7 @@
       "english": "Many people",
       "note": "mi = people; tampi = many; te = plural marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Mi tampi te hiai khu ah khosa ahi uh",
         "english": "Many people live in the village."
@@ -2392,6 +3652,7 @@
       "english": "Roll call",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2399,6 +3660,7 @@
       "english": "That girl",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2406,6 +3668,7 @@
       "english": "She (her)",
       "note": "Huai minu'n migensiat chiing hi.",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2413,6 +3676,7 @@
       "english": "Her, she",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2420,6 +3684,7 @@
       "english": "She (the woman)",
       "note": "Minu = woman; -n = ergative/subject marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n puan-akpi deih hi.",
         "english": "She wants a warm coat."
@@ -2430,6 +3695,7 @@
       "english": "Woman (ergative)",
       "note": "Minu = woman; -n marks the subject",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n akhut langkhat in ball man hi.",
         "english": "She catches the ball with one hand."
@@ -2440,6 +3706,7 @@
       "english": "Eye",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2447,6 +3714,15 @@
       "english": "Blind",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Mittang",
+      "english": "Eye",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2454,6 +3730,7 @@
       "english": "Eye ball",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2461,6 +3738,15 @@
       "english": "Eyeball",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Muak",
+      "english": "Welcome",
+      "note": "Konna muak uhi",
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2468,6 +3754,7 @@
       "english": "Sweets",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka ni in naupangte ading in muamkhum hon puak.",
         "english": "My aunt brings sweets for the children."
@@ -2478,6 +3765,7 @@
       "english": "Lips",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2485,6 +3773,7 @@
       "english": "Lip",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2492,6 +3781,7 @@
       "english": "Can you please help me",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2499,6 +3789,7 @@
       "english": "Can you help me?",
       "note": "Polite request for help",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "N'on panpih thei diam?",
         "english": "Can you help me?"
@@ -2506,9 +3797,18 @@
     },
     {
       "paite": "Na asem",
+      "english": "He is doing work",
+      "note": "Huai pa'n na asem hi.",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Na asem",
       "english": "He/She is working.",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2516,6 +3816,7 @@
       "english": "Works",
       "note": "na = work; sem = to do/work",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka pa'n huan ah na asem.",
         "english": "My father works in the garden."
@@ -2526,6 +3827,7 @@
       "english": "Are you well?",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2533,6 +3835,7 @@
       "english": "How are you?",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Na dam hia?",
         "english": "How are you?"
@@ -2543,6 +3846,7 @@
       "english": "Are you",
       "note": "na = 2nd person marker, om = be/exist, a = question particle",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tu'n koi ah na om a?",
         "english": "Where are you now?"
@@ -2550,9 +3854,18 @@
     },
     {
       "paite": "Nakvang",
+      "english": "Nostrils",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Nakvang",
       "english": "Nostril(s)",
       "note": "Mi toh kihoulai in na nakvang sawksawk ken.",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2560,6 +3873,7 @@
       "english": "Nostril",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2567,6 +3881,7 @@
       "english": "You",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Nang k'on kisaktheihpih",
         "english": "I am proud of you."
@@ -2577,6 +3892,7 @@
       "english": "Mucus",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2584,6 +3900,7 @@
       "english": "Snot",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2591,6 +3908,7 @@
       "english": "To work ; to Labour ; to engage in work ; to toil",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2598,6 +3916,7 @@
       "english": "Work",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2605,6 +3924,15 @@
       "english": "Working",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Naungek",
+      "english": "Baby",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2612,6 +3940,7 @@
       "english": "Children",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka ni in naupangte ading in muamkhum hon puak.",
         "english": "My aunt brings sweets for the children."
@@ -2619,9 +3948,26 @@
     },
     {
       "paite": "Ne in",
+      "english": "Please Eat",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Ne in",
+      "english": "Eat it",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Ne in",
       "english": "Take/eat (imperative)",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hiai damdawi nikhat in nihvei ne in",
         "english": "Take this medicine twice a day."
@@ -2632,6 +3978,7 @@
       "english": "Leftover food",
       "note": "food that remains after eating",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A ann nekval te kuangdai ah a koih",
         "english": "She kept the leftover food in a bowl."
@@ -2642,6 +3989,7 @@
       "english": "Soft",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tanghou tuh nem in lum hi",
         "english": "The bread was soft and warm."
@@ -2652,6 +4000,15 @@
       "english": "Small",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Nezouta",
+      "english": "Eaten",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2659,6 +4016,7 @@
       "english": "Ate",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2666,6 +4024,7 @@
       "english": "Had meal",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2673,6 +4032,7 @@
       "english": "Just ate",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2680,6 +4040,7 @@
       "english": "Have already eaten",
       "note": "zou indicates completion, ta indicates perfect/change of state",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "An ka nezouta.",
         "english": "I have already eaten."
@@ -2690,6 +4051,7 @@
       "english": "Fish",
       "note": "Tui lak ateng ganhing",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2697,6 +4059,7 @@
       "english": "Five",
       "note": "5",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2704,6 +4067,7 @@
       "english": "Love",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2711,6 +4075,7 @@
       "english": "Darling",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2718,6 +4083,26 @@
       "english": "Loud",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Ngasa",
+      "english": "Fish",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ngasa anteh lou hing tawh a huan khawm hi",
+        "english": "She cooked fish with green leaves."
+      }
+    },
+    {
+      "paite": "Ngawng",
+      "english": "Neck",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": null,
       "example": null
     },
     {
@@ -2725,6 +4110,23 @@
       "english": "Neck",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Ngilh",
+      "english": "Forget",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Ngilhlouh",
+      "english": "Remember",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2732,6 +4134,7 @@
       "english": "Sun",
       "note": "ni suakta",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2739,6 +4142,7 @@
       "english": "Two",
       "note": "2",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2746,6 +4150,7 @@
       "english": "Twice. Or Two times.",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2753,16 +4158,26 @@
       "english": "Twice",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hiai damdawi nikhat in nihvei ne in",
         "english": "Take this medicine twice a day."
       }
     },
     {
+      "paite": "Niin",
+      "english": "Dirty",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
       "paite": "Nikhat in",
       "english": "In a day",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hiai damdawi nikhat in nihvei ne in",
         "english": "Take this medicine twice a day."
@@ -2773,6 +4188,15 @@
       "english": "Sun",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Nisuak",
+      "english": "Sunrise",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": null,
       "example": null
     },
     {
@@ -2780,13 +4204,26 @@
       "english": "Night",
       "note": "Nitak Chiang in khua a mial",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Nitaklam",
+      "english": "Afternoon",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka pi nitaklam chiang in a ihmu zel",
+        "english": "My grandmother sleeps in the afternoon."
+      }
     },
     {
       "paite": "Nitaklam",
       "english": "Evening",
       "note": "i will go to the market this evening",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -2794,6 +4231,7 @@
       "english": "Everyday",
       "note": "Niteng in ann ka ne",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2801,6 +4239,7 @@
       "english": "Mother",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2808,6 +4247,7 @@
       "english": "Under",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Kha vak singseng nuai ah kho mipite a lum uh.",
         "english": "The village slept under a bright moon."
@@ -2818,6 +4258,7 @@
       "english": "Behaviour",
       "note": "Good behaviour",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2825,6 +4266,7 @@
       "english": "Dad",
       "note": "Ka pa",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2832,6 +4274,15 @@
       "english": "Father",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Pai",
+      "english": "Throw",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2839,6 +4290,15 @@
       "english": "March",
       "note": "Kana pai ding",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Pailel",
+      "english": "Still on",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2846,6 +4306,7 @@
       "english": "Going on",
       "note": "Kihouna pailel or khawmpi pailel",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2853,6 +4314,7 @@
       "english": "Going",
       "note": "verb form in the translation",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Inlam pailel ka hi.",
         "english": "I am going home."
@@ -2863,6 +4325,7 @@
       "english": "Paite",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Paite kasin lel",
         "english": "I am learning Paite."
@@ -2873,6 +4336,7 @@
       "english": "Flowers",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Pakte a pallun uh",
         "english": "The flowers are blooming."
@@ -2883,6 +4347,7 @@
       "english": "Youthful days",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2890,6 +4355,7 @@
       "english": "Youth",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2897,6 +4363,7 @@
       "english": "Youth day",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2904,6 +4371,7 @@
       "english": "Sawtooth coriander",
       "note": "Sawtooth coriander is commonly known as culantro or recao",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2911,6 +4379,7 @@
       "english": "Organization",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2918,9 +4387,21 @@
       "english": "Team",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Pawlpi ten tuni in kimawlna ah vualzoh na a tang uh",
         "english": "The team wins the match today."
+      }
+    },
+    {
+      "paite": "Pe khin",
+      "english": "Gave (already)",
+      "note": "indicates the action of giving is completed",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huaipa sum pe khin ka hi",
+        "english": "I gave him the money."
       }
     },
     {
@@ -2928,16 +4409,45 @@
       "english": "Give",
       "note": "verb root",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Aman kei receipt hon pia",
         "english": "She gave me the receipt."
       }
     },
     {
+      "paite": "Pil",
+      "english": "Wise",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Pilvang tak in",
+      "english": "With care / carefully",
+      "note": "adverbial phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pilvang tak in allu a met",
+        "english": "She peeled the potatoes with care."
+      }
+    },
+    {
+      "paite": "Pindan",
+      "english": "Partition",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
       "paite": "Pindan",
       "english": "Room",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka naunu/sanggamnu toh pindan ka kikop uh.",
         "english": "I share my room with my sister."
@@ -2945,9 +4455,18 @@
     },
     {
       "paite": "Please Stand up",
+      "english": "Dingtou in.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Please Stand up",
       "english": "Ding in hehpih tak in.",
       "note": "Na tut na apat hehpih tak in ding in.",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2955,6 +4474,7 @@
       "english": "Hehpihtak in hon ding in",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -2962,6 +4482,7 @@
       "english": "Hehpihtakin ana Ding in",
       "note": "Ana dinsak chih pen paite pau a kizanglou ahi",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -2969,6 +4490,7 @@
       "english": "No problem",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Poilou",
         "english": "No problem."
@@ -2979,6 +4501,7 @@
       "english": "Brings",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka ni in naupangte ading in muamkhum hon puak.",
         "english": "My aunt brings sweets for the children."
@@ -2989,9 +4512,21 @@
       "english": "Warm coat",
       "note": "compound noun; puan = cloth/garment, akpi = warm/thick",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n puan-akpi deih hi.",
         "english": "She wants a warm coat."
+      }
+    },
+    {
+      "paite": "Putekpa",
+      "english": "Old man",
+      "note": "pasal upa sim leh tek mahmah ta",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Putekpa hulliap ah a tawldam hi.",
+        "english": "The old man rests in the shade."
       }
     },
     {
@@ -2999,6 +4534,7 @@
       "english": "Chiamteh nalai pek",
       "note": "Van nava lei chiang in, sum leh pai na sen zah \"chiamteh na laipek\" la in.",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3006,16 +4542,26 @@
       "english": "Receipt",
       "note": "loanword",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Aman kei receipt hon pia",
         "english": "She gave me the receipt."
       }
     },
     {
+      "paite": "Rong",
+      "english": "Colour/color",
+      "note": "Hiai puanak a rong a nalh e",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
       "paite": "Sagih",
       "english": "Seven",
       "note": "7",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -3023,6 +4569,7 @@
       "english": "Bag",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3030,6 +4577,7 @@
       "english": "Hair",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -3037,6 +4585,7 @@
       "english": "Bread",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tu zing in sang leh khuaizu ka ne hi.",
         "english": "I ate bread and honey this morning."
@@ -3047,6 +4596,7 @@
       "english": "Sister",
       "note": "sanggamnu is used for sister; for a younger sister, nau nu; for an elder sister, u nu",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Ka sanggamnu toh pindan ka kikop uh.",
         "english": "I share my room with my sister."
@@ -3057,6 +4607,7 @@
       "english": "Crumb",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3064,6 +4615,7 @@
       "english": "Flour",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Sangvui leh tui a helkhawm/ gawmkhawm",
         "english": "She mixed the flour and water."
@@ -3074,6 +4626,7 @@
       "english": "Oil",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "mehkan nang sathau ka poimohbeh",
         "english": "We need more cooking oil."
@@ -3084,6 +4637,7 @@
       "english": "Ten",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khat apat sawm tan sim oh",
         "english": "Count from one to ten."
@@ -3094,6 +4648,15 @@
       "english": "Wash",
       "note": "Puan niin sawp nang in meleng tang a hoih",
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Senlai",
+      "english": "Childhood",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3101,6 +4664,7 @@
       "english": "Count",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khat apat sawm tan sim oh",
         "english": "Count from one to ten."
@@ -3111,6 +4675,7 @@
       "english": "Do read",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3118,9 +4683,21 @@
       "english": "Read (imperative)",
       "note": "sim = read; in = imperative marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hiai laibu sim in",
         "english": "Read this book."
+      }
+    },
+    {
+      "paite": "Singkhuah",
+      "english": "Firewood; small pieces of wood for burning",
+      "note": "Refers to small pieces of wood used for fuel.",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka sanggampa'n singkhuah ding sing hon pua hi.",
+        "english": "My brother brings wood for the fire."
       }
     },
     {
@@ -3128,6 +4705,7 @@
       "english": "Tea",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Mipa'n singpi leh chini lei hi.",
         "english": "He buys tea and sugar."
@@ -3135,9 +4713,18 @@
     },
     {
       "paite": "Sinsak",
+      "english": "Teaching",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Sinsak",
       "english": "Teach",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3145,9 +4732,21 @@
       "english": "Teaches",
       "note": "variant zilsak also given",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Heutupan kimol ding dan hon sinsak hi",
         "english": "The coach teaches us how to play."
+      }
+    },
+    {
+      "paite": "Sum",
+      "english": "Money",
+      "note": "sum/dangka",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huaipa sum pe khin ka hi",
+        "english": "I gave him the money."
       }
     },
     {
@@ -3155,6 +4754,7 @@
       "english": "Wallet",
       "note": "sumbawm i chih sum koihnang a kizang ahi",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3162,9 +4762,21 @@
       "english": "Turn off",
       "note": "variant: mitsak in",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Meivak sumit in",
         "english": "Turn off the light."
+      }
+    },
+    {
+      "paite": "Sumsiik",
+      "english": "Coins / money",
+      "note": "sumsiik = coin(s)",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huainu'n Sumsiik sawm a pia",
+        "english": "She paid ten coins."
       }
     },
     {
@@ -3172,6 +4784,15 @@
       "english": "Forehead",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Tam",
+      "english": "Many",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -3179,6 +4800,7 @@
       "english": "Up to / until",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khat apat sawm tan sim oh",
         "english": "Count from one to ten."
@@ -3189,6 +4811,7 @@
       "english": "Bread",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tanghou tuh nem in lum hi",
         "english": "The bread was soft and warm."
@@ -3199,16 +4822,56 @@
       "english": "Rest",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni in ah tawldam in",
         "english": "Rest at home today."
       }
     },
     {
+      "paite": "Tennis",
+      "english": "Tennis",
+      "note": "loanword",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Court ah tennis kaki mawl uh",
+        "english": "We play tennis on the court."
+      }
+    },
+    {
+      "paite": "That",
+      "english": "To kill",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Thuk",
+      "english": "Stove",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Thuk tung a tui asou",
+        "english": "The water boils on the stove."
+      }
+    },
+    {
+      "paite": "Thukhah",
+      "english": "Request",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
       "paite": "Thukhah",
       "english": "Message",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3216,6 +4879,7 @@
       "english": "Pray or three",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -3223,6 +4887,15 @@
       "english": "Three",
       "note": "3",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Thumanna",
+      "english": "Obediance",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3230,6 +4903,15 @@
       "english": "Obedience",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Thuuk",
+      "english": "Depth/ Sour",
+      "note": "The lemon test sour",
+      "source": "contributed",
+      "reviewed_by": null,
       "example": null
     },
     {
@@ -3237,6 +4919,7 @@
       "english": "Deep place / depth",
       "note": "from 'a thuukna lam ah' (in the deep area)",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A thuukna lam ah va bual kei in",
         "english": "Do not swim in the deep water."
@@ -3247,16 +4930,34 @@
       "english": "With",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A lawmnu toh badminton aki mawl zel uh",
         "english": "She plays badminton with her friend."
       }
     },
     {
+      "paite": "Tok",
+      "english": "Stir",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": null,
+      "example": null
+    },
+    {
+      "paite": "Tom",
+      "english": "Short",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
       "paite": "Tong",
       "english": "Elbow",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -3264,6 +4965,7 @@
       "english": "God is good all the time",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3271,6 +4973,7 @@
       "english": "Sitting calmly or peacefully",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -3278,6 +4981,7 @@
       "english": "Right now",
       "note": "Give me right now",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -3285,6 +4989,7 @@
       "english": "Just now",
       "note": "the rain is raining just now",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -3292,6 +4997,7 @@
       "english": "This morning",
       "note": "Tu zingkal is a variant form used in the note",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tu zing in sang leh khuaizu ka ne hi.",
         "english": "I ate bread and honey this morning."
@@ -3302,16 +5008,26 @@
       "english": "Now",
       "note": "contracted form of 'tu-in' (at present)",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tu'n koi ah na om a?",
         "english": "Where are you now?"
       }
     },
     {
+      "paite": "Tualsuak",
+      "english": "Local made",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
       "paite": "Tuh",
       "english": "Was",
       "note": "past/copula marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tanghou tuh nem in lum hi",
         "english": "The bread was soft and warm."
@@ -3322,13 +5038,53 @@
       "english": "Water",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Tuilum",
+      "english": "Warm water",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Tuisa",
+      "english": "Hot water",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Tukhawm in",
+      "english": "Together",
+      "note": "used with sitting/talking together",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nitaklam tukhawm in ka houlim uh",
+        "english": "We sit and talk in the evening."
+      }
+    },
+    {
+      "paite": "Tung",
+      "english": "On/upon",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Thuk tung a tui asou",
+        "english": "The water boils on the stove."
+      }
     },
     {
       "paite": "Tung ah",
       "english": "On / on top of",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Minu'n dohkan tung ah allu kheh hi.",
         "english": "She peels the potatoes on the table."
@@ -3339,6 +5095,7 @@
       "english": "Today",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Tuni in ah tawldam in",
         "english": "Rest at home today."
@@ -3349,6 +5106,23 @@
       "english": "Today is Saturday",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Tunu",
+      "english": "Granddaughter",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Tupa",
+      "english": "Grandson",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3356,6 +5130,7 @@
       "english": "Chair",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -3363,6 +5138,7 @@
       "english": "Bench",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -3370,6 +5146,7 @@
       "english": "They (plural subject marker)",
       "note": "third person plural agreement",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khosung ah mi a kimuak zel uh",
         "english": "People greet each other in the village."
@@ -3380,6 +5157,7 @@
       "english": "They (plural marker)",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hon kiam zek uh.",
         "english": "They gave us a discount."
@@ -3390,6 +5168,7 @@
       "english": "They (plural marker)",
       "note": "plural/third person plural marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khosung ah mi khat-le-khat a ki muak tuah uhi.",
         "english": "People greet each other in the village."
@@ -3400,6 +5179,7 @@
       "english": "Do not swim",
       "note": "prohibitive imperative; 'bual' = swim",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "A thuukna lam ah va bual kei in",
         "english": "Do not swim in the deep water."
@@ -3410,6 +5190,7 @@
       "english": "Bright",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3417,6 +5198,7 @@
       "english": "Roam/light/bright",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3424,6 +5206,15 @@
       "english": "Light",
       "note": "khua vakta",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Vot",
+      "english": "Cold",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3431,6 +5222,7 @@
       "english": "Rain or to attach, to fix, to insert",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3438,6 +5230,15 @@
       "english": "Rain",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "VUAH DELH LOUH",
+      "english": "New",
+      "note": "Ken tuni'n Vuah delhlouh thu khat kaza.",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -3445,6 +5246,7 @@
       "english": "Blessing",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3452,6 +5254,7 @@
       "english": "Win",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -3459,6 +5262,7 @@
       "english": "Victory",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3466,6 +5270,7 @@
       "english": "Win/victory",
       "note": "variant in note: vualzou",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Pawlpi ten tuni in kimawlna ah vualzoh na a tang uh",
         "english": "The team wins the match today."
@@ -3476,6 +5281,7 @@
       "english": "Dream",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3483,6 +5289,7 @@
       "english": "Night",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3490,6 +5297,7 @@
       "english": "Yesterday",
       "note": "i purchase my car yesterday",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -3497,6 +5305,7 @@
       "english": "Tobacco",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3504,6 +5313,7 @@
       "english": "Last night",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -3511,6 +5321,7 @@
       "english": "Midnight",
       "note": "i wake up at midnight",
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -3518,6 +5329,7 @@
       "english": "Paralyzed",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3525,6 +5337,7 @@
       "english": "Emphatic particle",
       "note": "adds emphasis, often in negative statements",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Huai zaw a dikkei",
         "english": "That is not correct."
@@ -3535,6 +5348,7 @@
       "english": "A little/somewhat",
       "note": null,
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Hon kiam zek uh.",
         "english": "They gave us a discount."
@@ -3545,6 +5359,7 @@
       "english": "Each other / mutually",
       "note": "reciprocal/continuative marker",
       "source": "note",
+      "reviewed_by": null,
       "example": {
         "paite": "Khosung ah mi a kimuak zel uh",
         "english": "People greet each other in the village."
@@ -3555,6 +5370,7 @@
       "english": "Tomorrow",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     },
     {
@@ -3562,6 +5378,7 @@
       "english": "Morning",
       "note": "Zingkal in ni hong suak",
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
       "example": null
     },
     {
@@ -3569,6 +5386,15 @@
       "english": "Good Morning",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Zingpha, Sunpha, Nitakpha,Mangpha",
+      "english": "Good morning, Good day,Good evening,Good night",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -3576,6 +5402,7 @@
       "english": "Approach",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -3583,6 +5410,7 @@
       "english": "Bounce",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -3590,6 +5418,7 @@
       "english": "Shy",
       "note": null,
       "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
     }
   ]
