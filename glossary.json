@@ -43,6 +43,14 @@
     },
     {
       "paite": "A dai",
+      "english": "Fencing",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "A dai",
       "english": "Is quiet",
       "note": "dai = quiet/calm",
       "source": "note",
@@ -61,6 +69,17 @@
       "example": {
         "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
         "english": "My sister sings a song for us."
+      }
+    },
+    {
+      "paite": "A ding in",
+      "english": "For (her/him)",
+      "note": "marks the beneficiary",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka unaunu a ding in noodles ka huan",
+        "english": "I cooked noodles for my sister."
       }
     },
     {
@@ -108,12 +127,45 @@
       }
     },
     {
+      "paite": "A kalh",
+      "english": "Locks (it)",
+      "note": "kalh = to lock; a = third-person subject marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pa'n nitak in kongkhak a kalh",
+        "english": "Father locks the door at night."
+      }
+    },
+    {
       "paite": "A kheem",
       "english": "Fake",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "A ki hong gige",
+      "english": "Opens",
+      "note": "ki hong = open; gige = habitual/always",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zingkar teng in khua a bazaar a ki hong gige.",
+        "english": "The village market opens every morning."
+      }
+    },
+    {
+      "paite": "A kimawl hi",
+      "english": "He plays",
+      "note": "kimawl = to play; hi = declarative marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A sanggamnu toh table tennis a kimawl hi",
+        "english": "He plays table tennis with his sister."
+      }
     },
     {
       "paite": "A kimuak",
@@ -147,6 +199,25 @@
         "paite": "Pilvang tak in allu a met",
         "english": "She peeled the potatoes with care."
       }
+    },
+    {
+      "paite": "A om",
+      "english": "There is / exists",
+      "note": "existential verb phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai khua ah siamsin na khat a om",
+        "english": "The village has one small school."
+      }
+    },
+    {
+      "paite": "A pallun uh",
+      "english": "They are in full bloom",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
     },
     {
       "paite": "A pallun uh",
@@ -187,12 +258,34 @@
       }
     },
     {
+      "paite": "A sanggamnu toh",
+      "english": "With his sister",
+      "note": "a sanggamnu = his sister; toh = with",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A sanggamnu toh table tennis a kimawl hi",
+        "english": "He plays table tennis with his sister."
+      }
+    },
+    {
       "paite": "A tak",
       "english": "Real",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "A tam hi",
+      "english": "There is much/abundant",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Vuah zuk khit in i kho Lampi te uah buan nawi a tam hi.",
+        "english": "The village path was muddy after rain."
+      }
     },
     {
       "paite": "A tang uh",
@@ -244,6 +337,17 @@
       "example": {
         "paite": "Amau dohkan a um-kim vel uhi",
         "english": "They gathered around the low table."
+      }
+    },
+    {
+      "paite": "A-khua",
+      "english": "Their village",
+      "note": "a- 'their' + khua 'village'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Numeite'n a-khua tuikhuk uapan in tui atawi uh.",
+        "english": "Women carry water from the village well."
       }
     },
     {
@@ -312,6 +416,28 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Ah",
+      "english": "At/in",
+      "note": "locative particle",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau dawr ah thei zuak uh hi",
+        "english": "They sell fruit at the store."
+      }
+    },
+    {
+      "paite": "Ah",
+      "english": "From / at",
+      "note": "locative postposition",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Numeite'n khaw tuikulh ah tui tawi uh.",
+        "english": "Women carry water from the village well."
+      }
     },
     {
       "paite": "Ah",
@@ -431,6 +557,17 @@
       "example": null
     },
     {
+      "paite": "Akang hi",
+      "english": "He fries",
+      "note": "verb phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zing meh di'n aktui pum nih akang hi.",
+        "english": "He fries two eggs for breakfast."
+      }
+    },
+    {
       "paite": "Akgil",
       "english": "Chicken gizzard/Chicken coop.",
       "note": "It can be both chicken gizzard and chicken coop. Also, written as Ak gil.",
@@ -502,6 +639,22 @@
         "paite": "Kimawlna Zingkal in akipan.",
         "english": "The game starts in the morning."
       }
+    },
+    {
+      "paite": "Aksi",
+      "english": "Star",
+      "note": "Ni i chih aksi telak a khat ahi",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Aktui",
+      "english": "Egg, eggs",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
     },
     {
       "paite": "Aktui",
@@ -644,6 +797,17 @@
     },
     {
       "paite": "Ann",
+      "english": "Rice / meal",
+      "note": "used here for dinner",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ann ka nek chiang un tui ka dawn zel uh",
+        "english": "We drink water with our dinner."
+      }
+    },
+    {
+      "paite": "Ann",
       "english": "Rice",
       "note": null,
       "source": "note",
@@ -722,12 +886,56 @@
       }
     },
     {
+      "paite": "Atawi uh",
+      "english": "They carry",
+      "note": "a- + tawi 'carry' + uh plural marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Numeite'n a-khua tuikhuk uapan in tui atawi uh.",
+        "english": "Women carry water from the village well."
+      }
+    },
+    {
       "paite": "Awi",
       "english": "Agree",
       "note": null,
       "source": "contributed",
       "reviewed_by": null,
       "example": null
+    },
+    {
+      "paite": "Awl in",
+      "english": "Slowly",
+      "note": "adverbial phrase describing the manner of cooking",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "mei ah sa awl in ki huan hi",
+        "english": "The meat cooks slowly on the fire."
+      }
+    },
+    {
+      "paite": "Awl-awl in",
+      "english": "Slowly",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khua Kim ah awl-awl in ka pai uh",
+        "english": "We walked around the village slowly."
+      }
+    },
+    {
+      "paite": "Awlawl in",
+      "english": "Slowly",
+      "note": "adverb form with -in",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "khosung ah awlawl in ka vak kual uhi",
+        "english": "We walked around the village slowly."
+      }
     },
     {
       "paite": "Baang",
@@ -773,6 +981,17 @@
       "example": null
     },
     {
+      "paite": "Bazaar",
+      "english": "Market",
+      "note": "loanword",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zingkar teng in khua a bazaar a ki hong gige.",
+        "english": "The village market opens every morning."
+      }
+    },
+    {
       "paite": "Be",
       "english": "Beans",
       "note": null,
@@ -793,6 +1012,14 @@
         "paite": "Beelpi lian a ann huan ahi",
         "english": "The rice cooks in a big pot."
       }
+    },
+    {
+      "paite": "Betang",
+      "english": "Beans, bean seed",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
     },
     {
       "paite": "Betang",
@@ -835,6 +1062,28 @@
       "example": null
     },
     {
+      "paite": "Buan nawi",
+      "english": "Mud",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Vuah zuk khit in i kho Lampi te uah buan nawi a tam hi.",
+        "english": "The village path was muddy after rain."
+      }
+    },
+    {
+      "paite": "Buh",
+      "english": "Paddy/rice (harvest crop)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tukum buh kihau chiat eive khosung miteng in",
+        "english": "The village harvest was good this year."
+      }
+    },
+    {
       "paite": "Chi",
       "english": "Say",
       "note": "Can also be salt. Chi is salt and \"a chi\" is said.",
@@ -859,6 +1108,28 @@
       "example": {
         "paite": "Ka pi nitaklam chiang in a ihmu zel",
         "english": "My grandmother sleeps in the afternoon."
+      }
+    },
+    {
+      "paite": "Chiangneu",
+      "english": "Small basket",
+      "note": "The note's gloss 'mi pawlkhat in ka mu uhi' appears to be a separate example sentence, not a gloss for chiangneu.",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Chiangneu ka mu uh",
+        "english": "We found a small basket."
+      }
+    },
+    {
+      "paite": "Chiat",
+      "english": "Each/all",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tukum buh kihau chiat eive khosung miteng in",
+        "english": "The village harvest was good this year."
       }
     },
     {
@@ -946,6 +1217,17 @@
       }
     },
     {
+      "paite": "Dawr",
+      "english": "Store/shop",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau dawr ah thei zuak uh hi",
+        "english": "They sell fruit at the store."
+      }
+    },
+    {
       "paite": "Dawr pi",
       "english": "Big shop",
       "note": "Dawr lian is given as an alternative for 'big shop'",
@@ -955,6 +1237,14 @@
         "paite": "Dawr pi ah ka hoh uh.",
         "english": "We went to the big shop."
       }
+    },
+    {
+      "paite": "Deih",
+      "english": "Want, wish",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
     },
     {
       "paite": "Deih",
@@ -1014,6 +1304,17 @@
       "source": "contributed",
       "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
+    },
+    {
+      "paite": "Di'n",
+      "english": "For",
+      "note": "purpose marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zing meh di'n aktui pum nih akang hi.",
+        "english": "He fries two eggs for breakfast."
+      }
     },
     {
       "paite": "Dikkei",
@@ -1098,6 +1399,25 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Dumde",
+      "english": "Firefly",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Eive",
+      "english": "Was good",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tukum buh kihau chiat eive khosung miteng in",
+        "english": "The village harvest was good this year."
+      }
     },
     {
       "paite": "En",
@@ -1194,6 +1514,17 @@
       "source": "contributed",
       "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
+    },
+    {
+      "paite": "Gang",
+      "english": "Uncle",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pathianni chiang a ka Gang hong hoh zel ahi.",
+        "english": "My uncle visits us on Sunday."
+      }
     },
     {
       "paite": "Gari",
@@ -1313,6 +1644,14 @@
     {
       "paite": "Hat leh hangtak in",
       "english": "Be strong and courageous",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Hehpih in dai dih",
+      "english": "Please be silent",
       "note": null,
       "source": "contributed",
       "reviewed_by": "khooptong@lamkalabs.com",
@@ -1485,6 +1824,17 @@
       }
     },
     {
+      "paite": "Hiai khua",
+      "english": "This village",
+      "note": "subject phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai khua ah siamsin na khat a om",
+        "english": "The village has one small school."
+      }
+    },
+    {
       "paite": "Hiai Nu'n",
       "english": "This woman (she)",
       "note": "Hiai = this; Nu = woman; 'n marks the subject",
@@ -1494,6 +1844,14 @@
         "paite": "Hiai Nu'n Anteh toh Nga a huankhawm.",
         "english": "She cooked fish with green leaves."
       }
+    },
+    {
+      "paite": "Hing",
+      "english": "Live, green",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
     },
     {
       "paite": "Hing",
@@ -1628,6 +1986,14 @@
     },
     {
       "paite": "Huan",
+      "english": "Garden",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Huan",
       "english": "Cooks",
       "note": null,
       "source": "note",
@@ -1717,6 +2083,25 @@
       }
     },
     {
+      "paite": "Hun",
+      "english": "Fit",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "I kho",
+      "english": "Our village",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Vuah zuk khit in i kho Lampi te uah buan nawi a tam hi.",
+        "english": "The village path was muddy after rain."
+      }
+    },
+    {
       "paite": "I zekai uh",
       "english": "We were running very late.",
       "note": null,
@@ -1733,6 +2118,28 @@
       "example": {
         "paite": "I zekai uh",
         "english": "We are late."
+      }
+    },
+    {
+      "paite": "Ihmu uh",
+      "english": "They sleep",
+      "note": "ihmu = sleep; uh = plural agreement marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupang te phek nem tung ah ihmu uh",
+        "english": "The children sleep on soft mats."
+      }
+    },
+    {
+      "paite": "In",
+      "english": "(agent marker)",
+      "note": "postposition marking the subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tukum buh kihau chiat eive khosung miteng in",
+        "english": "The village harvest was good this year."
       }
     },
     {
@@ -1950,6 +2357,17 @@
       }
     },
     {
+      "paite": "Ka dawn zel uh",
+      "english": "We drink (habitually)",
+      "note": "zel marks habitual aspect; uh marks plural subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ann ka nek chiang un tui ka dawn zel uh",
+        "english": "We drink water with our dinner."
+      }
+    },
+    {
       "paite": "Ka hah gige",
       "english": "I clean it regularly",
       "note": "hah = to clean; gige = regularly/always",
@@ -2010,6 +2428,17 @@
       "example": {
         "paite": "Nitaklam tukhawm in ka houlim uh",
         "english": "We sit and talk in the evening."
+      }
+    },
+    {
+      "paite": "Ka huan",
+      "english": "I cooked",
+      "note": "from huan, to cook",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka unaunu a ding in noodles ka huan",
+        "english": "I cooked noodles for my sister."
       }
     },
     {
@@ -2136,6 +2565,17 @@
       }
     },
     {
+      "paite": "Ka nek chiang un",
+      "english": "When we eat",
+      "note": "temporal clause",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ann ka nek chiang un tui ka dawn zel uh",
+        "english": "We drink water with our dinner."
+      }
+    },
+    {
       "paite": "Ka ngailua",
       "english": "I love him very much",
       "note": "ngailua expresses strong love/affection",
@@ -2231,6 +2671,17 @@
       "example": {
         "paite": "Ka pa'n huan ah na asem.",
         "english": "My father works in the garden."
+      }
+    },
+    {
+      "paite": "Ka pai uh",
+      "english": "We walked",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khua Kim ah awl-awl in ka pai uh",
+        "english": "We walked around the village slowly."
       }
     },
     {
@@ -2346,6 +2797,28 @@
       }
     },
     {
+      "paite": "Ka tok",
+      "english": "I stir",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Keu sau in meh ka tok ahi.",
+        "english": "I stir the pot with a long spoon."
+      }
+    },
+    {
+      "paite": "Ka unaunu",
+      "english": "My older sister",
+      "note": "unaunu can refer to an older sister; the contributor notes it may also be naunu depending on context",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka unaunu a ding in noodles ka huan",
+        "english": "I cooked noodles for my sister."
+      }
+    },
+    {
       "paite": "Ka va panpih",
       "english": "I help (go and help)",
       "note": "va indicates going to do the action",
@@ -2354,6 +2827,17 @@
       "example": {
         "paite": "Ka pa huansung ah ka va panpih.",
         "english": "I help my father in the garden."
+      }
+    },
+    {
+      "paite": "Ka vak kual uhi",
+      "english": "We walked around",
+      "note": "vak 'walk/go about' + kual 'around' + uhi plural marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "khosung ah awlawl in ka vak kual uhi",
+        "english": "We walked around the village slowly."
       }
     },
     {
@@ -2474,6 +2958,25 @@
       }
     },
     {
+      "paite": "Kei hun",
+      "english": "My turn",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Keu sau",
+      "english": "Long spoon",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Keu sau in meh ka tok ahi.",
+        "english": "I stir the pot with a long spoon."
+      }
+    },
+    {
       "paite": "Kha vak singseng",
       "english": "Bright moon",
       "note": "kha vak = bright moon; singseng = moon",
@@ -2501,6 +3004,17 @@
       "example": {
         "paite": "Khosung ah mi khat-le-khat a ki muak tuah uhi.",
         "english": "People greet each other in the village."
+      }
+    },
+    {
+      "paite": "Khaw",
+      "english": "Village",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Numeite'n khaw tuikulh ah tui tawi uh.",
+        "english": "Women carry water from the village well."
       }
     },
     {
@@ -2616,6 +3130,14 @@
     },
     {
       "paite": "Khosung",
+      "english": "Inside the village, within village area",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Khosung",
       "english": "Within the village",
       "note": null,
       "source": "contributed",
@@ -2661,6 +3183,17 @@
       }
     },
     {
+      "paite": "Khosung ah",
+      "english": "In the village",
+      "note": "kho 'village' + sung 'inside' + ah locative",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "khosung ah awlawl in ka vak kual uhi",
+        "english": "We walked around the village slowly."
+      }
+    },
+    {
       "paite": "Khovak mumasa",
       "english": "Old age people",
       "note": null,
@@ -2675,6 +3208,28 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Khua",
+      "english": "Village",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zingkar teng in khua a bazaar a ki hong gige.",
+        "english": "The village market opens every morning."
+      }
+    },
+    {
+      "paite": "Khua kim ah",
+      "english": "Around the village",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khua Kim ah awl-awl in ka pai uh",
+        "english": "We walked around the village slowly."
+      }
     },
     {
       "paite": "Khuai",
@@ -2718,6 +3273,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Ki huan hi",
+      "english": "Is cooked",
+      "note": "passive verb form",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "mei ah sa awl in ki huan hi",
+        "english": "The meat cooks slowly on the fire."
+      }
     },
     {
       "paite": "Ki muak tuah",
@@ -2766,6 +3332,17 @@
       "example": {
         "paite": "Hon kiam zek uh.",
         "english": "They gave us a discount."
+      }
+    },
+    {
+      "paite": "Kihau",
+      "english": "Harvested",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tukum buh kihau chiat eive khosung miteng in",
+        "english": "The village harvest was good this year."
       }
     },
     {
@@ -2989,6 +3566,14 @@
     },
     {
       "paite": "Koih",
+      "english": "Keep",
+      "note": "I keep my key on the table",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Koih",
       "english": "To keep / to put / to place",
       "note": null,
       "source": "note",
@@ -3081,6 +3666,14 @@
     },
     {
       "paite": "Laibuta",
+      "english": "Tract, booklet",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Laibuta",
       "english": "Booklet",
       "note": "Hiai laibuta khawmpi a zat ding a bawl ahi.",
       "source": "contributed",
@@ -3140,6 +3733,14 @@
     },
     {
       "paite": "Lam",
+      "english": "Dance, path, side, a measurement, placenta",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Lam",
       "english": "Build",
       "note": null,
       "source": "contributed",
@@ -3191,6 +3792,17 @@
       "source": "contributed",
       "reviewed_by": "sut.tonsing@gmail.com",
       "example": null
+    },
+    {
+      "paite": "Lampi",
+      "english": "Path/road",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Vuah zuk khit in i kho Lampi te uah buan nawi a tam hi.",
+        "english": "The village path was muddy after rain."
+      }
     },
     {
       "paite": "Lampi",
@@ -3254,6 +3866,14 @@
         "paite": "Sangvui leh tui a helkhawm/ gawmkhawm",
         "english": "She mixed the flour and water."
       }
+    },
+    {
+      "paite": "Lei",
+      "english": "Earth, soil, incline, tongue, to buy",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
     },
     {
       "paite": "Lei",
@@ -3405,6 +4025,17 @@
     },
     {
       "paite": "Lua",
+      "english": "Very",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khua a sinsaktu a zaidam lua",
+        "english": "The village school teacher is very kind."
+      }
+    },
+    {
+      "paite": "Lua",
       "english": "Vomit",
       "note": null,
       "source": "contributed",
@@ -3421,6 +4052,14 @@
         "paite": "Tuni khosung a dai lua.",
         "english": "The village is very quiet today."
       }
+    },
+    {
+      "paite": "Lum",
+      "english": "Sleep, to lie down",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
     },
     {
       "paite": "Lum",
@@ -3478,6 +4117,14 @@
     },
     {
       "paite": "Lunggulh",
+      "english": "To have a strong desire or longing",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Lunggulh",
       "english": "Desire, longing, craving",
       "note": "Nek di khat ka duh ( I'm craving for something to eat)",
       "source": "contributed",
@@ -3512,6 +4159,22 @@
       }
     },
     {
+      "paite": "Maimom",
+      "english": "Spider",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Maiteh",
+      "english": "Pumkin leaf",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
       "paite": "Man",
       "english": "Pasal",
       "note": null,
@@ -3537,6 +4200,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Meh",
+      "english": "Pot",
+      "note": "literal rendering of 'pot' in this sentence",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Keu sau in meh ka tok ahi.",
+        "english": "I stir the pot with a long spoon."
+      }
     },
     {
       "paite": "Meh",
@@ -3718,6 +4392,17 @@
       "example": null
     },
     {
+      "paite": "Miteng",
+      "english": "All people/everyone",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tukum buh kihau chiat eive khosung miteng in",
+        "english": "The village harvest was good this year."
+      }
+    },
+    {
       "paite": "Mittang",
       "english": "Eye",
       "note": null,
@@ -3824,6 +4509,14 @@
     },
     {
       "paite": "Na dam hia?",
+      "english": "How are you? Are you ok?",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Na dam hia?",
       "english": "Are you well?",
       "note": null,
       "source": "contributed",
@@ -3888,6 +4581,22 @@
       }
     },
     {
+      "paite": "Nang hun",
+      "english": "Your turn",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Nap",
+      "english": "Snot, mucus",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
       "paite": "Nap",
       "english": "Mucus",
       "note": null,
@@ -3934,6 +4643,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Naupang te",
+      "english": "The children",
+      "note": "naupang = child; te = plural marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupang te phek nem tung ah ihmu uh",
+        "english": "The children sleep on soft mats."
+      }
     },
     {
       "paite": "Naupangte",
@@ -4208,6 +4928,17 @@
       "example": null
     },
     {
+      "paite": "Nitak in",
+      "english": "At night",
+      "note": "nitak = night; in = locative/temporal marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pa'n nitak in kongkhak a kalh",
+        "english": "Father locks the door at night."
+      }
+    },
+    {
       "paite": "Nitaklam",
       "english": "Afternoon",
       "note": null,
@@ -4244,6 +4975,14 @@
     },
     {
       "paite": "Nuai ah",
+      "english": "Underneath, below",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Nuai ah",
       "english": "Under",
       "note": null,
       "source": "note",
@@ -4251,6 +4990,25 @@
       "example": {
         "paite": "Kha vak singseng nuai ah kho mipite a lum uh.",
         "english": "The village slept under a bright moon."
+      }
+    },
+    {
+      "paite": "Nuammoh",
+      "english": "Uncomfortable",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Numeite'n",
+      "english": "Women (ergative)",
+      "note": "numei 'woman' + -te plural + -n ergative",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Numeite'n a-khua tuikhuk uapan in tui atawi uh.",
+        "english": "Women carry water from the village well."
       }
     },
     {
@@ -4276,6 +5034,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Pa'n",
+      "english": "Father",
+      "note": "pa + ergative marker 'n",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pa'n nitak in kongkhak a kalh",
+        "english": "Father locks the door at night."
+      }
     },
     {
       "paite": "Pai",
@@ -4332,6 +5101,14 @@
       }
     },
     {
+      "paite": "Paite nam India a singtangmi government theihpih nam khat hi",
+      "english": "Paite is one of the recognise tribal in india",
+      "note": "Nam chi tampi om na ah Paite nam chituam leh piching nam khat ahi",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
       "paite": "Pakte",
       "english": "Flowers",
       "note": null,
@@ -4375,6 +5152,17 @@
       "example": null
     },
     {
+      "paite": "Pathianni",
+      "english": "Sunday",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pathianni chiang a ka Gang hong hoh zel ahi.",
+        "english": "My uncle visits us on Sunday."
+      }
+    },
+    {
       "paite": "Pawlpi",
       "english": "Organization",
       "note": null,
@@ -4402,6 +5190,17 @@
       "example": {
         "paite": "Huaipa sum pe khin ka hi",
         "english": "I gave him the money."
+      }
+    },
+    {
+      "paite": "Phek nem",
+      "english": "Soft mats",
+      "note": "phek = mat; nem = soft",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupang te phek nem tung ah ihmu uh",
+        "english": "The children sleep on soft mats."
       }
     },
     {
@@ -4519,6 +5318,17 @@
       }
     },
     {
+      "paite": "Pum",
+      "english": "Whole",
+      "note": "modifies aktui",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zing meh di'n aktui pum nih akang hi.",
+        "english": "He fries two eggs for breakfast."
+      }
+    },
+    {
       "paite": "Putekpa",
       "english": "Old man",
       "note": "pasal upa sim leh tek mahmah ta",
@@ -4555,6 +5365,17 @@
       "source": "contributed",
       "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
+    },
+    {
+      "paite": "Sa",
+      "english": "Meat",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "mei ah sa awl in ki huan hi",
+        "english": "The meat cooks slowly on the fire."
+      }
     },
     {
       "paite": "Sagih",
@@ -4634,6 +5455,14 @@
     },
     {
       "paite": "Sawm",
+      "english": "Ten, dormitory, invite",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Sawm",
       "english": "Ten",
       "note": null,
       "source": "note",
@@ -4658,6 +5487,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Siamsin na",
+      "english": "School",
+      "note": "also written 'siamsinna'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai khua ah siamsin na khat a om",
+        "english": "The village has one small school."
+      }
     },
     {
       "paite": "Sim",
@@ -4713,6 +5553,14 @@
     },
     {
       "paite": "Sinsak",
+      "english": "To teach, to train",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Sinsak",
       "english": "Teaching",
       "note": null,
       "source": "contributed",
@@ -4736,6 +5584,17 @@
       "example": {
         "paite": "Heutupan kimol ding dan hon sinsak hi",
         "english": "The coach teaches us how to play."
+      }
+    },
+    {
+      "paite": "Sinsaktu",
+      "english": "Teacher",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khua a sinsaktu a zaidam lua",
+        "english": "The village school teacher is very kind."
       }
     },
     {
@@ -4770,6 +5629,14 @@
     },
     {
       "paite": "Sumsiik",
+      "english": "Coins",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "sut.tonsing@gmail.com",
+      "example": null
+    },
+    {
+      "paite": "Sumsiik",
       "english": "Coins / money",
       "note": "sumsiik = coin(s)",
       "source": "note",
@@ -4777,6 +5644,17 @@
       "example": {
         "paite": "Huainu'n Sumsiik sawm a pia",
         "english": "She paid ten coins."
+      }
+    },
+    {
+      "paite": "Table tennis",
+      "english": "Table tennis",
+      "note": "loanword",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A sanggamnu toh table tennis a kimawl hi",
+        "english": "He plays table tennis with his sister."
       }
     },
     {
@@ -4790,6 +5668,14 @@
     {
       "paite": "Tam",
       "english": "Many",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Tan",
+      "english": "Cut",
       "note": null,
       "source": "contributed",
       "reviewed_by": "khooptong@lamkalabs.com",
@@ -4818,6 +5704,17 @@
       }
     },
     {
+      "paite": "Tawi",
+      "english": "Carry (water)",
+      "note": "used specifically for carrying water; tui pua is not used, tui tawi is said instead",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Numeite'n khaw tuikulh ah tui tawi uh.",
+        "english": "Women carry water from the village well."
+      }
+    },
+    {
       "paite": "Tawldam",
       "english": "Rest",
       "note": null,
@@ -4826,6 +5723,17 @@
       "example": {
         "paite": "Tuni in ah tawldam in",
         "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "Te",
+      "english": "Plural marker",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Vuah zuk khit in i kho Lampi te uah buan nawi a tam hi.",
+        "english": "The village path was muddy after rain."
       }
     },
     {
@@ -4845,6 +5753,25 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Thei",
+      "english": "Fruit",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau dawr ah thei zuak uh hi",
+        "english": "They sell fruit at the store."
+      }
+    },
+    {
+      "paite": "Thil ging",
+      "english": "Sound",
+      "note": "Not necessarily 'thil ging', only ging also suffice.",
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
     },
     {
@@ -5016,6 +5943,14 @@
     },
     {
       "paite": "Tualsuak",
+      "english": "Local made, indigenous",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Tualsuak",
       "english": "Local made",
       "note": null,
       "source": "contributed",
@@ -5040,6 +5975,44 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Tui tha",
+      "english": "Lay eggs",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Tuikhal",
+      "english": "Ice",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Tuikhuk",
+      "english": "Well",
+      "note": "tui 'water' + khuk 'pit/hole'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Numeite'n a-khua tuikhuk uapan in tui atawi uh.",
+        "english": "Women carry water from the village well."
+      }
+    },
+    {
+      "paite": "Tuikulh",
+      "english": "Well",
+      "note": "tui 'water' + kulh 'hole/pit'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Numeite'n khaw tuikulh ah tui tawi uh.",
+        "english": "Women carry water from the village well."
+      }
     },
     {
       "paite": "Tuilum",
@@ -5069,6 +6042,17 @@
       }
     },
     {
+      "paite": "Tukum",
+      "english": "This year",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tukum buh kihau chiat eive khosung miteng in",
+        "english": "The village harvest was good this year."
+      }
+    },
+    {
       "paite": "Tung",
       "english": "On/upon",
       "note": null,
@@ -5077,6 +6061,17 @@
       "example": {
         "paite": "Thuk tung a tui asou",
         "english": "The water boils on the stove."
+      }
+    },
+    {
+      "paite": "Tung ah",
+      "english": "On / upon",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupang te phek nem tung ah ihmu uh",
+        "english": "The children sleep on soft mats."
       }
     },
     {
@@ -5142,6 +6137,28 @@
       "example": null
     },
     {
+      "paite": "Uah",
+      "english": "In/on (locative)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Vuah zuk khit in i kho Lampi te uah buan nawi a tam hi.",
+        "english": "The village path was muddy after rain."
+      }
+    },
+    {
+      "paite": "Uapan in",
+      "english": "From the side of",
+      "note": "locative phrase indicating source",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Numeite'n a-khua tuikhuk uapan in tui atawi uh.",
+        "english": "Women carry water from the village well."
+      }
+    },
+    {
       "paite": "Uh",
       "english": "They (plural subject marker)",
       "note": "third person plural agreement",
@@ -5161,6 +6178,17 @@
       "example": {
         "paite": "Hon kiam zek uh.",
         "english": "They gave us a discount."
+      }
+    },
+    {
+      "paite": "Uh hi",
+      "english": "They (plural marker with assertion)",
+      "note": "plural subject marker with sentence-final particle",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau dawr ah thei zuak uh hi",
+        "english": "They sell fruit at the store."
       }
     },
     {
@@ -5210,6 +6238,22 @@
       "example": null
     },
     {
+      "paite": "Vom",
+      "english": "Black",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Vot",
+      "english": "Cold, leech",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
       "paite": "Vot",
       "english": "Cold",
       "note": null,
@@ -5240,6 +6284,17 @@
       "source": "contributed",
       "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
+    },
+    {
+      "paite": "Vuah zuk khit in",
+      "english": "After the rain",
+      "note": "temporal phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Vuah zuk khit in i kho Lampi te uah buan nawi a tam hi.",
+        "english": "The village path was muddy after rain."
+      }
     },
     {
       "paite": "Vualzoh na",
@@ -5274,6 +6329,25 @@
       "example": {
         "paite": "Pawlpi ten tuni in kimawlna ah vualzoh na a tang uh",
         "english": "The team wins the match today."
+      }
+    },
+    {
+      "paite": "Vut",
+      "english": "Ash",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "khooptong@lamkalabs.com",
+      "example": null
+    },
+    {
+      "paite": "Zaidam",
+      "english": "Kind",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khua a sinsaktu a zaidam lua",
+        "english": "The village school teacher is very kind."
       }
     },
     {
@@ -5366,6 +6440,17 @@
       }
     },
     {
+      "paite": "Zing meh",
+      "english": "Breakfast",
+      "note": "morning meal",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zing meh di'n aktui pum nih akang hi.",
+        "english": "He fries two eggs for breakfast."
+      }
+    },
+    {
       "paite": "Zingchiang",
       "english": "Tomorrow",
       "note": null,
@@ -5382,6 +6467,17 @@
       "example": null
     },
     {
+      "paite": "Zingkar teng in",
+      "english": "Every morning",
+      "note": "zingkar = morning; teng in = every",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zingkar teng in khua a bazaar a ki hong gige.",
+        "english": "The village market opens every morning."
+      }
+    },
+    {
       "paite": "Zingpha",
       "english": "Good Morning",
       "note": null,
@@ -5396,6 +6492,17 @@
       "source": "contributed",
       "reviewed_by": "khooptong@lamkalabs.com",
       "example": null
+    },
+    {
+      "paite": "Zuak",
+      "english": "Sell",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau dawr ah thei zuak uh hi",
+        "english": "They sell fruit at the store."
+      }
     },
     {
       "paite": "Zuan",
