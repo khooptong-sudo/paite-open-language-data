@@ -31492,6 +31492,50 @@
 {"id": "community:487:1", "paite": "Nitaklam chiah gate a ki khak.", "english": "The gate is closed in the evening.", "source": "community", "split": "train"}
 {"id": "community:489", "paite": "Putek pa niliim ah a khawl.", "english": "The old man rests in the shade.", "source": "community", "split": "train"}
 {"id": "community:489:1", "paite": "Putekpa hulliap ah a tawldam hi.", "english": "The old man rests in the shade.", "source": "community", "split": "train"}
+{"id": "community:237", "paite": "Ka bike lui ka zuak.", "english": "I sold my old bike.", "source": "community", "split": "train"}
+{"id": "community:257", "paite": "mawltual tan khe in ka pai", "english": "I walk to the sports field.", "source": "community", "split": "test"}
+{"id": "community:280", "paite": "A naunu toh table tennis a kimawl uh", "english": "He plays table tennis with his sister.", "source": "community", "split": "train"}
+{"id": "community:280:1", "paite": "A sanggamnu toh table tennis a kimawl hi", "english": "He plays table tennis with his sister.", "source": "community", "split": "train"}
+{"id": "community:308", "paite": "Aman ann nek zoh in kuang a sil", "english": "She washed the plates after dinner.", "source": "community", "split": "train"}
+{"id": "community:315", "paite": "Mei ah sa huan in ki ui hi", "english": "The meat cooks slowly on the fire.", "source": "community", "split": "train"}
+{"id": "community:315:1", "paite": "mei ah sa awl in ki huan hi", "english": "The meat cooks slowly on the fire.", "source": "community", "split": "train"}
+{"id": "community:338", "paite": "Minu'n meh ava chiam a malta a helbeh hi.", "english": "She tasted the soup and added pepper.", "source": "community", "split": "train"}
+{"id": "community:338:1", "paite": "mehtui chiam in singmalta sawh hi", "english": "She tasted the soup and added pepper.", "source": "community", "split": "train"}
+{"id": "community:360", "paite": "Meh ka chiam cheuh zel ka thuk ma in", "english": "I taste the curry before serving.", "source": "community", "split": "train"}
+{"id": "community:360:1", "paite": "Meh ka thuk ma in ka chiam hi.", "english": "I taste the curry before serving.", "source": "community", "split": "train"}
+{"id": "community:398", "paite": "Ka pi in nidanglai tangthu te ahon hilh zel hi.", "english": "My grandmother tells us old stories.", "source": "community", "split": "test"}
+{"id": "community:398:1", "paite": "Tangthu tampi ka Pi in honhilh zel.", "english": "My grandmother tells us old stories.", "source": "community", "split": "test"}
+{"id": "community:416", "paite": "Ka nu ka pa te'n na ahah sep uh", "english": "My parents work very hard.", "source": "community", "split": "train"}
+{"id": "community:473", "paite": "Huan sung loupa hing in a dim", "english": "The yard is full of green grass.", "source": "community", "split": "test"}
+{"id": "community:493", "paite": "Hiai khua ah siamsin na khat a om", "english": "The village has one small school.", "source": "community", "split": "dev"}
+{"id": "community:493:1", "paite": "Huai khua in siamsinna inn neu khat a nei", "english": "The village has one small school.", "source": "community", "split": "dev"}
+{"id": "community:496", "paite": "Lui tui kho gei ah a luang", "english": "A river runs near the village.", "source": "community", "split": "train"}
+{"id": "community:497", "paite": "Hiai khua bazar zingsang teng in aki hong hi.", "english": "The village market opens every morning.", "source": "community", "split": "dev"}
+{"id": "community:497:1", "paite": "Zingkar teng in khua a bazaar a ki hong gige.", "english": "The village market opens every morning.", "source": "community", "split": "dev"}
+{"id": "community:500", "paite": "Numeite'n khua tuikhuk ua pan in tui atawi uh.", "english": "Women carry water from the village well.", "source": "community", "split": "train"}
+{"id": "community:500:1", "paite": "Numeite'n khaw tuikulh ah tui tawi uh.", "english": "Women carry water from the village well.", "source": "community", "split": "train"}
+{"id": "community:501", "paite": "zing tung chiang in khosung a etlawm mahmah hi", "english": "The village looks beautiful in the morning.", "source": "community", "split": "train"}
+{"id": "community:506", "paite": "Hausapa'n mipi te kiangah thu agen", "english": "The village chief spoke to the people.", "source": "community", "split": "train"}
+{"id": "community:507", "paite": "Hiai khota te'n zan in kimuh khomna anei uh", "english": "The village held a meeting yesterday.", "source": "community", "split": "train"}
+{"id": "community:509", "paite": "Vuah zuk khit in i kho Lampi te uah buan nawi a tam hi.", "english": "The village path was muddy after rain.", "source": "community", "split": "train"}
+{"id": "community:513", "paite": "Ka khua ua tuikulh in tuisiang hon pia.", "english": "The village well gives clean water.", "source": "community", "split": "train"}
+{"id": "community:515", "paite": "Khozang a annnek khawnna kipahna in a dim", "english": "The village feast was full of joy.", "source": "community", "split": "train"}
+{"id": "community:520", "paite": "Khua a sinsaktu a zaidam lua", "english": "The village school teacher is very kind.", "source": "community", "split": "train"}
+{"id": "community:520:1", "paite": "khota skul a sinsakpa mi gi mahmah ahi", "english": "The village school teacher is very kind.", "source": "community", "split": "train"}
+{"id": "community:521", "paite": "Khua Kim ah awl-awl in ka pai uh", "english": "We walked around the village slowly.", "source": "community", "split": "train"}
+{"id": "community:521:1", "paite": "khosung ah awlawl in ka vak kual uhi", "english": "We walked around the village slowly.", "source": "community", "split": "train"}
+{"id": "community:524", "paite": "Huai khua kelkong niteng a ki hong ahi", "english": "The village gate stays open all day.", "source": "community", "split": "train"}
+{"id": "community:525", "paite": "Hiai khua a mite a ki thei vek uh", "english": "Everyone in the village knows each other.", "source": "community", "split": "train"}
+{"id": "community:525:1", "paite": "Hiai khua ah khua mipi te aki theituah chiat ut", "english": "Everyone in the village knows each other.", "source": "community", "split": "train"}
+{"id": "community:527", "paite": "Sumsimtu khat in ka khua uh hong veh", "english": "A trader visited the village today.", "source": "community", "split": "train"}
+{"id": "community:527:1", "paite": "Sumsinmi khat in tunin i khua uh a hong veh", "english": "A trader visited the village today.", "source": "community", "split": "train"}
+{"id": "community:529", "paite": "Khotate diil ah nga tampi a om", "english": "The village pond is full of fish.", "source": "community", "split": "train"}
+{"id": "community:536", "paite": "Ka khua uh mual neu khat tung a om hi", "english": "Our village sits on a small hill.", "source": "community", "split": "train"}
+{"id": "community:536:1", "paite": "Ka khua uh tang neu khat tung ah om ahi.", "english": "Our village sits on a small hill.", "source": "community", "split": "train"}
+{"id": "community:537", "paite": "Tukum buh kihau chiat eive khosung miteng in", "english": "The village harvest was good this year.", "source": "community", "split": "train"}
+{"id": "community:537:1", "paite": "Ka khua haichi uh a hoih tukum", "english": "The village harvest was good this year.", "source": "community", "split": "train"}
+{"id": "community:539", "paite": "Khua a lampi thak a tung", "english": "A new road reached the village.", "source": "community", "split": "train"}
+{"id": "community:514", "paite": "Tuailai te nasem ding in khua a nusia uh", "english": "Young people left the village for work.", "source": "community", "split": "train"}
 {"id": "community:52", "paite": "Inkuan ka tam uh", "english": "Our family is big.", "source": "community", "split": "train"}
 {"id": "community:53", "paite": "Na nu-le-pa hon na biaksak aw.", "english": "Greet your parents for me.", "source": "community", "split": "train"}
 {"id": "community:59", "paite": "Zingchiang in kimu ni.", "english": "See you tomorrow.", "source": "community", "split": "train"}
