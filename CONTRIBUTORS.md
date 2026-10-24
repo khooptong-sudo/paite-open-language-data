@@ -2,40 +2,40 @@
 
 ## Contributors (verified sentences)
 
-- RICHARD SUANLIAN \[100\] \(reviewer\): 216
-- Sutzalian Tonsing \[100\] \(reviewer\): 189
-- Kyekym \[100\]: 105
-- Khamsonlal Guite \[100\]: 100
-- Phualva \[50\]: 96
+- Sutzalian Tonsing \[100\] \(reviewer\): 266
+- RICHARD SUANLIAN \[100\] \(reviewer\): 227
+- Kyekym \[100\]: 154
+- Khamsonlal Guite \[100\]: 110
+- Phualva \[100\]: 104
 - Siam Vualnam \[50\]: 77
-- Thang Elim \[50\]: 60
-- phualva \[50\]: 50
+- Thang Elim \[50\]: 62
+- phualva \[50\]: 58
 - M Tangpua \[10\]: 23
+- Fudge \[10\]: 22
+- H Jamginmuan \[10\]: 22
 - Ginneilal samte \[10\]: 21
-- H Jamginmuan \[10\]: 21
-- Fudge \[10\]: 18
 - Hoihlun \[10\]: 16
+- Ben Guite \[10\]: 15
 - Maven Thawmte \[10\]: 15
-- Ben Guite \[10\]: 14
-- Pausiam Thomte \[10\]: 12
-- George Thangmuansang: 7
+- Pausiam Thomte \[10\]: 15
+- George Thangmuansang: 9
+- Min Khooptong: 9
+- Esther J\. Kimboi: 8
+- Min Khooptong \(reviewer\): 8
+- Min Khooptong: 7
+- Suanbiaklun: 7
 - Tunthianlal Hauzel: 7
 - Kimsawmching: 6
 - lalbawi guite: 6
-- Min Khooptong \(reviewer\): 6
-- Suanbiaklun: 6
-- Esther J\. Kimboi: 5
 - George Thangmuansang Tonsing: 5
 - Ginpum: 5
 - UlalTonsing: 5
+- ZAMKHOKAM GUITE: 5
 - H Pauliansiam: 4
 - Mang Hangzo: 4
-- Min Khooptong: 4
 - Pausonmung: 4
-- ZAMKHOKAM GUITE: 4
 - Joycie Tonsing: 3
 - Lalthanghlun Guite: 3
-- Min Khooptong: 3
 - S\. Tangpua Paite: 3
 - Samuel Thangbiak: 3
 - Goulian: 2
@@ -52,9 +52,9 @@
 
 ## Reviewers (decisions)
 
-- Sutzalian Tonsing: 620
+- Sutzalian Tonsing: 753
 - Min Khooptong: 310
-- Richard Ngaihte: 35
+- Richard Ngaihte: 57
 - K Lianthansang: 5
 - Thangzamang Naulak: 5
 - Sumthanlian Suantak: 3
