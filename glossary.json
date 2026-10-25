@@ -482,6 +482,17 @@
       }
     },
     {
+      "paite": "A phone",
+      "english": "His phone",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zanciah a phone hihmit zel",
+        "english": "He turned off his phone at night."
+      }
+    },
+    {
       "paite": "A pia",
       "english": "She paid / gave",
       "note": "pia = give/pay; a- marks third-person subject",
@@ -3536,6 +3547,17 @@
       "example": null
     },
     {
+      "paite": "Hiauhiau",
+      "english": "Blowing gently/softly",
+      "note": "describes the manner of the wind blowing",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khosung ah huih vot hiauhiau a nung zel",
+        "english": "A cool wind blows through the village."
+      }
+    },
+    {
       "paite": "Hichin",
       "english": "In that way",
       "note": null,
@@ -3590,6 +3612,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Hihmit zel",
+      "english": "Turned off",
+      "note": "Houpih theihlouh dia a phone koih — putting the phone so it cannot be reached",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zanciah a phone hihmit zel",
+        "english": "He turned off his phone at night."
+      }
     },
     {
       "paite": "Hihsia",
@@ -4140,6 +4173,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Huih vot",
+      "english": "Cool wind",
+      "note": "huih = wind; vot = cool",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khosung ah huih vot hiauhiau a nung zel",
+        "english": "A cool wind blows through the village."
+      }
     },
     {
       "paite": "Hulliap",
@@ -10343,6 +10387,17 @@
       }
     },
     {
+      "paite": "Nung zel",
+      "english": "Blows through/continues blowing",
+      "note": "a nung zel = it blows through",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khosung ah huih vot hiauhiau a nung zel",
+        "english": "A cool wind blows through the village."
+      }
+    },
+    {
       "paite": "Nusia",
       "english": "Leave",
       "note": "as in 'nusia uh' = they left",
@@ -13483,6 +13538,17 @@
       "example": {
         "paite": "Zanchiang in aksite vak/tang hi.",
         "english": "The stars shine at night."
+      }
+    },
+    {
+      "paite": "Zanciah",
+      "english": "At night",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zanciah a phone hihmit zel",
+        "english": "He turned off his phone at night."
       }
     },
     {
