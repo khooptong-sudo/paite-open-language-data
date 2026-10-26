@@ -1,0 +1,31 @@
+name: Publish to Hugging Face
+
+# Weekly, and on demand: copy this repository's dataset files to
+# LamkaLabs/paite-open-language-data, so Hugging Face always matches GitHub.
+on:
+  schedule:
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: huggingface
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "huggingface_hub>=0.25"
+      - name: Upload
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then echo "::error::Add the HF_TOKEN repository secret (Settings, Secrets and variables, Actions)."; exit 1; fi
+          python scripts/publish_hf.py

@@ -24,6 +24,8 @@ configs:
     data_files: training/monolingual.jsonl
   - config_name: everyday_eval
     data_files: eval/everyday.jsonl
+  - config_name: community
+    data_files: community/*.jsonl
 ---
 
 # Paite Open Language Data
@@ -41,6 +43,7 @@ Source data, scripts, and documentation: https://github.com/khooptong-sudo/paite
 | `parallel` | 54,146 | `id`, `paite`, `english`, `source`, `split` |
 | `monolingual` | 31,677 | `id`, `text`, `source`, `split` |
 | `grammar` | added here once it has rows; see `training/grammar.jsonl` on GitHub | `id`, `incorrect`, `correct`, `register`, `notes`, `split` |
+| `community` | grows weekly | `id`, `direction`, `english`, `paite`, `register`, `contributor`, `verified_by`, `verified_at`, `also_correct`, `explanation`: every pair verified on [Paite Daily](https://paite.lamkalabs.com), a reviewer's correction standing over the submission |
 | `everyday_eval` | 16 | `id`, `paite` (accepted answers), `english` (accepted answers) |
 
 Each training row has a fixed `split` (`train`, `dev`, `test`; about 90/5/5). Whole Bible chapters stay in one split. Every `everyday_eval` sentence is in the `test` split, so a model is never trained on the benchmark.
