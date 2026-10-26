@@ -15,7 +15,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A kalsuan na ah a lungkim hi",
+        "paite": "A kalsuan leh masawnnna ah a lungkim hi.",
         "english": "She is happy with her progress."
       }
     },
@@ -26,7 +26,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A kalsuan na ah a lungkim hi",
+        "paite": "A kalsuan leh masawnnna ah a lungkim hi.",
         "english": "She is happy with her progress."
       }
     },
@@ -70,7 +70,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai lukhu dum ka sangam-nu a ahi",
+        "paite": "Hiai lukhu dum ka sangam-nu aa ahi",
         "english": "The blue hat belongs to my sister."
       }
     },
@@ -108,7 +108,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
+        "paite": "Ka sanggamnu'n koute' adi'n la khat ahon sa hi.",
         "english": "My sister sings a song for us."
       }
     },
@@ -130,7 +130,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n tangthu hoih pipi a gensiam",
+        "paite": "Ka nu'n tangthu ngaihnop huai taktak a gen sek",
         "english": "My grandmother tells good stories."
       }
     },
@@ -163,7 +163,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huai nu'n kei a hon muh leh lamdangsa.",
+        "paite": "a hon muh leh a kiguih",
         "english": "She was surprised to see me."
       }
     },
@@ -174,7 +174,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
+        "paite": "Ka sanggamnu'n koute' adi'n la khat ahon sa hi.",
         "english": "My sister sings a song for us."
       }
     },
@@ -229,7 +229,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pa'n nitak in kongkhak a kalh",
+        "paite": "Ka pa'n nitak chiah kong a kalh",
         "english": "Father locks the door at night."
       }
     },
@@ -248,7 +248,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Dil ah khaal lai in/ khal lai in a ki bual uh.",
+        "paite": "Dil ah mipi lai in a kibual uh.",
         "english": "They swim in the lake during summer."
       }
     },
@@ -281,7 +281,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huang sung ah khau kante a kimol uh.",
+        "paite": "Huang ah kante a kimawl uh.",
         "english": "They jump rope in the yard."
       }
     },
@@ -303,8 +303,19 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A mah hong pai kiik theih ziak in a kipak",
+        "paite": "A mah hong paikik theih ziak in a kipak.",
         "english": "He is glad to be back."
+      }
+    },
+    {
+      "paite": "A kuah",
+      "english": "She put",
+      "note": "kuah = to put/place",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A phone a sakhau ah a kuah.",
+        "english": "She put her phone in her pocket."
       }
     },
     {
@@ -314,7 +325,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai nu'n a lawm nu/pa kiang ah laithon akhak",
+        "paite": "Hiai nu'n a lawm laithon a khak",
         "english": "She sends a message to her friend."
       }
     },
@@ -371,7 +382,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A mah hong pai kiik theih ziak in a kipak",
+        "paite": "A mah hong paikik theih ziak in a kipak.",
         "english": "He is glad to be back."
       }
     },
@@ -477,7 +488,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Tua nu'n tui thol a pat in tui dawn hi",
+        "paite": "thawl a tui a dawn",
         "english": "She drinks water from a bottle."
       }
     },
@@ -488,7 +499,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Zanciah a phone hihmit zel",
+        "paite": "Zan chiah a phone a hihmit zel",
         "english": "He turned off his phone at night."
       }
     },
@@ -499,8 +510,19 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huainu'n Sumsiik sawm a pia",
+        "paite": "Huainu'n sumsiik sawm a pia",
         "english": "She paid ten coins."
+      }
+    },
+    {
+      "paite": "A sakhau ah",
+      "english": "In her pocket",
+      "note": "sakhau = pocket; ah = locative marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A phone a sakhau ah a kuah.",
+        "english": "She put her phone in her pocket."
       }
     },
     {
@@ -534,6 +556,17 @@
       }
     },
     {
+      "paite": "A singpi man a piakzoh in a pai.",
+      "english": "She paid for the tea and left.",
+      "note": "The note gives a variant: 'A singpi man a piakzoh in a pawtkhia.'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A singpi man a piakzoh in a pai.",
+        "english": "She paid for the tea and left."
+      }
+    },
+    {
       "paite": "A suak lua",
       "english": "Too much / very much",
       "note": "intensifier phrase",
@@ -551,7 +584,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huansung ah ka nu'n pak a suan hi",
+        "paite": "Huansung ah ka nu'n pak a suan",
         "english": "My mother planted flowers in the garden."
       }
     },
@@ -581,7 +614,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pawlpi ten tuni in kimawlna ah vualzoh na a tang uh",
+        "paite": "Pawlpi te'n tuni in kimawlna ah vualzoh na a tang uh.",
         "english": "The team wins the match today."
       }
     },
@@ -655,7 +688,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Zingsang teng in a thumkhawm zel uhi.",
+        "paite": "Zingkal teng in a thum khawm uh",
         "english": "They pray together in the morning."
       }
     },
@@ -666,7 +699,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawm ka kiang ah a tu",
+        "paite": "Ka lawmnu/pa ka kiang ah a tu.",
         "english": "My friend sits beside me."
       }
     },
@@ -704,7 +737,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman a vainiliap hon kop hi",
+        "paite": "Aman a vainiliap hon kop.",
         "english": "He shared his umbrella with me."
       }
     },
@@ -715,7 +748,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Internet news sim na diin a zang",
+        "paite": "news sim na di'n internet a zang",
         "english": "He uses the internet to read news."
       }
     },
@@ -734,7 +767,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Internet laisim na di'n a zang uhi",
+        "paite": "laisim na di'n internet a zang uh",
         "english": "They use the internet to study."
       }
     },
@@ -767,7 +800,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Thil ahih khelh nung in a zum",
+        "paite": "A thil hihkhelh ziak in zahlakhuai a sa.",
         "english": "She felt embarrassed after the mistake."
       }
     },
@@ -778,7 +811,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Numeite'n a-khua tuikhuk uapan in tui atawi uh.",
+        "paite": "Numeite'n khua tuikhuk ua pan in tui atawi uh.",
         "english": "Women carry water from the village well."
       }
     },
@@ -896,7 +929,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "I iit te adi'n thipiak aki leisak hi",
+        "paite": "I iit te adi'n thipiak aki lei sek",
         "english": "We buy gifts for our dear ones."
       }
     },
@@ -937,7 +970,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kimawl nading ah kaki thalop lua uh.",
+        "paite": "Kimawl nading ah kaki thalawp lua uh.",
         "english": "We were excited about the game."
       }
     },
@@ -959,7 +992,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A kalsuan na ah a lungkim hi",
+        "paite": "A kalsuan leh masawnnna ah a lungkim hi.",
         "english": "She is happy with her progress."
       }
     },
@@ -970,7 +1003,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Biakinn ah laa ka sakhawm uh.",
+        "paite": "Biakinn ah la ka sakhawm uh.",
         "english": "We sang together at church."
       }
     },
@@ -992,7 +1025,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Tangval nou te kong polam ah aki mol uh",
+        "paite": "Tangval noute kong polam ah a kimawl uh",
         "english": "The young boys play games outside."
       }
     },
@@ -1003,7 +1036,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Amau dawr ah thei zuak uh hi",
+        "paite": "dawr ah thei zuak uh",
         "english": "They sell fruit at the store."
       }
     },
@@ -1055,7 +1088,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Dawr pi ah ka hoh uh.",
+        "paite": "Dawrpi ah ka hoh uh.",
         "english": "We went to the big shop."
       }
     },
@@ -1107,7 +1140,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawm in hon thumsak ahi",
+        "paite": "Ka lawm in hon thumsak.",
         "english": "My friend prays for me."
       }
     },
@@ -1140,7 +1173,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Thil ahih khelh nung in a zum",
+        "paite": "A thil hihkhelh ziak in zahlakhuai a sa.",
         "english": "She felt embarrassed after the mistake."
       }
     },
@@ -1199,7 +1232,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman nitaklam teng in ahon thuzak gige.",
+        "paite": "nitaklam teng in ahon thuzak gige.",
         "english": "She calls me every evening."
       }
     },
@@ -1269,7 +1302,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai nu'n a lawm nu/pa kiang ah laithon akhak",
+        "paite": "Hiai nu'n a lawm laithon a khak",
         "english": "She sends a message to her friend."
       }
     },
@@ -1291,7 +1324,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "I iit te adi'n thipiak aki leisak hi",
+        "paite": "I iit te adi'n thipiak aki lei sek",
         "english": "We buy gifts for our dear ones."
       }
     },
@@ -1343,7 +1376,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A lawmnu toh badminton aki mawl zel uh",
+        "paite": "A lawmnu toh badminton aki mawl uh",
         "english": "She plays badminton with her friend."
       }
     },
@@ -1354,7 +1387,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Tangval nou te kong polam ah aki mol uh",
+        "paite": "Tangval noute kong polam ah a kimawl uh",
         "english": "The young boys play games outside."
       }
     },
@@ -1384,7 +1417,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kimawlna Zingkal in akipan.",
+        "paite": "Kimawlna zingkal in akipan.",
         "english": "The game starts in the morning."
       }
     },
@@ -1457,7 +1490,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Minu'n dohkan tung ah allu kheh hi.",
+        "paite": "dohkan tung ah allu a kheh",
         "english": "She peels the potatoes on the table."
       }
     },
@@ -1479,7 +1512,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman a vainiliap hon kop hi",
+        "paite": "Aman a vainiliap hon kop.",
         "english": "He shared his umbrella with me."
       }
     },
@@ -1490,7 +1523,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman ka pianni thei hi",
+        "paite": "Aman ka pianni thei hi. Or, Ama'n ka pianchampha athei.",
         "english": "She remembers my birthday."
       }
     },
@@ -1539,7 +1572,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman kei receipt hon pia",
+        "paite": "Aman kei receipt hon pia.",
         "english": "She gave me the receipt."
       }
     },
@@ -1659,7 +1692,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawmte uh ann nek pih din ka zon uh",
+        "paite": "Ka lawmte uh ann ne din ka chial uh",
         "english": "We invite our friends to eat with us."
       }
     },
@@ -1681,7 +1714,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Beelpi lian a ann huan ahi",
+        "paite": "Beelpi a ann huan ahi",
         "english": "The rice cooks in a big pot."
       }
     },
@@ -1719,7 +1752,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Antang leh be ka va lei uh",
+        "paite": "Antang leh be ka lei uh",
         "english": "We buy rice and beans."
       }
     },
@@ -1746,7 +1779,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ngasa anteh lou hing tawh a huan khawm hi",
+        "paite": "Ngasa anteh lou-hing tawh a huan khawm hi",
         "english": "She cooked fish with green leaves."
       }
     },
@@ -1776,7 +1809,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai pa nâk khovot ziak in asan",
+        "paite": "khovot ziak in a nak a san",
         "english": "His nose is red from the cold."
       }
     },
@@ -1809,7 +1842,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A lukhu bazar ah asumang",
+        "paite": "A lukhu bazar ah a sumang",
         "english": "He lost his hat at the market."
       }
     },
@@ -1831,7 +1864,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Numeite'n a-khua tuikhuk uapan in tui atawi uh.",
+        "paite": "Numeite'n khua tuikhuk ua pan in tui atawi uh.",
         "english": "Women carry water from the village well."
       }
     },
@@ -2007,7 +2040,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A lukhu bazar ah asumang",
+        "paite": "A lukhu bazar ah a sumang",
         "english": "He lost his hat at the market."
       }
     },
@@ -2018,7 +2051,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Bazar kai zawh in su'n an kane uh",
+        "paite": "Bazar kai zawh in sun an ka ne uh",
         "english": "We ate lunch after shopping."
       }
     },
@@ -2029,7 +2062,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Antang leh be ka va lei uh",
+        "paite": "Antang leh be ka lei uh",
         "english": "We buy rice and beans."
       }
     },
@@ -2040,7 +2073,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Beelpi lian a ann huan ahi",
+        "paite": "Beelpi a ann huan ahi",
         "english": "The rice cooks in a big pot."
       }
     },
@@ -2106,6 +2139,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Bia",
+      "english": "Worship",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -2215,7 +2256,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Invengte meh leh buh kikhol tuah zel uhi.",
+        "paite": "Invengte meh leh buh a kikhol tuah zel uh",
         "english": "Neighbors share food with one another."
       }
     },
@@ -2245,7 +2286,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n kelkong bul ah paak a suan hi.",
+        "paite": "Ka nu'n kelkong bul ah pak a suan.",
         "english": "My mother planted flowers near the gate."
       }
     },
@@ -2256,7 +2297,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kongkhak bul ah khawnvaak ka su vak uh",
+        "paite": "Kong bul ah mei ka de uh",
         "english": "We light lamps at the door."
       }
     },
@@ -2332,7 +2373,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Chiangneu ka mu uh",
+        "paite": "Chiang neu ka mu uh",
         "english": "We found a small basket."
       }
     },
@@ -2497,7 +2538,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Heutupan kimol ding dan hon sinsak hi",
+        "paite": "Heutupa'n kimawl ding dan hon sinsak.",
         "english": "The coach teaches us how to play."
       }
     },
@@ -2510,13 +2551,24 @@
       "example": null
     },
     {
+      "paite": "Dawn ding",
+      "english": "For drinking",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai ah dawn ding tuivot a zuak uh",
+        "english": "They sell cold drinks here."
+      }
+    },
+    {
       "paite": "Dawn hi",
       "english": "Drinks",
       "note": "dawn = drink, hi = declarative marker",
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Tua nu'n tui thol a pat in tui dawn hi",
+        "paite": "thawl a tui a dawn",
         "english": "She drinks water from a bottle."
       }
     },
@@ -2538,9 +2590,17 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Amau dawr ah thei zuak uh hi",
+        "paite": "dawr ah thei zuak uh",
         "english": "They sell fruit at the store."
       }
+    },
+    {
+      "paite": "Dawr ngaktu",
+      "english": "Shopkeeper",
+      "note": "Shopkeeper clean the glass",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Dawr pi",
@@ -2549,7 +2609,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Dawr pi ah ka hoh uh.",
+        "paite": "Dawrpi ah ka hoh uh.",
         "english": "We went to the big shop."
       }
     },
@@ -2584,7 +2644,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Minu'n puan-akpi deih hi.",
+        "paite": "Minu'n/Aman puanaklum adeih.",
         "english": "She wants a warm coat."
       }
     },
@@ -2689,7 +2749,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Dil ah khaal lai in/ khal lai in a ki bual uh.",
+        "paite": "Dil ah mipi lai in a kibual uh.",
         "english": "They swim in the lake during summer."
       }
     },
@@ -2711,7 +2771,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawmte uh ann nek pih din ka zon uh",
+        "paite": "Ka lawmte uh ann ne din ka chial uh",
         "english": "We invite our friends to eat with us."
       }
     },
@@ -2730,7 +2790,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Heutupan kimol ding dan hon sinsak hi",
+        "paite": "Heutupa'n kimawl ding dan hon sinsak.",
         "english": "The coach teaches us how to play."
       }
     },
@@ -2779,7 +2839,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai lukhu dum ka sangam-nu a ahi",
+        "paite": "Hiai lukhu dum ka sangam-nu aa ahi",
         "english": "The blue hat belongs to my sister."
       }
     },
@@ -2940,7 +3000,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pathianni chiang a ka Gang hong hoh zel ahi.",
+        "paite": "Pathianni chiang a ka gang hong hoh zel",
         "english": "My uncle visits us on Sunday."
       }
     },
@@ -3137,6 +3197,14 @@
     {
       "paite": "Hai",
       "english": "Mad",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Haksa",
+      "english": "Difficult",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
@@ -3361,7 +3429,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Heutupan kimol ding dan hon sinsak hi",
+        "paite": "Heutupa'n kimawl ding dan hon sinsak.",
         "english": "The coach teaches us how to play."
       }
     },
@@ -3372,7 +3440,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka Pu khe in bazar tan paizel hi",
+        "paite": "Ka pu khe in bazar tan a pai",
         "english": "My grandfather walks to the market."
       }
     },
@@ -3383,7 +3451,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "I iit te adi'n thipiak aki leisak hi",
+        "paite": "I iit te adi'n thipiak aki lei sek",
         "english": "We buy gifts for our dear ones."
       }
     },
@@ -3405,7 +3473,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A kalsuan na ah a lungkim hi",
+        "paite": "A kalsuan leh masawnnna ah a lungkim hi.",
         "english": "She is happy with her progress."
       }
     },
@@ -3484,13 +3552,24 @@
       }
     },
     {
+      "paite": "Hiai ah",
+      "english": "Here",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai ah dawn ding tuivot a zuak uh",
+        "english": "They sell cold drinks here."
+      }
+    },
+    {
       "paite": "Hiai khu ah",
       "english": "In this village",
       "note": "hiai = this; khu/khua = village; ah = locative marker",
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Mi tampi te hiai khu ah khosa ahi uh",
+        "paite": "Mi tampi te hiai khua ah a khosa uh.",
         "english": "Many people live in the village."
       }
     },
@@ -3512,7 +3591,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai ni kipah huai a puannak thak ka silh uh",
+        "paite": "Hiai ni kipahhuai ah puan thak ka silh uh.",
         "english": "We wear new clothes on this happy day."
       }
     },
@@ -3534,7 +3613,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai pa nâk khovot ziak in asan",
+        "paite": "khovot ziak in a nak a san",
         "english": "His nose is red from the cold."
       }
     },
@@ -3620,7 +3699,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Zanciah a phone hihmit zel",
+        "paite": "Zan chiah a phone a hihmit zel",
         "english": "He turned off his phone at night."
       }
     },
@@ -3666,7 +3745,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pathian Biak-in tual ah loupa hing a om.",
+        "paite": "Pathian biakin tual ah loupa hing a om.",
         "english": "The church yard has green grass."
       }
     },
@@ -3717,7 +3796,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman lai gelh tom chick hng khak.",
+        "paite": "Message tom chick hon thon",
         "english": "He texted me a short message."
       }
     },
@@ -3728,7 +3807,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n tangthu hoih pipi a gensiam",
+        "paite": "Ka nu'n tangthu ngaihnop huai taktak a gen sek",
         "english": "My grandmother tells good stories."
       }
     },
@@ -3769,7 +3848,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka pu' hon thuhilhna ka ngai khia",
+        "paite": "Ka pu' hon thuhilhna ka ngai khia uh",
         "english": "We listen to our grandfather's advice."
       }
     },
@@ -3807,7 +3886,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman kei receipt hon pia",
+        "paite": "Aman kei receipt hon pia.",
         "english": "She gave me the receipt."
       }
     },
@@ -3818,7 +3897,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Heutupan kimol ding dan hon sinsak hi",
+        "paite": "Heutupa'n kimawl ding dan hon sinsak.",
         "english": "The coach teaches us how to play."
       }
     },
@@ -3840,7 +3919,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Awl in hon gen ve, maw?",
+        "paite": "Awl in gen ve, maw?",
         "english": "Speak slowly, please."
       }
     },
@@ -3892,7 +3971,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman a vainiliap hon kop hi",
+        "paite": "Aman a vainiliap hon kop.",
         "english": "He shared his umbrella with me."
       }
     },
@@ -3903,7 +3982,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n van thak kou a di a hon leisak hi.",
+        "paite": "Ka nu'n van thak hon leisak",
         "english": "My mother bought new clothes for us."
       }
     },
@@ -3925,7 +4004,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawm in hon thumsak ahi",
+        "paite": "Ka lawm in hon thumsak.",
         "english": "My friend prays for me."
       }
     },
@@ -3939,6 +4018,14 @@
         "paite": "Lawm diktak in hon zuau san ngei lou hi.",
         "english": "A true friend never lies."
       }
+    },
+    {
+      "paite": "Hon zuausan ngeilou hi",
+      "english": "S/he doesn't betray me",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Hondamtu",
@@ -3966,7 +4053,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A mah hong pai kiik theih ziak in a kipak",
+        "paite": "A mah hong paikik theih ziak in a kipak.",
         "english": "He is glad to be back."
       }
     },
@@ -4007,7 +4094,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huai nu'n kei a hon muh leh lamdangsa.",
+        "paite": "a hon muh leh a kiguih",
         "english": "She was surprised to see me."
       }
     },
@@ -4018,7 +4105,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huainu'n Sumsiik sawm a pia",
+        "paite": "Huainu'n sumsiik sawm a pia",
         "english": "She paid ten coins."
       }
     },
@@ -4072,7 +4159,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Beelpi lian a ann huan ahi",
+        "paite": "Beelpi a ann huan ahi",
         "english": "The rice cooks in a big pot."
       }
     },
@@ -4121,7 +4208,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ngasa anteh lou hing tawh a huan khawm hi",
+        "paite": "Ngasa anteh lou-hing tawh a huan khawm hi",
         "english": "She cooked fish with green leaves."
       }
     },
@@ -4132,7 +4219,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huang sung ah khau kante a kimol uh.",
+        "paite": "Huang ah kante a kimawl uh.",
         "english": "They jump rope in the yard."
       }
     },
@@ -4211,7 +4298,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Nitaklam hun nuam ka zang uh",
+        "paite": "Nitaklam hun nuam ka zang khawm uh.",
         "english": "We enjoy the evening together."
       }
     },
@@ -4238,7 +4325,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "I iit te adi'n thipiak aki leisak hi",
+        "paite": "I iit te adi'n thipiak aki lei sek",
         "english": "We buy gifts for our dear ones."
       }
     },
@@ -4306,8 +4393,19 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "I iit te adi'n thipiak aki leisak hi",
+        "paite": "I iit te adi'n thipiak aki lei sek",
         "english": "We buy gifts for our dear ones."
+      }
+    },
+    {
+      "paite": "In",
+      "english": "On (locative marker)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pathianni in ka pute kava veh uh.",
+        "english": "We visit our grandparents on Sunday."
       }
     },
     {
@@ -4339,7 +4437,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Amau nikum in internet tungtawn in ki thei uhi",
+        "paite": "Amau nikum in internet tungtawn in ki thei uh",
         "english": "They met on the internet last year."
       }
     },
@@ -4350,7 +4448,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Zingsang teng in a thumkhawm zel uhi.",
+        "paite": "Zingkal teng in a thum khawm uh",
         "english": "They pray together in the morning."
       }
     },
@@ -4391,7 +4489,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kimawlna Zingkal in akipan.",
+        "paite": "Kimawlna zingkal in akipan.",
         "english": "The game starts in the morning."
       }
     },
@@ -4624,7 +4722,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Invengte meh leh buh kikhol tuah zel uhi.",
+        "paite": "Invengte meh leh buh a kikhol tuah zel uh",
         "english": "Neighbors share food with one another."
       }
     },
@@ -4653,11 +4751,27 @@
       "example": null
     },
     {
+      "paite": "Jakob",
+      "english": "James",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Jesu",
       "english": "Jesus",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Juda",
+      "english": "Jew",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -4669,6 +4783,17 @@
       "example": {
         "paite": "Nang k'on kisaktheihpih",
         "english": "I am proud of you."
+      }
+    },
+    {
+      "paite": "Ka",
+      "english": "Our (1st person plural possessive)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pathianni in ka pute kava veh uh.",
+        "english": "We visit our grandparents on Sunday."
       }
     },
     {
@@ -4711,7 +4836,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Biakinn ah laa ka sakhawm uh.",
+        "paite": "Biakinn ah la ka sakhawm uh.",
         "english": "We sang together at church."
       }
     },
@@ -4738,7 +4863,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka kawlzal ka ki puak",
+        "paite": "Ka kawlzal ka kipuak.",
         "english": "I carry my own bag."
       }
     },
@@ -4782,7 +4907,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai puanak rong dum ka deih",
+        "paite": "Hiai puannak dum ka deih",
         "english": "I like this blue shirt."
       }
     },
@@ -4804,7 +4929,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kar teng in ka lupna ka hah gige",
+        "paite": "Kal teng in ka lupna ka hah gige",
         "english": "I clean my bed every week."
       }
     },
@@ -4845,7 +4970,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Dawr pi ah ka hoh uh.",
+        "paite": "Dawrpi ah ka hoh uh.",
         "english": "We went to the big shop."
       }
     },
@@ -4856,7 +4981,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka hon za kei",
+        "paite": "Ko'n za kei",
         "english": "I did not hear you."
       }
     },
@@ -4867,7 +4992,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Nitaklam tukhawm in ka houlim uh",
+        "paite": "Nitaklam in tukhawm in ka houlim uh",
         "english": "We sit and talk in the evening."
       }
     },
@@ -4908,7 +5033,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "ka innkuan te ka iit mahmah",
+        "paite": "ka innkuante ka it mahmah.",
         "english": "I love my family very much."
       }
     },
@@ -4919,7 +5044,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka inn uh siangthou tak in ka koih",
+        "paite": "Ka inn uh siangthou tak in ka kem uh",
         "english": "We keep our home neat and clean."
       }
     },
@@ -4938,7 +5063,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "ka innkuan te ka iit mahmah",
+        "paite": "ka innkuante ka it mahmah.",
         "english": "I love my family very much."
       }
     },
@@ -4968,7 +5093,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka khut a kipan sahbon a talkhian hi.",
+        "paite": "Ka khut a pan sahbon a tal khia",
         "english": "The soap slips from my hand."
       }
     },
@@ -4979,7 +5104,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawm ka kiang ah a tu",
+        "paite": "Ka lawmnu/pa ka kiang ah a tu.",
         "english": "My friend sits beside me."
       }
     },
@@ -5034,7 +5159,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka inn uh siangthou tak in ka koih",
+        "paite": "Ka inn uh siangthou tak in ka kem uh",
         "english": "We keep our home neat and clean."
       }
     },
@@ -5056,7 +5181,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawm in hon thumsak ahi",
+        "paite": "Ka lawm in hon thumsak.",
         "english": "My friend prays for me."
       }
     },
@@ -5067,7 +5192,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawmte uh ann nek pih din ka zon uh",
+        "paite": "Ka lawmte uh ann ne din ka chial uh",
         "english": "We invite our friends to eat with us."
       }
     },
@@ -5078,7 +5203,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Sana neu chik ka lei",
+        "paite": "Sana neu ka lei",
         "english": "I bought a small clock."
       }
     },
@@ -5089,7 +5214,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Nipi kal tengin thil ka lei zel uh.",
+        "paite": "kal teng in thil ka lei uh.",
         "english": "We buy things every week."
       }
     },
@@ -5111,7 +5236,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kar teng in ka lupna ka hah gige",
+        "paite": "Kal teng in ka lupna ka hah gige",
         "english": "I clean my bed every week."
       }
     },
@@ -5163,7 +5288,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka naupa ka ngailua",
+        "paite": "Ka naupa ka ngai",
         "english": "I love my little brother."
       }
     },
@@ -5237,7 +5362,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka pu' hon thuhilhna ka ngai khia",
+        "paite": "Ka pu' hon thuhilhna ka ngai khia uh",
         "english": "We listen to our grandfather's advice."
       }
     },
@@ -5248,7 +5373,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka naupa ka ngailua",
+        "paite": "Ka naupa ka ngai",
         "english": "I love my little brother."
       }
     },
@@ -5311,7 +5436,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n tangthu hoih pipi a gensiam",
+        "paite": "Ka nu'n tangthu ngaihnop huai taktak a gen sek",
         "english": "My grandmother tells good stories."
       }
     },
@@ -5322,7 +5447,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huansung ah ka nu'n pak a suan hi",
+        "paite": "Huansung ah ka nu'n pak a suan",
         "english": "My mother planted flowers in the garden."
       }
     },
@@ -5439,7 +5564,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka pa tut na puak ka pan pih hi",
+        "paite": "Ka pa tutna ka puak pih",
         "english": "I help my father carry the chairs."
       }
     },
@@ -5491,7 +5616,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Khekol lianzaw khat ka poimoh hi",
+        "paite": "Khekol lianzaw khat ka poimoh",
         "english": "I need a bigger pair of pants."
       }
     },
@@ -5502,7 +5627,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "mehkan nang sathau ka poimohbeh",
+        "paite": "Mehkan nang sathau ka poimoh beh.",
         "english": "We need more cooking oil."
       }
     },
@@ -5513,7 +5638,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka Pu toh kholak ah ka vak uh",
+        "paite": "Ka pu toh kholak ah ka vak uh",
         "english": "My grandfather walks with me outside."
       }
     },
@@ -5524,7 +5649,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka pu' hon thuhilhna ka ngai khia",
+        "paite": "Ka pu' hon thuhilhna ka ngai khia uh",
         "english": "We listen to our grandfather's advice."
       }
     },
@@ -5535,7 +5660,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kou te'n khosung ah sing ka pua lut uhi.",
+        "paite": "Kou khosung ah sing ka paw lut uh.",
         "english": "We carried wood to the village."
       }
     },
@@ -5557,7 +5682,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai lukhu dum ka sangam-nu a ahi",
+        "paite": "Hiai lukhu dum ka sangam-nu aa ahi",
         "english": "The blue hat belongs to my sister."
       }
     },
@@ -5568,8 +5693,19 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
+        "paite": "Ka sanggamnu'n koute' adi'n la khat ahon sa hi.",
         "english": "My sister sings a song for us."
+      }
+    },
+    {
+      "paite": "Ka sanggampa'n",
+      "english": "My brother (elder brother)",
+      "note": "ka = my; sanggampa = elder brother; 'n marks the subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka sanggampa'n liang khauh/sek mahmah anei.",
+        "english": "My brother has strong shoulders."
       }
     },
     {
@@ -5579,7 +5715,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai ni kipah huai a puannak thak ka silh uh",
+        "paite": "Hiai ni kipahhuai ah puan thak ka silh uh.",
         "english": "We wear new clothes on this happy day."
       }
     },
@@ -5590,7 +5726,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kongkhak bul ah khawnvaak ka su vak uh",
+        "paite": "Kong bul ah mei ka de uh",
         "english": "We light lamps at the door."
       }
     },
@@ -5620,7 +5756,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka thei kei",
+        "paite": "Ka thei kei.",
         "english": "I do not know."
       }
     },
@@ -5677,7 +5813,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Keu sau in meh ka tok ahi.",
+        "paite": "Keu sau in meh ka tok",
         "english": "I stir the pot with a long spoon."
       }
     },
@@ -5732,7 +5868,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka Pu toh kholak ah ka vak uh",
+        "paite": "Ka pu toh kholak ah ka vak uh",
         "english": "My grandfather walks with me outside."
       }
     },
@@ -5765,7 +5901,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Nitaklam hun nuam ka zang uh",
+        "paite": "Nitaklam hun nuam ka zang khawm uh.",
         "english": "We enjoy the evening together."
       }
     },
@@ -5787,7 +5923,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawmte uh ann nek pih din ka zon uh",
+        "paite": "Ka lawmte uh ann ne din ka chial uh",
         "english": "We invite our friends to eat with us."
       }
     },
@@ -5841,7 +5977,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kimawl nading ah kaki thalop lua uh.",
+        "paite": "Kimawl nading ah kaki thalawp lua uh.",
         "english": "We were excited about the game."
       }
     },
@@ -5874,7 +6010,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Lui luang kiang ah kaki mu uhi",
+        "paite": "Lui luang kiang ah kaki mu uh.",
         "english": "We meet near the river."
       }
     },
@@ -5896,7 +6032,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A kalsuan na ah a lungkim hi",
+        "paite": "A kalsuan leh masawnnna ah a lungkim hi.",
         "english": "She is happy with her progress."
       }
     },
@@ -5923,7 +6059,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Bazar kai zawh in su'n an kane uh",
+        "paite": "Bazar kai zawh in sun an ka ne uh",
         "english": "We ate lunch after shopping."
       }
     },
@@ -5934,7 +6070,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kar teng in ka lupna ka hah gige",
+        "paite": "Kal teng in ka lupna ka hah gige",
         "english": "I clean my bed every week."
       }
     },
@@ -5945,7 +6081,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai kimawlna nuam kasa petmah uh.",
+        "paite": "kimawlna nuam kasa petmah uh.",
         "english": "We enjoy the game very much."
       }
     },
@@ -5969,6 +6105,17 @@
       "example": {
         "paite": "Paite kasin lel",
         "english": "I am learning Paite."
+      }
+    },
+    {
+      "paite": "Kava",
+      "english": "We visit / go and see",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pathianni in ka pute kava veh uh.",
+        "english": "We visit our grandparents on Sunday."
       }
     },
     {
@@ -6058,7 +6205,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman kei receipt hon pia",
+        "paite": "Aman kei receipt hon pia.",
         "english": "She gave me the receipt."
       }
     },
@@ -6085,7 +6232,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n kelkong bul ah paak a suan hi.",
+        "paite": "Ka nu'n kelkong bul ah pak a suan.",
         "english": "My mother planted flowers near the gate."
       }
     },
@@ -6104,7 +6251,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Keu sau in meh ka tok ahi.",
+        "paite": "Keu sau in meh ka tok",
         "english": "I stir the pot with a long spoon."
       }
     },
@@ -6161,7 +6308,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Dil ah khaal lai in/ khal lai in a ki bual uh.",
+        "paite": "Dil ah mipi lai in a kibual uh.",
         "english": "They swim in the lake during summer."
       }
     },
@@ -6218,7 +6365,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Khekol lianzaw khat ka poimoh hi",
+        "paite": "Khekol lianzaw khat ka poimoh",
         "english": "I need a bigger pair of pants."
       }
     },
@@ -6237,7 +6384,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Khosung ah mi khat-le-khat a ki muak tuah uhi.",
+        "paite": "Khosung ah mi khat-le-khat a ki muak tuah zel uh.",
         "english": "People greet each other in the village."
       }
     },
@@ -6248,8 +6395,19 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huang sung ah khau kante a kimol uh.",
+        "paite": "Huang ah kante a kimawl uh.",
         "english": "They jump rope in the yard."
+      }
+    },
+    {
+      "paite": "Khauh",
+      "english": "Strong",
+      "note": "also given as sek in the translation",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka sanggampa'n liang khauh/sek mahmah anei.",
+        "english": "My brother has strong shoulders."
       }
     },
     {
@@ -6321,7 +6479,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kongkhak bul ah khawnvaak ka su vak uh",
+        "paite": "Kong bul ah mei ka de uh",
         "english": "We light lamps at the door."
       }
     },
@@ -6378,7 +6536,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka Pu khe in bazar tan paizel hi",
+        "paite": "Ka pu khe in bazar tan a pai",
         "english": "My grandfather walks to the market."
       }
     },
@@ -6413,7 +6571,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Minu'n dohkan tung ah allu kheh hi.",
+        "paite": "dohkan tung ah allu a kheh",
         "english": "She peels the potatoes on the table."
       }
     },
@@ -6432,7 +6590,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Khekol lianzaw khat ka poimoh hi",
+        "paite": "Khekol lianzaw khat ka poimoh",
         "english": "I need a bigger pair of pants."
       }
     },
@@ -6458,6 +6616,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Khel",
+      "english": "Lend",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -6580,7 +6746,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka Pu toh kholak ah ka vak uh",
+        "paite": "Ka pu toh kholak ah ka vak uh",
         "english": "My grandfather walks with me outside."
       }
     },
@@ -6615,7 +6781,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Mi tampi te hiai khu ah khosa ahi uh",
+        "paite": "Mi tampi te hiai khua ah a khosa uh.",
         "english": "Many people live in the village."
       }
     },
@@ -6688,7 +6854,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kou te'n khosung ah sing ka pua lut uhi.",
+        "paite": "Kou khosung ah sing ka paw lut uh.",
         "english": "We carried wood to the village."
       }
     },
@@ -6729,7 +6895,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai pa nâk khovot ziak in asan",
+        "paite": "khovot ziak in a nak a san",
         "english": "His nose is red from the cold."
       }
     },
@@ -6990,7 +7156,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Khosung ah mi khat-le-khat a ki muak tuah uhi.",
+        "paite": "Khosung ah mi khat-le-khat a ki muak tuah zel uh.",
         "english": "People greet each other in the village."
       }
     },
@@ -7001,7 +7167,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka kawlzal ka ki puak",
+        "paite": "Ka kawlzal ka kipuak.",
         "english": "I carry my own bag."
       }
     },
@@ -7012,7 +7178,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Amau nikum in internet tungtawn in ki thei uhi",
+        "paite": "Amau nikum in internet tungtawn in ki thei uh",
         "english": "They met on the internet last year."
       }
     },
@@ -7031,7 +7197,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ki zahtak tuah",
+        "paite": "Ka kizah tuah uh.",
         "english": "We respect each other always."
       }
     },
@@ -7096,7 +7262,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai nu'n a lawm nu/pa kiang ah laithon akhak",
+        "paite": "Hiai nu'n a lawm laithon a khak",
         "english": "She sends a message to her friend."
       }
     },
@@ -7107,7 +7273,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Lui luang kiang ah kaki mu uhi",
+        "paite": "Lui luang kiang ah kaki mu uh.",
         "english": "We meet near the river."
       }
     },
@@ -7218,7 +7384,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Invengte meh leh buh kikhol tuah zel uhi.",
+        "paite": "Invengte meh leh buh a kikhol tuah zel uh",
         "english": "Neighbors share food with one another."
       }
     },
@@ -7267,7 +7433,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kimawl nading ah kaki thalop lua uh.",
+        "paite": "Kimawl nading ah kaki thalawp lua uh.",
         "english": "We were excited about the game."
       }
     },
@@ -7327,7 +7493,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kimawlna Zingkal in akipan.",
+        "paite": "Kimawlna zingkal in akipan.",
         "english": "The game starts in the morning."
       }
     },
@@ -7354,7 +7520,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pawlpi ten tuni in kimawlna ah vualzoh na a tang uh",
+        "paite": "Pawlpi te'n tuni in kimawlna ah vualzoh na a tang uh.",
         "english": "The team wins the match today."
       }
     },
@@ -7381,7 +7547,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Heutupan kimol ding dan hon sinsak hi",
+        "paite": "Heutupa'n kimawl ding dan hon sinsak.",
         "english": "The coach teaches us how to play."
       }
     },
@@ -7511,7 +7677,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai ni kipah huai a puannak thak ka silh uh",
+        "paite": "Hiai ni kipahhuai ah puan thak ka silh uh.",
         "english": "We wear new clothes on this happy day."
       }
     },
@@ -7565,9 +7731,17 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka khut a kipan sahbon a talkhian hi.",
+        "paite": "Ka khut a pan sahbon a tal khia",
         "english": "The soap slips from my hand."
       }
+    },
+    {
+      "paite": "Kisaktheihpih",
+      "english": "Boast of/Proud of",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Kisaktheihpih",
@@ -7698,7 +7872,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Tangval nou te kong polam ah aki mol uh",
+        "paite": "Tangval noute kong polam ah a kimawl uh",
         "english": "The young boys play games outside."
       }
     },
@@ -7717,7 +7891,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n van thak kou a di a hon leisak hi.",
+        "paite": "Ka nu'n van thak hon leisak",
         "english": "My mother bought new clothes for us."
       }
     },
@@ -7728,7 +7902,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kou te'n khosung ah sing ka pua lut uhi.",
+        "paite": "Kou khosung ah sing ka paw lut uh.",
         "english": "We carried wood to the village."
       }
     },
@@ -7739,7 +7913,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
+        "paite": "Ka sanggamnu'n koute' adi'n la khat ahon sa hi.",
         "english": "My sister sings a song for us."
       }
     },
@@ -7825,7 +7999,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka sanggam nu'n koute a di'n la khat a hon sa hi.",
+        "paite": "Ka sanggamnu'n koute' adi'n la khat ahon sa hi.",
         "english": "My sister sings a song for us."
       }
     },
@@ -7836,7 +8010,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Biakinn ah laa ka sakhawm uh.",
+        "paite": "Biakinn ah la ka sakhawm uh.",
         "english": "We sang together at church."
       }
     },
@@ -7863,7 +8037,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman lai gelh tom chick hng khak.",
+        "paite": "Message tom chick hon thon",
         "english": "He texted me a short message."
       }
     },
@@ -7965,7 +8139,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai nu'n a lawm nu/pa kiang ah laithon akhak",
+        "paite": "Hiai nu'n a lawm laithon a khak",
         "english": "She sends a message to her friend."
       }
     },
@@ -8076,7 +8250,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huai nu'n kei a hon muh leh lamdangsa.",
+        "paite": "a hon muh leh a kiguih",
         "english": "She was surprised to see me."
       }
     },
@@ -8198,7 +8372,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A lawmnu toh badminton aki mawl zel uh",
+        "paite": "A lawmnu toh badminton aki mawl uh",
         "english": "She plays badminton with her friend."
       }
     },
@@ -8344,7 +8518,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "I iit te adi'n thipiak aki leisak hi",
+        "paite": "I iit te adi'n thipiak aki lei sek",
         "english": "We buy gifts for our dear ones."
       }
     },
@@ -8404,6 +8578,17 @@
     },
     {
       "paite": "Liang",
+      "english": "Shoulders",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka sanggampa'n liang khauh/sek mahmah anei.",
+        "english": "My brother has strong shoulders."
+      }
+    },
+    {
+      "paite": "Liang",
       "english": "Shoulder",
       "note": null,
       "source": "contributed",
@@ -8428,7 +8613,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Khekol lianzaw khat ka poimoh hi",
+        "paite": "Khekol lianzaw khat ka poimoh",
         "english": "I need a bigger pair of pants."
       }
     },
@@ -8482,7 +8667,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ngasa anteh lou hing tawh a huan khawm hi",
+        "paite": "Ngasa anteh lou-hing tawh a huan khawm hi",
         "english": "She cooked fish with green leaves."
       }
     },
@@ -8520,7 +8705,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pathian Biak-in tual ah loupa hing a om.",
+        "paite": "Pathian biakin tual ah loupa hing a om.",
         "english": "The church yard has green grass."
       }
     },
@@ -8588,7 +8773,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Lui luang kiang ah kaki mu uhi",
+        "paite": "Lui luang kiang ah kaki mu uh.",
         "english": "We meet near the river."
       }
     },
@@ -8615,9 +8800,17 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Lui luang kiang ah kaki mu uhi",
+        "paite": "Lui luang kiang ah kaki mu uh.",
         "english": "We meet near the river."
       }
+    },
+    {
+      "paite": "Luipang piautak",
+      "english": "River bank",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Lukhu",
@@ -8626,7 +8819,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai lukhu dum ka sangam-nu a ahi",
+        "paite": "Hiai lukhu dum ka sangam-nu aa ahi",
         "english": "The blue hat belongs to my sister."
       }
     },
@@ -8747,7 +8940,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A kalsuan na ah a lungkim hi",
+        "paite": "A kalsuan leh masawnnna ah a lungkim hi.",
         "english": "She is happy with her progress."
       }
     },
@@ -8904,7 +9097,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Awl in hon gen ve, maw?",
+        "paite": "Awl in gen ve, maw?",
         "english": "Speak slowly, please."
       }
     },
@@ -8945,7 +9138,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Invengte meh leh buh kikhol tuah zel uhi.",
+        "paite": "Invengte meh leh buh a kikhol tuah zel uh",
         "english": "Neighbors share food with one another."
       }
     },
@@ -8956,7 +9149,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Keu sau in meh ka tok ahi.",
+        "paite": "Keu sau in meh ka tok",
         "english": "I stir the pot with a long spoon."
       }
     },
@@ -8975,7 +9168,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "mehkan nang sathau ka poimohbeh",
+        "paite": "Mehkan nang sathau ka poimoh beh.",
         "english": "We need more cooking oil."
       }
     },
@@ -9075,7 +9268,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Khosung ah mi khat-le-khat a ki muak tuah uhi.",
+        "paite": "Khosung ah mi khat-le-khat a ki muak tuah zel uh.",
         "english": "People greet each other in the village."
       }
     },
@@ -9097,7 +9290,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Mi tampi te hiai khu ah khosa ahi uh",
+        "paite": "Mi tampi te hiai khua ah a khosa uh.",
         "english": "Many people live in the village."
       }
     },
@@ -9156,7 +9349,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Minu'n puan-akpi deih hi.",
+        "paite": "Minu'n/Aman puanaklum adeih.",
         "english": "She wants a warm coat."
       }
     },
@@ -9490,7 +9683,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Internet laisim na di'n a zang uhi",
+        "paite": "laisim na di'n internet a zang uh",
         "english": "They use the internet to study."
       }
     },
@@ -9501,7 +9694,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Internet news sim na diin a zang",
+        "paite": "news sim na di'n internet a zang",
         "english": "He uses the internet to read news."
       }
     },
@@ -9534,7 +9727,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kimawl nading ah kaki thalop lua uh.",
+        "paite": "Kimawl nading ah kaki thalawp lua uh.",
         "english": "We were excited about the game."
       }
     },
@@ -9553,7 +9746,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai pa nâk khovot ziak in asan",
+        "paite": "khovot ziak in a nak a san",
         "english": "His nose is red from the cold."
       }
     },
@@ -9804,7 +9997,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawmte uh ann nek pih din ka zon uh",
+        "paite": "Ka lawmte uh ann ne din ka chial uh",
         "english": "We invite our friends to eat with us."
       }
     },
@@ -9853,7 +10046,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Internet news sim na diin a zang",
+        "paite": "news sim na di'n internet a zang",
         "english": "He uses the internet to read news."
       }
     },
@@ -9990,7 +10183,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ngasa anteh lou hing tawh a huan khawm hi",
+        "paite": "Ngasa anteh lou-hing tawh a huan khawm hi",
         "english": "She cooked fish with green leaves."
       }
     },
@@ -10122,7 +10315,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Amau nikum in internet tungtawn in ki thei uhi",
+        "paite": "Amau nikum in internet tungtawn in ki thei uh",
         "english": "They met on the internet last year."
       }
     },
@@ -10149,7 +10342,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Nipi kal tengin thil ka lei zel uh.",
+        "paite": "kal teng in thil ka lei uh.",
         "english": "We buy things every week."
       }
     },
@@ -10203,7 +10396,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pa'n nitak in kongkhak a kalh",
+        "paite": "Ka pa'n nitak chiah kong a kalh",
         "english": "Father locks the door at night."
       }
     },
@@ -10233,7 +10426,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman nitaklam teng in ahon thuzak gige.",
+        "paite": "nitaklam teng in ahon thuzak gige.",
         "english": "She calls me every evening."
       }
     },
@@ -10263,7 +10456,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Tangval nou te kong polam ah aki mol uh",
+        "paite": "Tangval noute kong polam ah a kimawl uh",
         "english": "The young boys play games outside."
       }
     },
@@ -10317,7 +10510,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai kimawlna nuam kasa petmah uh.",
+        "paite": "kimawlna nuam kasa petmah uh.",
         "english": "We enjoy the game very much."
       }
     },
@@ -10355,7 +10548,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Numeite'n a-khua tuikhuk uapan in tui atawi uh.",
+        "paite": "Numeite'n khua tuikhuk ua pan in tui atawi uh.",
         "english": "Women carry water from the village well."
       }
     },
@@ -10382,7 +10575,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Thil ahih khelh nung in a zum",
+        "paite": "A thil hihkhelh ziak in zahlakhuai a sa.",
         "english": "She felt embarrassed after the mistake."
       }
     },
@@ -10437,7 +10630,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pathian Biak-in tual ah loupa hing a om.",
+        "paite": "Pathian biakin tual ah loupa hing a om.",
         "english": "The church yard has green grass."
       }
     },
@@ -10472,7 +10665,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pa'n nitak in kongkhak a kalh",
+        "paite": "Ka pa'n nitak chiah kong a kalh",
         "english": "Father locks the door at night."
       }
     },
@@ -10483,7 +10676,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n kelkong bul ah paak a suan hi.",
+        "paite": "Ka nu'n kelkong bul ah pak a suan.",
         "english": "My mother planted flowers near the gate."
       }
     },
@@ -10583,7 +10776,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka Pu khe in bazar tan paizel hi",
+        "paite": "Ka pu khe in bazar tan a pai",
         "english": "My grandfather walks to the market."
       }
     },
@@ -10594,7 +10787,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huansung ah ka nu'n pak a suan hi",
+        "paite": "Huansung ah ka nu'n pak a suan",
         "english": "My mother planted flowers in the garden."
       }
     },
@@ -10680,7 +10873,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pathian Biak-in tual ah loupa hing a om.",
+        "paite": "Pathian biakin tual ah loupa hing a om.",
         "english": "The church yard has green grass."
       }
     },
@@ -10691,7 +10884,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pathianni chiang a ka Gang hong hoh zel ahi.",
+        "paite": "Pathianni chiang a ka gang hong hoh zel",
         "english": "My uncle visits us on Sunday."
       }
     },
@@ -10761,7 +10954,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pawlpi ten tuni in kimawlna ah vualzoh na a tang uh",
+        "paite": "Pawlpi te'n tuni in kimawlna ah vualzoh na a tang uh.",
         "english": "The team wins the match today."
       }
     },
@@ -10783,7 +10976,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai kimawlna nuam kasa petmah uh.",
+        "paite": "kimawlna nuam kasa petmah uh.",
         "english": "We enjoy the game very much."
       }
     },
@@ -10842,6 +11035,17 @@
       "example": null
     },
     {
+      "paite": "Phone",
+      "english": "Phone",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A phone a sakhau ah a kuah.",
+        "english": "She put her phone in her pocket."
+      }
+    },
+    {
       "paite": "Phone ah",
       "english": "On the phone",
       "note": "phone + locative ah",
@@ -10854,10 +11058,58 @@
     },
     {
       "paite": "Pi",
+      "english": "Lead",
+      "note": "He lead the worker",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pi",
+      "english": "To bring",
+      "note": "Naupangte school apat va pi = To take/bring the kids to/from school.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pi",
+      "english": "Grandmother",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pi",
+      "english": "Madam",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pi",
       "english": "Grandma",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Pia",
+      "english": "Hand over",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pia",
+      "english": "Offer",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -10867,9 +11119,129 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman kei receipt hon pia",
+        "paite": "Aman kei receipt hon pia.",
         "english": "She gave me the receipt."
       }
+    },
+    {
+      "paite": "Pial",
+      "english": "Astray",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pialkhang",
+      "english": "Floor",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pialmang",
+      "english": "Astray",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pianchampha",
+      "english": "Birthday anniversary",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piandan",
+      "english": "Physical state",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piandan",
+      "english": "Appearance",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piang",
+      "english": "Birth",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piangsual",
+      "english": "Cripple",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piangsual",
+      "english": "Maimed person",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piangsual",
+      "english": "Deformed",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piangthak",
+      "english": "Reform",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piangthak",
+      "english": "Born again",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piangthak",
+      "english": "Reborn",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pianken",
+      "english": "Nature",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pianken",
+      "english": "Behaviour pattern",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Pianni",
@@ -10878,9 +11250,41 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman ka pianni thei hi",
+        "paite": "Aman ka pianni thei hi. Or, Ama'n ka pianchampha athei.",
         "english": "She remembers my birthday."
       }
+    },
+    {
+      "paite": "Piansualna",
+      "english": "Deformation",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piaunel",
+      "english": "Sand",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piautak",
+      "english": "Land mass",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piautak",
+      "english": "Land",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Pih",
@@ -10889,9 +11293,41 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka lawmte uh ann nek pih din ka zon uh",
+        "paite": "Ka lawmte uh ann ne din ka chial uh",
         "english": "We invite our friends to eat with us."
       }
+    },
+    {
+      "paite": "Pikhawm",
+      "english": "Amalgamate",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pikhawm",
+      "english": "Collect together",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pikhawm",
+      "english": "Lead together",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pikhawm",
+      "english": "Bring together",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Pil",
@@ -10946,7 +11382,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n tangthu hoih pipi a gensiam",
+        "paite": "Ka nu'n tangthu ngaihnop huai taktak a gen sek",
         "english": "My grandmother tells good stories."
       }
     },
@@ -11019,7 +11455,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Tangval nou te kong polam ah aki mol uh",
+        "paite": "Tangval noute kong polam ah a kimawl uh",
         "english": "The young boys play games outside."
       }
     },
@@ -11036,10 +11472,42 @@
     },
     {
       "paite": "Pu",
+      "english": "Sir",
+      "note": "Respected sir",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pu",
+      "english": "In Paite culture and tradition, one's mother's siblings - mainly her brothers are called Pu, an honor bestowed by virtue",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pu",
+      "english": "Grandfather",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pu",
       "english": "Grandpa",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Pua",
+      "english": "Carry",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -11049,7 +11517,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka pa tut na puak ka pan pih hi",
+        "paite": "Ka pa tutna ka puak pih",
         "english": "I help my father carry the chairs."
       }
     },
@@ -11063,6 +11531,22 @@
         "paite": "Ka ni in naupangte ading in muamkhum hon puak.",
         "english": "My aunt brings sweets for the children."
       }
+    },
+    {
+      "paite": "Puakgik",
+      "english": "Burden",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Puakkek",
+      "english": "Burst",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Puan",
@@ -11082,7 +11566,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Minu'n puan-akpi deih hi.",
+        "paite": "Minu'n/Aman puanaklum adeih.",
         "english": "She wants a warm coat."
       }
     },
@@ -11109,7 +11593,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai ni kipah huai a puannak thak ka silh uh",
+        "paite": "Hiai ni kipahhuai ah puan thak ka silh uh.",
         "english": "We wear new clothes on this happy day."
       }
     },
@@ -11122,6 +11606,17 @@
       "example": {
         "paite": "Zing meh di'n aktui pum nih akang hi.",
         "english": "He fries two eggs for breakfast."
+      }
+    },
+    {
+      "paite": "Pute",
+      "english": "Grandparents",
+      "note": "variant pite also given in the note",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pathianni in ka pute kava veh uh.",
+        "english": "We visit our grandparents on Sunday."
       }
     },
     {
@@ -11169,7 +11664,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman kei receipt hon pia",
+        "paite": "Aman kei receipt hon pia.",
         "english": "She gave me the receipt."
       }
     },
@@ -11188,7 +11683,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai puanak rong dum ka deih",
+        "paite": "Hiai puannak dum ka deih",
         "english": "I like this blue shirt."
       }
     },
@@ -11274,7 +11769,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Biakinn ah laa ka sakhawm uh.",
+        "paite": "Biakinn ah la ka sakhawm uh.",
         "english": "We sang together at church."
       }
     },
@@ -11328,7 +11823,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Sana neu chik ka lei",
+        "paite": "Sana neu ka lei",
         "english": "I bought a small clock."
       }
     },
@@ -11404,7 +11899,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "mehkan nang sathau ka poimohbeh",
+        "paite": "Mehkan nang sathau ka poimoh beh.",
         "english": "We need more cooking oil."
       }
     },
@@ -11533,7 +12028,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka inn uh siangthou tak in ka koih",
+        "paite": "Ka inn uh siangthou tak in ka kem uh",
         "english": "We keep our home neat and clean."
       }
     },
@@ -11568,7 +12063,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Internet news sim na diin a zang",
+        "paite": "news sim na di'n internet a zang",
         "english": "He uses the internet to read news."
       }
     },
@@ -11625,7 +12120,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka sanggampa'n singkhuah ding sing hon pua hi.",
+        "paite": "Ka sanggampa'n singkhuah hon pua",
         "english": "My brother brings wood for the fire."
       }
     },
@@ -11695,7 +12190,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Heutupan kimol ding dan hon sinsak hi",
+        "paite": "Heutupa'n kimawl ding dan hon sinsak.",
         "english": "The coach teaches us how to play."
       }
     },
@@ -11752,7 +12247,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Bazar kai zawh in su'n an kane uh",
+        "paite": "Bazar kai zawh in sun an ka ne uh",
         "english": "We ate lunch after shopping."
       }
     },
@@ -11865,7 +12360,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Huainu'n Sumsiik sawm a pia",
+        "paite": "Huainu'n sumsiik sawm a pia",
         "english": "She paid ten coins."
       }
     },
@@ -11957,7 +12452,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka khut a kipan sahbon a talkhian hi.",
+        "paite": "Ka khut a pan sahbon a tal khia",
         "english": "The soap slips from my hand."
       }
     },
@@ -11976,7 +12471,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka Pu khe in bazar tan paizel hi",
+        "paite": "Ka pu khe in bazar tan a pai",
         "english": "My grandfather walks to the market."
       }
     },
@@ -12095,7 +12590,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n tangthu hoih pipi a gensiam",
+        "paite": "Ka nu'n tangthu ngaihnop huai taktak a gen sek",
         "english": "My grandmother tells good stories."
       }
     },
@@ -12106,7 +12601,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Tangval nou te kong polam ah aki mol uh",
+        "paite": "Tangval noute kong polam ah a kimawl uh",
         "english": "The young boys play games outside."
       }
     },
@@ -12166,7 +12661,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "I iit te adi'n thipiak aki leisak hi",
+        "paite": "I iit te adi'n thipiak aki lei sek",
         "english": "We buy gifts for our dear ones."
       }
     },
@@ -12228,7 +12723,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Zingsang teng in a thumkhawm zel uhi.",
+        "paite": "Zingkal teng in a thum khawm uh",
         "english": "They pray together in the morning."
       }
     },
@@ -12258,7 +12753,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Kimawl nading ah kaki thalop lua uh.",
+        "paite": "Kimawl nading ah kaki thalawp lua uh.",
         "english": "We were excited about the game."
       }
     },
@@ -12293,7 +12788,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Aman ka pianni thei hi",
+        "paite": "Aman ka pianni thei hi. Or, Ama'n ka pianchampha athei.",
         "english": "She remembers my birthday."
       }
     },
@@ -12304,7 +12799,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Amau dawr ah thei zuak uh hi",
+        "paite": "dawr ah thei zuak uh",
         "english": "They sell fruit at the store."
       }
     },
@@ -12315,7 +12810,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A mah hong pai kiik theih ziak in a kipak",
+        "paite": "A mah hong paikik theih ziak in a kipak.",
         "english": "He is glad to be back."
       }
     },
@@ -12350,7 +12845,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Nipi kal tengin thil ka lei zel uh.",
+        "paite": "kal teng in thil ka lei uh.",
         "english": "We buy things every week."
       }
     },
@@ -12361,7 +12856,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Thil ahih khelh nung in a zum",
+        "paite": "A thil hihkhelh ziak in zahlakhuai a sa.",
         "english": "She felt embarrassed after the mistake."
       }
     },
@@ -12380,7 +12875,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "I iit te adi'n thipiak aki leisak hi",
+        "paite": "I iit te adi'n thipiak aki lei sek",
         "english": "We buy gifts for our dear ones."
       }
     },
@@ -12391,7 +12886,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Tua nu'n tui thol a pat in tui dawn hi",
+        "paite": "thawl a tui a dawn",
         "english": "She drinks water from a bottle."
       }
     },
@@ -12424,7 +12919,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka pu' hon thuhilhna ka ngai khia",
+        "paite": "Ka pu' hon thuhilhna ka ngai khia uh",
         "english": "We listen to our grandfather's advice."
       }
     },
@@ -12553,7 +13048,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "A lawmnu toh badminton aki mawl zel uh",
+        "paite": "A lawmnu toh badminton aki mawl uh",
         "english": "She plays badminton with her friend."
       }
     },
@@ -12669,7 +13164,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Tua nu'n tui thol a pat in tui dawn hi",
+        "paite": "thawl a tui a dawn",
         "english": "She drinks water from a bottle."
       }
     },
@@ -12774,7 +13269,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Numeite'n a-khua tuikhuk uapan in tui atawi uh.",
+        "paite": "Numeite'n khua tuikhuk ua pan in tui atawi uh.",
         "english": "Women carry water from the village well."
       }
     },
@@ -12860,13 +13355,24 @@
       "example": null
     },
     {
+      "paite": "Tuivot",
+      "english": "Cold drinks",
+      "note": "theitui vot chih in juice kawk a bang a",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai ah dawn ding tuivot a zuak uh",
+        "english": "They sell cold drinks here."
+      }
+    },
+    {
       "paite": "Tukhawm in",
       "english": "Together",
       "note": "used with sitting/talking together",
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Nitaklam tukhawm in ka houlim uh",
+        "paite": "Nitaklam in tukhawm in ka houlim uh",
         "english": "We sit and talk in the evening."
       }
     },
@@ -12934,7 +13440,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Minu'n dohkan tung ah allu kheh hi.",
+        "paite": "dohkan tung ah allu a kheh",
         "english": "She peels the potatoes on the table."
       }
     },
@@ -12945,7 +13451,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Amau nikum in internet tungtawn in ki thei uhi",
+        "paite": "Amau nikum in internet tungtawn in ki thei uh",
         "english": "They met on the internet last year."
       }
     },
@@ -13002,7 +13508,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka pa tut na puak ka pan pih hi",
+        "paite": "Ka pa tutna ka puak pih",
         "english": "I help my father carry the chairs."
       }
     },
@@ -13078,8 +13584,19 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Numeite'n a-khua tuikhuk uapan in tui atawi uh.",
+        "paite": "Numeite'n khua tuikhuk ua pan in tui atawi uh.",
         "english": "Women carry water from the village well."
+      }
+    },
+    {
+      "paite": "Uh",
+      "english": "Plural agreement marker",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pathianni in ka pute kava veh uh.",
+        "english": "We visit our grandparents on Sunday."
       }
     },
     {
@@ -13089,7 +13606,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai kimawlna nuam kasa petmah uh.",
+        "paite": "kimawlna nuam kasa petmah uh.",
         "english": "We enjoy the game very much."
       }
     },
@@ -13122,7 +13639,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Biakinn ah laa ka sakhawm uh.",
+        "paite": "Biakinn ah la ka sakhawm uh.",
         "english": "We sang together at church."
       }
     },
@@ -13155,7 +13672,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Amau dawr ah thei zuak uh hi",
+        "paite": "dawr ah thei zuak uh",
         "english": "They sell fruit at the store."
       }
     },
@@ -13177,7 +13694,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Khosung ah mi khat-le-khat a ki muak tuah uhi.",
+        "paite": "Khosung ah mi khat-le-khat a ki muak tuah zel uh.",
         "english": "People greet each other in the village."
       }
     },
@@ -13250,6 +13767,14 @@
       }
     },
     {
+      "paite": "Va pi",
+      "english": "To take",
+      "note": "Naupangte school apan va pi.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Vaigam",
       "english": "India",
       "note": null,
@@ -13307,7 +13832,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Ka nu'n van thak kou a di a hon leisak hi.",
+        "paite": "Ka nu'n van thak hon leisak",
         "english": "My mother bought new clothes for us."
       }
     },
@@ -13334,6 +13859,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Veh",
+      "english": "Plural marker (we)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pathianni in ka pute kava veh uh.",
+        "english": "We visit our grandparents on Sunday."
+      }
     },
     {
       "paite": "Veilam",
@@ -13433,7 +13969,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Pawlpi ten tuni in kimawlna ah vualzoh na a tang uh",
+        "paite": "Pawlpi te'n tuni in kimawlna ah vualzoh na a tang uh.",
         "english": "The team wins the match today."
       }
     },
@@ -13547,7 +14083,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Zanciah a phone hihmit zel",
+        "paite": "Zan chiah a phone a hihmit zel",
         "english": "He turned off his phone at night."
       }
     },
@@ -13639,7 +14175,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Zingsang teng in a thumkhawm zel uhi.",
+        "paite": "Zingkal teng in a thum khawm uh",
         "english": "They pray together in the morning."
       }
     },
@@ -13661,7 +14197,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Invengte meh leh buh kikhol tuah zel uhi.",
+        "paite": "Invengte meh leh buh a kikhol tuah zel uh",
         "english": "Neighbors share food with one another."
       }
     },
@@ -13680,7 +14216,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Hiai pa nâk khovot ziak in asan",
+        "paite": "khovot ziak in a nak a san",
         "english": "His nose is red from the cold."
       }
     },
@@ -13761,7 +14297,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Zingsang teng in a thumkhawm zel uhi.",
+        "paite": "Zingkal teng in a thum khawm uh",
         "english": "They pray together in the morning."
       }
     },
@@ -13798,6 +14334,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Zong",
+      "english": "Search",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -13839,7 +14383,7 @@
       "source": "note",
       "reviewed_by": null,
       "example": {
-        "paite": "Amau dawr ah thei zuak uh hi",
+        "paite": "dawr ah thei zuak uh",
         "english": "They sell fruit at the store."
       }
     },
@@ -13880,6 +14424,14 @@
         "paite": "Lawm dik in zuau hon hilh ngei lou ahi",
         "english": "A true friend never lies."
       }
+    },
+    {
+      "paite": "Zuausan",
+      "english": "Betray",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Zum",
