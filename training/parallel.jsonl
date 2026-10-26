@@ -31214,6 +31214,45 @@
 {"id": "community:50:1", "paite": "Ka tapa sikul a kai", "english": "My son goes to school.", "source": "community", "split": "train"}
 {"id": "community:51", "paite": "Ka tanu in Imphal ah lai a sinlel", "english": "My daughter is studying in Imphal.", "source": "community", "split": "train"}
 {"id": "community:51:1", "paite": "Ka tanu in Imphal ah laisim lel hi.", "english": "My daughter is studying in Imphal.", "source": "community", "split": "train"}
+{"id": "community:1519", "paite": "Hiai hunnuam in inn chih ah kipahna a tun.", "english": "The festival brings joy to every home.", "source": "community", "split": "train"}
+{"id": "community:1519:1", "paite": "Vualnop in inn teng ah nopna hon tun/puak hi", "english": "The festival brings joy to every home.", "source": "community", "split": "train"}
+{"id": "community:1826", "paite": "A singpi man a piakzoh in a pai.", "english": "She paid for the tea and left.", "source": "community", "split": "train"}
+{"id": "community:1826:1", "paite": "Singpi dawnman pia in ana pai", "english": "She paid for the tea and left.", "source": "community", "split": "train"}
+{"id": "community:1849", "paite": "Louneite/loubawlte khomial ma in inn a tungkik uh.", "english": "The farmers return home before dark.", "source": "community", "split": "train"}
+{"id": "community:1849:1", "paite": "Loukuan te khomial ma in inn hong tung uh", "english": "The farmers return home before dark.", "source": "community", "split": "train"}
+{"id": "community:211", "paite": "Hiai ah dawn ding tuivot a zuak uh", "english": "They sell cold drinks here.", "source": "community", "split": "train"}
+{"id": "community:290", "paite": "Kimawlna kimvel/kimlak ah khe in a pai uh.", "english": "They walk around the sports area.", "source": "community", "split": "train"}
+{"id": "community:453", "paite": "A inntung lui mahleh a tou mahmah lai.", "english": "The roof is old but strong.", "source": "community", "split": "test"}
+{"id": "community:490", "paite": "Inn ka inkuante tenna ahi", "english": "Home is where my family lives.", "source": "community", "split": "train"}
+{"id": "community:753", "paite": "Mi tampi te hiai khua ah a khosa uh.", "english": "Many people live in this village", "source": "community", "split": "train"}
+{"id": "community:753:1", "paite": "Many people live in this village", "english": "Many people live in this village", "source": "community", "split": "train"}
+{"id": "community:753:2", "paite": "Lots of people resides in this village", "english": "Many people live in this village", "source": "community", "split": "train"}
+{"id": "community:777", "paite": "Kua hiam in, khua ah inn thak hong lam.", "english": "Someone builds a house in the village.", "source": "community", "split": "train"}
+{"id": "community:880", "paite": "Tuni kho pumpi thathou hi", "english": "The whole town feels alive today.", "source": "community", "split": "train"}
+{"id": "community:949", "paite": "A khedap nin asuah khia.", "english": "He took off his muddy boots.", "source": "community", "split": "dev"}
+{"id": "community:979", "paite": "Ama'n internet password a ngen.", "english": "She asked for the internet password.", "source": "community", "split": "train"}
+{"id": "community:743", "paite": "Na ka sem lel", "english": "I am working right now.", "source": "community", "split": "train"}
+{"id": "community:988", "paite": "A phone a sakhau ah a kuah.", "english": "She put her phone in her pocket.", "source": "community", "split": "dev"}
+{"id": "community:988:1", "paite": "Minu'n a sakhau ah a phone a koih.", "english": "She put her phone in her pocket.", "source": "community", "split": "dev"}
+{"id": "community:988:2", "paite": "A sakhau ah a phone akoih", "english": "She put her phone in her pocket.", "source": "community", "split": "dev"}
+{"id": "community:1026", "paite": "Nitak in biakinn a dai.", "english": "The church is quiet in the evening.", "source": "community", "split": "test"}
+{"id": "community:1178", "paite": "Ka sanggam pa innkong ah a lawmte toh aki mawl", "english": "My brother plays with his friends in the courtyard.", "source": "community", "split": "train"}
+{"id": "community:1229", "paite": "Pathianni in ka pute kava veh uh.", "english": "We visit our grandparents on Sunday.", "source": "community", "split": "train"}
+{"id": "community:1257", "paite": "Ka ni in zannitak in ann tampi/limtak a huan.", "english": "My aunt cooked a big meal last night.", "source": "community", "split": "train"}
+{"id": "community:1262", "paite": "Ka sanggamnu'n ann huan a kizir.", "english": "My sister learned to cook rice.", "source": "community", "split": "train"}
+{"id": "community:1273", "paite": "Naungek nitak in a ihmu.", "english": "The baby sleeps at night.", "source": "community", "split": "train"}
+{"id": "community:1275", "paite": "Nitak in innlam zuan (in) khe in a pai.", "english": "He walks home in the evening.", "source": "community", "split": "train"}
+{"id": "community:1287", "paite": "Khal lai in haichi ka tuh uh.", "english": "We planted seeds in the spring.", "source": "community", "split": "train"}
+{"id": "community:1390", "paite": "Ka lei in theikhum a chiam.", "english": "My tongue tastes the sweet fruit.", "source": "community", "split": "train"}
+{"id": "community:1401", "paite": "Ka sanggampa'n liang khauh/sek mahmah anei.", "english": "My brother has strong shoulders.", "source": "community", "split": "train"}
+{"id": "community:1404", "paite": "Ka lukhu ka lu ah ka khu.", "english": "The hat sits on my head.", "source": "community", "split": "train"}
+{"id": "community:1442", "paite": "Zingkar tengin bazar ka kai.", "english": "I go to the market every morning.", "source": "community", "split": "train"}
+{"id": "community:1482", "paite": "Ka lawmte toh ann kaki khol/hawm/kop uh.", "english": "We shared food with our friends.", "source": "community", "split": "train"}
+{"id": "community:1488", "paite": "Kong a khak a, atu suk hi.", "english": "He closed the door and sat down.", "source": "community", "split": "train"}
+{"id": "community:1495", "paite": "Naupangte pawi zatlai in konglam ah ana kimawl uh.", "english": "Children play games outside during the festival.", "source": "community", "split": "train"}
+{"id": "community:1507", "paite": "Kuanggin in chiang leh ngaih mahmah a thuah.", "english": "The drums sound loud and clear.", "source": "community", "split": "train"}
+{"id": "community:1520", "paite": "Tuni in mipite'n a ki remlouhna neunou te uh a mangngilh uh.", "english": "People forget their small quarrels today.", "source": "community", "split": "train"}
+{"id": "community:1527", "paite": "Zanhun lasak leh nopbawlna, nuihna in ki zangkhin hi.", "english": "The night ends with songs and laughter.", "source": "community", "split": "train"}
 {"id": "community:156", "paite": "Tui thuk ah liau ke'n", "english": "Do not swim in the deep water.", "source": "community", "split": "train"}
 {"id": "community:156:1", "paite": "A thuukna lam ah va bual kei in", "english": "Do not swim in the deep water.", "source": "community", "split": "train"}
 {"id": "community:157", "paite": "Naupangte skul ah kai uh", "english": "The children are going to school.", "source": "community", "split": "train"}
