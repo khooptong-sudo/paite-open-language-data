@@ -2,14 +2,14 @@
 
 ## Contributors (verified sentences)
 
-- Sutzalian Tonsing \[100\] \(reviewer\): 275
-- RICHARD SUANLIAN \[100\] \(reviewer\): 268
+- RICHARD SUANLIAN \[100\] \(reviewer\): 277
+- Sutzalian Tonsing \[100\] \(reviewer\): 276
+- Phualva \[100\]: 195
 - Kyekym \[100\]: 155
 - Khamsonlal Guite \[100\]: 110
-- Phualva \[100\]: 104
-- phualva \[50\]: 77
 - Siam Vualnam \[50\]: 77
 - Thang Elim \[50\]: 62
+- Min Khooptong \[10\] \(reviewer\): 28
 - M Tangpua \[10\]: 23
 - Fudge \[10\]: 22
 - H Jamginmuan \[10\]: 22
@@ -18,16 +18,12 @@
 - Ben Guite \[10\]: 15
 - Maven Thawmte \[10\]: 15
 - Pausiam Thomte \[10\]: 15
-- Min Khooptong \[10\]: 10
-- George Thangmuansang: 9
+- George Thangmuansang \[10\]: 14
 - Esther J\. Kimboi: 8
-- Min Khooptong \(reviewer\): 8
-- Min Khooptong: 7
 - Suanbiaklun: 7
 - Tunthianlal Hauzel: 7
 - Kimsawmching: 6
 - lalbawi guite: 6
-- George Thangmuansang Tonsing: 5
 - Ginpum: 5
 - UlalTonsing: 5
 - ZAMKHOKAM GUITE: 5
@@ -53,7 +49,7 @@
 ## Reviewers (decisions)
 
 - Sutzalian Tonsing: 753
-- Min Khooptong: 342
+- Min Khooptong: 363
 - Richard Ngaihte: 57
 - K Lianthansang: 5
 - Thangzamang Naulak: 5
