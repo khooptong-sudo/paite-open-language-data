@@ -2,6 +2,17 @@
   "entries": [
     {
       "paite": "A",
+      "english": "She",
+      "note": "third person pronoun",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman mehhuan apan loupate a khou khia.",
+        "english": "She pulls weeds from the garden."
+      }
+    },
+    {
+      "paite": "A",
       "english": "Possessive determiner which is gender neutral",
       "note": "A nu, a laibu: this can mean both his/her mother and his/book; you don't need to say minu' nu or mipa' laibu",
       "source": "contributed",
@@ -231,6 +242,17 @@
       "example": {
         "paite": "Ka pa'n nitak chiah kong a kalh",
         "english": "Father locks the door at night."
+      }
+    },
+    {
+      "paite": "A khawl tawldam",
+      "english": "Rests",
+      "note": "tawldam also appears in the note",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Lou nasem upa sing nuai ah a khawl tawldam.",
+        "english": "The old farmer rests under the tree."
       }
     },
     {
@@ -1341,6 +1363,14 @@
     },
     {
       "paite": "Aki hong",
+      "english": "It's open.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Aki hong",
       "english": "Was open",
       "note": "used in the sentence for 'was open'",
       "source": "note",
@@ -1781,6 +1811,17 @@
       "example": {
         "paite": "Ngasa anteh lou-hing tawh a huan khawm hi",
         "english": "She cooked fish with green leaves."
+      }
+    },
+    {
+      "paite": "Apan",
+      "english": "From",
+      "note": "ablative/postposition",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman mehhuan apan loupate a khou khia.",
+        "english": "She pulls weeds from the garden."
       }
     },
     {
@@ -4369,6 +4410,14 @@
     },
     {
       "paite": "Ihmu uh",
+      "english": "They were sleeping",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Ihmu uh",
       "english": "They are sleeping.",
       "note": null,
       "source": "contributed",
@@ -5110,6 +5159,14 @@
     },
     {
       "paite": "Ka kikop uh",
+      "english": "Used together",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Ka kikop uh",
       "english": "We share",
       "note": null,
       "source": "note",
@@ -5379,6 +5436,14 @@
     },
     {
       "paite": "Ka ni",
+      "english": "My unty",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Ka ni",
       "english": "My aunty",
       "note": null,
       "source": "contributed",
@@ -5602,6 +5667,17 @@
       }
     },
     {
+      "paite": "Ka poimoh",
+      "english": "I need",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tuibawm thak ka poimoh.",
+        "english": "I need a new water bottle."
+      }
+    },
+    {
       "paite": "Ka poimoh hi",
       "english": "I need it",
       "note": null,
@@ -5759,6 +5835,14 @@
         "paite": "Ka thei kei.",
         "english": "I do not know."
       }
+    },
+    {
+      "paite": "Ka theisiam zek",
+      "english": "I understand",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
     },
     {
       "paite": "Ka theisiam zek",
@@ -6612,6 +6696,14 @@
     },
     {
       "paite": "Khekol tom",
+      "english": "Short pant",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Khekol tom",
       "english": "Short pants",
       "note": null,
       "source": "contributed",
@@ -6878,6 +6970,17 @@
       "example": {
         "paite": "khosung hausa in kimuhkhop a sam hi",
         "english": "The village head called a meeting."
+      }
+    },
+    {
+      "paite": "Khou khia",
+      "english": "Pull out / uproot",
+      "note": "verb phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman mehhuan apan loupate a khou khia.",
+        "english": "She pulls weeds from the garden."
       }
     },
     {
@@ -7935,6 +8038,14 @@
     },
     {
       "paite": "Kuangdai",
+      "english": "Plate",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Kuangdai",
       "english": "Bowl",
       "note": null,
       "source": "note",
@@ -8672,6 +8783,17 @@
       }
     },
     {
+      "paite": "Lou nasem upa",
+      "english": "Old farmer",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Lou nasem upa sing nuai ah a khawl tawldam.",
+        "english": "The old farmer rests under the tree."
+      }
+    },
+    {
       "paite": "Loumun",
       "english": "Farm",
       "note": null,
@@ -8707,6 +8829,17 @@
       "example": {
         "paite": "Pathian biakin tual ah loupa hing a om.",
         "english": "The church yard has green grass."
+      }
+    },
+    {
+      "paite": "Loupate",
+      "english": "Weeds",
+      "note": "plural of loupa (weed)",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman mehhuan apan loupate a khou khia.",
+        "english": "She pulls weeds from the garden."
       }
     },
     {
@@ -8765,6 +8898,14 @@
         "paite": "Tuni khosung a dai lua.",
         "english": "The village is very quiet today."
       }
+    },
+    {
+      "paite": "Luang",
+      "english": "Flow",
+      "note": "The river flow",
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
     },
     {
       "paite": "Luang",
@@ -9084,6 +9225,14 @@
     },
     {
       "paite": "Manta",
+      "english": "Ready",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Manta",
       "english": "Brinjal",
       "note": null,
       "source": "contributed",
@@ -9160,6 +9309,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Mehhuan",
+      "english": "Garden",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Aman mehhuan apan loupate a khou khia.",
+        "english": "She pulls weeds from the garden."
+      }
     },
     {
       "paite": "Mehkan",
@@ -12080,6 +12240,14 @@
     },
     {
       "paite": "Sim in",
+      "english": "Read it.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Sim in",
       "english": "Do read",
       "note": null,
       "source": "contributed",
@@ -12112,6 +12280,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Sing nuai ah",
+      "english": "Under the tree",
+      "note": "singnuai ah in the note",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Lou nasem upa sing nuai ah a khawl tawldam.",
+        "english": "The old farmer rests under the tree."
+      }
     },
     {
       "paite": "Singkhuah",
@@ -12739,6 +12918,17 @@
       }
     },
     {
+      "paite": "Thak",
+      "english": "New",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tuibawm thak ka poimoh.",
+        "english": "I need a new water bottle."
+      }
+    },
+    {
       "paite": "Thal lup",
       "english": "Supine",
       "note": null,
@@ -13253,6 +13443,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Tuibawm",
+      "english": "Water bottle",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tuibawm thak ka poimoh.",
+        "english": "I need a new water bottle."
+      }
     },
     {
       "paite": "Tuikhal",
