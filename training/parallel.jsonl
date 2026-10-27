@@ -31253,6 +31253,27 @@
 {"id": "community:1507", "paite": "Kuanggin in chiang leh ngaih mahmah a thuah.", "english": "The drums sound loud and clear.", "source": "community", "split": "train"}
 {"id": "community:1520", "paite": "Tuni in mipite'n a ki remlouhna neunou te uh a mangngilh uh.", "english": "People forget their small quarrels today.", "source": "community", "split": "train"}
 {"id": "community:1527", "paite": "Zanhun lasak leh nopbawlna, nuihna in ki zangkhin hi.", "english": "The night ends with songs and laughter.", "source": "community", "split": "train"}
+{"id": "community:1530", "paite": "Lou ka hahsiang khawm uh.", "english": "We clean up the field together.", "source": "community", "split": "train"}
+{"id": "community:1625", "paite": "Kong bul ah mei ka de uh", "english": "We light a fire near the door.", "source": "community", "split": "dev"}
+{"id": "community:1643", "paite": "Minu'n ka ann ding uh ahon huansak.", "english": "She cooks food for us", "source": "community", "split": "train"}
+{"id": "community:1743", "paite": "Ka nu'n buh leh meh a huan.", "english": "My mother cooks rice and curry.", "source": "community", "split": "train"}
+{"id": "community:1785", "paite": "Ka sum inn ah ka mangngilh.", "english": "I forgot my money at home.", "source": "community", "split": "train"}
+{"id": "community:1804", "paite": "Sahbon leh chi hiai ah a zuak uh.", "english": "They sell soap and salt here.", "source": "community", "split": "train"}
+{"id": "community:1806", "paite": "A man pia in ka pai/nusia uh.", "english": "We paid the bill and left.", "source": "community", "split": "train"}
+{"id": "community:1809", "paite": "Tuibawm thak ka poimoh.", "english": "I need a new water bottle.", "source": "community", "split": "train"}
+{"id": "community:1815", "paite": "A sumbawm awl in a hong.", "english": "She opened her purse slowly.", "source": "community", "split": "train"}
+{"id": "community:1833", "paite": "Tuimun zuan in bawng awlchik in a pai.", "english": "The cow walks slowly to the water.", "source": "community", "split": "train"}
+{"id": "community:1835", "paite": "Tuni lou lamah ni asa lua.", "english": "The sun is hot in the field today.", "source": "community", "split": "train"}
+{"id": "community:1842", "paite": "Zingkal chiang in aktuite a lakhawm zel.", "english": "She collects eggs in the morning.", "source": "community", "split": "train"}
+{"id": "community:1845", "paite": "Lou nasem upa sing nuai ah a khawl tawldam.", "english": "The old farmer rests under the tree.", "source": "community", "split": "test"}
+{"id": "community:1850", "paite": "Buhte mun keu leh hul ah ka kem uh.", "english": "We store the grain in a dry place.", "source": "community", "split": "train"}
+{"id": "community:1852", "paite": "Aman mehhuan apan loupate a khou khia.", "english": "She pulls weeds from the garden.", "source": "community", "split": "train"}
+{"id": "community:1858", "paite": "Ka innveng te'n gamlak ah khuai a khoi uh.", "english": "Our neighbor keeps bees near the forest.", "source": "community", "split": "train"}
+{"id": "community:1869", "paite": "Lou hing dipdep gei a om khua ahi.", "english": "The village sits beside the green fields.", "source": "community", "split": "train"}
+{"id": "community:1879", "paite": "Huang ah kante a kimawl uh.", "english": "They play skipping in the compound", "source": "community", "split": "test"}
+{"id": "community:1383", "paite": "Ka tai chiang in ka lungphu a hat", "english": "My heart beats fast when I run.", "source": "community", "split": "train"}
+{"id": "community:1383:1", "paite": "Ka lungphu a kin ka tai chiangin.", "english": "My heart beats fast when I run.", "source": "community", "split": "train"}
+{"id": "community:2025", "paite": "Putekpa'n lampi gei ah nahtang a zuak.", "english": "The old man sells bananas near the road.", "source": "community", "split": "train"}
 {"id": "community:156", "paite": "Tui thuk ah liau ke'n", "english": "Do not swim in the deep water.", "source": "community", "split": "train"}
 {"id": "community:156:1", "paite": "A thuukna lam ah va bual kei in", "english": "Do not swim in the deep water.", "source": "community", "split": "train"}
 {"id": "community:157", "paite": "Naupangte skul ah kai uh", "english": "The children are going to school.", "source": "community", "split": "train"}
