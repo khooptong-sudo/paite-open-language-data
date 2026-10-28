@@ -31274,6 +31274,10 @@
 {"id": "community:1383", "paite": "Ka tai chiang in ka lungphu a hat", "english": "My heart beats fast when I run.", "source": "community", "split": "train"}
 {"id": "community:1383:1", "paite": "Ka lungphu a kin ka tai chiangin.", "english": "My heart beats fast when I run.", "source": "community", "split": "train"}
 {"id": "community:2025", "paite": "Putekpa'n lampi gei ah nahtang a zuak.", "english": "The old man sells bananas near the road.", "source": "community", "split": "train"}
+{"id": "community:1233", "paite": "Ka gang in kal teng in hong veh.", "english": "My uncle visits us every week.", "source": "community", "split": "train"}
+{"id": "community:1233:1", "paite": "Kal teng in ka paneu in hong veh hi", "english": "My uncle visits us every week.", "source": "community", "split": "train"}
+{"id": "community:1380", "paite": "Nupang in a ha a ke sak.", "english": "The child lost a small tooth.", "source": "community", "split": "test"}
+{"id": "community:282", "paite": "Sakol atuang in mawltawl ah a tai.", "english": "She rides a horse in the field.", "source": "community", "split": "train"}
 {"id": "community:156", "paite": "Tui thuk ah liau ke'n", "english": "Do not swim in the deep water.", "source": "community", "split": "train"}
 {"id": "community:156:1", "paite": "A thuukna lam ah va bual kei in", "english": "Do not swim in the deep water.", "source": "community", "split": "train"}
 {"id": "community:157", "paite": "Naupangte skul ah kai uh", "english": "The children are going to school.", "source": "community", "split": "train"}
