@@ -611,6 +611,17 @@
       }
     },
     {
+      "paite": "A tai",
+      "english": "She runs / she goes",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Sakol atuang in mawltawl ah a tai.",
+        "english": "She rides a horse in the field."
+      }
+    },
+    {
       "paite": "A tak",
       "english": "Real",
       "note": null,
@@ -1907,6 +1918,17 @@
       "example": {
         "paite": "Numeite'n khua tuikhuk ua pan in tui atawi uh.",
         "english": "Women carry water from the village well."
+      }
+    },
+    {
+      "paite": "Atuang",
+      "english": "She rides / she mounts",
+      "note": "a tuang = she rides",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Sakol atuang in mawltawl ah a tai.",
+        "english": "She rides a horse in the field."
       }
     },
     {
@@ -4099,6 +4121,17 @@
       }
     },
     {
+      "paite": "Hong veh hi",
+      "english": "Visits us",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kal teng in ka paneu in hong veh hi",
+        "english": "My uncle visits us every week."
+      }
+    },
+    {
       "paite": "Hotdamna",
       "english": "Salvation",
       "note": null,
@@ -5634,6 +5667,17 @@
       }
     },
     {
+      "paite": "Ka paneu",
+      "english": "My uncle",
+      "note": "the note uses 'ka gang' instead",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kal teng in ka paneu in hong veh hi",
+        "english": "My uncle visits us every week."
+      }
+    },
+    {
       "paite": "Ka phone",
       "english": "My phone",
       "note": "ka = my (possessive prefix)",
@@ -5665,6 +5709,14 @@
         "paite": "Ka pi leh pu ten hon iit vek",
         "english": "My grandparents love all of us."
       }
+    },
+    {
+      "paite": "Ka pi leh pute",
+      "english": "My grandparent",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Ka poimoh",
@@ -6107,6 +6159,17 @@
       "example": {
         "paite": "Tomchik phone ah kakihou uh",
         "english": "The phone call was very short."
+      }
+    },
+    {
+      "paite": "Kal teng",
+      "english": "Every week",
+      "note": "written as 'kalteng' in the note",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kal teng in ka paneu in hong veh hi",
+        "english": "My uncle visits us every week."
       }
     },
     {
@@ -7948,6 +8011,14 @@
     },
     {
       "paite": "Kong",
+      "english": "Street",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Kong",
       "english": "Path",
       "note": null,
       "source": "note",
@@ -9248,6 +9319,17 @@
       "example": {
         "paite": "Awl in gen ve, maw?",
         "english": "Speak slowly, please."
+      }
+    },
+    {
+      "paite": "Mawltawl",
+      "english": "Field",
+      "note": "written mawltual in the note",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Sakol atuang in mawltawl ah a tai.",
+        "english": "She rides a horse in the field."
       }
     },
     {
@@ -11934,6 +12016,17 @@
       }
     },
     {
+      "paite": "Sakol",
+      "english": "Horse",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Sakol atuang in mawltawl ah a tai.",
+        "english": "She rides a horse in the field."
+      }
+    },
+    {
       "paite": "Sal",
       "english": "Slave",
       "note": null,
@@ -12128,6 +12221,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Sialkop",
+      "english": "Addition",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
