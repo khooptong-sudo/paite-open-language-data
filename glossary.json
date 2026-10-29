@@ -1259,6 +1259,17 @@
       "example": null
     },
     {
+      "paite": "Ahinglai",
+      "english": "Fresh",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nga ahinglai na zuak/na nei hia?",
+        "english": "Do you have fresh fish today?"
+      }
+    },
+    {
       "paite": "Ahon thuzak gige",
       "english": "Calls me",
       "note": "verb phrase meaning to call/speak to repeatedly",
@@ -1337,6 +1348,17 @@
       "example": {
         "paite": "Hiai nu'n a lawm laithon a khak",
         "english": "She sends a message to her friend."
+      }
+    },
+    {
+      "paite": "Akhak zel uhi",
+      "english": "They closed (it)",
+      "note": "khak = close; zel indicates habitual/plural action; uhi marks third-person plural",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau a dawr/ sumbuk uh nitak chiang in akhak zel uhi",
+        "english": "They closed the shop at night."
       }
     },
     {
@@ -1441,6 +1463,17 @@
       "example": {
         "paite": "Mipi te zingteng in tuikhuk ah aki punkhom uh.",
         "english": "People gather at the well each morning."
+      }
+    },
+    {
+      "paite": "Akihong",
+      "english": "Opens",
+      "note": "kihong also used",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zingkal dak giat in dawr akihong hi",
+        "english": "The shop opens at eight in the morning."
       }
     },
     {
@@ -2086,6 +2119,17 @@
       "example": null
     },
     {
+      "paite": "Bawlhoih",
+      "english": "Repair/fix",
+      "note": "bawl 'do/make' + hoih 'good' = to make good, repair",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pasalte'n intung sia bawlhoih khawm uhi",
+        "english": "The men fixed the roof together."
+      }
+    },
+    {
       "paite": "Bazaar",
       "english": "Market",
       "note": "loanword",
@@ -2550,6 +2594,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Dak giat",
+      "english": "Eight o'clock",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zingkal dak giat in dawr akihong hi",
+        "english": "The shop opens at eight in the morning."
+      }
     },
     {
       "paite": "Damdawi",
@@ -3590,6 +3645,17 @@
       "example": {
         "paite": "Minu'n akhut langkhat in ball man hi.",
         "english": "She catches the ball with one hand."
+      }
+    },
+    {
+      "paite": "Hia",
+      "english": "Question particle",
+      "note": "marks a yes/no question",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nga ahinglai na zuak/na nei hia?",
+        "english": "Do you have fresh fish today?"
       }
     },
     {
@@ -4795,6 +4861,17 @@
       "example": {
         "paite": "Tuni suun nitum a internet pailou",
         "english": "The internet was down all day."
+      }
+    },
+    {
+      "paite": "Intung",
+      "english": "Roof",
+      "note": "in 'house' + tung 'top/roof'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pasalte'n intung sia bawlhoih khawm uhi",
+        "english": "The men fixed the roof together."
       }
     },
     {
@@ -6617,6 +6694,17 @@
       "example": {
         "paite": "Tuni inn ah khawl tawldam in.",
         "english": "Rest at home today."
+      }
+    },
+    {
+      "paite": "Khawm",
+      "english": "Together",
+      "note": "marks joint/collective action",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pasalte'n intung sia bawlhoih khawm uhi",
+        "english": "The men fixed the roof together."
       }
     },
     {
@@ -9819,6 +9907,17 @@
       "example": null
     },
     {
+      "paite": "Music",
+      "english": "Music",
+      "note": "loanword used in the Paite sentence",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huai minu ahihlouhleh huai nu in a phone apan music a ngaikhia",
+        "english": "She listens to music on her phone."
+      }
+    },
+    {
       "paite": "N'on panpih thei diam?",
       "english": "Can you please help me",
       "note": null,
@@ -9960,6 +10059,17 @@
       "example": {
         "paite": "Tu'n koi ah na om a?",
         "english": "Where are you now?"
+      }
+    },
+    {
+      "paite": "Na zuak/na nei hia?",
+      "english": "Do you sell/do you have?",
+      "note": "question form asking whether one sells or has something",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nga ahinglai na zuak/na nei hia?",
+        "english": "Do you have fresh fish today?"
       }
     },
     {
@@ -10400,6 +10510,17 @@
       "example": null
     },
     {
+      "paite": "Ngaikhia",
+      "english": "Listens to",
+      "note": "verb meaning to listen",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huai minu ahihlouhleh huai nu in a phone apan music a ngaikhia",
+        "english": "She listens to music on her phone."
+      }
+    },
+    {
       "paite": "Ngak",
       "english": "Wait",
       "note": "also appears in the note as ngak",
@@ -10630,6 +10751,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Nitak chiang in",
+      "english": "At night",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau a dawr/ sumbuk uh nitak chiang in akhak zel uhi",
+        "english": "They closed the shop at night."
+      }
     },
     {
       "paite": "Nitak in",
@@ -10958,6 +11090,17 @@
       "example": null
     },
     {
+      "paite": "Pai hi",
+      "english": "Goes",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zing teng in dawr tan khe in pai hi",
+        "english": "He walks to the shop every evening."
+      }
+    },
+    {
       "paite": "Pailel",
       "english": "Still on",
       "note": null,
@@ -11075,6 +11218,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Pasalte'n",
+      "english": "The men (ergative)",
+      "note": "pasal 'man' + -te plural + -n ergative marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pasalte'n intung sia bawlhoih khawm uhi",
+        "english": "The men fixed the roof together."
+      }
     },
     {
       "paite": "Pasikhawm",
@@ -12216,6 +12370,17 @@
       "example": null
     },
     {
+      "paite": "Sia",
+      "english": "Damaged/broken",
+      "note": "describes the roof's condition",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pasalte'n intung sia bawlhoih khawm uhi",
+        "english": "The men fixed the roof together."
+      }
+    },
+    {
       "paite": "Siak",
       "english": "Ankle",
       "note": null,
@@ -12791,6 +12956,17 @@
       "example": {
         "paite": "Khat apat sawm tan sim oh",
         "english": "Count from one to ten."
+      }
+    },
+    {
+      "paite": "Tan khe in",
+      "english": "Walks",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zing teng in dawr tan khe in pai hi",
+        "english": "He walks to the shop every evening."
       }
     },
     {
@@ -13980,6 +14156,17 @@
     },
     {
       "paite": "Uhi",
+      "english": "They (plural agreement marker)",
+      "note": "plural verb agreement suffix",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Pasalte'n intung sia bawlhoih khawm uhi",
+        "english": "The men fixed the roof together."
+      }
+    },
+    {
+      "paite": "Uhi",
       "english": "(plural/agreement marker)",
       "note": "sentence-final plural marker",
       "source": "note",
@@ -14547,6 +14734,17 @@
       "example": {
         "paite": "Zing meh di'n aktui pum nih akang hi.",
         "english": "He fries two eggs for breakfast."
+      }
+    },
+    {
+      "paite": "Zing teng in",
+      "english": "Every evening",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zing teng in dawr tan khe in pai hi",
+        "english": "He walks to the shop every evening."
       }
     },
     {
