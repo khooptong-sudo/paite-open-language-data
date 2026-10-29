@@ -31278,6 +31278,38 @@
 {"id": "community:1233:1", "paite": "Kal teng in ka paneu in hong veh hi", "english": "My uncle visits us every week.", "source": "community", "split": "train"}
 {"id": "community:1380", "paite": "Nupang in a ha a ke sak.", "english": "The child lost a small tooth.", "source": "community", "split": "test"}
 {"id": "community:282", "paite": "Sakol atuang in mawltawl ah a tai.", "english": "She rides a horse in the field.", "source": "community", "split": "train"}
+{"id": "community:696", "paite": "Huai minu ahihlouhleh huai nu in a phone apan music a ngaikhia", "english": "She listens to music on her phone.", "source": "community", "split": "train"}
+{"id": "community:1130", "paite": "Pasalte'n intung sia bawlhoih khawm uhi", "english": "The men fixed the roof together.", "source": "community", "split": "train"}
+{"id": "community:1307", "paite": "Khomial ma in ann ka nekhin uh", "english": "We finished the meal before dark.", "source": "community", "split": "train"}
+{"id": "community:1406", "paite": "Ka khutpi a na zozen ka pen letna.", "english": "My thumb hurts from holding the pen.", "source": "community", "split": "train"}
+{"id": "community:1461", "paite": "Bus ah tutna hoih a tang", "english": "She found a good seat on the bus.", "source": "community", "split": "train"}
+{"id": "community:1461:1", "paite": "Aman bus sung a tutna nuam ana mu.", "english": "She found a good seat on the bus.", "source": "community", "split": "train"}
+{"id": "community:1517", "paite": "Numei naupangte'n kipaktak in la asa khawm zaizai uh.", "english": "Girls sing together in a happy group.", "source": "community", "split": "train"}
+{"id": "community:1671", "paite": "Ka lu khu biakinn kiangah ka mang sak", "english": "Biakin ah lukha ka mangsak", "source": "community", "split": "train"}
+{"id": "community:1793", "paite": "Amau a dawr/ sumbuk uh nitak chiang in akhak zel uhi", "english": "They closed the shop at night.", "source": "community", "split": "test"}
+{"id": "community:1800", "paite": "Saupi a kivual in ka ngak uh", "english": "We waited in a long line.", "source": "community", "split": "train"}
+{"id": "community:1810", "paite": "Ama'n van zuaktu' kiang ah sum apia.", "english": "She gave the money to the seller.", "source": "community", "split": "train"}
+{"id": "community:1810:1", "paite": "Vanzuaktu' kiangah sum apia.", "english": "She gave the money to the seller.", "source": "community", "split": "train"}
+{"id": "community:1830", "paite": "Ka lou uah buh ka tuh uh.", "english": "We grow rice in our field.", "source": "community", "split": "train"}
+{"id": "community:1841", "paite": "Kel in singteh/singnah a ne.", "english": "The goat eats leaves from the tree.", "source": "community", "split": "train"}
+{"id": "community:1966", "paite": "An nek ma in ka khut uh ka silsiang uh", "english": "Annek ma in khut kisil sek", "source": "community", "split": "train"}
+{"id": "community:1966:1", "paite": "We wash our hands/palms before meal.", "english": "Annek ma in khut kisil sek", "source": "community", "split": "train"}
+{"id": "community:2002", "paite": "Zingkal dak giat in dawr akihong hi", "english": "The shop opens at eight in the morning.", "source": "community", "split": "train"}
+{"id": "community:2014", "paite": "Nga ahinglai na zuak/na nei hia?", "english": "Do you have fresh fish today?", "source": "community", "split": "train"}
+{"id": "community:2014:1", "paite": "Nga thak na nei uhiam?", "english": "Do you have fresh fish today?", "source": "community", "split": "train"}
+{"id": "community:2019", "paite": "Naupangte'n inn tan kawlzalte a pua uh.", "english": "The children carry the bags home.", "source": "community", "split": "train"}
+{"id": "community:2030", "paite": "Hiai pa nitaklam teng in dawr va kai zel hi.", "english": "He walks to the shop every evening.", "source": "community", "split": "train"}
+{"id": "community:2030:1", "paite": "Zing teng in dawr tan khe in pai hi", "english": "He walks to the shop every evening.", "source": "community", "split": "train"}
+{"id": "community:2035", "paite": "Pilvang tak in sum a sim", "english": "She counted the money carefully.", "source": "community", "split": "train"}
+{"id": "community:2179", "paite": "Meh ka huanlai in ka khut ka atkha", "english": "I cut my finger while cooking.", "source": "community", "split": "train"}
+{"id": "community:2179:1", "paite": "Nek di ka bawl lai in ka khut ka aat kha.", "english": "I cut my finger while cooking.", "source": "community", "split": "train"}
+{"id": "community:2183", "paite": "Ama'n antang bag hong hi.", "english": "She opened the bag of rice.", "source": "community", "split": "train"}
+{"id": "community:2183:1", "paite": "Ama'n antang bag ahong.", "english": "She opened the bag of rice.", "source": "community", "split": "train"}
+{"id": "community:2250", "paite": "Numei naupang in la maimai a sa.", "english": "The girl sings a simple song.", "source": "community", "split": "train"}
+{"id": "community:2250:1", "paite": "Numei pen in laa haksa lou sa hi", "english": "The girl sings a simple song.", "source": "community", "split": "train"}
+{"id": "community:2258", "paite": "Numei naupang in tuni in puansan asilh.", "english": "The girl wears a red dress today.", "source": "community", "split": "dev"}
+{"id": "community:2258:1", "paite": "Tuni numei nun puansan asilh.", "english": "The girl wears a red dress today.", "source": "community", "split": "dev"}
+{"id": "community:2261", "paite": "Ama'n a Nu' khut len hi", "english": "She holds her mother's hand.", "source": "community", "split": "train"}
 {"id": "community:156", "paite": "Tui thuk ah liau ke'n", "english": "Do not swim in the deep water.", "source": "community", "split": "train"}
 {"id": "community:156:1", "paite": "A thuukna lam ah va bual kei in", "english": "Do not swim in the deep water.", "source": "community", "split": "train"}
 {"id": "community:157", "paite": "Naupangte skul ah kai uh", "english": "The children are going to school.", "source": "community", "split": "train"}
