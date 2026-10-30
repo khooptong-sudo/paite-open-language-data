@@ -213,6 +213,14 @@
     },
     {
       "paite": "A ihmu",
+      "english": "He is sleeping",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "A ihmu",
       "english": "Is sleeping",
       "note": "from the sentence; the note uses 'a ihmut' for 'while sleeping'",
       "source": "note",
@@ -1900,6 +1908,14 @@
     },
     {
       "paite": "Asau",
+      "english": "Long",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Asau",
       "english": "Is long",
       "note": "describes length",
       "source": "note",
@@ -2420,6 +2436,14 @@
       "paite": "Chi",
       "english": "Say",
       "note": "Can also be salt. Chi is salt and \"a chi\" is said.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Chi kho'no",
+      "english": "Like this",
+      "note": "Pearson ten a thangsak mah mah uh, Hichi khong in aw, chih na ahi.",
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
@@ -3349,6 +3373,14 @@
     },
     {
       "paite": "Han",
+      "english": "Cemetery",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Han",
       "english": "Tomb",
       "note": null,
       "source": "contributed",
@@ -3531,6 +3563,14 @@
         "paite": "Sangvui leh tui a helkhawm/ gawmkhawm",
         "english": "She mixed the flour and water."
       }
+    },
+    {
+      "paite": "Heutupa'n",
+      "english": "Master, Teacher, Coach",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Heutupan",
@@ -3755,6 +3795,14 @@
       "example": null
     },
     {
+      "paite": "Hiamkham",
+      "english": "Ceasefire",
+      "note": "Kidou a kikaptuah khawlsan phot dia hunchiam bikhiah",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Hiauhiau",
       "english": "Blowing gently/softly",
       "note": "describes the manner of the wind blowing",
@@ -3764,6 +3812,14 @@
         "paite": "Khosung ah huih vot hiauhiau a nung zel",
         "english": "A cool wind blows through the village."
       }
+    },
+    {
+      "paite": "Hichi'n",
+      "english": "Like this",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Hichin",
@@ -4505,6 +4561,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Ihmu uh",
+      "english": "They are sleeping",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -5546,6 +5610,14 @@
     },
     {
       "paite": "Ka ni",
+      "english": "Aunt or Aunty",
+      "note": "She is my Aunt, she is my Father's sister.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Ka ni",
       "english": "My unty",
       "note": null,
       "source": "contributed",
@@ -6278,6 +6350,14 @@
     },
     {
       "paite": "Kane uh",
+      "english": "We are eating",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Kane uh",
       "english": "We ate",
       "note": "first person plural past form of 'ne' (eat)",
       "source": "note",
@@ -6462,6 +6542,14 @@
     },
     {
       "paite": "Kembit",
+      "english": "Protect",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Kembit",
       "english": "Preserve",
       "note": null,
       "source": "contributed",
@@ -6524,6 +6612,14 @@
         "paite": "Kha vak singseng nuai ah kho mipite a lum uh.",
         "english": "The village slept under a bright moon."
       }
+    },
+    {
+      "paite": "Khaal",
+      "english": "Drought",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Khaal lai in",
@@ -7671,6 +7767,14 @@
     },
     {
       "paite": "Kilawm",
+      "english": "Nice",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Kilawm",
       "english": "Bright / beautiful / fitting",
       "note": null,
       "source": "note",
@@ -7977,6 +8081,14 @@
         "paite": "Naupangte kipak tak in mawltual ah atai uh",
         "english": "Children run happily around the field."
       }
+    },
+    {
+      "paite": "Kipak takin",
+      "english": "Happily, gratefully or thankfully",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Kipan",
@@ -8295,6 +8407,14 @@
     {
       "paite": "Lai",
       "english": "Umbilicus",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Lai gelh tom",
+      "english": "Short writing",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
@@ -8831,6 +8951,14 @@
       "example": null
     },
     {
+      "paite": "Lentu/Lentukuam",
+      "english": "Deep forest",
+      "note": "Lentukuam ah vaphual kimu hi.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Li",
       "english": "Four",
       "note": "4",
@@ -9315,6 +9443,14 @@
     {
       "paite": "Maimom",
       "english": "Spider",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Maiteh",
+      "english": "Pumpkin leave/s",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
@@ -10699,6 +10835,14 @@
       "example": null
     },
     {
+      "paite": "Nipi",
+      "english": "Summer",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Nipi kal tengin",
       "english": "Every week",
       "note": "time expression",
@@ -11377,6 +11521,14 @@
       }
     },
     {
+      "paite": "Phalbi",
+      "english": "Winter",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Phalvak",
       "english": "Dawn",
       "note": "used with 'in' to mean 'at dawn'",
@@ -11393,6 +11545,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Phavang",
+      "english": "Autumn",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -11594,6 +11754,14 @@
     {
       "paite": "Piangsual",
       "english": "Deformed",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Piangthak",
+      "english": "Salvation or Born Again",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
@@ -11829,6 +11997,14 @@
       "paite": "Please Stand up",
       "english": "Hehpihtakin ana Ding in",
       "note": "Ana dinsak chih pen paite pau a kizanglou ahi",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Poilou",
+      "english": "It's okay",
+      "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
@@ -12598,6 +12774,14 @@
     },
     {
       "paite": "Sinsak",
+      "english": "Teach, Educate",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Sinsak",
       "english": "Teach/Coach",
       "note": null,
       "source": "contributed",
@@ -12746,6 +12930,14 @@
         "paite": "Huaipa sum pe khin ka hi",
         "english": "I gave him the money."
       }
+    },
+    {
+      "paite": "Sum sik/Leiba sik",
+      "english": "Call in a debt",
+      "note": "Call in a loan or collecting money which is owed",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Sumbawm",
@@ -13150,6 +13342,14 @@
     },
     {
       "paite": "Tempawng",
+      "english": "Machette",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Tempawng",
       "english": "Dao",
       "note": null,
       "source": "contributed",
@@ -13170,6 +13370,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Temteh/Sakorbakteh",
+      "english": "Scissor",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -13902,6 +14110,14 @@
     },
     {
       "paite": "Tung ah",
+      "english": "Above",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Tung ah",
       "english": "On / upon",
       "note": null,
       "source": "note",
@@ -14362,10 +14578,26 @@
     },
     {
       "paite": "Veilam",
+      "english": "Left side.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Veilam",
       "english": "Left side",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Vom",
+      "english": "Black ( colour), Bear (animal)",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -14900,6 +15132,14 @@
     },
     {
       "paite": "Zuan",
+      "english": "1. To Fly, To Soar",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Zuan",
       "english": "Approach",
       "note": null,
       "source": "contributed",
@@ -14928,6 +15168,14 @@
     {
       "paite": "Zuausan",
       "english": "Betray",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Zuihnelsa",
+      "english": "Experience",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
