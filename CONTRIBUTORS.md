@@ -2,14 +2,14 @@
 
 ## Contributors (verified sentences)
 
-- RICHARD SUANLIAN \[100\] \(reviewer\): 277
+- RICHARD SUANLIAN \[100\] \(reviewer\): 281
 - Sutzalian Tonsing \[100\] \(reviewer\): 277
-- Phualva \[100\]: 200
+- Phualva \[100\]: 202
 - Kyekym \[100\]: 155
 - Khamsonlal Guite \[100\]: 110
 - Siam Vualnam \[50\]: 77
 - Thang Elim \[50\]: 63
-- Min Khooptong \[10\] \(reviewer\): 37
+- Min Khooptong \[10\] \(reviewer\): 39
 - M Tangpua \[10\]: 23
 - Fudge \[10\]: 22
 - H Jamginmuan \[10\]: 22
@@ -36,6 +36,8 @@
 - Samuel Thangbiak: 3
 - T Thangmawi: 3
 - Goulian: 2
+- LEIVANG Muanrar Ngaihte: 2
+- Thianlal Thomte: 2
 - Bianka\-pa Ngaihte: 1
 - Cindy Tonsing: 1
 - Deric tonsing: 1
@@ -50,7 +52,7 @@
 ## Reviewers (decisions)
 
 - Sutzalian Tonsing: 753
-- Min Khooptong: 366
+- Min Khooptong: 368
 - Richard Ngaihte: 57
 - K Lianthansang: 28
 - Thangzamang Naulak: 5
