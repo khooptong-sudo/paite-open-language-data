@@ -31310,6 +31310,9 @@
 {"id": "community:2258", "paite": "Numei naupang in tuni in puansan asilh.", "english": "The girl wears a red dress today.", "source": "community", "split": "dev"}
 {"id": "community:2258:1", "paite": "Tuni numei nun puansan asilh.", "english": "The girl wears a red dress today.", "source": "community", "split": "dev"}
 {"id": "community:2261", "paite": "Ama'n a Nu' khut len hi", "english": "She holds her mother's hand.", "source": "community", "split": "train"}
+{"id": "community:76", "paite": "Thu hon khak in.", "english": "Send me a message.", "source": "community", "split": "train"}
+{"id": "community:76:1", "paite": "Message hon khak in", "english": "Send me a message.", "source": "community", "split": "train"}
+{"id": "community:307", "paite": "Bazar ah nga (mat)thak ka lei uh", "english": "We bought fresh fish at the market.", "source": "community", "split": "train"}
 {"id": "community:156", "paite": "Tui thuk ah liau ke'n", "english": "Do not swim in the deep water.", "source": "community", "split": "train"}
 {"id": "community:156:1", "paite": "A thuukna lam ah va bual kei in", "english": "Do not swim in the deep water.", "source": "community", "split": "train"}
 {"id": "community:157", "paite": "Naupangte skul ah kai uh", "english": "The children are going to school.", "source": "community", "split": "train"}
