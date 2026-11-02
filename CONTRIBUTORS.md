@@ -3,19 +3,19 @@
 ## Contributors (verified sentences)
 
 - RICHARD SUANLIAN \[100\] \(reviewer\): 281
-- Sutzalian Tonsing \[100\] \(reviewer\): 277
-- Phualva \[100\]: 202
-- Kyekym \[100\]: 155
+- phualva \[100\]: 279
+- Sutzalian Tonsing \[100\] \(reviewer\): 278
+- Kyekym \[100\]: 166
 - Khamsonlal Guite \[100\]: 110
 - Siam Vualnam \[50\]: 77
+- Min Khooptong \[50\] \(reviewer\): 76
 - Thang Elim \[50\]: 63
-- Min Khooptong \[10\] \(reviewer\): 39
+- H Jamginmuan \[10\]: 23
 - M Tangpua \[10\]: 23
 - Fudge \[10\]: 22
-- H Jamginmuan \[10\]: 22
 - Ginneilal samte \[10\]: 21
+- Ben Guite \[10\]: 17
 - Hoihlun \[10\]: 16
-- Ben Guite \[10\]: 15
 - Maven Thawmte \[10\]: 15
 - Pausiam Thomte \[10\]: 15
 - George Thangmuansang \[10\]: 14
@@ -24,6 +24,7 @@
 - Tunthianlal Hauzel: 7
 - Kimsawmching: 6
 - lalbawi guite: 6
+- T Thangmawi: 6
 - Ginpum: 5
 - UlalTonsing: 5
 - ZAMKHOKAM GUITE: 5
@@ -34,7 +35,6 @@
 - Lalthanghlun Guite: 3
 - S\. Tangpua Paite: 3
 - Samuel Thangbiak: 3
-- T Thangmawi: 3
 - Goulian: 2
 - LEIVANG Muanrar Ngaihte: 2
 - Thianlal Thomte: 2
@@ -43,6 +43,7 @@
 - Deric tonsing: 1
 - Johnson: 1
 - Lalhmangaih Hauzel: 1
+- Lian: 1
 - Madafacha: 1
 - Mang Tawmbing: 1
 - Muan Hatlang: 1
@@ -52,7 +53,7 @@
 ## Reviewers (decisions)
 
 - Sutzalian Tonsing: 753
-- Min Khooptong: 368
+- Min Khooptong: 469
 - Richard Ngaihte: 57
 - K Lianthansang: 28
 - Thangzamang Naulak: 5
