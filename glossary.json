@@ -108,6 +108,17 @@
       }
     },
     {
+      "paite": "A baihlam",
+      "english": "Is easy",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kei adi'n hiai nna a baihlam.",
+        "english": "This job is easy for me."
+      }
+    },
+    {
       "paite": "A bawl",
       "english": "She prepares/makes",
       "note": "a = she; bawl = to make/prepare",
@@ -7014,6 +7025,17 @@
       }
     },
     {
+      "paite": "Kei adi'n",
+      "english": "For me",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kei adi'n hiai nna a baihlam.",
+        "english": "This job is easy for me."
+      }
+    },
+    {
       "paite": "Kei hun",
       "english": "My turn",
       "note": null,
@@ -11946,6 +11968,17 @@
       "example": {
         "paite": "Tuni suun nitum a internet pailou",
         "english": "The internet was down all day."
+      }
+    },
+    {
+      "paite": "Nna",
+      "english": "Job; work",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kei adi'n hiai nna a baihlam.",
+        "english": "This job is easy for me."
       }
     },
     {
