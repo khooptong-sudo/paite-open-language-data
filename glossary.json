@@ -1846,6 +1846,17 @@
     },
     {
       "paite": "An",
+      "english": "Rice",
+      "note": "cooked rice",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lawmte tawh an leh sa meh ka ne uh.",
+        "english": "We eat rice and meat with our friends."
+      }
+    },
+    {
+      "paite": "An",
       "english": "Food",
       "note": null,
       "source": "note",
@@ -1952,6 +1963,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Ann",
+      "english": "Rice/food",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Sing lian nuai ah ann ka ne uh",
+        "english": "We eat together under the big tree."
+      }
     },
     {
       "paite": "Ann",
@@ -2396,6 +2418,14 @@
         "paite": "Beelpi a ann huan ahi",
         "english": "The rice cooks in a big pot."
       }
+    },
+    {
+      "paite": "Beh",
+      "english": "Surname",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Sutzalian Tonsing",
+      "example": null
     },
     {
       "paite": "Beh",
@@ -2845,6 +2875,14 @@
         "paite": "Tutak in huai nu dah mah mah hi",
         "english": "She feels sad right now."
       }
+    },
+    {
+      "paite": "Dai",
+      "english": "Wall/Fence or Shallow or Silent/Quiet",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Sutzalian Tonsing",
+      "example": null
     },
     {
       "paite": "Dai",
@@ -5885,6 +5923,17 @@
       }
     },
     {
+      "paite": "Ka lawmte",
+      "english": "My friends",
+      "note": "ka = my; lawmte = friends",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lawmte tawh an leh sa meh ka ne uh.",
+        "english": "We eat rice and meat with our friends."
+      }
+    },
+    {
       "paite": "Ka lawmte uh",
       "english": "Our friends",
       "note": "lawm = friend; -te plural; uh = our",
@@ -6038,6 +6087,17 @@
       "example": {
         "paite": "Kikhop khit in sang ka ne khawm uh.",
         "english": "We shared bread after church."
+      }
+    },
+    {
+      "paite": "Ka ne uh",
+      "english": "We eat",
+      "note": "ka = we, ne = eat, uh = plural marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Sing lian nuai ah ann ka ne uh",
+        "english": "We eat together under the big tree."
       }
     },
     {
@@ -6334,6 +6394,14 @@
     },
     {
       "paite": "Ka pi",
+      "english": "My grandma",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Ka pi",
       "english": "My grandmother",
       "note": null,
       "source": "note",
@@ -6606,6 +6674,17 @@
       }
     },
     {
+      "paite": "Ka tung uh",
+      "english": "We reached",
+      "note": "first person plural verb",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khomial ma in khua ka tung uh",
+        "english": "We reached the town before dark."
+      }
+    },
+    {
       "paite": "Ka unaunu",
       "english": "My older sister",
       "note": "unaunu can refer to an older sister; the contributor notes it may also be naunu depending on context",
@@ -6721,6 +6800,17 @@
       "example": {
         "paite": "Ka lawmte uh ann ne din ka chial uh",
         "english": "We invite our friends to eat with us."
+      }
+    },
+    {
+      "paite": "Kah",
+      "english": "Climbs/climb",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupang pen singkung sangtak ah a kah.",
+        "english": "The boy climbs the tall tree."
       }
     },
     {
@@ -7232,6 +7322,14 @@
     },
     {
       "paite": "Khau kante",
+      "english": "Rope skipping game",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Khau kante",
       "english": "Jump rope (rope used for skipping)",
       "note": null,
       "source": "note",
@@ -7653,6 +7751,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Khomial ma in",
+      "english": "Before dark",
+      "note": "temporal phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khomial ma in khua ka tung uh",
+        "english": "We reached the town before dark."
+      }
     },
     {
       "paite": "Khosa ahi uh",
@@ -9764,6 +9873,14 @@
     },
     {
       "paite": "Liau",
+      "english": "Fined",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Liau",
       "english": "Across",
       "note": null,
       "source": "note",
@@ -10417,6 +10534,17 @@
       "example": {
         "paite": "Naupangte kipak tak in mawltual ah atai uh",
         "english": "Children run happily around the field."
+      }
+    },
+    {
+      "paite": "Meh",
+      "english": "Eat (with rice/meat)",
+      "note": "verb for eating a meal",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lawmte tawh an leh sa meh ka ne uh.",
+        "english": "We eat rice and meat with our friends."
       }
     },
     {
@@ -11288,6 +11416,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Naupang",
+      "english": "Boy/child",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupang pen singkung sangtak ah a kah.",
+        "english": "The boy climbs the tall tree."
+      }
     },
     {
       "paite": "Naupang",
@@ -13603,6 +13742,17 @@
       "example": null
     },
     {
+      "paite": "Sangtak",
+      "english": "Tall",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupang pen singkung sangtak ah a kah.",
+        "english": "The boy climbs the tall tree."
+      }
+    },
+    {
       "paite": "Sangvui",
       "english": "Crumb",
       "note": null,
@@ -13976,6 +14126,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Sing",
+      "english": "Tree",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Sing lian nuai ah ann ka ne uh",
+        "english": "We eat together under the big tree."
+      }
     },
     {
       "paite": "Sing",
@@ -14591,6 +14752,17 @@
       "example": null
     },
     {
+      "paite": "Tawh",
+      "english": "With",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lawmte tawh an leh sa meh ka ne uh.",
+        "english": "We eat rice and meat with our friends."
+      }
+    },
+    {
       "paite": "Tawi",
       "english": "Carry",
       "note": "also given as pua in the note",
@@ -14667,6 +14839,14 @@
     {
       "paite": "Teklei",
       "english": "Brick",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Telsuina",
+      "english": "Scientific study",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
