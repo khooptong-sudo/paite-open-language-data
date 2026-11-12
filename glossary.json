@@ -910,6 +910,14 @@
     },
     {
       "paite": "A zang",
+      "english": "He/she uses (it)",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "A zang",
       "english": "He uses",
       "note": "a = he, zang = use",
       "source": "note",
@@ -1636,6 +1644,14 @@
         "paite": "Tangval noute kong polam ah a kimawl uh",
         "english": "The young boys play games outside."
       }
+    },
+    {
+      "paite": "Aki punkhom uh",
+      "english": "They gathered (together)",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Aki punkhom uh",
@@ -13956,6 +13972,14 @@
     },
     {
       "paite": "Siamsin na",
+      "english": "Studies",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Siamsin na",
       "english": "School",
       "note": "also written 'siamsinna'",
       "source": "note",
@@ -16370,6 +16394,14 @@
         "paite": "Vuah zuk khit in i kho Lampi te uah buan nawi a tam hi.",
         "english": "The village path was muddy after rain."
       }
+    },
+    {
+      "paite": "Vual banlou taksa/ lungsim",
+      "english": "Handicap",
+      "note": "Khut sat tan (taksa),khamtheih a nak hih mahmah ziak in a lungsim buai hi(lungsim)",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Vualzawlna/gualzawlna/thupha",
