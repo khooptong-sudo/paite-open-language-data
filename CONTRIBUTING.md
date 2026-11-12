@@ -46,4 +46,4 @@ The maintainer copies verified corrections into `verified_corrections` in `paite
 - Keep files in UTF-8.
 - One topic in each pull request.
 
-By contributing, you agree that your contribution is released under CC BY 4.0 (see [LICENSE](LICENSE)).
+By contributing, you agree that your contribution is released under CC BY 4.0 (see [LICENSE](LICENSE)). Code in `scripts/` and `.github/` is the exception: code you contribute there is released under MIT OR Apache-2.0, like the rest of that code.
