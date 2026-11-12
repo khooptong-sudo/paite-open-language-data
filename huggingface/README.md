@@ -63,6 +63,7 @@ train = pairs.filter(lambda r: r["split"] == "train")
 | English Bible | World English Bible | Public domain |
 | Corrections, benchmark | Native-speaker contributors | CC BY 4.0 |
 | Paite Daily translations (`community/`) | Paite Daily contributors, verified by reviewers | Per line, in the `licence` field: CC0 1.0 (answers before 21 Oct 2026) or CC BY 4.0 (after) |
+| Voice recordings (`audio/`) | Paite Daily speakers, accepted by a reviewer | CC BY 4.0 |
 | Scripts | Maintainer | MIT or Apache 2.0 |
 | Dictionary, hymns | Third-party Android apps | Not licensed by this dataset; research use |
 

@@ -77,6 +77,7 @@ Everything is moving to phones and AI. A language with no digital text gets left
 | `eval/` | A small test of how well AI models know everyday Paite, with sentences checked by a native speaker | 16 sentences, growing |
 | `prompts/everyday_en.txt` | Simple everyday English sentences for speakers to translate (public domain). Used by Paite Daily and Levia's practice | 196 sentences, growing |
 | `community/` | Translations from Paite Daily, verified by reviewers. Each line's `licence` field says CC0 1.0 or CC BY 4.0 | Grows nightly |
+| `audio/` | Speakers reading verified Paite lines aloud, from Paite Daily, each clip accepted by a reviewer (CC BY 4.0). `audio/recordings.jsonl` lists each clip with its line (`text_id` matches the `id` in `community/`), speaker and length | 62 clips, grows nightly |
 | `scripts/` | The scripts that build `bible/laisiangthou/` and `training/` (MIT or Apache 2.0) | |
 
 ## Training a model
@@ -159,6 +160,7 @@ This repository mixes original work and third-party text. The licence is differe
 |------|--------|--------|
 | `corrections.json`, `grammar_notes.md`, `verified_*` entries, `eval/`, `glossary.json`, documentation | Maintainer and native-speaker contributors | CC BY 4.0 |
 | `community/` | Paite Daily ([paite.lamkalabs.com](https://paite.lamkalabs.com/)) contributors, verified by reviewers | Per line, in its `licence` field: CC0 1.0 for answers sent before 21 Oct 2026, 18:47 UTC (954 lines), CC BY 4.0 after. New lines are CC BY 4.0 |
+| `audio/` | Paite Daily speakers, who agreed to publication before recording; accepted by a reviewer | CC BY 4.0 |
 | `prompts/everyday_en.txt` | Written for this project | Public domain (CC0 1.0) |
 | `scripts/`, `.github/` | Maintainer | MIT or Apache 2.0, your choice ([scripts/LICENSE-MIT](scripts/LICENSE-MIT), [scripts/LICENSE-APACHE](scripts/LICENSE-APACHE)) |
 | Paite Bible in `bible/laisiangthou/` | Laisiangthou app (v5.0.2) by [John Samte](https://github.com/johnsamte) | Used with the permission of John Samte |
