@@ -10,7 +10,9 @@ own terms.
    - grammar_notes.md
    - the "verified_words", "verified_examples", and "verified_corrections"
      entries in paite_phrasebook.json
-   - README.md, CONTRIBUTING.md, CITATION.cff, and this file
+   - eval/ (the native-speaker benchmark)
+   - glossary.json and CONTRIBUTORS.md
+   - README.md, CONTRIBUTING.md, CITATION.cff, docs/, and this file
    - the selection, arrangement, and file formats of the collection
 
    You can copy, share, and adapt this work for any purpose, including
@@ -18,19 +20,34 @@ own terms.
    (github.com/khooptong-sudo/paite-open-language-data)" and state your changes.
    Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
 
-   This also covers the files in scripts/.
-
 2. Public domain
 
    - The English Bible text (World English Bible), including
      bible/world-english-bible/.
+   - prompts/everyday_en.txt, dedicated to the public domain (CC0 1.0).
 
-2a. Public domain dedication (CC0 1.0)
+2a. Paite Daily translations: CC0 1.0 or CC BY 4.0, line by line
 
-   - Every file in community/. These are translations sent through
-     Paite Daily (paite.lamkalabs.com) and verified by reviewers. The
-     contributors dedicated them to the public domain:
+   Every file in community/ holds translations sent through Paite Daily
+   (paite.lamkalabs.com) and verified by reviewers. Each line has a
+   "licence" field, and that field is the licence of that line:
+
+   - "CC0-1.0": answers sent before 21 October 2026, 18:47 UTC. The form
+     then said the translations were given to everyone as public domain, so
+     these lines carry no conditions:
      https://creativecommons.org/publicdomain/zero/1.0/
+   - "CC-BY-4.0": answers sent from then on. The form says the translations
+     are free to use with credit. Credit "Paite Daily, Lamka Labs" and,
+     where the line names one, its contributor:
+     https://creativecommons.org/licenses/by/4.0/
+
+   New translations are CC BY 4.0.
+
+2b. Code: MIT OR Apache-2.0
+
+   - Every file in scripts/ and .github/. You may use the code under either
+     the MIT licence (scripts/LICENSE-MIT) or the Apache License 2.0
+     (scripts/LICENSE-APACHE), at your choice.
 
 3. Used with permission
 
@@ -58,6 +75,13 @@ own terms.
 
    Rights holders: to request removal or a change of credit, open an issue at
    https://github.com/khooptong-sudo/paite-open-language-data/issues
+
+5. Mixed files
+
+   - training/ and paite_phrasebook.json combine the parts above. In
+     training/, the "source" field of each row names its part; for rows with
+     "source": "community", the line in community/ with the same "id" (before
+     any ":1", ":2" suffix) gives its licence.
 
 THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 INCLUDING THE WARRANTIES OF ACCURACY AND FITNESS FOR A PARTICULAR PURPOSE.
