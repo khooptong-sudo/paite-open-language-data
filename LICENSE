@@ -43,7 +43,18 @@ own terms.
 
    New translations are CC BY 4.0.
 
-2b. Code: MIT OR Apache-2.0
+2b. Voice recordings: CC BY 4.0
+
+   - Every file in audio/. Speakers on Paite Daily read verified Paite lines
+     aloud. Before recording, each speaker ticked: "I agree my voice reading
+     this line is published under CC BY 4.0, with my name if I gave one." A
+     reviewer accepted every clip before it was published. Credit "Paite
+     Daily, Lamka Labs" and the speaker named in audio/recordings.jsonl:
+     https://creativecommons.org/licenses/by/4.0/
+   - A clip is removed from audio/ if its review is undone. Past versions stay
+     in the git history.
+
+2c. Code: MIT OR Apache-2.0
 
    - Every file in scripts/ and .github/. You may use the code under either
      the MIT licence (scripts/LICENSE-MIT) or the Apache License 2.0

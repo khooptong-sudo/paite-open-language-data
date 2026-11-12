@@ -1,5 +1,5 @@
 """Upload the dataset to Hugging Face: the card, training/, eval/, the community
-translations from Paite Daily, the word list, and the credits.
+translations and voice recordings from Paite Daily, the word list, and the credits.
 
 Weekly, the GitHub Action .github/workflows/huggingface.yml runs this with the
 HF_TOKEN repository secret, so Hugging Face always matches this repository.
@@ -20,7 +20,7 @@ api = HfApi()
 api.create_repo(REPO, repo_type="dataset", exist_ok=True)
 api.upload_file(path_or_fileobj=ROOT / "huggingface" / "README.md", path_in_repo="README.md",
                 repo_id=REPO, repo_type="dataset")
-for folder in ("training", "eval", "community"):
+for folder in ("training", "eval", "community", "audio"):
     api.upload_folder(folder_path=ROOT / folder, path_in_repo=folder, repo_id=REPO, repo_type="dataset",
                       commit_message=f"Sync {folder}/ from GitHub")
 for name in ("glossary.json", "CONTRIBUTORS.md", "LICENSE"):
