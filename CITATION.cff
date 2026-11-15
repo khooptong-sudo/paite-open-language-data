@@ -2,20 +2,21 @@ cff-version: 1.2.0
 message: "If you use this data, please cite it as below."
 type: dataset
 title: "Paite Open Language Data"
-abstract: "Paite-English dictionary, Bible verse pairs, hymn lyrics, and native-speaker corrections for the Paite language (ISO 639-3: pck)."
+abstract: "Everyday Paite-English sentence pairs written and checked by speakers on Paite Daily, voice recordings of checked lines, a reviewed word list, the Paite Bible aligned with English, and native-speaker corrections, for the Paite language (ISO 639-3: pck)."
 authors:
   - name: Lamka Labs
     alias: khooptong-sudo
 doi: 10.5281/zenodo.23349155
+url: "https://paite.lamkalabs.com"
 repository-code: "https://github.com/khooptong-sudo/paite-open-language-data"
 license: CC-BY-4.0
 keywords:
   - Paite
   - pck
-  - Zomi
   - Tibeto-Burman
+  - Manipur
   - low-resource language
   - parallel corpus
-  - dictionary
-date-released: 2026-10-26
-version: 1.1.0
+  - speech corpus
+date-released: 2026-11-14
+version: 1.2.0

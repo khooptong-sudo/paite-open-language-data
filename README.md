@@ -2,13 +2,25 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23349155.svg)](https://doi.org/10.5281/zenodo.23349155)
 
-Open text data for the Paite language, ready for research, language learning, and training language models.
+Open text and speech data for the Paite language, ready for research, language learning, and building language tools.
 
-Paite (ISO 639-3: `pck`) is a Zomi language of the Tibeto-Burman branch of the Sino-Tibetan family. The Paite are a distinct tribe within the Zomi people, who live in Manipur and Mizoram (India), Myanmar, and the Chittagong Hill Tracts (Bangladesh). Paite is mutually intelligible with Tedim (Zopau) and the other Zomi languages. Tedim, also called Tedim-Chin, is the form used mostly in Myanmar. Modern Paite is the common form in Manipur, Mizoram, and Bangladesh. The two differ in accent and in spoken and written forms, and this repository targets modern Paite. Some linguistic catalogues file this language group under a technical subgroup label. That label is linguistic, not ethnic.
+**At a glance (16 Nov 2026):** 1,405 Paite–English sentence pairs written and checked by speakers on [Paite Daily](https://paite.lamkalabs.com) · 62 voice recordings · 1,902 word-list entries · the complete Paite Bible aligned verse by verse with English · 55,814 ready-to-train parallel rows. The community parts grow every night.
 
-References: [Paite people](https://en.wikipedia.org/wiki/Paite_people), [Tedim language](https://en.wikipedia.org/wiki/Tedim_language), [Zomi identity among the Paite of Manipur (NEHU thesis)](https://dspace.nehu.ac.in/bitstreams/c81ef78a-e800-434a-8661-53b6b96006b5/download).
+## About Paite
 
-Paite has very little digital text. This repository puts the text that we have in one place, in plain JSON, so that any person can use it without a scraper.
+Paite (ISO 639-3 `pck`, Glottolog `pait1244`) is an independent Tibeto-Burman language. Most speakers live in Churachandpur district, Manipur, India, where Lamka is the main town. There are also Paite communities in Mizoram and Assam, and Paite families in Myanmar. The Paites are one of the Zo (Zomi) peoples. This repository targets modern Paite as it is spoken and written today.
+
+- **78,725** people gave Paite as their mother tongue in the 2011 Census of India.
+- **1903:** T. Vialphung made the Paite alphabet (*Paite Laimal*).
+- **1993, 2003, 2014:** editions of the Paite Tribe Council's *English–Paite Dictionary*.
+- **2004:** Manipur University made Paite a subject in its three-year degree course.
+- **2006:** Naorem Saratchandra Singh's *A Grammar of Paite* (Mittal), the only book-length reference grammar.
+- All India Radio Imphal broadcasts in Paite every day.
+- The Endangered Languages Project and Glottolog list Paite as *vulnerable*, with low certainty.
+
+Paite is well written down, but it has very little digital text, and no spellchecker, predictive keyboard or translation tool. This repository puts the text and speech that exist in one place, in plain JSON, so that anyone can use it without a scraper.
+
+References: [Paite people (Wikipedia)](https://en.wikipedia.org/wiki/Paite_people), [Glottolog: Paite](https://glottolog.org/resource/languoid/iso/pck), [Paite Daily: About](https://paite.lamkalabs.com/about).
 
 ## New here? Start with these questions
 
@@ -29,7 +41,7 @@ No. It is the material that apps are built from. A developer can use it to make 
 <details>
 <summary><b>What is inside?</b></summary>
 
-The complete Paite Bible, matched verse by verse with English. Also a dictionary of about 23,000 words, 573 hymns, and everyday sentences that native speakers checked.
+Everyday sentences in Paite and English that speakers wrote and other speakers checked, with recordings of people reading them aloud. Also the complete Paite Bible, matched verse by verse with English, a dictionary of about 23,000 words, and 573 hymns.
 
 </details>
 
@@ -65,19 +77,20 @@ Everything is moving to phones and AI. A language with no digital text gets left
 
 | Path | Contents | Size |
 |------|----------|------|
-| `training/` | **Ready-to-train JSONL files** with fixed train, dev, and test splits. Start here. | See [Training a model](#training-a-model) |
+| `community/` | **Everyday sentence pairs from Paite Daily**, each written by one speaker and checked by another. Each line's `licence` field says CC0 1.0 or CC BY 4.0 | 1,405 pairs, grows nightly |
+| `audio/` | **Speakers reading checked Paite lines aloud**, from Paite Daily, each clip accepted by a reviewer (CC BY 4.0). `audio/recordings.jsonl` lists each clip with its line (`text_id` matches the `id` in `community/`), speaker and length | 62 clips, grows nightly |
+| `glossary.json` | Paite words and meanings from Paite Daily contributors, checked by reviewers | 1,902 entries, grows nightly |
+| `training/` | **Ready-to-train JSONL files** with fixed train, dev, and test splits | See [Training a model](#training-a-model) |
 | `bible/laisiangthou/` | **Primary Bible.** The complete Laisiangthou Paite Bible by [John Samte](https://github.com/johnsamte), one JSON file for each chapter | 66 books, 1,189 chapters, 31,104 verses |
 | `bible/world-english-bible/` | World English Bible (public domain) in verse-per-line form, the English side of every Bible pair | 66 books, 31,103 verses |
-| `bible/legacy-etabetapi/` | Retired Bible text in the older Tedim-Paite (Bible) style, kept for reference and comparison. It is not modern Paite. Do not use it as a primary source. | 22 books, 408 chapters |
+| `bible/legacy-etabetapi/` | Retired Bible text in an older Bible style, kept for reference and comparison. It is not modern Paite. Do not use it as a primary source. | 22 books, 408 chapters |
 | `dictionary/` | English to Paite dictionary with part of speech | 23,006 entries |
 | `songs/` | Paite hymn lyrics, with English titles and authors, and hymn-app snippets | 573 hymns, 846 snippets |
 | `corrections.json` | Sentences that a native speaker checked and corrected | Grows over time |
 | `grammar_notes.md` | Working notes on pronouns, verbs, and particles | Hypotheses, not a formal grammar |
 | `paite_phrasebook.json` | Combined lookup file that the Levia assistant uses | 21,324 dictionary entries, 573 hymns |
 | `eval/` | A small test of how well AI models know everyday Paite, with sentences checked by a native speaker | 16 sentences, growing |
-| `prompts/everyday_en.txt` | Simple everyday English sentences for speakers to translate (public domain). Used by Paite Daily and Levia's practice | 196 sentences, growing |
-| `community/` | Translations from Paite Daily, verified by reviewers. Each line's `licence` field says CC0 1.0 or CC BY 4.0 | Grows nightly |
-| `audio/` | Speakers reading verified Paite lines aloud, from Paite Daily, each clip accepted by a reviewer (CC BY 4.0). `audio/recordings.jsonl` lists each clip with its line (`text_id` matches the `id` in `community/`), speaker and length | 62 clips, grows nightly |
+| `prompts/everyday_en.txt` | Simple everyday English sentences for speakers to translate (public domain). Used by Paite Daily and Levia's practice | 199 sentences, growing |
 | `scripts/` | The scripts that build `bible/laisiangthou/` and `training/` (MIT or Apache 2.0) | |
 
 ## Training a model
@@ -142,12 +155,13 @@ Book folders use three-character codes: `Gen`, `Exo`, `Lev` ... `Mat`, `Mar`, `L
 - Machine translation between Paite and English.
 - Dictionary lookup and keyboard word lists.
 - Language learning material and flash cards.
-- Linguistic research on Zomi morphology and particles.
+- Speech research: read-aloud recordings matched to checked text.
+- Linguistic research on Paite morphology and particles.
 - Evaluation sets for large language models on a low-resource language.
 
 ## Known limitations
 
-- **Register.** Most sentences come from the Bible and hymns. Formal and religious language is over-represented. Everyday speech is rare. Corrections from conversation are the best way to fix this.
+- **Register.** Most sentences still come from the Bible and hymns, so formal and religious language is over-represented. The everyday pairs in `community/` are the fastest-growing correction to this; each is tagged as spoken, written or both.
 - **Nine verses have no English.** The World English Bible omits or moves 9 verses that the Paite Bible keeps (for example, Acts 8:37, Luke 17:36, and Romans 16:25-27). These rows are in `monolingual.jsonl` only.
 - **Dictionary quality.** The dictionary comes from an app. Some entries contain typing errors or several meanings in one string.
 - **One fixed source error.** In the app database, Genesis 31:53 has the number 23. The import script corrects it.
@@ -159,7 +173,7 @@ This repository mixes original work and third-party text. The licence is differe
 | Part | Source | Rights |
 |------|--------|--------|
 | `corrections.json`, `grammar_notes.md`, `verified_*` entries, `eval/`, `glossary.json`, documentation | Maintainer and native-speaker contributors | CC BY 4.0 |
-| `community/` | Paite Daily ([paite.lamkalabs.com](https://paite.lamkalabs.com/)) contributors, verified by reviewers | Per line, in its `licence` field: CC0 1.0 for answers sent before 21 Oct 2026, 18:47 UTC (954 lines), CC BY 4.0 after. New lines are CC BY 4.0 |
+| `community/` | Paite Daily ([paite.lamkalabs.com](https://paite.lamkalabs.com/)) contributors, verified by reviewers | Per line, in its `licence` field: CC0 1.0 for answers sent before 21 Oct 2026, 18:47 UTC (954 lines), CC BY 4.0 after (451 lines on 16 Nov 2026). New lines are CC BY 4.0 |
 | `audio/` | Paite Daily speakers, who agreed to publication before recording; accepted by a reviewer | CC BY 4.0 |
 | `prompts/everyday_en.txt` | Written for this project | Public domain (CC0 1.0) |
 | `scripts/`, `.github/` | Maintainer | MIT or Apache 2.0, your choice ([scripts/LICENSE-MIT](scripts/LICENSE-MIT), [scripts/LICENSE-APACHE](scripts/LICENSE-APACHE)) |
@@ -175,6 +189,7 @@ The third-party text is included for non-commercial research and language preser
 ## Credits
 
 - **John Samte** ([github.com/johnsamte](https://github.com/johnsamte)) gave permission to use his Laisiangthou Bible, the primary Bible text in this repository.
+- The Paite Daily contributors and reviewers, listed by name in [CONTRIBUTORS.md](CONTRIBUTORS.md).
 - Native speakers who send corrections are credited in the git history.
 
 ## Contributing
@@ -183,4 +198,4 @@ Native speakers can help the most. See [CONTRIBUTING.md](CONTRIBUTING.md) to sen
 
 ## Citation
 
-If you use this data in a paper, cite DOI [10.5281/zenodo.23349155](https://doi.org/10.5281/zenodo.23349155). It always points to the latest version. The details are also in [CITATION.cff](CITATION.cff). GitHub shows a "Cite this repository" button for it.
+If you use this data in a paper, cite DOI [10.5281/zenodo.23349155](https://doi.org/10.5281/zenodo.23349155). It always points to the latest version (now v1.2.0, [10.5281/zenodo.24212533](https://doi.org/10.5281/zenodo.24212533)). The details are also in [CITATION.cff](CITATION.cff). GitHub shows a "Cite this repository" button for it.

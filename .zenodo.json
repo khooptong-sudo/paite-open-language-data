@@ -1,17 +1,18 @@
 {
   "title": "Paite Open Language Data",
   "upload_type": "dataset",
-  "description": "<p>Open training data for Paite (ISO 639-3: pck), a Zomi language of Manipur and Mizoram (India), Myanmar, and Bangladesh: a complete Paite Bible aligned with the World English Bible, an English-Paite dictionary, hymn lyrics, native-speaker corrections, ready-to-train JSONL files with fixed splits, and an everyday-Paite benchmark for AI models.</p><p>Rights differ by part; see LICENSE in the repository.</p>",
+  "description": "<p>Open text and speech data for Paite (ISO 639-3: pck; Glottolog: pait1244), an independent Tibeto-Burman language spoken mainly in Churachandpur district, Manipur, India, with communities in Mizoram, Assam and Myanmar. The 2011 Census of India counted 78,725 people whose mother tongue is Paite.</p><p>The core of the dataset is everyday Paite-English sentence pairs written by speakers on Paite Daily (paite.lamkalabs.com), each checked by a second speaker before publication, with voice recordings of speakers reading checked lines aloud and a reviewed word list. It also includes the complete Laisiangthou Paite Bible (John Samte, used with permission) aligned verse by verse with the public-domain World English Bible, an English-Paite dictionary and hymn lyrics for research use, native-speaker corrections, ready-to-train JSONL files with fixed train/dev/test splits, and a small everyday-Paite benchmark for AI models.</p><p>Rights differ by part: community sentence pairs are CC0 1.0 or CC BY 4.0 (per line), recordings and corrections are CC BY 4.0, scripts are MIT or Apache 2.0, and third-party texts keep their owners' rights. See LICENSE in the repository.</p>",
   "creators": [
     {"name": "Lamka Labs"}
   ],
   "contributors": [
     {"name": "Samte, John", "type": "DataCollector", "affiliation": "Laisiangthou Paite Bible app"}
   ],
-  "keywords": ["Paite", "pck", "Zomi", "low-resource language", "parallel corpus", "machine translation", "grammatical error correction"],
+  "keywords": ["Paite", "pck", "Tibeto-Burman", "Manipur", "low-resource language", "parallel corpus", "speech corpus", "machine translation", "grammatical error correction", "community-sourced"],
   "license": "cc-by-4.0",
   "language": "pck",
   "related_identifiers": [
-    {"identifier": "https://huggingface.co/datasets/LamkaLabs/paite-open-language-data", "relation": "isIdenticalTo", "resource_type": "dataset"}
+    {"identifier": "https://huggingface.co/datasets/LamkaLabs/paite-open-language-data", "relation": "isIdenticalTo", "resource_type": "dataset"},
+    {"identifier": "https://github.com/khooptong-sudo/paite-daily", "relation": "isCompiledBy", "resource_type": "software"}
   ]
 }
