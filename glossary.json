@@ -179,6 +179,17 @@
       }
     },
     {
+      "paite": "A deng",
+      "english": "Fell",
+      "note": "verb phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zan nitak in intung vuahmal in a deng.",
+        "english": "Rain fell softly on the roofs last night."
+      }
+    },
+    {
       "paite": "A di'n",
       "english": "For",
       "note": "benefactive marker",
@@ -384,6 +395,17 @@
       "example": {
         "paite": "Zingkar teng in khua a bazaar a ki hong gige.",
         "english": "The village market opens every morning."
+      }
+    },
+    {
+      "paite": "A kiliau/kizap uh",
+      "english": "They swim",
+      "note": "kiliau/kizap = swim",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau luita ah a kiliau/kizap uh.",
+        "english": "They swim in the small river."
       }
     },
     {
@@ -742,6 +764,17 @@
       "example": {
         "paite": "Lampi paikhelh tuh a sau",
         "english": "The wrong road is long."
+      }
+    },
+    {
+      "paite": "A sil",
+      "english": "Washes",
+      "note": "sil = to wash",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n an nekma in akhut a sil.",
+        "english": "She washes her hands before eating."
       }
     },
     {
@@ -1549,6 +1582,17 @@
       "example": null
     },
     {
+      "paite": "Akai/ahoh uh",
+      "english": "Visit (go/come)",
+      "note": "akai = go, ahoh = come; uh marks plural subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kalteng in bazar akai/ahoh uh.",
+        "english": "They visit the market every week."
+      }
+    },
+    {
       "paite": "Akang hi",
       "english": "He fries",
       "note": "verb phrase",
@@ -1619,6 +1663,17 @@
       "example": {
         "paite": "Amau a dawr/ sumbuk uh nitak chiang in akhak zel uhi",
         "english": "They closed the shop at night."
+      }
+    },
+    {
+      "paite": "Akhut",
+      "english": "Her hands",
+      "note": "a = her, khut = hand",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n an nekma in akhut a sil.",
+        "english": "She washes her hands before eating."
       }
     },
     {
@@ -1856,6 +1911,17 @@
       }
     },
     {
+      "paite": "Ama'n",
+      "english": "She",
+      "note": "contracted form of 'Aman' in the note",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n an nekma in akhut a sil.",
+        "english": "She washes her hands before eating."
+      }
+    },
+    {
       "paite": "Amah",
       "english": "He",
       "note": null,
@@ -2023,6 +2089,17 @@
       "example": {
         "paite": "Ka nu'n an khum hong hohte adi'n a bawl",
         "english": "My mother prepares sweet rice for the guests."
+      }
+    },
+    {
+      "paite": "An nekma in",
+      "english": "Before eating",
+      "note": "an = rice/food, nek = eat, ma in = before",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n an nekma in akhut a sil.",
+        "english": "She washes her hands before eating."
       }
     },
     {
@@ -2249,6 +2326,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Asan",
+      "english": "The reason/Red",
+      "note": "Can also be A ziak/Aziak",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -3074,6 +3159,17 @@
       }
     },
     {
+      "paite": "Dakkal 2 (nih)",
+      "english": "Two hours",
+      "note": "Dakkal means hour; 2 (nih) means two",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Dakkal 2 (nih) tak vuahzu eive le.",
+        "english": "The rain lasted for two hours."
+      }
+    },
+    {
       "paite": "Damdawi",
       "english": "Medicine, meds",
       "note": null,
@@ -3480,6 +3576,17 @@
       "example": {
         "paite": "Anteh/Mehhingte siangthou in ki man mahmah e.",
         "english": "The vegetables are fresh and cheap."
+      }
+    },
+    {
+      "paite": "Eive",
+      "english": "Lasted / continued",
+      "note": "verb indicating duration",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Dakkal 2 (nih) tak vuahzu eive le.",
+        "english": "The rain lasted for two hours."
       }
     },
     {
@@ -5611,6 +5718,17 @@
     },
     {
       "paite": "Intung",
+      "english": "Roofs",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zan nitak in intung vuahmal in a deng.",
+        "english": "Rain fell softly on the roofs last night."
+      }
+    },
+    {
+      "paite": "Intung",
       "english": "Roof",
       "note": "in 'house' + tung 'top/roof'",
       "source": "note",
@@ -5677,6 +5795,14 @@
     {
       "paite": "Itna",
       "english": "Love",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Jakob",
+      "english": "Jacob",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
@@ -7189,6 +7315,17 @@
       }
     },
     {
+      "paite": "Kalteng",
+      "english": "They",
+      "note": "plural pronoun",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kalteng in bazar akai/ahoh uh.",
+        "english": "They visit the market every week."
+      }
+    },
+    {
       "paite": "Kam",
       "english": "Mouth",
       "note": null,
@@ -7340,6 +7477,14 @@
     {
       "paite": "Kawng",
       "english": "Waist",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Kawng guh",
+      "english": "Pelvis/bony pelvis",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
@@ -8935,6 +9080,14 @@
     },
     {
       "paite": "Kimu",
+      "english": "Meet/Met/See/Saw",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Kimu",
       "english": "Meet",
       "note": "reciprocal form",
       "source": "note",
@@ -9912,6 +10065,17 @@
     },
     {
       "paite": "Le",
+      "english": "For / during",
+      "note": "postposition marking duration",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Dakkal 2 (nih) tak vuahzu eive le.",
+        "english": "The rain lasted for two hours."
+      }
+    },
+    {
+      "paite": "Le",
       "english": "And",
       "note": "conjunction",
       "source": "note",
@@ -10249,6 +10413,14 @@
       }
     },
     {
+      "paite": "Louhing",
+      "english": "Green grass",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Loumun",
       "english": "Farm",
       "note": null,
@@ -10407,6 +10579,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Luita",
+      "english": "Small river",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau luita ah a kiliau/kizap uh.",
+        "english": "They swim in the small river."
+      }
     },
     {
       "paite": "Lukhu",
@@ -10657,6 +10840,14 @@
       "example": null
     },
     {
+      "paite": "Mal/Mallam",
+      "english": "North",
+      "note": "Mallam huihkhi siang = The northernly breeze.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Man",
       "english": "Price, to catch, to be ready or available",
       "note": null,
@@ -10693,6 +10884,14 @@
         "paite": "Ka lu khu biakinn kiangah ka mang sak",
         "english": "I lost my hat near the church."
       }
+    },
+    {
+      "paite": "Mangngilh",
+      "english": "Forget/Forgot",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Mangngilh",
@@ -12331,6 +12530,14 @@
     },
     {
       "paite": "Nisim/Niteng",
+      "english": "Daily/everyday",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Nisim/Niteng",
       "english": "Daily",
       "note": null,
       "source": "contributed",
@@ -12904,6 +13111,14 @@
     },
     {
       "paite": "Panpih",
+      "english": "Help/Assist",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Panpih",
       "english": "Help",
       "note": null,
       "source": "note",
@@ -13019,6 +13234,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Pawlpi",
+      "english": "Association, organisation, big group",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -13171,6 +13394,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Phin",
+      "english": "Fell / fall",
+      "note": "verb",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tuzingkal in vuahmal a phin seseih.",
+        "english": "The rain fell softly all morning."
+      }
     },
     {
       "paite": "Phone",
@@ -14203,6 +14437,14 @@
     },
     {
       "paite": "Saulim",
+      "english": "House/home",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Saulim",
       "english": "Residence/Home",
       "note": null,
       "source": "contributed",
@@ -14316,6 +14558,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Seseih",
+      "english": "All morning / throughout the morning",
+      "note": "time expression",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tuzingkal in vuahmal a phin seseih.",
+        "english": "The rain fell softly all morning."
+      }
     },
     {
       "paite": "Sia",
@@ -14532,6 +14785,14 @@
         "paite": "Hiai laibu sim in",
         "english": "Read this book."
       }
+    },
+    {
+      "paite": "Sim/Simlam",
+      "english": "South",
+      "note": "Hiai lui simlam apat hong kipan ahi = This river starts from the south.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Sin",
@@ -14791,6 +15052,14 @@
         "paite": "Bazar kai zawh in sun an ka ne uh",
         "english": "We ate lunch after shopping."
       }
+    },
+    {
+      "paite": "Suah/Suahlam",
+      "english": "East",
+      "note": "Suahlam apat in hong kisa = It starts from the east.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Suahtakna",
@@ -16255,6 +16524,14 @@
       "example": null
     },
     {
+      "paite": "Tum/Tumlam",
+      "english": "West",
+      "note": "Nisa tullam ah tum zel = The sun sets in the west.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Tumging",
       "english": "Guitar",
       "note": null,
@@ -16440,6 +16717,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Tuzingkal",
+      "english": "Rain",
+      "note": "subject of the sentence",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tuzingkal in vuahmal a phin seseih.",
+        "english": "The rain fell softly all morning."
+      }
     },
     {
       "paite": "Tuzingkal",
@@ -16906,6 +17194,39 @@
       }
     },
     {
+      "paite": "Vuahmal",
+      "english": "Softly / gently (falling)",
+      "note": "describes the manner of falling",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tuzingkal in vuahmal a phin seseih.",
+        "english": "The rain fell softly all morning."
+      }
+    },
+    {
+      "paite": "Vuahmal in",
+      "english": "Softly",
+      "note": "manner adverb",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zan nitak in intung vuahmal in a deng.",
+        "english": "Rain fell softly on the roofs last night."
+      }
+    },
+    {
+      "paite": "Vuahzu",
+      "english": "Rain",
+      "note": "appears as vuahzu in the sentence",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Dakkal 2 (nih) tak vuahzu eive le.",
+        "english": "The rain lasted for two hours."
+      }
+    },
+    {
       "paite": "Vual banlou taksa/ lungsim",
       "english": "Handicap",
       "note": "Khut sat tan (taksa),khamtheih a nak hih mahmah ziak in a lungsim buai hi(lungsim)",
@@ -17065,6 +17386,17 @@
       "example": {
         "paite": "Zan nitak apan in internet a zattheih nawn kei",
         "english": "The internet stopped working last night."
+      }
+    },
+    {
+      "paite": "Zan nitak in",
+      "english": "Last night",
+      "note": "time phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zan nitak in intung vuahmal in a deng.",
+        "english": "Rain fell softly on the roofs last night."
       }
     },
     {
