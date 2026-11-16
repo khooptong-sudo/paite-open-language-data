@@ -2,11 +2,11 @@
 
 ## Contributors (verified sentences)
 
-- phualva \[100\]: 381
+- phualva \[100\]: 417
 - RICHARD SUANLIAN \[100\] \(reviewer\): 282
 - Sutzalian Tonsing \[100\] \(reviewer\): 278
 - Kyekym \[100\]: 171
-- Min Khooptong \[100\] \(reviewer\): 122
+- Min Khooptong \[100\] \(reviewer\): 125
 - Khamsonlal Guite \[100\]: 110
 - Siam Vualnam \[50\]: 77
 - Thang Elim \[50\]: 63
@@ -31,6 +31,7 @@
 - H Pauliansiam: 4
 - Mang Hangzo: 4
 - Pausonmung: 4
+- Sorite: 4
 - Joycie Tonsing: 3
 - Lalthanghlun Guite: 3
 - Lian: 3
@@ -48,12 +49,11 @@
 - Mang Tawmbing: 1
 - Muan Hatlang: 1
 - Nuntum: 1
-- Sorite: 1
 
 ## Reviewers (decisions)
 
 - Sutzalian Tonsing: 777
-- Min Khooptong: 649
+- Min Khooptong: 692
 - Richard Ngaihte: 57
 - K Lianthansang: 28
 - Thangzamang Naulak: 5
