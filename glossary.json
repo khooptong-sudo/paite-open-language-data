@@ -213,6 +213,17 @@
     },
     {
       "paite": "A ding in",
+      "english": "For (him/her)",
+      "note": "postposition meaning 'for the sake of'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lawm a ding in thumna ka neih sak.",
+        "english": "I say a prayer for my friend."
+      }
+    },
+    {
+      "paite": "A ding in",
       "english": "For (her/him)",
       "note": "marks the beneficiary",
       "source": "note",
@@ -335,6 +346,17 @@
       "example": {
         "paite": "Ka pi nitaklam chiang in a ihmu zel",
         "english": "My grandmother sleeps in the afternoon."
+      }
+    },
+    {
+      "paite": "A ihmut ma in a thum",
+      "english": "He said a prayer before he slept",
+      "note": "Sentence given as the Paite translation",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A ihmut ma in a thum.",
+        "english": "He said a prayer before he slept."
       }
     },
     {
@@ -1912,6 +1934,17 @@
     },
     {
       "paite": "Ama'n",
+      "english": "He (subject marker)",
+      "note": "ama = he/she; -n marks the subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n nitak annek khit/zoh in kuangte a sil.",
+        "english": "He washes the plates after dinner."
+      }
+    },
+    {
+      "paite": "Ama'n",
       "english": "She",
       "note": "contracted form of 'Aman' in the note",
       "source": "note",
@@ -2218,6 +2251,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Annek",
+      "english": "Eating / meal",
+      "note": "an = food/rice; nek = eat",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n nitak annek khit/zoh in kuangte a sil.",
+        "english": "He washes the plates after dinner."
+      }
     },
     {
       "paite": "Annek kawm in",
@@ -3872,6 +3916,28 @@
       "example": null
     },
     {
+      "paite": "Gilkial",
+      "english": "Hungry",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A gim un a gilkial tuak/mel uh.",
+        "english": "They looked tired and hungry."
+      }
+    },
+    {
+      "paite": "Gim",
+      "english": "Tired",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A gim un a gilkial tuak/mel uh.",
+        "english": "They looked tired and hungry."
+      }
+    },
+    {
       "paite": "Gindan",
       "english": "Idealogy",
       "note": null,
@@ -5325,6 +5391,17 @@
       }
     },
     {
+      "paite": "Ihmut",
+      "english": "Slept / sleep",
+      "note": "from ihmut, 'to sleep'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A ihmut ma in a thum.",
+        "english": "He said a prayer before he slept."
+      }
+    },
+    {
       "paite": "Iit",
       "english": "Dear/beloved",
       "note": "also glossed as ngaih in the note",
@@ -6471,6 +6548,17 @@
       }
     },
     {
+      "paite": "Ka neih sak",
+      "english": "I make/offer (for another)",
+      "note": "neih = to have/make; sak = for someone else",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lawm a ding in thumna ka neih sak.",
+        "english": "I say a prayer for my friend."
+      }
+    },
+    {
       "paite": "Ka nek chiang un",
       "english": "When we eat",
       "note": "temporal clause",
@@ -7085,6 +7173,17 @@
       "example": {
         "paite": "Ka pa huansung ah ka va panpih.",
         "english": "I help my father in the garden."
+      }
+    },
+    {
+      "paite": "Ka va pha uh",
+      "english": "We visited",
+      "note": "ka...uh marks first person plural; va indicates going to do something",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zanin dawr thak ka va pha uh.",
+        "english": "We visited the new store yesterday."
       }
     },
     {
@@ -9545,6 +9644,17 @@
       }
     },
     {
+      "paite": "Kuangte",
+      "english": "The plates",
+      "note": "kuang = plate; -te = plural",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n nitak annek khit/zoh in kuangte a sil.",
+        "english": "He washes the plates after dinner."
+      }
+    },
+    {
       "paite": "Kumpi",
       "english": "King",
       "note": null,
@@ -10582,6 +10692,14 @@
     },
     {
       "paite": "Luita",
+      "english": "Stream/small river",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Luita",
       "english": "Small river",
       "note": null,
       "source": "note",
@@ -10770,6 +10888,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Ma in",
+      "english": "Before",
+      "note": "temporal marker 'before'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A ihmut ma in a thum.",
+        "english": "He said a prayer before he slept."
+      }
     },
     {
       "paite": "Mah mah",
@@ -11974,6 +12103,17 @@
     },
     {
       "paite": "Naupangte'n",
+      "english": "Children (ergative)",
+      "note": "naupangte with ergative marker -n",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupangte'n bawngnawi suanlum a dawn uh.",
+        "english": "The children drink warm milk."
+      }
+    },
+    {
+      "paite": "Naupangte'n",
       "english": "The children (ergative)",
       "note": "naupangte + -n ergative marker",
       "source": "note",
@@ -12530,6 +12670,14 @@
     },
     {
       "paite": "Nisim/Niteng",
+      "english": "Every day",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Nisim/Niteng",
       "english": "Daily/everyday",
       "note": null,
       "source": "contributed",
@@ -12551,6 +12699,17 @@
       "source": "contributed",
       "reviewed_by": null,
       "example": null
+    },
+    {
+      "paite": "Nitak",
+      "english": "Dinner / evening meal",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n nitak annek khit/zoh in kuangte a sil.",
+        "english": "He washes the plates after dinner."
+      }
     },
     {
       "paite": "Nitak",
@@ -14738,6 +14897,17 @@
       }
     },
     {
+      "paite": "Sil",
+      "english": "Washes",
+      "note": "verb 'to wash'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n nitak annek khit/zoh in kuangte a sil.",
+        "english": "He washes the plates after dinner."
+      }
+    },
+    {
       "paite": "Sim",
       "english": "Read",
       "note": null,
@@ -14790,6 +14960,14 @@
       "paite": "Sim/Simlam",
       "english": "South",
       "note": "Hiai lui simlam apat hong kipan ahi = This river starts from the south.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Sin",
+      "english": "Liver/to cover/to learn",
+      "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
@@ -15108,6 +15286,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Suanlum",
+      "english": "Warm",
+      "note": "warm (of liquid)",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupangte'n bawngnawi suanlum a dawn uh.",
+        "english": "The children drink warm milk."
+      }
     },
     {
       "paite": "Sum",
@@ -16044,6 +16233,17 @@
     },
     {
       "paite": "Thum",
+      "english": "Pray / prayer",
+      "note": "verb 'to pray'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A ihmut ma in a thum.",
+        "english": "He said a prayer before he slept."
+      }
+    },
+    {
+      "paite": "Thum",
       "english": "Pray or three",
       "note": null,
       "source": "contributed",
@@ -16081,6 +16281,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Thumna",
+      "english": "Prayer",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lawm a ding in thumna ka neih sak.",
+        "english": "I say a prayer for my friend."
+      }
     },
     {
       "paite": "Thupina",
@@ -16262,6 +16473,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Tuak/mel",
+      "english": "Looked/seemed",
+      "note": "alternative forms given in the translation",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A gim un a gilkial tuak/mel uh.",
+        "english": "They looked tired and hungry."
+      }
     },
     {
       "paite": "Tualsuak",
@@ -17446,6 +17668,17 @@
       "example": null
     },
     {
+      "paite": "Zanin",
+      "english": "Yesterday",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zanin dawr thak ka va pha uh.",
+        "english": "We visited the new store yesterday."
+      }
+    },
+    {
       "paite": "Zanitak",
       "english": "Last night",
       "note": null,
@@ -17723,6 +17956,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Zoh in",
+      "english": "After",
+      "note": "postposition meaning 'after (doing something)'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n nitak annek khit/zoh in kuangte a sil.",
+        "english": "He washes the plates after dinner."
+      }
     },
     {
       "paite": "Zoh in",
