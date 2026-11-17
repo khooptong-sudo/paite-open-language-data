@@ -278,6 +278,17 @@
       }
     },
     {
+      "paite": "A hon pawlut",
+      "english": "Brings",
+      "note": "verb phrase meaning 'brings in'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tukhun in tui tampi a hon pawlut.",
+        "english": "The rainy season brings much water."
+      }
+    },
+    {
       "paite": "A hon sa hi",
       "english": "Sings (for us)",
       "note": "hon = benefactive/directional 'for us'; sa = sing; hi = declarative marker",
@@ -440,6 +451,14 @@
         "paite": "A sanggamnu toh table tennis a kimawl hi",
         "english": "He plays table tennis with his sister."
       }
+    },
+    {
+      "paite": "A kimawl uh.",
+      "english": "They are playing",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "A kimol uh",
@@ -670,6 +689,14 @@
         "paite": "naupangte sikul ah a paikhawm uh",
         "english": "The children walk to school together."
       }
+    },
+    {
+      "paite": "A pallun uh",
+      "english": "Flourish/Thriving/Prospering.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "A pallun uh",
@@ -2294,6 +2321,14 @@
       "example": null
     },
     {
+      "paite": "Answer",
+      "english": "Dawnna",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Antang",
       "english": "Rice",
       "note": null,
@@ -2303,6 +2338,14 @@
         "paite": "Antang leh be ka lei uh",
         "english": "We buy rice and beans."
       }
+    },
+    {
+      "paite": "Anteh",
+      "english": "Leafy vegetables",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Anteh",
@@ -2956,6 +2999,17 @@
       "example": {
         "paite": "Kong bul ah mei ka de uh",
         "english": "We light lamps at the door."
+      }
+    },
+    {
+      "paite": "Bus",
+      "english": "Bus",
+      "note": "loanword",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lenglate/zinte uh zingkar a bus a hong pai in a hong tung uh.",
+        "english": "Many visitors arrive by bus in the morning."
       }
     },
     {
@@ -4867,6 +4921,14 @@
     },
     {
       "paite": "Hon iit vek",
+      "english": "He/She loves all.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Hon iit vek",
       "english": "Love us all.",
       "note": "It should be 'it', iit is a wrong spelling for love.",
       "source": "contributed",
@@ -4989,6 +5051,17 @@
       }
     },
     {
+      "paite": "Hong pai",
+      "english": "Arrive / come",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lenglate/zinte uh zingkar a bus a hong pai in a hong tung uh.",
+        "english": "Many visitors arrive by bus in the morning."
+      }
+    },
+    {
       "paite": "Hong pai kiik",
       "english": "To come back",
       "note": "hong pai = come; kiik = return/back",
@@ -4997,6 +5070,17 @@
       "example": {
         "paite": "A mah hong paikik theih ziak in a kipak.",
         "english": "He is glad to be back."
+      }
+    },
+    {
+      "paite": "Hong tung",
+      "english": "Arrive / reach",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lenglate/zinte uh zingkar a bus a hong pai in a hong tung uh.",
+        "english": "Many visitors arrive by bus in the morning."
       }
     },
     {
@@ -6152,6 +6236,14 @@
         "paite": "Nitaklam in tukhawm in ka houlim uh",
         "english": "We sit and talk in the evening."
       }
+    },
+    {
+      "paite": "Ka huan",
+      "english": "My farm/garden.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Ka huan",
@@ -7337,6 +7429,14 @@
       }
     },
     {
+      "paite": "Kaihkhawm/Lakkhawm",
+      "english": "Collection",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Kaki",
       "english": "We (exclusive) were",
       "note": "first person plural with tense",
@@ -7539,6 +7639,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Kawlkai",
+      "english": "Sweet potatoes",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -10358,6 +10466,17 @@
       "example": null
     },
     {
+      "paite": "Lengla",
+      "english": "Visitor",
+      "note": "one of several possible words for 'visitor', along with zin, mikhual",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lenglate/zinte uh zingkar a bus a hong pai in a hong tung uh.",
+        "english": "Many visitors arrive by bus in the morning."
+      }
+    },
+    {
       "paite": "Lentu/Lentukuam",
       "english": "Deep forest",
       "note": "Lentukuam ah vaphual kimu hi.",
@@ -12211,6 +12330,17 @@
       }
     },
     {
+      "paite": "Nekpih",
+      "english": "Shared (food) with",
+      "note": "from the Paite sentence; the note gives hawm as an alternative for 'shared'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A an uh a lawmte a nekpih uh.",
+        "english": "They shared the food with their friends."
+      }
+    },
+    {
       "paite": "Nekval",
       "english": "Leftover food",
       "note": "food that remains after eating",
@@ -14008,6 +14138,14 @@
     },
     {
       "paite": "Poilou",
+      "english": "No problem/No worries.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Poilou",
       "english": "It's okay",
       "note": null,
       "source": "contributed",
@@ -14270,6 +14408,14 @@
       }
     },
     {
+      "paite": "Question",
+      "english": "Dotna",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Receipt",
       "english": "Chiamteh nalai pek",
       "note": "Van nava lei chiang in, sum leh pai na sen zah \"chiamteh na laipek\" la in.",
@@ -14314,6 +14460,14 @@
         "paite": "Hiai puannak dum ka deih",
         "english": "I like this blue shirt."
       }
+    },
+    {
+      "paite": "Roof",
+      "english": "Intung",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Sa",
@@ -15521,6 +15675,17 @@
       }
     },
     {
+      "paite": "Tampi",
+      "english": "Much; a lot",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tukhun in tui tampi a hon pawlut.",
+        "english": "The rainy season brings much water."
+      }
+    },
+    {
       "paite": "Tan",
       "english": "Towards",
       "note": null,
@@ -15902,6 +16067,14 @@
         "paite": "Court ah tennis kaki mawl uh",
         "english": "We play tennis on the court."
       }
+    },
+    {
+      "paite": "Terrace",
+      "english": "Intung",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Thak",
@@ -16724,6 +16897,17 @@
       "example": {
         "paite": "Nitaklam in tukhawm in ka houlim uh",
         "english": "We sit and talk in the evening."
+      }
+    },
+    {
+      "paite": "Tukhun",
+      "english": "Rainy season",
+      "note": "subject of the sentence",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tukhun in tui tampi a hon pawlut.",
+        "english": "The rainy season brings much water."
       }
     },
     {
@@ -17558,6 +17742,14 @@
     },
     {
       "paite": "Zalenna",
+      "english": "Freedom/Liberty",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Zalenna",
       "english": "Independence",
       "note": null,
       "source": "contributed",
@@ -17890,6 +18082,17 @@
       "example": {
         "paite": "Lou bawlpa'n zingkal teng in haichi te tui a pia.",
         "english": "The farmer waters the plants each morning."
+      }
+    },
+    {
+      "paite": "Zingkar",
+      "english": "Morning",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka lenglate/zinte uh zingkar a bus a hong pai in a hong tung uh.",
+        "english": "Many visitors arrive by bus in the morning."
       }
     },
     {
