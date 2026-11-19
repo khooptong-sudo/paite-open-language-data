@@ -2,6 +2,17 @@
   "entries": [
     {
       "paite": "A",
+      "english": "Object marker",
+      "note": "marks the object of a transitive verb",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Lusunna in invengte a kaikhawm.",
+        "english": "The funeral brought the neighbors together."
+      }
+    },
+    {
+      "paite": "A",
       "english": "She/he (common gender pronoun)",
       "note": "common gender",
       "source": "note",
@@ -409,6 +420,28 @@
       "example": null
     },
     {
+      "paite": "A khen",
+      "english": "He hits / strikes it",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n chiang zang in ball a khen.",
+        "english": "He hits the ball with a stick."
+      }
+    },
+    {
+      "paite": "A khosata",
+      "english": "Lives / resides",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Putekpa amah kia in a khosata.",
+        "english": "The old man lives alone now."
+      }
+    },
+    {
       "paite": "A ki bual uh",
       "english": "They swim",
       "note": "reflexive/reciprocal verb form with plural marker uh",
@@ -491,6 +524,17 @@
       "example": {
         "paite": "A mah hong paikik theih ziak in a kipak.",
         "english": "He is glad to be back."
+      }
+    },
+    {
+      "paite": "A koih gige",
+      "english": "She keeps it (habitually)",
+      "note": "koih = to keep/place; gige = always/habitually",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka nu'n innsung siang tak in a koih gige.",
+        "english": "My mother keeps the house clean."
       }
     },
     {
@@ -600,6 +644,17 @@
       "example": {
         "paite": "Pilvang tak in allu a met",
         "english": "She peeled the potatoes with care."
+      }
+    },
+    {
+      "paite": "A nei",
+      "english": "She says/has",
+      "note": "the note uses a thum hi for 'she prays'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka nu'n anhuanbuk ah thumna a nei",
+        "english": "My mother says a prayer in the kitchen."
       }
     },
     {
@@ -1092,6 +1147,17 @@
       "example": {
         "paite": "Zan nitak apan in internet a zattheih nawn kei",
         "english": "The internet stopped working last night."
+      }
+    },
+    {
+      "paite": "A zuak",
+      "english": "Sells",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n bazar gei ah khedap a zuak",
+        "english": "He sells shoes near the market."
       }
     },
     {
@@ -1961,6 +2027,28 @@
     },
     {
       "paite": "Ama'n",
+      "english": "He (subject)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n bazar gei ah khedap a zuak",
+        "english": "He sells shoes near the market."
+      }
+    },
+    {
+      "paite": "Ama'n",
+      "english": "He",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n tuikhuk akipan in tui a tawi,",
+        "english": "He carried water from the well."
+      }
+    },
+    {
+      "paite": "Ama'n",
       "english": "He (subject marker)",
       "note": "ama = he/she; -n marks the subject",
       "source": "note",
@@ -1990,6 +2078,17 @@
       "example": {
         "paite": "Amah a heh hi",
         "english": "He is very angry."
+      }
+    },
+    {
+      "paite": "Amah kia in",
+      "english": "Alone / by himself",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Putekpa amah kia in a khosata.",
+        "english": "The old man lives alone now."
       }
     },
     {
@@ -2072,6 +2171,17 @@
       "example": {
         "paite": "Amanzah sanga tawmzaw in a ngen.",
         "english": "He asked for a lower price."
+      }
+    },
+    {
+      "paite": "Amau",
+      "english": "Their / they",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kapan amau hunlai thu hon hilh jel hi",
+        "english": "My father tells us about his day."
       }
     },
     {
@@ -2175,6 +2285,14 @@
     },
     {
       "paite": "Ana ngak zual",
+      "english": "Please wait a moment.",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Ana ngak zual",
       "english": "Wait a minute.",
       "note": null,
       "source": "contributed",
@@ -2226,6 +2344,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Anhuanbuk",
+      "english": "Kitchen",
+      "note": "written anhuanin in the note",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka nu'n anhuanbuk ah thumna a nei",
+        "english": "My mother says a prayer in the kitchen."
+      }
     },
     {
       "paite": "Ann",
@@ -2313,6 +2442,17 @@
       }
     },
     {
+      "paite": "Annek ma in",
+      "english": "Before the meal",
+      "note": "from the note 'An nek kuan in'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Annek ma in thumna ka nei uh",
+        "english": "We said a prayer before the meal."
+      }
+    },
+    {
       "paite": "Anntang",
       "english": "Rice",
       "note": null,
@@ -2383,6 +2523,17 @@
       "example": {
         "paite": "Ngasa anteh lou-hing tawh a huan khawm hi",
         "english": "She cooked fish with green leaves."
+      }
+    },
+    {
+      "paite": "Anteh-louhing",
+      "english": "Herbs",
+      "note": "plant term",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n huansung ah anteh-louhing asuan.",
+        "english": "She grew herbs near the kitchen door."
       }
     },
     {
@@ -2462,6 +2613,17 @@
       "example": {
         "paite": "Thuk tung a tui asou",
         "english": "The water boils on the stove."
+      }
+    },
+    {
+      "paite": "Asuan",
+      "english": "Grew/planted",
+      "note": "verb",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n huansung ah anteh-louhing asuan.",
+        "english": "She grew herbs near the kitchen door."
       }
     },
     {
@@ -3057,6 +3219,17 @@
     },
     {
       "paite": "Chiang",
+      "english": "Stick",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n chiang zang in ball a khen.",
+        "english": "He hits the ball with a stick."
+      }
+    },
+    {
+      "paite": "Chiang",
       "english": "Time (as in 'in the evening time')",
       "note": null,
       "source": "note",
@@ -3083,6 +3256,17 @@
       "example": {
         "paite": "Ka pi nitaklam chiang in a ihmu zel",
         "english": "My grandmother sleeps in the afternoon."
+      }
+    },
+    {
+      "paite": "Chiangin",
+      "english": "At / when",
+      "note": "temporal marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Thumna in nitak chiangin hon khamuan",
+        "english": "A prayer gives me peace at night."
       }
     },
     {
@@ -4355,6 +4539,17 @@
     },
     {
       "paite": "Hi",
+      "english": "Is / statement particle",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kapan amau hunlai thu hon hilh jel hi",
+        "english": "My father tells us about his day."
+      }
+    },
+    {
+      "paite": "Hi",
       "english": "Is/are (copula, sentence-final)",
       "note": null,
       "source": "note",
@@ -4678,6 +4873,17 @@
       "example": null
     },
     {
+      "paite": "Hilh",
+      "english": "Tell / inform",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kapan amau hunlai thu hon hilh jel hi",
+        "english": "My father tells us about his day."
+      }
+    },
+    {
       "paite": "Himahleh",
       "english": "But",
       "note": null,
@@ -4944,6 +5150,17 @@
       "example": {
         "paite": "Ka pi leh pu ten hon iit vek",
         "english": "My grandparents love all of us."
+      }
+    },
+    {
+      "paite": "Hon khamuan",
+      "english": "Gives me peace",
+      "note": "hon = me; khamuan = peace/comfort",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Thumna in nitak chiangin hon khamuan",
+        "english": "A prayer gives me peace at night."
       }
     },
     {
@@ -5383,6 +5600,17 @@
       "example": null
     },
     {
+      "paite": "Hunlai",
+      "english": "Time / days (of the past)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kapan amau hunlai thu hon hilh jel hi",
+        "english": "My father tells us about his day."
+      }
+    },
+    {
       "paite": "Hunlemtang",
       "english": "Opportunity",
       "note": null,
@@ -5494,6 +5722,17 @@
       "example": {
         "paite": "I iit te adi'n thipiak aki lei sek",
         "english": "We buy gifts for our dear ones."
+      }
+    },
+    {
+      "paite": "In",
+      "english": "Ergative/agent marker",
+      "note": "marks the subject of a transitive verb",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Lusunna in invengte a kaikhawm.",
+        "english": "The funeral brought the neighbors together."
       }
     },
     {
@@ -5797,6 +6036,17 @@
       }
     },
     {
+      "paite": "Inn lam zuan a ka pailai in thumna ka nei",
+      "english": "I said a prayer on the way home",
+      "note": "full sentence",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Inn lam zuan a ka pailai in thumna ka nei",
+        "english": "I said a prayer on the way home."
+      }
+    },
+    {
       "paite": "Inn lam, inn bawl",
       "english": "To build a house",
       "note": null,
@@ -5827,6 +6077,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Innsung",
+      "english": "House interior / home",
+      "note": "inn = house; sung = inside",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka nu'n innsung siang tak in a koih gige.",
+        "english": "My mother keeps the house clean."
+      }
     },
     {
       "paite": "Innveng",
@@ -5976,6 +6237,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Jel",
+      "english": "Habitually / always (habitual marker)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kapan amau hunlai thu hon hilh jel hi",
+        "english": "My father tells us about his day."
+      }
     },
     {
       "paite": "Jesu",
@@ -6630,6 +6902,17 @@
     },
     {
       "paite": "Ka nei",
+      "english": "I had/said",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Inn lam zuan a ka pailai in thumna ka nei",
+        "english": "I said a prayer on the way home."
+      }
+    },
+    {
+      "paite": "Ka nei",
       "english": "I have",
       "note": "ka = I, nei = have",
       "source": "note",
@@ -6637,6 +6920,17 @@
       "example": {
         "paite": "Unaupasal nih leh unaunumei khat ka nei",
         "english": "I have two brothers and one sister."
+      }
+    },
+    {
+      "paite": "Ka nei uh",
+      "english": "We said / we had",
+      "note": "first person plural",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Annek ma in thumna ka nei uh",
+        "english": "We said a prayer before the meal."
       }
     },
     {
@@ -7419,6 +7713,14 @@
     },
     {
       "paite": "Kai",
+      "english": "Pull",
+      "note": "Pull to open",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Kai",
       "english": "Swims / crosses",
       "note": "verb",
       "source": "note",
@@ -7435,6 +7737,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Kaikhawm",
+      "english": "Brought together / gathered",
+      "note": "transitive verb meaning to gather or unite",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Lusunna in invengte a kaikhawm.",
+        "english": "The funeral brought the neighbors together."
+      }
     },
     {
       "paite": "Kaki",
@@ -7568,6 +7881,17 @@
       "example": {
         "paite": "Kangtalai inn tan a sawn tung.",
         "english": "He pushes the cart home."
+      }
+    },
+    {
+      "paite": "Kapan",
+      "english": "My father",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kapan amau hunlai thu hon hilh jel hi",
+        "english": "My father tells us about his day."
       }
     },
     {
@@ -9959,6 +10283,14 @@
       "example": null
     },
     {
+      "paite": "Laisiangthou",
+      "english": "Bible",
+      "note": "Hiai Laisiangthou bu ahi.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Laisim",
       "english": "Study",
       "note": "Lehkha I sim chiang in lai sim ki chi hi",
@@ -10030,6 +10362,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Lam",
+      "english": "Way/road",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Inn lam zuan a ka pailai in thumna ka nei",
+        "english": "I said a prayer on the way home."
+      }
     },
     {
       "paite": "Lam",
@@ -11002,6 +11345,17 @@
     },
     {
       "paite": "Lusunna",
+      "english": "Funeral",
+      "note": "used in the context of death/funeral rites",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Lusunna in invengte a kaikhawm.",
+        "english": "The funeral brought the neighbors together."
+      }
+    },
+    {
+      "paite": "Lusunna",
       "english": "Condolence",
       "note": null,
       "source": "contributed",
@@ -11532,6 +11886,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "Minu'n",
+      "english": "She",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -14281,6 +14643,14 @@
     },
     {
       "paite": "Puan",
+      "english": "Clothe",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Puan",
       "english": "Cloth",
       "note": "used in 'puan ding' (cloth for dress)",
       "source": "note",
@@ -14967,6 +15337,17 @@
       "example": {
         "paite": "Hiai khua ah siamsin na khat a om",
         "english": "The village has one small school."
+      }
+    },
+    {
+      "paite": "Siang tak in",
+      "english": "Cleanly",
+      "note": "siang = clean; tak in = adverbializer",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka nu'n innsung siang tak in a koih gige.",
+        "english": "My mother keeps the house clean."
       }
     },
     {
@@ -15877,6 +16258,17 @@
     },
     {
       "paite": "Tawi",
+      "english": "Carried",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n tuikhuk akipan in tui a tawi,",
+        "english": "He carried water from the well."
+      }
+    },
+    {
+      "paite": "Tawi",
       "english": "Carry",
       "note": "also given as pua in the note",
       "source": "note",
@@ -16281,6 +16673,17 @@
       }
     },
     {
+      "paite": "Thu",
+      "english": "Matter / story / news",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kapan amau hunlai thu hon hilh jel hi",
+        "english": "My father tells us about his day."
+      }
+    },
+    {
       "paite": "Thu hon khak in",
       "english": "Send me a message",
       "note": "Na thukhah hon thon in",
@@ -16328,6 +16731,14 @@
         "paite": "Ka pu' hon thuhilhna ka ngai khia uh",
         "english": "We listen to our grandfather's advice."
       }
+    },
+    {
+      "paite": "Thuk",
+      "english": "Deep",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Thuk",
@@ -17849,6 +18260,17 @@
       "example": {
         "paite": "Zan chiah a phone a hihmit zel",
         "english": "He turned off his phone at night."
+      }
+    },
+    {
+      "paite": "Zang in",
+      "english": "With / using",
+      "note": "instrumental phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n chiang zang in ball a khen.",
+        "english": "He hits the ball with a stick."
       }
     },
     {
