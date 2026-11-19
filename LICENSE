@@ -68,23 +68,13 @@ own terms.
      repository. Credit John Samte when you use this text. Ask him before any
      commercial use.
 
-4. Third-party text: NOT licensed by this repository
+4. Rights holders
 
-   - Paite Bible text in bible/legacy-etabetapi/ (collected from
-     etabetapi.com). Copyright of the original Paite Bible publisher.
-   - Dictionary data in dictionary/Paite+English+Dictionary_1_1_4_apkcombo_com.json
-     and the "dictionary" key of paite_phrasebook.json. Copyright of the
-     author of the "Paite English Dictionary" Android app.
-   - Hymn lyrics and snippets in songs/Kristian+Labu_1_4_53_apkcombo_com.json,
-     songs/Biakna+Labupi_1_0_0_apkcombo_com.json, and the "song_titles" key of
-     paite_phrasebook.json. Copyright of the hymn authors, translators, and
-     app publishers.
-
-   This text is included for non-commercial research, education, and language
-   preservation. The maintainer does not claim ownership of it and grants no
-   rights to it. You are responsible for your own use of it.
-
-   Rights holders: to request removal or a change of credit, open an issue at
+   Earlier versions of this repository also held a dictionary, hymn lyrics
+   and an older Paite Bible text from third-party sources. They were removed
+   on 19 November 2026, because this repository has no licence to share them.
+   If you hold rights in anything here and want it removed or credited
+   differently, open an issue at
    https://github.com/khooptong-sudo/paite-open-language-data/issues
 
 5. Mixed files

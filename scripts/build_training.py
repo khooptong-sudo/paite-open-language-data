@@ -90,18 +90,6 @@ def main() -> None:
                 parallel.append({"id": row_id, "paite": paite, "english": row["english"],
                                  "source": "community", "split": split})
 
-    songs = load("songs/Kristian+Labu_1_4_53_apkcombo_com.json")["songs"]
-    for i, s in enumerate(songs):
-        row_id = f"hymn:{i}"
-        mono.append({"id": row_id, "text": s["lyrics"], "source": "hymn", "split": split_for(row_id)})
-
-    dictionary = load("dictionary/Paite+English+Dictionary_1_1_4_apkcombo_com.json")["dictionary"]
-    for i, d in enumerate(dictionary):
-        if d.get("english") and d.get("paite"):
-            # Word lists help vocabulary, not held-out evaluation, so always train.
-            parallel.append({"id": f"dict:{i}", "paite": d["paite"], "english": d["english"],
-                             "source": "dictionary", "split": "train"})
-
     write("parallel.jsonl", parallel)
     write("monolingual.jsonl", mono)
     write("grammar.jsonl", grammar)
