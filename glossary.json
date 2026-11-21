@@ -256,6 +256,17 @@
       }
     },
     {
+      "paite": "A ham",
+      "english": "It barks",
+      "note": "ham = to bark",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khosung a ui nitak chiangin a ham.",
+        "english": "The village dog barks at night."
+      }
+    },
+    {
       "paite": "A heh hi",
       "english": "Is angry",
       "note": "heh = angry; the note's 'heh lo tel ahi' negates it (he is not angry)",
@@ -393,6 +404,17 @@
       }
     },
     {
+      "paite": "A khai",
+      "english": "Carries/brings",
+      "note": "alternate verb form given in the sentence",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "ka sanggampa'n tuikulh apan tui a tawi/a khai.",
+        "english": "My brother carries water from the well."
+      }
+    },
+    {
       "paite": "A khak",
       "english": "He sends. Or it means close as well.",
       "note": null,
@@ -453,6 +475,17 @@
       }
     },
     {
+      "paite": "A ki hong",
+      "english": "Is open",
+      "note": "passive/state construction for being open",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kongkhak tun a ki hong",
+        "english": "The door is open now."
+      }
+    },
+    {
       "paite": "A ki hong gige",
       "english": "Opens",
       "note": "ki hong = open; gige = habitual/always",
@@ -483,6 +516,17 @@
       "example": {
         "paite": "A sanggamnu toh table tennis a kimawl hi",
         "english": "He plays table tennis with his sister."
+      }
+    },
+    {
+      "paite": "A kimawl uh",
+      "english": "They play",
+      "note": "kimawl = play; uh = plural marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupangte inn polam ah a kimawl uh.",
+        "english": "The children play outside the house."
       }
     },
     {
@@ -809,6 +853,17 @@
     },
     {
       "paite": "A phone",
+      "english": "Her phone",
+      "note": "possessive form",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n a phone bazar ah a sumang.",
+        "english": "She lost her phone at the market."
+      }
+    },
+    {
+      "paite": "A phone",
       "english": "His phone",
       "note": null,
       "source": "note",
@@ -937,6 +992,28 @@
       }
     },
     {
+      "paite": "A sumang",
+      "english": "She lost it",
+      "note": "verb meaning to lose",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n a phone bazar ah a sumang.",
+        "english": "She lost her phone at the market."
+      }
+    },
+    {
+      "paite": "A susiang zel",
+      "english": "She cleans it",
+      "note": "verb phrase for cleaning; the note gives the variant 'a hahsiang zel'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kiginni in inn a susiang zel.",
+        "english": "She cleans the house on Saturday."
+      }
+    },
+    {
       "paite": "A tai",
       "english": "She runs / she goes",
       "note": null,
@@ -978,6 +1055,17 @@
       }
     },
     {
+      "paite": "A tawi",
+      "english": "Carries (water)",
+      "note": "verb for carrying water",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "ka sanggampa'n tuikulh apan tui a tawi/a khai.",
+        "english": "My brother carries water from the well."
+      }
+    },
+    {
       "paite": "A tawldam hi",
       "english": "He is relaxed",
       "note": null,
@@ -1016,6 +1104,17 @@
       "example": {
         "paite": "Lukhu a hing rong a tel.",
         "english": "She picked a green hat."
+      }
+    },
+    {
+      "paite": "A thawmhau kei",
+      "english": "She was calm",
+      "note": "literally 'she did not tremble'; note explains this means she was not afraid",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huihpi nun lai in a thawmhau kei.",
+        "english": "She was calm during the storm."
       }
     },
     {
@@ -1147,6 +1246,17 @@
       "example": {
         "paite": "Zan nitak apan in internet a zattheih nawn kei",
         "english": "The internet stopped working last night."
+      }
+    },
+    {
+      "paite": "A zu",
+      "english": "Fell",
+      "note": "used of rain falling",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zan nitakin khosungah vuah a zu.",
+        "english": "Rain fell on the village last night."
       }
     },
     {
@@ -1678,6 +1788,28 @@
       }
     },
     {
+      "paite": "Ahoih hi",
+      "english": "She puts / places",
+      "note": "used in the sentence for putting flowers on the table",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Dohkan tung ah paak ahoih hi.",
+        "english": "She puts flowers on the table."
+      }
+    },
+    {
+      "paite": "Ahon pia",
+      "english": "Gave (to me)",
+      "note": "pia = give; ahon- indicates past action directed toward the speaker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n thuhilhna manphatak ahon pia.",
+        "english": "He gave me good advice."
+      }
+    },
+    {
       "paite": "Ahon thuzak gige",
       "english": "Calls me",
       "note": "verb phrase meaning to call/speak to repeatedly",
@@ -1986,6 +2118,17 @@
     },
     {
       "paite": "Alei",
+      "english": "Bought",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n phone thak zanin alei.",
+        "english": "He bought a new phone yesterday."
+      }
+    },
+    {
+      "paite": "Alei",
       "english": "She bought",
       "note": "a- = third person subject; lei = buy",
       "source": "note",
@@ -2023,6 +2166,17 @@
       "example": {
         "paite": "dohkan tung ah allu a kheh",
         "english": "She peels the potatoes on the table."
+      }
+    },
+    {
+      "paite": "Ama'n",
+      "english": "He (ergative)",
+      "note": "ama = he/she; -n marks the subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n thuhilhna manphatak ahon pia.",
+        "english": "He gave me good advice."
       }
     },
     {
@@ -2866,6 +3020,17 @@
       "example": {
         "paite": "A lukhu bazar ah a sumang",
         "english": "He lost his hat at the market."
+      }
+    },
+    {
+      "paite": "Bazar ah",
+      "english": "At the market",
+      "note": "locative marker 'ah' attached to 'bazar'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n a phone bazar ah a sumang.",
+        "english": "She lost her phone at the market."
       }
     },
     {
@@ -4166,6 +4331,17 @@
     },
     {
       "paite": "Gim",
+      "english": "Fresh",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "I inn uh paak gim nam",
+        "english": "Our house smells of fresh flowers."
+      }
+    },
+    {
+      "paite": "Gim",
       "english": "Tired",
       "note": null,
       "source": "note",
@@ -4458,6 +4634,14 @@
     },
     {
       "paite": "Hel",
+      "english": "Mix",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Hel",
       "english": "Rebel",
       "note": null,
       "source": "contributed",
@@ -4474,6 +4658,14 @@
         "paite": "Aman a singpi lak ah chini hel",
         "english": "He adds sugar to his tea."
       }
+    },
+    {
+      "paite": "Helkhawm",
+      "english": "Mix together",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Helkhawm",
@@ -4982,6 +5174,17 @@
     },
     {
       "paite": "Hoih",
+      "english": "Good/well",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai pindan sungah internet hoih ahi.",
+        "english": "The internet works well in this room."
+      }
+    },
+    {
+      "paite": "Hoih",
       "english": "Good",
       "note": null,
       "source": "note",
@@ -5244,6 +5447,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Hong hoh uh",
+      "english": "Came",
+      "note": "hong indicates movement toward speaker; uh marks plural subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zan in ka ute/naute ka inn uah hong hoh uh.",
+        "english": "My cousin came to our house yesterday."
+      }
     },
     {
       "paite": "Hong hohte",
@@ -5536,6 +5750,14 @@
     },
     {
       "paite": "Huih",
+      "english": "Wind",
+      "note": "Huihnung hiauhiau a nuam e.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Huih",
       "english": "Air",
       "note": null,
       "source": "contributed",
@@ -5560,6 +5782,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Huihpi",
+      "english": "Storm",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huihpi nun lai in a thawmhau kei.",
+        "english": "She was calm during the storm."
+      }
     },
     {
       "paite": "Hulliap",
@@ -5616,6 +5849,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
+      "example": null
+    },
+    {
+      "paite": "I",
+      "english": "No",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -5711,6 +5952,28 @@
       "example": {
         "paite": "A ihmut ma in a thum.",
         "english": "He said a prayer before he slept."
+      }
+    },
+    {
+      "paite": "Ii zil thei uh",
+      "english": "We can learn",
+      "note": "ii = we (inclusive); zil = learn; thei = can/able; uh = plural marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "iInternet a pat thil thak tampi ii zil thei uh.",
+        "english": "The internet helps us learn new things."
+      }
+    },
+    {
+      "paite": "IInternet",
+      "english": "Internet",
+      "note": "spelling as given in the Paite sentence",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "iInternet a pat thil thak tampi ii zil thei uh.",
+        "english": "The internet helps us learn new things."
       }
     },
     {
@@ -6559,6 +6822,17 @@
       }
     },
     {
+      "paite": "Ka inn uah",
+      "english": "To our house",
+      "note": "ka inn = my/our house; -uah = locative 'to/at'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zan in ka ute/naute ka inn uah hong hoh uh.",
+        "english": "My cousin came to our house yesterday."
+      }
+    },
+    {
       "paite": "Ka inn uh",
       "english": "Our home",
       "note": "ka = my/our, inn = house/home, uh = plural marker",
@@ -6586,6 +6860,17 @@
       "example": {
         "paite": "ka innkuante ka it mahmah.",
         "english": "I love my family very much."
+      }
+    },
+    {
+      "paite": "Ka innkuante toh",
+      "english": "With our family",
+      "note": "innkuan = family; -te plural; toh = with",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kalmasa Pathianni in ka innkuante toh ka kihou uh.",
+        "english": "We called our family last Sunday."
       }
     },
     {
@@ -6630,6 +6915,17 @@
       }
     },
     {
+      "paite": "Ka kihou uh",
+      "english": "We called / we spoke",
+      "note": "kihou = to call/speak to one another; uh marks plural subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kalmasa Pathianni in ka innkuante toh ka kihou uh.",
+        "english": "We called our family last Sunday."
+      }
+    },
+    {
       "paite": "Ka kikop uh",
       "english": "Used together",
       "note": null,
@@ -6657,6 +6953,17 @@
       "example": {
         "paite": "Thu tuamtuam ka kikum uh",
         "english": "We talk about many things."
+      }
+    },
+    {
+      "paite": "Ka kimuak uh",
+      "english": "We greet each other",
+      "note": "literally ki ngaihnatna toh ka ki chibai uh",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kingaina takin ka kimuak uh.",
+        "english": "We greet each other warmly."
       }
     },
     {
@@ -7391,6 +7698,17 @@
     },
     {
       "paite": "Ka sanggampa'n",
+      "english": "My brother (elder)",
+      "note": "ka = my; sanggampa = elder brother; 'n = ergative marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "ka sanggampa'n tuikulh apan tui a tawi/a khai.",
+        "english": "My brother carries water from the well."
+      }
+    },
+    {
+      "paite": "Ka sanggampa'n",
       "english": "My brother (elder brother)",
       "note": "ka = my; sanggampa = elder brother; 'n marks the subject",
       "source": "note",
@@ -7548,6 +7866,17 @@
       "example": {
         "paite": "Ka unaunu a ding in noodles ka huan",
         "english": "I cooked noodles for my sister."
+      }
+    },
+    {
+      "paite": "Ka ute/naute",
+      "english": "My cousins",
+      "note": "ute/naute refers to older/younger cousins or siblings",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zan in ka ute/naute ka inn uah hong hoh uh.",
+        "english": "My cousin came to our house yesterday."
       }
     },
     {
@@ -7813,6 +8142,17 @@
       "example": {
         "paite": "Kal teng in ka paneu in hong veh hi",
         "english": "My uncle visits us every week."
+      }
+    },
+    {
+      "paite": "Kalmasa Pathianni",
+      "english": "Last Sunday",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kalmasa Pathianni in ka innkuante toh ka kihou uh.",
+        "english": "We called our family last Sunday."
       }
     },
     {
@@ -8795,6 +9135,17 @@
       }
     },
     {
+      "paite": "Khosung a ui",
+      "english": "The village dog",
+      "note": "khosung = in the village; ui = dog",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khosung a ui nitak chiangin a ham.",
+        "english": "The village dog barks at night."
+      }
+    },
+    {
       "paite": "Khosung ah",
       "english": "To the village / into the village",
       "note": "khosung = village interior; ah = locative/directional particle",
@@ -8825,6 +9176,17 @@
       "example": {
         "paite": "khosung hausa in kimuhkhop a sam hi",
         "english": "The village head called a meeting."
+      }
+    },
+    {
+      "paite": "Khosungah",
+      "english": "In the village",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zan nitakin khosungah vuah a zu.",
+        "english": "Rain fell on the village last night."
       }
     },
     {
@@ -9342,6 +9704,17 @@
       }
     },
     {
+      "paite": "Kibah in",
+      "english": "We (ourselves)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nasep zoh chiangin kibah in kitawl thei mahmah sek hi.",
+        "english": "We feel tired after work."
+      }
+    },
+    {
       "paite": "Kibeh",
       "english": "Same clan",
       "note": null,
@@ -9686,6 +10059,17 @@
       }
     },
     {
+      "paite": "Kingaina takin",
+      "english": "Warmly",
+      "note": "adverbial phrase describing the manner of greeting",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kingaina takin ka kimuak uh.",
+        "english": "We greet each other warmly."
+      }
+    },
+    {
       "paite": "Kingang",
       "english": "Quick",
       "note": "He act quick",
@@ -9883,6 +10267,17 @@
       "example": {
         "paite": "Nang k'on kisaktheihpih",
         "english": "I am proud of you."
+      }
+    },
+    {
+      "paite": "Kitawl thei",
+      "english": "Feel tired",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nasep zoh chiangin kibah in kitawl thei mahmah sek hi.",
+        "english": "We feel tired after work."
       }
     },
     {
@@ -11547,6 +11942,17 @@
       "example": null
     },
     {
+      "paite": "Manphatak",
+      "english": "Good; valuable; worthwhile",
+      "note": "manphata(k) = good/valuable, modifying thuhilhna",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n thuhilhna manphatak ahon pia.",
+        "english": "He gave me good advice."
+      }
+    },
+    {
       "paite": "Manta",
       "english": "Ready",
       "note": null,
@@ -11879,6 +12285,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Min Khooptong",
+      "english": "Church",
+      "note": "used in the example sentence",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Min Khooptong a kikhawm ngeikei hi.",
+        "english": "The church has a tall tower."
+      }
     },
     {
       "paite": "Minlam",
@@ -12431,6 +12848,17 @@
       "example": {
         "paite": "Ka puannak nalh pen biakin ah ka va silh.",
         "english": "I wore my best shirt to church."
+      }
+    },
+    {
+      "paite": "Nam",
+      "english": "Smell",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "I inn uh paak gim nam",
+        "english": "Our house smells of fresh flowers."
       }
     },
     {
@@ -13223,6 +13651,17 @@
       }
     },
     {
+      "paite": "Nitak chiangin",
+      "english": "At night",
+      "note": "nitak = night; chiangin = when/at the time of",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Khosung a ui nitak chiangin a ham.",
+        "english": "The village dog barks at night."
+      }
+    },
+    {
       "paite": "Nitak in",
       "english": "At night",
       "note": "nitak = night; in = locative/temporal marker",
@@ -13457,6 +13896,17 @@
       }
     },
     {
+      "paite": "Nun lai in",
+      "english": "During",
+      "note": "temporal phrase",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Huihpi nun lai in a thawmhau kei.",
+        "english": "She was calm during the storm."
+      }
+    },
+    {
       "paite": "Nung",
       "english": "Back",
       "note": null,
@@ -13518,6 +13968,17 @@
     },
     {
       "paite": "Om",
+      "english": "Has; there is",
+      "note": "existential verb",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Biakin ah tower sanpi om.",
+        "english": "The church has a tall tower."
+      }
+    },
+    {
+      "paite": "Om",
       "english": "Am / be (at)",
       "note": "verb 'to be located'",
       "source": "note",
@@ -13571,6 +14032,17 @@
       "example": {
         "paite": "Ka pa'n nitak chiah kong a kalh",
         "english": "Father locks the door at night."
+      }
+    },
+    {
+      "paite": "Paak",
+      "english": "Flower",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "I inn uh paak gim nam",
+        "english": "Our house smells of fresh flowers."
       }
     },
     {
@@ -13792,6 +14264,14 @@
     },
     {
       "paite": "Pasikhawm",
+      "english": "Culantro",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Pasikhawm",
       "english": "Sawtooth coriander",
       "note": "Sawtooth coriander is commonly known as culantro or recao",
       "source": "contributed",
@@ -13959,6 +14439,14 @@
         "paite": "kimawlna nuam kasa petmah uh.",
         "english": "We enjoy the game very much."
       }
+    },
+    {
+      "paite": "Phaiphuleng",
+      "english": "Harmonica",
+      "note": "Ama'n phaiphuleng a mut.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Phalbi",
@@ -14537,6 +15025,17 @@
       }
     },
     {
+      "paite": "Polam ah",
+      "english": "Outside",
+      "note": "polam = outside; ah = locative marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Naupangte inn polam ah a kimawl uh.",
+        "english": "The children play outside the house."
+      }
+    },
+    {
       "paite": "Polut",
       "english": "Carried in / brought in",
       "note": null,
@@ -14937,6 +15436,14 @@
       }
     },
     {
+      "paite": "Sakhi",
+      "english": "Deer",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Sakol",
       "english": "Horse",
       "note": null,
@@ -15108,6 +15615,17 @@
       }
     },
     {
+      "paite": "Sanpi",
+      "english": "Tall; big/high",
+      "note": "describes height/size",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Biakin ah tower sanpi om.",
+        "english": "The church has a tall tower."
+      }
+    },
+    {
       "paite": "Sathau",
       "english": "Oil",
       "note": null,
@@ -15117,6 +15635,14 @@
         "paite": "Mehkan nang sathau ka poimoh beh.",
         "english": "We need more cooking oil."
       }
+    },
+    {
+      "paite": "Saulim",
+      "english": "Home",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Saulim",
@@ -15198,6 +15724,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Sek hi",
+      "english": "(habitual/emphatic marker)",
+      "note": "sentence-final particle",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nasep zoh chiangin kibah in kitawl thei mahmah sek hi.",
+        "english": "We feel tired after work."
+      }
     },
     {
       "paite": "Senlai",
@@ -15556,6 +16093,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Sing nuai ah",
+      "english": "Under a tree",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -15926,6 +16471,17 @@
       }
     },
     {
+      "paite": "Sungah",
+      "english": "In/inside",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai pindan sungah internet hoih ahi.",
+        "english": "The internet works well in this room."
+      }
+    },
+    {
       "paite": "Sungkuan",
       "english": "Family",
       "note": "noun; 'a sungkuan un' = the family (ergative)",
@@ -15983,6 +16539,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Taklam",
+      "english": "Right side",
+      "note": "Ama'n ataklam in an ane.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -16053,6 +16617,17 @@
       "example": {
         "paite": "Mi tamlou in hon panpih uh",
         "english": "A few people come to help."
+      }
+    },
+    {
+      "paite": "Tampi",
+      "english": "Many; a lot",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "iInternet a pat thil thak tampi ii zil thei uh.",
+        "english": "The internet helps us learn new things."
       }
     },
     {
@@ -16640,6 +17215,17 @@
       "example": null
     },
     {
+      "paite": "Thil thak",
+      "english": "New things",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "iInternet a pat thil thak tampi ii zil thei uh.",
+        "english": "The internet helps us learn new things."
+      }
+    },
+    {
       "paite": "Thipiak",
       "english": "Gift",
       "note": "van in the note",
@@ -16720,6 +17306,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Thuhilhna",
+      "english": "Advice; teaching; counsel",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n thuhilhna manphatak ahon pia.",
+        "english": "He gave me good advice."
+      }
     },
     {
       "paite": "Thuhilhna",
@@ -16965,6 +17562,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Tower",
+      "english": "Tower",
+      "note": "borrowed English word used in Paite",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Biakin ah tower sanpi om.",
+        "english": "The church has a tall tower."
+      }
     },
     {
       "paite": "Tu",
@@ -17357,6 +17965,17 @@
       "example": null
     },
     {
+      "paite": "Tun",
+      "english": "Now",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Kongkhak tun a ki hong",
+        "english": "The door is open now."
+      }
+    },
+    {
       "paite": "Tung",
       "english": "Arrive",
       "note": null,
@@ -17392,6 +18011,17 @@
       "example": {
         "paite": "Thuk tung a tui asou",
         "english": "The water boils on the stove."
+      }
+    },
+    {
+      "paite": "Tung ah",
+      "english": "On top of",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Dohkan tung ah paak ahoih hi.",
+        "english": "She puts flowers on the table."
       }
     },
     {
@@ -17577,6 +18207,17 @@
       "example": {
         "paite": "Numeite'n khua tuikhuk ua pan in tui atawi uh.",
         "english": "Women carry water from the village well."
+      }
+    },
+    {
+      "paite": "Uh",
+      "english": "Plural marker (our)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "I inn uh paak gim nam",
+        "english": "Our house smells of fresh flowers."
       }
     },
     {
@@ -17921,6 +18562,14 @@
     },
     {
       "paite": "Veilam",
+      "english": "Left/Left side",
+      "note": "Ama'n a veilam in lai a gelh.",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Veilam",
       "english": "Left side.",
       "note": null,
       "source": "contributed",
@@ -18222,6 +18871,17 @@
       "example": {
         "paite": "Zan nitak in intung vuahmal in a deng.",
         "english": "Rain fell softly on the roofs last night."
+      }
+    },
+    {
+      "paite": "Zan nitakin",
+      "english": "Last night",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Zan nitakin khosungah vuah a zu.",
+        "english": "Rain fell on the village last night."
       }
     },
     {
@@ -18581,6 +19241,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Zoh chiangin",
+      "english": "After finishing",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nasep zoh chiangin kibah in kitawl thei mahmah sek hi.",
+        "english": "We feel tired after work."
+      }
     },
     {
       "paite": "Zoh in",
