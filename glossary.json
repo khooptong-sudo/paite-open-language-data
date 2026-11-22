@@ -746,6 +746,17 @@
       }
     },
     {
+      "paite": "A nuam hia?",
+      "english": "Is it pleasant? / how's it going?",
+      "note": "greeting asking how one's day is",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Tuni a nuam hia?",
+        "english": "How's your day?"
+      }
+    },
+    {
       "paite": "A om",
       "english": "There is / exists",
       "note": "existential verb phrase",
@@ -3761,6 +3772,17 @@
       }
     },
     {
+      "paite": "Dawrngaktu",
+      "english": "Shopkeeper",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Dawrngaktu kiangah sum ka pia.",
+        "english": "I gave the money to the shopkeeper."
+      }
+    },
+    {
       "paite": "Deih",
       "english": "Want",
       "note": null,
@@ -4727,6 +4749,17 @@
       "example": {
         "paite": "Heutupa'n kimawl ding dan hon sinsak.",
         "english": "The coach teaches us how to play."
+      }
+    },
+    {
+      "paite": "Hi",
+      "english": "Is (copula/assertive particle)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Lui pen leilui in kantan hi.",
+        "english": "The old bridge crosses the river."
       }
     },
     {
@@ -7582,6 +7615,17 @@
       "example": null
     },
     {
+      "paite": "Ka pia",
+      "english": "I gave",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Dawrngaktu kiangah sum ka pia.",
+        "english": "I gave the money to the shopkeeper."
+      }
+    },
+    {
       "paite": "Ka poimoh",
       "english": "I need",
       "note": null,
@@ -8221,6 +8265,17 @@
       "example": {
         "paite": "Kangtalai inn tan a sawn tung.",
         "english": "He pushes the cart home."
+      }
+    },
+    {
+      "paite": "Kantan",
+      "english": "Crosses",
+      "note": "variant spelling 'kaan tan' in the note",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Lui pen leilui in kantan hi.",
+        "english": "The old bridge crosses the river."
       }
     },
     {
@@ -9694,6 +9749,17 @@
     },
     {
       "paite": "Kiangah",
+      "english": "To (a person)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Dawrngaktu kiangah sum ka pia.",
+        "english": "I gave the money to the shopkeeper."
+      }
+    },
+    {
+      "paite": "Kiangah",
       "english": "Near",
       "note": "written 'kiang ah' in the note",
       "source": "note",
@@ -11145,6 +11211,17 @@
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Leilui",
+      "english": "Old bridge (literally earth/soil bridge)",
+      "note": "the note explains leilui as an old earthen bridge, the first bridge built",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Lui pen leilui in kantan hi.",
+        "english": "The old bridge crosses the river."
+      }
     },
     {
       "paite": "Leisak",
@@ -13964,6 +14041,17 @@
       "example": {
         "paite": "Hiah ana ngak zual oh",
         "english": "Wait for me here."
+      }
+    },
+    {
+      "paite": "Om",
+      "english": "Has / exists",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai puanak a vanna om ahi.",
+        "english": "The old shirt has a hole."
       }
     },
     {
@@ -18524,6 +18612,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Vanna",
+      "english": "Hole",
+      "note": "preferred form; from vang (hole), with -na; g is silent when combined with a suffix",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hiai puanak a vanna om ahi.",
+        "english": "The old shirt has a hole."
+      }
     },
     {
       "paite": "Vapal",
