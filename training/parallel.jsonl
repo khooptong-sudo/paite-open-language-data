@@ -32079,6 +32079,25 @@
 {"id": "community:2018", "paite": "Hiai mun a anteh-louhingte ka deih.", "english": "I like the green vegetables here.", "source": "community", "split": "dev"}
 {"id": "community:2018:1", "paite": "Hiai a anteh hingte ka deih", "english": "I like the green vegetables here.", "source": "community", "split": "dev"}
 {"id": "community:2517", "paite": "Dawr ah thei himchi takzet mai alei uh.", "english": "They bought fresh fruit at the shop.", "source": "community", "split": "train"}
+{"id": "community:2838", "paite": "Naupangpa'n inn ah a nu a panpih.", "english": "The boy helps his mother at home.", "source": "community", "split": "train"}
+{"id": "community:2838:1", "paite": "Naupang pasal in a nu inn nna a seppih.", "english": "The boy helps his mother at home.", "source": "community", "split": "train"}
+{"id": "community:1155", "paite": "Zan in sa tamlou a lei.", "english": "He bought some meat yesterday.", "source": "community", "split": "train"}
+{"id": "community:1843", "paite": "Nitaklam chiangin vuah hong zu zel.", "english": "The rain comes in the afternoon.", "source": "community", "split": "train"}
+{"id": "community:1871", "paite": "Louneipa'n a vatawtte tui gei ah an apia.", "english": "The farmer feeds the ducks by the water.", "source": "community", "split": "train"}
+{"id": "community:2012", "paite": "Zanin bazar a lun petmah.", "english": "The market was very busy yesterday.", "source": "community", "split": "train"}
+{"id": "community:2042", "paite": "Ama'n kawlzal hoihpi dawr ah amu.", "english": "She found a good bag at the shop.", "source": "community", "split": "train"}
+{"id": "community:2044", "paite": "Chi leh singmalta tamlou kon lei.", "english": "I bought some salt and pepper.", "source": "community", "split": "train"}
+{"id": "community:2264", "paite": "Naupangte'n bus a ngak uh.", "english": "The children wait for the bus.", "source": "community", "split": "dev"}
+{"id": "community:2448", "paite": "Naupangte'n aheutute' thu a ngaikhia uh.", "english": "The children listen to their teachers.", "source": "community", "split": "train"}
+{"id": "community:2857", "paite": "Huan ah naupangte'n haichi a tuh uh.", "english": "The children plant seeds in the garden.", "source": "community", "split": "train"}
+{"id": "community:2861", "paite": "A pa bawmlang a khaipih/A pa bawmlang khai a khaipih", "english": "She helps her father carry the basket.", "source": "community", "split": "train"}
+{"id": "community:2909", "paite": "Amau uniform silh in school akai uh.", "english": "They wear uniforms to school.", "source": "community", "split": "train"}
+{"id": "community:2911", "paite": "Ka lukhu deihpen ka mangsak.", "english": "I lost my favorite cap.", "source": "community", "split": "train"}
+{"id": "community:2922", "paite": "A puanak angkilh a nalh roupi khopmai.", "english": "The dress has pretty buttons.", "source": "community", "split": "train"}
+{"id": "community:2943", "paite": "A khedap toh a kizepna puan kituak mahmah e.", "english": "Her shoes match her dress.", "source": "community", "split": "train"}
+{"id": "community:2020", "paite": "Sandal/Slipper kopkhat zan in a lei.", "english": "He bought a pair of sandals yesterday.", "source": "community", "split": "train"}
+{"id": "community:2026", "paite": "Mehhuanna di belta khat alei uh.", "english": "They bought a new pot for the kitchen.", "source": "community", "split": "train"}
+{"id": "community:2185", "paite": "A bel sa ahi aw, pilvang in", "english": "The pan is hot, so be careful.", "source": "community", "split": "train"}
 {"id": "community:239", "paite": "Dawr nei pa sum a pe khin.", "english": "He paid the shopkeeper.", "source": "community", "split": "train"}
 {"id": "community:241", "paite": "Khedap hoih hiah a zuak uh", "english": "They sell good shoes here.", "source": "community", "split": "train"}
 {"id": "community:223", "paite": "Huainu'n sumsiik sawm a pia", "english": "She paid ten coins.", "source": "community", "split": "train"}
