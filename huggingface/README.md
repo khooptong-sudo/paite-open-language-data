@@ -62,7 +62,7 @@ train = pairs.filter(lambda r: r["split"] == "train")
 | Part | Source | Rights |
 |------|--------|--------|
 | Paite Bible | Laisiangthou app by [John Samte](https://github.com/johnsamte) | Used with permission; credit John Samte |
-| Dictionary | "Paite English Dictionary" Android app | Used with the author's permission; credit the app |
+| Dictionary (`dictionary/`) | "Paite English Dictionary" Android app | Used with the author's permission; credit the app |
 | English Bible | World English Bible | Public domain |
 | Corrections, benchmark | Native-speaker contributors | CC BY 4.0 |
 | Paite Daily translations (`community/`) | Paite Daily contributors, verified by reviewers | Per line, in the `licence` field: CC0 1.0 (answers before 21 Oct 2026) or CC BY 4.0 (after) |
