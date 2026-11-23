@@ -415,6 +415,17 @@
       }
     },
     {
+      "paite": "A khaipih",
+      "english": "She helps (him) carry",
+      "note": "khai = carry; -pih = help/do together",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A pa bawmlang a khaipih/A pa bawmlang khai a khaipih",
+        "english": "She helps her father carry the basket."
+      }
+    },
+    {
       "paite": "A khak",
       "english": "He sends. Or it means close as well.",
       "note": null,
@@ -776,6 +787,17 @@
       "example": {
         "paite": "Sepnawnni in inn ah a om uh.",
         "english": "They stayed home on Tuesday."
+      }
+    },
+    {
+      "paite": "A pa",
+      "english": "Her father",
+      "note": "pa = father; a- possessive prefix",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A pa bawmlang a khaipih/A pa bawmlang khai a khaipih",
+        "english": "She helps her father carry the basket."
       }
     },
     {
@@ -3001,6 +3023,17 @@
       }
     },
     {
+      "paite": "Bawmlang",
+      "english": "Basket",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A pa bawmlang a khaipih/A pa bawmlang khai a khaipih",
+        "english": "She helps her father carry the basket."
+      }
+    },
+    {
       "paite": "Bawngnawi",
       "english": "Milk",
       "note": "cow's milk",
@@ -3432,6 +3465,17 @@
       "example": {
         "paite": "Ka pi nitaklam chiang in a ihmu zel",
         "english": "My grandmother sleeps in the afternoon."
+      }
+    },
+    {
+      "paite": "Chiangin",
+      "english": "Around/toward (a time)",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nitaklam chiangin vuah hong zu zel.",
+        "english": "The rain comes in the afternoon."
       }
     },
     {
@@ -5556,6 +5600,17 @@
       "example": {
         "paite": "Kal teng in ka paneu in hong veh hi",
         "english": "My uncle visits us every week."
+      }
+    },
+    {
+      "paite": "Hong zu",
+      "english": "Comes",
+      "note": "hong is a directional particle; zu means come",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nitaklam chiangin vuah hong zu zel.",
+        "english": "The rain comes in the afternoon."
       }
     },
     {
@@ -8238,6 +8293,14 @@
       "example": null
     },
     {
+      "paite": "Kamtam",
+      "english": "Chatterbox",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Kane uh",
       "english": "We are eating",
       "note": null,
@@ -8358,6 +8421,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Kawlgit",
+      "english": "Sparrow",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -8596,6 +8667,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "Khai",
+      "english": "Carry",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A pa bawmlang a khaipih/A pa bawmlang khai a khaipih",
+        "english": "She helps her father carry the basket."
+      }
     },
     {
       "paite": "Khak",
@@ -9368,6 +9450,14 @@
         "paite": "A khualzinna a nek ding thei a lei.",
         "english": "She bought fruit for the journey."
       }
+    },
+    {
+      "paite": "Khuamulo/Mildel",
+      "english": "Blind",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Khuang",
@@ -10371,12 +10461,34 @@
       "example": null
     },
     {
+      "paite": "Kituak",
+      "english": "Match",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A khedap toh a kizepna puan kituak mahmah e.",
+        "english": "Her shoes match her dress."
+      }
+    },
+    {
       "paite": "Kiuh",
       "english": "Knock",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
       "example": null
+    },
+    {
+      "paite": "Kizepna puan",
+      "english": "Dress",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "A khedap toh a kizepna puan kituak mahmah e.",
+        "english": "Her shoes match her dress."
+      }
     },
     {
       "paite": "Ko",
@@ -10417,6 +10529,17 @@
       "example": {
         "paite": "A ann nekval te kuangdai ah a koih",
         "english": "She kept the leftover food in a bowl."
+      }
+    },
+    {
+      "paite": "Kon lei",
+      "english": "I bought",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Chi leh singmalta tamlou kon lei.",
+        "english": "I bought some salt and pepper."
       }
     },
     {
@@ -10605,6 +10728,14 @@
         "paite": "Ka sanggamnu'n koute' adi'n la khat ahon sa hi.",
         "english": "My sister sings a song for us."
       }
+    },
+    {
+      "paite": "La Mal",
+      "english": "Lyrics",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Laa",
@@ -10906,6 +11037,14 @@
     {
       "paite": "Lametna",
       "english": "Hope",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Lamkhuang",
+      "english": "Jackfruit",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
@@ -11290,6 +11429,14 @@
         "paite": "Ka lenglate/zinte uh zingkar a bus a hong pai in a hong tung uh.",
         "english": "Many visitors arrive by bus in the morning."
       }
+    },
+    {
+      "paite": "Lengthei",
+      "english": "Pineapple",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Lentu/Lentukuam",
@@ -12364,6 +12511,14 @@
       "example": null
     },
     {
+      "paite": "Miksi",
+      "english": "Ant",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Min Khooptong",
       "english": "Church",
       "note": "used in the example sentence",
@@ -12840,6 +12995,14 @@
         "paite": "Kimawl nading ah kaki thalawp lua uh.",
         "english": "We were excited about the game."
       }
+    },
+    {
+      "paite": "Nahtang",
+      "english": "Banana",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Nak",
@@ -14321,6 +14484,14 @@
       "example": null
     },
     {
+      "paite": "Pangpalek",
+      "english": "Butterfly",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Panpih",
       "english": "Help/Assist",
       "note": null,
@@ -14453,6 +14624,14 @@
       "note": null,
       "source": "contributed",
       "reviewed_by": "Sutzalian Tonsing",
+      "example": null
+    },
+    {
+      "paite": "Pautam",
+      "english": "Talkative",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
       "example": null
     },
     {
@@ -15798,6 +15977,17 @@
       }
     },
     {
+      "paite": "School akai uh",
+      "english": "They go to school",
+      "note": "akai = go/attend; uh marks plural subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau uniform silh in school akai uh.",
+        "english": "They wear uniforms to school."
+      }
+    },
+    {
       "paite": "Sek",
       "english": "Orange",
       "note": null,
@@ -16158,6 +16348,14 @@
     },
     {
       "paite": "Sin/zir",
+      "english": "Learn/learning",
+      "note": "He is learning paite dialect(Huai mi pan paite pau a sin ahi)",
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Sin/zir",
       "english": "Training",
       "note": null,
       "source": "contributed",
@@ -16228,6 +16426,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Singmalta",
+      "english": "Pepper",
+      "note": "The note says pepper is likely called singmalta, though the contributor is not certain.",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Chi leh singmalta tamlou kon lei.",
+        "english": "I bought some salt and pepper."
+      }
     },
     {
       "paite": "Singnawtna",
@@ -16698,6 +16907,17 @@
     },
     {
       "paite": "Tamlou",
+      "english": "Some",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Chi leh singmalta tamlou kon lei.",
+        "english": "I bought some salt and pepper."
+      }
+    },
+    {
+      "paite": "Tamlou",
       "english": "A few / not many",
       "note": null,
       "source": "note",
@@ -16872,6 +17092,14 @@
     },
     {
       "paite": "Tangthu",
+      "english": "Story",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Tangthu",
       "english": "Story/stories",
       "note": null,
       "source": "note",
@@ -16981,6 +17209,14 @@
         "paite": "Amanzah sanga tawmzaw in a ngen.",
         "english": "He asked for a lower price."
       }
+    },
+    {
+      "paite": "Tawng",
+      "english": "Tease",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Tawp",
@@ -17636,6 +17872,22 @@
       "example": null
     },
     {
+      "paite": "Tou",
+      "english": "Expensive",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Tou",
+      "english": "Durable",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Toupa",
       "english": "Lord",
       "note": null,
@@ -18027,6 +18279,14 @@
         "paite": "Tukum buh kihau chiat eive khosung miteng in",
         "english": "The village harvest was good this year."
       }
+    },
+    {
+      "paite": "Tul",
+      "english": "Old",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Tum",
@@ -18498,6 +18758,17 @@
       }
     },
     {
+      "paite": "Uniform silh in",
+      "english": "Wear uniforms",
+      "note": "from the Paite sentence",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amau uniform silh in school akai uh.",
+        "english": "They wear uniforms to school."
+      }
+    },
+    {
       "paite": "Utong",
       "english": "Peacock",
       "note": null,
@@ -18684,6 +18955,14 @@
       "example": null
     },
     {
+      "paite": "Vok",
+      "english": "Pig",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Vom",
       "english": "Black ( colour), Bear (animal)",
       "note": null,
@@ -18852,6 +19131,14 @@
         "paite": "Pawlpi te'n tuni in kimawlna ah vualzoh na a tang uh.",
         "english": "The team wins the match today."
       }
+    },
+    {
+      "paite": "Vuk",
+      "english": "Ice",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
     },
     {
       "paite": "Vut",
@@ -19123,6 +19410,17 @@
     },
     {
       "paite": "Zel",
+      "english": "Habitually/usually",
+      "note": "indicates customary or repeated action",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nitaklam chiangin vuah hong zu zel.",
+        "english": "The rain comes in the afternoon."
+      }
+    },
+    {
+      "paite": "Zel",
       "english": "Habitually / regularly",
       "note": "marks habitual aspect",
       "source": "note",
@@ -19385,6 +19683,14 @@
     {
       "paite": "Zong",
       "english": "Search",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
+      "paite": "Zongsang",
+      "english": "Addict",
       "note": null,
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
