@@ -6,7 +6,7 @@
 - RICHARD SUANLIAN \[100\] \(reviewer\): 293
 - Sutzalian Tonsing \[100\] \(reviewer\): 285
 - Kyekym \[100\]: 176
-- Min Khooptong \[100\] \(reviewer\): 166
+- Min Khooptong \[100\] \(reviewer\): 175
 - Khamsonlal Guite \[100\]: 110
 - Siam Vualnam \[50\]: 85
 - Thang Elim \[50\]: 71
@@ -19,13 +19,14 @@
 - Pausiam Thomte \[10\]: 16
 - Maven Thawmte \[10\]: 15
 - George Thangmuansang \[10\]: 14
+- JK\.sang tombing \[10\]: 12
 - T Thangmawi \[10\]: 11
 - Kimsawmching: 9
 - Esther J\. Kimboi: 8
+- Sorite: 7
 - Suanbiaklun: 7
 - Tunthianlal Hauzel: 7
 - lalbawi guite: 6
-- Sorite: 6
 - ZAMKHOKAM GUITE: 6
 - Ginpum: 5
 - H Pauliansiam: 5
@@ -40,10 +41,12 @@
 - Thianlal Thomte: 3
 - Goulian: 2
 - LEIVANG Muanrar Ngaihte: 2
+- Liansuanthang H: 2
 - Bianka\-pa Ngaihte: 1
 - Cindy Tonsing: 1
 - Deric tonsing: 1
 - Johnson: 1
+- Kimte Guite: 1
 - Lalhmangaih Hauzel: 1
 - Madafacha: 1
 - Mang Tawmbing: 1
@@ -53,7 +56,7 @@
 
 ## Reviewers (decisions)
 
-- Min Khooptong: 859
+- Min Khooptong: 877
 - Sutzalian Tonsing: 777
 - Richard Ngaihte: 75
 - K Lianthansang: 28
