@@ -4,7 +4,7 @@
 
 Open text and speech data for the Paite language, ready for research, language learning, and building language tools.
 
-**At a glance (16 Nov 2026):** 1,405 Paite–English sentence pairs written and checked by speakers on [Paite Daily](https://paite.lamkalabs.com) · 62 voice recordings · 1,902 word-list entries · the complete Paite Bible aligned verse by verse with English · 32,943 ready-to-train parallel rows. The community parts grow every night.
+**At a glance (23 Nov 2026):** 1,648 Paite–English sentence pairs written and checked by speakers on [Paite Daily](https://paite.lamkalabs.com) · 62 voice recordings · 2,093 word-list entries · the complete Paite Bible aligned verse by verse with English · an English–Paite dictionary of 23,006 entries · 56,101 ready-to-train parallel rows.
 
 ## About Paite
 
@@ -41,7 +41,7 @@ No. It is the material that apps are built from. A developer can use it to make 
 <details>
 <summary><b>What is inside?</b></summary>
 
-Everyday sentences in Paite and English that speakers wrote and other speakers checked, with recordings of people reading them aloud. Also the complete Paite Bible, matched verse by verse with English, and a word list that speakers checked.
+Everyday sentences in Paite and English that speakers wrote and other speakers checked, with recordings of people reading them aloud. Also the complete Paite Bible, matched verse by verse with English, a word list that speakers checked, and an English–Paite dictionary of about 23,000 entries.
 
 </details>
 
@@ -83,6 +83,7 @@ Everything is moving to phones and AI. A language with no digital text gets left
 | `training/` | **Ready-to-train JSONL files** with fixed train, dev, and test splits | See [Training a model](#training-a-model) |
 | `bible/laisiangthou/` | **Primary Bible.** The complete Laisiangthou Paite Bible by [John Samte](https://github.com/johnsamte), one JSON file for each chapter | 66 books, 1,189 chapters, 31,104 verses |
 | `bible/world-english-bible/` | World English Bible (public domain) in verse-per-line form, the English side of every Bible pair | 66 books, 31,103 verses |
+| `dictionary/` | English–Paite dictionary with part of speech, from the "Paite English Dictionary" app, used with the author's permission | 23,006 entries |
 | `corrections.json` | Sentences that a native speaker checked and corrected | Grows over time |
 | `grammar_notes.md` | Working notes on pronouns, verbs, and particles | Hypotheses, not a formal grammar |
 | `paite_phrasebook.json` | Small lookup file of checked words, example sentences and corrections | 17 words, 15 examples, 16 corrections |
@@ -101,7 +102,7 @@ The repository holds training **data**, not a trained model. You train a model o
 | `training/grammar.jsonl` | `{"id", "incorrect", "correct", "register", "notes", "split"}` | Grammar correction for spoken and written Paite |
 
 - **Splits are fixed.** About 90% of rows are `train`, 5% are `dev`, and 5% are `test`. A whole Bible chapter always stays in one split, so test verses never leak into training. Dictionary entries and single words are always `train`.
-- **`source`** tells you where a row came from (`bible`, `community`, `correction`, `verified_example`, `verified_word`). Filter on it to weight or remove a source.
+- **`source`** tells you where a row came from (`bible`, `community`, `correction`, `dictionary`, `verified_example`, `verified_word`). Filter on it to weight or remove a source.
 - **Grammar data starts empty.** `grammar.jsonl` grows when speakers add corrections that include the wrong form (see [CONTRIBUTING.md](CONTRIBUTING.md)). This is the most valuable data that you can give.
 
 The same files are on Hugging Face at [LamkaLabs/paite-open-language-data](https://huggingface.co/datasets/LamkaLabs/paite-open-language-data), so you can load them without cloning this repository:
@@ -159,6 +160,7 @@ Book folders use three-character codes: `Gen`, `Exo`, `Lev` ... `Mat`, `Mar`, `L
 ## Known limitations
 
 - **Register.** Most sentences still come from the Bible, so formal and religious language is over-represented. The everyday pairs in `community/` are the fastest-growing correction to this; each is tagged as spoken, written or both.
+- **Dictionary quality.** The dictionary comes from an app. Some entries contain typing errors or several meanings in one string.
 - **Nine verses have no English.** The World English Bible omits or moves 9 verses that the Paite Bible keeps (for example, Acts 8:37, Luke 17:36, and Romans 16:25-27). These rows are in `monolingual.jsonl` only.
 - **One fixed source error.** In the app database, Genesis 31:53 has the number 23. The import script corrects it.
 
@@ -174,6 +176,7 @@ This repository mixes original work and third-party text. The licence is differe
 | `prompts/everyday_en.txt` | Written for this project | Public domain (CC0 1.0) |
 | `scripts/`, `.github/` | Maintainer | MIT or Apache 2.0, your choice ([scripts/LICENSE-MIT](scripts/LICENSE-MIT), [scripts/LICENSE-APACHE](scripts/LICENSE-APACHE)) |
 | Paite Bible in `bible/laisiangthou/` | Laisiangthou app (v5.0.2) by [John Samte](https://github.com/johnsamte) | Used with the permission of John Samte |
+| Dictionary in `dictionary/` | "Paite English Dictionary" Android app (v1.1.4) | Used with the permission of the app's author; credit the app |
 | English Bible text | World English Bible ([ebible.org](https://ebible.org/find/details.php?id=eng-web)) | Public domain |
 | UDHR example sentences | Universal Declaration of Human Rights, Paite translation | Public use permitted by the United Nations |
 

@@ -67,12 +67,21 @@ own terms.
      (https://github.com/johnsamte), who gave permission for its use in this
      repository. Credit John Samte when you use this text. Ask him before any
      commercial use.
+   - The English–Paite dictionary in dictionary/paite-english-dictionary.json
+     and the rows with "source": "dictionary" in training/. Source: the
+     "Paite English Dictionary" Android app (v1.1.4), whose author gave
+     permission for its use in this repository (November 2026). Rights stay
+     with the author. Credit the "Paite English Dictionary" app when you use
+     it. Do not reuse it outside this dataset, or commercially, without the
+     author's permission.
 
 4. Rights holders
 
-   Earlier versions of this repository also held a dictionary, hymn lyrics
-   and an older Paite Bible text from third-party sources. They were removed
-   on 19 November 2026, because this repository has no licence to share them.
+   Earlier versions of this repository also held hymn lyrics and an older
+   Paite Bible text from third-party sources. They were removed on
+   19 November 2026, because this repository has no licence to share them.
+   The dictionary was removed on the same day and came back on
+   23 November 2026 with its author's permission.
    If you hold rights in anything here and want it removed or credited
    differently, open an issue at
    https://github.com/khooptong-sudo/paite-open-language-data/issues

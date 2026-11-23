@@ -70,6 +70,13 @@ def main() -> None:
                             "register": c.get("register", "unspecified"), "notes": c.get("notes", ""),
                             "split": split_for_sentence(c["paite"], row_id)})
 
+    # English–Paite dictionary from the "Paite English Dictionary" app, used with the author's permission (see LICENSE).
+    for i, d in enumerate(load("dictionary/paite-english-dictionary.json")["dictionary"]):
+        if d.get("english") and d.get("paite"):
+            # Word lists help vocabulary, not held-out evaluation, so always train.
+            parallel.append({"id": f"dict:{i}", "paite": d["paite"], "english": d["english"],
+                             "source": "dictionary", "split": "train"})
+
     book = load("paite_phrasebook.json")
     for english, paite in book["verified_examples"].items():
         row_id = f"example:{english}"
