@@ -2,28 +2,28 @@
 
 ## Contributors (verified sentences)
 
-- phualva \[100\]: 497
-- RICHARD SUANLIAN \[100\] \(reviewer\): 293
-- Sutzalian Tonsing \[100\] \(reviewer\): 285
-- Kyekym \[100\]: 176
-- Min Khooptong \[100\] \(reviewer\): 175
+- phualva \[500\]: 522
+- RICHARD SUANLIAN \[100\] \(reviewer\): 294
+- Sutzalian Tonsing \[100\] \(reviewer\): 286
+- Min Khooptong \[100\] \(reviewer\): 184
+- Kyekym \[100\]: 180
 - Khamsonlal Guite \[100\]: 110
 - Siam Vualnam \[50\]: 85
 - Thang Elim \[50\]: 71
 - Ben Guite \[10\]: 29
+- H Jamginmuan \[10\]: 27
 - Fudge \[10\]: 25
-- H Jamginmuan \[10\]: 25
 - M Tangpua \[10\]: 24
 - Ginneilal samte \[10\]: 21
-- Hoihlun \[10\]: 19
+- Hoihlun \[10\]: 20
 - Pausiam Thomte \[10\]: 16
 - Maven Thawmte \[10\]: 15
 - George Thangmuansang \[10\]: 14
 - JK\.sang tombing \[10\]: 12
-- T Thangmawi \[10\]: 11
-- Kimsawmching: 9
+- T Thangmawi \[10\]: 12
+- Kimsawmching \[10\]: 10
+- Sorite \[10\]: 10
 - Esther J\. Kimboi: 8
-- Sorite: 7
 - Suanbiaklun: 7
 - Tunthianlal Hauzel: 7
 - lalbawi guite: 6
@@ -42,6 +42,7 @@
 - Goulian: 2
 - LEIVANG Muanrar Ngaihte: 2
 - Liansuanthang H: 2
+- Minlian Vuphil: 2
 - Bianka\-pa Ngaihte: 1
 - Cindy Tonsing: 1
 - Deric tonsing: 1
@@ -50,13 +51,12 @@
 - Lalhmangaih Hauzel: 1
 - Madafacha: 1
 - Mang Tawmbing: 1
-- Minlian Vuphil: 1
 - Muan Hatlang: 1
 - Nuntum: 1
 
 ## Reviewers (decisions)
 
-- Min Khooptong: 877
+- Min Khooptong: 927
 - Sutzalian Tonsing: 777
 - Richard Ngaihte: 75
 - K Lianthansang: 28
