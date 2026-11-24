@@ -168,6 +168,17 @@
       }
     },
     {
+      "paite": "A dawn",
+      "english": "Drinks",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amah kia a tu in singpi a dawn.",
+        "english": "He sits alone and drinks his tea."
+      }
+    },
+    {
       "paite": "A dawn uh",
       "english": "They drink",
       "note": "dawn 'drink' + uh plural marker",
@@ -648,6 +659,17 @@
       "source": "contributed",
       "reviewed_by": "Richard Ngaihte",
       "example": null
+    },
+    {
+      "paite": "A lei",
+      "english": "She bought",
+      "note": "a- subject prefix + lei 'buy'",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n puan-ak zan in a lei.",
+        "english": "She bought a new shirt yesterday."
+      }
     },
     {
       "paite": "A lum uh",
@@ -1192,6 +1214,17 @@
       "example": {
         "paite": "Ka lawmnu/pa ka kiang ah a tu.",
         "english": "My friend sits beside me."
+      }
+    },
+    {
+      "paite": "A tu in",
+      "english": "Sits",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amah kia a tu in singpi a dawn.",
+        "english": "He sits alone and drinks his tea."
       }
     },
     {
@@ -2203,6 +2236,17 @@
     },
     {
       "paite": "Ama'n",
+      "english": "She (ergative)",
+      "note": "ama + -n ergative marker",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n puan-ak zan in a lei.",
+        "english": "She bought a new shirt yesterday."
+      }
+    },
+    {
+      "paite": "Ama'n",
       "english": "He (ergative)",
       "note": "ama = he/she; -n marks the subject",
       "source": "note",
@@ -3127,6 +3171,14 @@
       "example": null
     },
     {
+      "paite": "Behiang",
+      "english": "Pigeon Pea",
+      "note": null,
+      "source": "contributed",
+      "reviewed_by": "Min Khooptong",
+      "example": null
+    },
+    {
       "paite": "Bel",
       "english": "Pot",
       "note": null,
@@ -3381,6 +3433,17 @@
       "example": {
         "paite": "Ka lenglate/zinte uh zingkar a bus a hong pai in a hong tung uh.",
         "english": "Many visitors arrive by bus in the morning."
+      }
+    },
+    {
+      "paite": "Chi",
+      "english": "Skin",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nipi vuah in i chi hon den khak a lum hithit.",
+        "english": "Summer rain feels warm on the skin."
       }
     },
     {
@@ -3648,6 +3711,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Daivangte",
+      "english": "Fence",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n sing zang in daivangte ahu.",
+        "english": "He fixes the fence with wood."
+      }
     },
     {
       "paite": "Dak giat",
@@ -5592,6 +5666,17 @@
       }
     },
     {
+      "paite": "Hong tungnawn",
+      "english": "Next (to come/arrive)",
+      "note": "used here for 'the next' one coming",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nunnop bawl hong tungnawn pah leh kachi uh.",
+        "english": "We look forward to the next festival."
+      }
+    },
+    {
       "paite": "Hong veh hi",
       "english": "Visits us",
       "note": null,
@@ -6721,6 +6806,17 @@
       }
     },
     {
+      "paite": "Ka aa",
+      "english": "I wear",
+      "note": "ka = I (1st person singular), aa = wear",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Niteng in puanak ka aa.",
+        "english": "I wear a shirt every day."
+      }
+    },
+    {
       "paite": "Ka dawn",
       "english": "I drink",
       "note": null,
@@ -6929,6 +7025,17 @@
       "example": {
         "paite": "Ka inn uh siangthou tak in ka kem uh",
         "english": "We keep our home neat and clean."
+      }
+    },
+    {
+      "paite": "Ka inn veng/pam te'n",
+      "english": "My neighbours",
+      "note": "veng/pam = neighbourhood/neighbour; te'n marks plural subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka inn veng/pam te'n ta nga a nei uh",
+        "english": "My poor neighbour has five children."
       }
     },
     {
@@ -8094,6 +8201,17 @@
       "example": {
         "paite": "Ka lawmte uh ann ne din ka chial uh",
         "english": "We invite our friends to eat with us."
+      }
+    },
+    {
+      "paite": "Kachi uh",
+      "english": "We say",
+      "note": "first person plural inclusive form",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nunnop bawl hong tungnawn pah leh kachi uh.",
+        "english": "We look forward to the next festival."
       }
     },
     {
@@ -9748,6 +9866,17 @@
       "example": {
         "paite": "Ka kizah tuah uh.",
         "english": "We respect each other always."
+      }
+    },
+    {
+      "paite": "Kia",
+      "english": "Alone",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Amah kia a tu in singpi a dawn.",
+        "english": "He sits alone and drinks his tea."
       }
     },
     {
@@ -11539,6 +11668,17 @@
       "example": null
     },
     {
+      "paite": "Lim asa uh",
+      "english": "Liked / were pleased",
+      "note": "lim asa uh expresses liking or being pleased",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hai min naupangte'n lim asa uh.",
+        "english": "The children liked the sweet mangoes."
+      }
+    },
+    {
       "paite": "Lim/Him",
       "english": "Tasty/delicious",
       "note": "Zannitak a sameh chu a lim/him e",
@@ -12519,6 +12659,17 @@
       "example": null
     },
     {
+      "paite": "Min",
+      "english": "Fruit",
+      "note": "as in 'hai min' (mango fruit)",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hai min naupangte'n lim asa uh.",
+        "english": "The children liked the sweet mangoes."
+      }
+    },
+    {
       "paite": "Min Khooptong",
       "english": "Church",
       "note": "used in the example sentence",
@@ -13252,6 +13403,17 @@
     },
     {
       "paite": "Naupangte'n",
+      "english": "The children",
+      "note": "naupangte with ergative marker -n",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Hai min naupangte'n lim asa uh.",
+        "english": "The children liked the sweet mangoes."
+      }
+    },
+    {
+      "paite": "Naupangte'n",
       "english": "Children (ergative)",
       "note": "naupangte with ergative marker -n",
       "source": "note",
@@ -13776,6 +13938,17 @@
     },
     {
       "paite": "Nipi",
+      "english": "Rain",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nipi vuah in i chi hon den khak a lum hithit.",
+        "english": "Summer rain feels warm on the skin."
+      }
+    },
+    {
+      "paite": "Nipi",
       "english": "Summer",
       "note": null,
       "source": "contributed",
@@ -13949,6 +14122,17 @@
       "source": "contributed",
       "reviewed_by": "Min Khooptong",
       "example": null
+    },
+    {
+      "paite": "Niteng in",
+      "english": "Every day",
+      "note": "temporal phrase; niteng = every day, in = locative/temporal particle",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Niteng in puanak ka aa.",
+        "english": "I wear a shirt every day."
+      }
     },
     {
       "paite": "Niteng in",
@@ -14182,6 +14366,17 @@
       "example": {
         "paite": "Khosung ah huih vot hiauhiau a nung zel",
         "english": "A cool wind blows through the village."
+      }
+    },
+    {
+      "paite": "Nunnop bawl",
+      "english": "Festival",
+      "note": "compound referring to a festival/celebration",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nunnop bawl hong tungnawn pah leh kachi uh.",
+        "english": "We look forward to the next festival."
       }
     },
     {
@@ -15435,6 +15630,17 @@
       "example": {
         "paite": "Huai dawr ah puan a zuak uh",
         "english": "They sell clothes at that shop."
+      }
+    },
+    {
+      "paite": "Puan-ak",
+      "english": "Shirt",
+      "note": "puan 'cloth' + -ak",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n puan-ak zan in a lei.",
+        "english": "She bought a new shirt yesterday."
       }
     },
     {
@@ -16806,6 +17012,17 @@
       "example": {
         "paite": "Tuni suun nitum a internet pailou",
         "english": "The internet was down all day."
+      }
+    },
+    {
+      "paite": "Ta nga a nei uh",
+      "english": "They have five children",
+      "note": "ta = child; nga = five; nei = have; uh marks plural subject",
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ka inn veng/pam te'n ta nga a nei uh",
+        "english": "My poor neighbour has five children."
       }
     },
     {
@@ -18996,6 +19213,17 @@
     },
     {
       "paite": "Vuah",
+      "english": "Summer",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Nipi vuah in i chi hon den khak a lum hithit.",
+        "english": "Summer rain feels warm on the skin."
+      }
+    },
+    {
+      "paite": "Vuah",
       "english": "Rain or to attach, to fix, to insert",
       "note": null,
       "source": "contributed",
@@ -19306,6 +19534,17 @@
       "example": {
         "paite": "Zan chiah a phone a hihmit zel",
         "english": "He turned off his phone at night."
+      }
+    },
+    {
+      "paite": "Zang in",
+      "english": "Using/with",
+      "note": null,
+      "source": "note",
+      "reviewed_by": null,
+      "example": {
+        "paite": "Ama'n sing zang in daivangte ahu.",
+        "english": "He fixes the fence with wood."
       }
     },
     {
