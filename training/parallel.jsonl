@@ -55104,6 +55104,69 @@
 {"id": "community:2020", "paite": "Sandal/Slipper kopkhat zan in a lei.", "english": "He bought a pair of sandals yesterday.", "source": "community", "split": "train"}
 {"id": "community:2026", "paite": "Mehhuanna di belta khat alei uh.", "english": "They bought a new pot for the kitchen.", "source": "community", "split": "train"}
 {"id": "community:2185", "paite": "A bel sa ahi aw, pilvang in", "english": "The pan is hot, so be careful.", "source": "community", "split": "train"}
+{"id": "community:2525", "paite": "Hai min naupangte'n lim asa uh.", "english": "The children liked the sweet mangoes.", "source": "community", "split": "train"}
+{"id": "community:2276", "paite": "Naupangte'n a nuneu uh upa mahmahta a va veh uh.", "english": "The children visit their old aunt.", "source": "community", "split": "train"}
+{"id": "community:2277", "paite": "Ama'n a lawmpa pencil a khel/zatsak.", "english": "He borrows a pencil from his friend.", "source": "community", "split": "train"}
+{"id": "community:2282", "paite": "Numei naupang in a samsau ahiat.", "english": "The girl brushes her long hair.", "source": "community", "split": "train"}
+{"id": "community:2284", "paite": "Ama'n kangtalai (leng) neupen a sawn.", "english": "He pushes the small cart.", "source": "community", "split": "train"}
+{"id": "community:2320", "paite": "Ka puante vuah theu in akeu.", "english": "My clothes dried after the rain.", "source": "community", "split": "train"}
+{"id": "community:2320:1", "paite": "Vuah zukkhit ka puante a keuta", "english": "My clothes dried after the rain.", "source": "community", "split": "train"}
+{"id": "community:2340", "paite": "Nipi vuah in i chi hon den khak a lum hithit.", "english": "Summer rain feels warm on the skin.", "source": "community", "split": "train"}
+{"id": "community:2340:1", "paite": "Nipi vuah tui in i taksa a hetkhak chiangin a lum", "english": "Summer rain feels warm on the skin.", "source": "community", "split": "train"}
+{"id": "community:2385", "paite": "Ka zi'n meng/zohngeu neute a deih.", "english": "My wife likes the small cat.", "source": "community", "split": "train"}
+{"id": "community:2385:1", "paite": "Ka zi in zohngeu neu(pen) a deih", "english": "My wife likes the small cat.", "source": "community", "split": "train"}
+{"id": "community:2393", "paite": "Pastorpa'n mi gentheite a panpih.", "english": "The pastor helps the poor.", "source": "community", "split": "dev"}
+{"id": "community:2393:1", "paite": "Pastorpan mizawngte a panpih", "english": "The pastor helps the poor.", "source": "community", "split": "dev"}
+{"id": "community:2396", "paite": "Tang/Mualtung ah mi tamlou a teng uh/khosa uh.", "english": "Few people live on the mountain.", "source": "community", "split": "train"}
+{"id": "community:2396:1", "paite": "Mualtung ah mi tawmchik a teng uh", "english": "Few people live on the mountain.", "source": "community", "split": "train"}
+{"id": "community:2404", "paite": "Huai meng dai ah a tu.", "english": "The cat sits on the wall.", "source": "community", "split": "train"}
+{"id": "community:2404:1", "paite": "Zohngeu bang ah a tu", "english": "The cat sits on the wall.", "source": "community", "split": "train"}
+{"id": "community:2407", "paite": "Khosak haksa sa ka innvengpa'n/nu'n ta nga a nei.", "english": "My poor neighbour has five children.", "source": "community", "split": "test"}
+{"id": "community:2407:1", "paite": "Ka inn veng/pam te'n ta nga a nei uh", "english": "My poor neighbour has five children.", "source": "community", "split": "test"}
+{"id": "community:2412", "paite": "Nupate khe in inn apai uh.", "english": "The husband and wife walk home.", "source": "community", "split": "train"}
+{"id": "community:2601", "paite": "A khedapte vom in lui lua.", "english": "My shoes are black and old.", "source": "community", "split": "train"}
+{"id": "community:2601:1", "paite": "Ka khedap vom in a luita", "english": "My shoes are black and old.", "source": "community", "split": "train"}
+{"id": "community:2607", "paite": "A kawlzal a eng leh a zang hi.", "english": "Her bag is yellow and light.", "source": "community", "split": "train"}
+{"id": "community:2607:1", "paite": "A ip a eng in a zang hi", "english": "Her bag is yellow and light.", "source": "community", "split": "train"}
+{"id": "community:2630", "paite": "Amah kia in lou ah na a sem.", "english": "He works alone in the field.", "source": "community", "split": "train"}
+{"id": "community:2630:1", "paite": "Amah in lou ah na a sem", "english": "He works alone in the field.", "source": "community", "split": "train"}
+{"id": "community:2636", "paite": "Zankhomial dai in dam e.", "english": "The black night is cold and still.", "source": "community", "split": "train"}
+{"id": "community:2636:1", "paite": "Zanmial a vot in a dai hi", "english": "The black night is cold and still.", "source": "community", "split": "train"}
+{"id": "community:2640", "paite": "Ama'n pindan neu sungah lai a sim.", "english": "She reads alone in the small room.", "source": "community", "split": "train"}
+{"id": "community:2640:1", "paite": "Pindan neu sung ah minu in amah kia in lai a sim", "english": "She reads alone in the small room.", "source": "community", "split": "train"}
+{"id": "community:2645", "paite": "Amah kia a tu in singpi a dawn.", "english": "He sits alone and drinks his tea.", "source": "community", "split": "train"}
+{"id": "community:2645:1", "paite": "Amah a tu in singpi a don.", "english": "He sits alone and drinks his tea.", "source": "community", "split": "train"}
+{"id": "community:2903", "paite": "Niteng in puanak angkilhnei ka silh gige.", "english": "I wear a shirt every day.", "source": "community", "split": "dev"}
+{"id": "community:2903:1", "paite": "Niteng in puanak ka aa.", "english": "I wear a shirt every day.", "source": "community", "split": "dev"}
+{"id": "community:246", "paite": "Dawr ah mi tampi aom uh.", "english": "The shop had many people.", "source": "community", "split": "train"}
+{"id": "community:528", "paite": "Hiai khawta lampi in khawpi hon tun.", "english": "The village road leads to the town.", "source": "community", "split": "train"}
+{"id": "community:606", "paite": "Huai pa kua a?", "english": "Who is this boy/man/guy?", "source": "community", "split": "train"}
+{"id": "community:784", "paite": "Pasal khat in nou sung ah Nawitui a sung", "english": "He pours breast milk into the cup.", "source": "community", "split": "test"}
+{"id": "community:805", "paite": "Mei in ann a hailum. Or, Mei in ann a koih lum. Or Mei in ann a su lum.", "english": "Fire keeps the food warm.", "source": "community", "split": "train"}
+{"id": "community:904", "paite": "Annekkham in awl in khe in inlam ka pai uh.", "english": "We walk home slowly after the feast.", "source": "community", "split": "train"}
+{"id": "community:910", "paite": "Miteng in kumnawn chia'h hunnuam zat kilamen nawn hi.", "english": "Everyone hopes for another happy festival next year.", "source": "community", "split": "train"}
+{"id": "community:912", "paite": "Ama'n puan-ak zan in a lei.", "english": "She bought a new shirt yesterday.", "source": "community", "split": "train"}
+{"id": "community:1001", "paite": "Ama'n internet awl in a hong.", "english": "He opened the internet page slowly.", "source": "community", "split": "train"}
+{"id": "community:1142", "paite": "Khomite ching in a polhnuam uh.", "english": "The village people are kind and friendly.", "source": "community", "split": "train"}
+{"id": "community:1160", "paite": "Nitaklam teng in kou team te ka kizil zel uh", "english": "Our team practices every evening.", "source": "community", "split": "train"}
+{"id": "community:1189", "paite": "Aman hiai dil liau kai hi.", "english": "He swam across the lake.", "source": "community", "split": "train"}
+{"id": "community:1193", "paite": "Ann ka huan khit in bel ka hahsiang", "english": "I washed the dishes after cooking.", "source": "community", "split": "train"}
+{"id": "community:1195", "paite": "Nitaklam in tukhawm in ka houlim uh", "english": "We sit and have a chitchat in the afternoon.", "source": "community", "split": "test"}
+{"id": "community:1199", "paite": "Lamkiang a dawr zuan in ka pai uh.", "english": "We walk towards the shop by the road.", "source": "community", "split": "train"}
+{"id": "community:1218", "paite": "Sinsaktu a zaidam.", "english": "The teacher is patient.", "source": "community", "split": "train"}
+{"id": "community:1374", "paite": "Doctor in ka gawl hon etsak.", "english": "The doctor looked at my throat.", "source": "community", "split": "train"}
+{"id": "community:1414", "paite": "Hiai khua ah siamsin na khat a om", "english": "There is an institution in this village.", "source": "community", "split": "train"}
+{"id": "community:1478", "paite": "Gari khalhpa/hekpa sum pia in, gari apat a kum.", "english": "He paid the driver and got out.", "source": "community", "split": "train"}
+{"id": "community:1481", "paite": "Ama'n naupang neute en in anui.", "english": "She smiled at the small children.", "source": "community", "split": "train"}
+{"id": "community:1533", "paite": "Nunnop bawl hong tungnawn pah leh kachi uh.", "english": "We look forward to the next festival.", "source": "community", "split": "train"}
+{"id": "community:1548", "paite": "Ka lawm in hon thumsak.", "english": "My friend prayed for me.", "source": "community", "split": "train"}
+{"id": "community:1824", "paite": "Ama'n lukhu thak a lei ut.", "english": "He wants to buy a new hat.", "source": "community", "split": "test"}
+{"id": "community:1848", "paite": "Ama'n sing zang in daivangte ahu.", "english": "He fixes the fence with wood.", "source": "community", "split": "train"}
+{"id": "community:1856", "paite": "A nasepma in a vanzatte atat hiam.", "english": "He sharpens his tool before work.", "source": "community", "split": "train"}
+{"id": "community:1959", "paite": "Nikum in a khut a sutan", "english": "He broke his hand last year.", "source": "community", "split": "train"}
+{"id": "community:1997", "paite": "Nopbawlna ann nek in ka zou uh", "english": "We finish the festival with a feast.", "source": "community", "split": "train"}
+{"id": "community:2071", "paite": "Dil ah mipi lai in a kibual uh.", "english": "They take baths at the lake in the summer.", "source": "community", "split": "test"}
+{"id": "community:2129", "paite": "A khut veilam awl in a liktou.", "english": "He/she slowly lifts up his/her left hand.", "source": "community", "split": "train"}
 {"id": "community:239", "paite": "Dawr nei pa sum a pe khin.", "english": "He paid the shopkeeper.", "source": "community", "split": "train"}
 {"id": "community:241", "paite": "Khedap hoih hiah a zuak uh", "english": "They sell good shoes here.", "source": "community", "split": "train"}
 {"id": "community:223", "paite": "Huainu'n sumsiik sawm a pia", "english": "She paid ten coins.", "source": "community", "split": "train"}
