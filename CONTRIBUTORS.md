@@ -2,16 +2,16 @@
 
 ## Contributors (verified sentences)
 
-- phualva \[500\]: 522
+- phualva \[500\]: 530
 - RICHARD SUANLIAN \[100\] \(reviewer\): 294
 - Sutzalian Tonsing \[100\] \(reviewer\): 286
-- Min Khooptong \[100\] \(reviewer\): 184
+- Min Khooptong \[100\] \(reviewer\): 186
 - Kyekym \[100\]: 180
 - Khamsonlal Guite \[100\]: 110
 - Siam Vualnam \[50\]: 85
 - Thang Elim \[50\]: 71
+- H Jamginmuan \[10\]: 32
 - Ben Guite \[10\]: 29
-- H Jamginmuan \[10\]: 27
 - Fudge \[10\]: 25
 - M Tangpua \[10\]: 24
 - Ginneilal samte \[10\]: 21
@@ -56,7 +56,7 @@
 
 ## Reviewers (decisions)
 
-- Min Khooptong: 927
+- Min Khooptong: 945
 - Sutzalian Tonsing: 777
 - Richard Ngaihte: 75
 - K Lianthansang: 28
