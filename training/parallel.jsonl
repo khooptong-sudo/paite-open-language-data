@@ -55167,6 +55167,24 @@
 {"id": "community:1997", "paite": "Nopbawlna ann nek in ka zou uh", "english": "We finish the festival with a feast.", "source": "community", "split": "train"}
 {"id": "community:2071", "paite": "Dil ah mipi lai in a kibual uh.", "english": "They take baths at the lake in the summer.", "source": "community", "split": "test"}
 {"id": "community:2129", "paite": "A khut veilam awl in a liktou.", "english": "He/she slowly lifts up his/her left hand.", "source": "community", "split": "train"}
+{"id": "community:2938", "paite": "Naupangnu'n puan-ak san pen atel.", "english": "The girl chose a red dress.", "source": "community", "split": "train"}
+{"id": "community:1360", "paite": "Buh hum te chiang ah ka khol uh", "english": "We store rice grains in the basket.", "source": "community", "split": "train"}
+{"id": "community:1373", "paite": "Ama'n pilvang takin a mai akhoih.", "english": "He touched his face with care.", "source": "community", "split": "train"}
+{"id": "community:1467", "paite": "Lampi gei ah lou/mawltual lianpi khat ka mu uh.", "english": "We saw a big field near the road.", "source": "community", "split": "train"}
+{"id": "community:1839", "paite": "Loukaipa'n a bawngte a dingin loupa a at.", "english": "The farmer cuts grass for the cows.", "source": "community", "split": "train"}
+{"id": "community:2119", "paite": "Ani nawn in khopi a dai.", "english": "There was calm in the city the next day.", "source": "community", "split": "train"}
+{"id": "community:2573", "paite": "Sahbon leh chi ka lei kul hiv'aw.", "english": "I need to buy soap and salt.", "source": "community", "split": "train"}
+{"id": "community:2865", "paite": "Saupi apai khit un naupangte akhawl uh.", "english": "The children rest after a long walk.", "source": "community", "split": "train"}
+{"id": "community:2906", "paite": "Pathianni/Nipini in puan ka sawp uh.", "english": "We wash our clothes on Sunday.", "source": "community", "split": "train"}
+{"id": "community:2923", "paite": "Huai a puan ngawngbat dum ka deih.", "english": "I like that blue scarf.", "source": "community", "split": "train"}
+{"id": "community:2944", "paite": "Singlempi sungah puante ka koih uh.", "english": "We keep our clothes in the cupboard.", "source": "community", "split": "train"}
+{"id": "community:2945", "paite": "Naupangte'n tui boot a bun uh", "english": "The children wore their rain boots.", "source": "community", "split": "dev"}
+{"id": "community:2143", "paite": "Naupangte'n gan an a pia uh", "english": "The children are feeding the animals.", "source": "community", "split": "train"}
+{"id": "community:2271", "paite": "Munphiah in a tuang uh aphiat.", "english": "She sweeps the floor with a broom.", "source": "community", "split": "train"}
+{"id": "community:2287", "paite": "Naupangpa'n huihtun awl/zawi deuh in a pek.", "english": "The boy kicks the ball gently.", "source": "community", "split": "train"}
+{"id": "community:2305", "paite": "Pakte vuahzuk khit chiangin aparh khia uh.", "english": "Flowers open their leaves after the rain.", "source": "community", "split": "train"}
+{"id": "community:2610", "paite": "Ama'h amahvuak in lampi ah apai.", "english": "She walks alone on the road.", "source": "community", "split": "train"}
+{"id": "community:2627", "paite": "Bus rong eng agin angaih.", "english": "The bus is yellow and loud.", "source": "community", "split": "train"}
 {"id": "community:239", "paite": "Dawr nei pa sum a pe khin.", "english": "He paid the shopkeeper.", "source": "community", "split": "train"}
 {"id": "community:241", "paite": "Khedap hoih hiah a zuak uh", "english": "They sell good shoes here.", "source": "community", "split": "train"}
 {"id": "community:223", "paite": "Huainu'n sumsiik sawm a pia", "english": "She paid ten coins.", "source": "community", "split": "train"}
